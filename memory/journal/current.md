@@ -136,3 +136,5 @@
 - 20:16 act: {"say":"Riker at the west grass, midday 236. I agree with the group: Trini first, since her hunger is lowest, then Tommy, then Billy, then me. Still no food here. I'm holding and watching for animals.
 - 20:20 act: {"say":"Riker: dusk on day 236. Going to the white bed at -270,67,318 with the group to try sleep. Stay close.","intent":{"goal":"reach_white_bed_for_night","program":"travel","arguments":{"target":{"
 - 20:27 act: {"say":"Riker at the white bed with the group. Trying sleep once more now.","actions":[{"do":"sleep"}]}
+- 20:32 act: {"say":"Riker here. Health 1.8, hunger 15, no food. I'm going south-east on the grass for seeds or animals. Any food goes to Trini first, then Tommy.","intent":{"goal":"scout_se_grass_for_food","progr
+- 20:32 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":330}}]}
