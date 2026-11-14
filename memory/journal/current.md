@@ -156,3 +156,20 @@
 - 21:19 act: {"say":"Eating is refused until hunger drops to 6, so I'm going to bed for the night at the white bed.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"reasoning":"Raw food needs hunger 
 - 21:19 act: {"actions":[{"do":"sleep"}],"reasoning":"I'm beside the white bed at dusk with no shelter needed; sleeping lets hunger fall so raw food becomes edible."}
 - 21:19 act: {"say":"Sleep is refused until it is full night, so I'm waiting here by the white bed with nobody else in sight.","intent":{"goal":"wait_for_night_at_white_bed","program":"rest","arguments":{"seconds"
+- 21:23 act: {"say":"Riker: night now, sleeping at the white bed. I hold one raw chicken and two rotten flesh; Trini first when hunger allows.","actions":[{"do":"sleep"}],"reasoning":"It is night and I am at the w
+- 21:24 act: {"say":"Riker: I'll give my raw chicken to Trini when she is in sight, since she is weakest. Jason, thank you for asking. I'm trying the bed again.","actions":[{"do":"goto","target":{"x":-270,"y":67,"
+- 21:28 act: {"say":"Riker: dawn. Trini, I'm coming to you with my raw chicken, since you are the weakest.","actions":[{"do":"goto","target":"ag_trini_01"},{"do":"give","to":"ag_trini_01","item":"chicken","count":
+- 21:28 act: {"say":"Riker: Trini, I can't see you yet. I'm walking north to the yellow bed group with the chicken.","actions":[{"do":"goto","target":{"x":-274,"y":69,"z":293}}],"reasoning":"Golems are closing fro
+- 21:28 act: {"say":"Trini, I'm heading to the white bed at -270, 67, 318 with the raw chicken for you.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":316}}],"intent":{"goal":"reach_trini_white_bed","progr
+- 21:29 act: {"say":"Trini, here is the raw chicken. Eat it when your hunger is 6 or below.","actions":[{"do":"give","to":"ag_trini_01","item":"chicken","count":1}]}
+- 21:29 act: {"say":"Trini, the chicken didn't go through, something was in the way. I'm stepping aside to give it again.","actions":[{"do":"goto","target":{"x":-274,"y":67,"z":315}},{"do":"give","to":"ag_trini_01
+- 21:29 act: {"say":"Riker: I still hold the raw chicken. Trini, Zack, whoever is in sight and weakest, say so and I'll hand it over. I'm at the white beds."}
+- 21:31 act: {"say":"Riker: Trini first, as everyone agreed. Trini, I'm coming to you with the chicken, stay where you are.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":316}}]}
+- 21:31 act: {"say":"Trini, here is the raw chicken. Zack is next if you are full.","actions":[{"do":"give","to":"ag_trini_01","item":"chicken","count":1}]}
+- 21:31 act: {"actions":[{"do":"goto","target":{"x":-274,"y":67,"z":317}},{"do":"give","to":"ag_trini_01","item":"chicken","count":1}]}
+- 21:31 act: {"actions":[],"say":"Trini and Zack, where are you? I have one raw chicken and it goes to whoever is closest of you two.","intent":{"goal":"hold_food_for_trini","program":"rest","arguments":{},"wake_o
+- 21:31 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":316}},{"do":"give","to":"ag_trini_01","item":"chicken","count":1}],"say":"Trini, I am bringing the chicken to you at the white beds now."}
+- 21:32 act: {"actions":[{"do":"goto","target":"ag_trini_01"},{"do":"give","to":"ag_trini_01","item":"chicken","count":1}],"say":"Trini, I'm coming to you now. Holding the chicken."}
+- 21:32 act: {"actions":[],"say":"Trini, I can't see you from here. Stand where I can see you and I will hand you the chicken. Data and Jason are next to me; say if either of you is weaker than Trini.","intent":{"
+- 21:32 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"chicken","count":1}]}
+- 21:32 act: {"actions":[{"do":"give","to":"ag_data_01","item":"chicken","count":1}],"say":"Trini is not in sight after four tries. Data is in reach at health 3 with no food, so the chicken goes to Data now. Trini
