@@ -152,3 +152,7 @@
 - 21:01 act: {"actions":[{"do":"note","text":"Handoff night of 238: at white bed -270,67,318 with Trini, Jason, Troi. Not enclosed. Health 1.8, hunger 15, no food. Holding 1 wheat (Trini refused it raw). Next: at 
 - 21:09 act: {"say":"Riker, day 239, health 2, hunger 15. Going north with the group to the sheep field, in sight of Trini. Any mutton goes to Trini first, then me.","intent":{"goal":"join_sheep_search","program":
 - 21:14 act: {"actions":[{"do":"eat"}],"say":"Riker: thank you Zack and Ezra. I'm eating the chicken now, health 2. Trini already has food, so I'll keep the rotten flesh as a last resort."}
+- 21:19 act: {"say":"I'm hungry and holding a chicken and two rotten flesh. Trying to eat now.","actions":[{"do":"eat"}],"reasoning":"Hunger is 15 and health is low, so eating is the priority. The eat verb takes w
+- 21:19 act: {"say":"Eating is refused until hunger drops to 6, so I'm going to bed for the night at the white bed.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"reasoning":"Raw food needs hunger 
+- 21:19 act: {"actions":[{"do":"sleep"}],"reasoning":"I'm beside the white bed at dusk with no shelter needed; sleeping lets hunger fall so raw food becomes edible."}
+- 21:19 act: {"say":"Sleep is refused until it is full night, so I'm waiting here by the white bed with nobody else in sight.","intent":{"goal":"wait_for_night_at_white_bed","program":"rest","arguments":{"seconds"
