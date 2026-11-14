@@ -179,3 +179,8 @@
 - 21:34 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"wheat","count":1},{"do":"give","to":"ag_trini_01","item":"rotten_flesh","count":2}],"say":"Trini, giving you the wheat and both rotten flesh now."}
 - 21:34 act: {"say":"Trini, I can't see you from here. I'm standing at -272,68,316 by the white beds with your wheat and rotten flesh. Step into view and I'll hand them over.","intent":{"goal":"give_food_to_trini_
 - 21:34 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"wheat","count":1},{"do":"give","to":"ag_trini_01","item":"rotten_flesh","count":2}],"say":"Trini, you're in reach now. Wheat and rotten flesh coming
+- 21:35 act: {"say":"Riker, awake at the white beds, health 1.8, hunger 15. I have no food, only logs, planks and cobblestone. Trini first for any food I find, then Zack.","intent":{"goal":"scout_food_near_beds","
+- 21:39 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}}],"say":"Riker: dusk, going to the bed at -281,67,320 for the night. No food. Trini first when I wake."}
+- 21:40 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}]}
+- 21:40 act: {"actions":[{"do":"sleep"}],"say":"Riker at the bed for the night, no food. Trini first for any food at dawn."}
+- 21:44 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Riker going to the white bed for the night. No food; Trini first at dawn."}

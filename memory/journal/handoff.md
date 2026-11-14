@@ -1,3 +1,9 @@
+# Handoff, dusk of day 240
+
+- Going to the white bed at -281, 67, 320 to sleep. Not enclosed; Trini, Zack, Data, Picard nearby at the beds.
+- Health 1.8, hunger 15, no food. Pack: 5 oak logs, 11 planks, 18 cobblestone, 7 dirt. No errand half-done (the gather intent failed).
+- Next: at dawn look for animals, fish or apples with the group; any food goes to Trini first, then Zack.
+
 # Handoff, night of day 238
 
 - Slept at the white bed -270, 67, 318 (sleep worked). Group nearby: Trini, Jason, Troi. Not enclosed.
