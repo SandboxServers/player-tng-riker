@@ -1,4 +1,5 @@
 # Journal
+- Day 244 (waking 30): woke at the white beds, health 20, hunger 20, no food. Tried mining short grass for seeds at -273,66,333: changed nothing. Walked back to the group at the white beds, -272,67,319. Told everyone Trini, Data and Jason eat first. Session ended while waiting; still no food.
 - Day 232 afternoon: back at the beds, -270,66,322. No food on the whole west side. Resting with the group until dusk; will hunt again at dawn.
 - Day 232 afternoon: got out of the pit at -320,63,335 (mined 21 cobblestone along the way). Golems to the south and east; no food anywhere west. Walking back to the beds, -270,67,322.
 - Day 232 midday: reached -320,67,335, but I am in a pit with stone walls. Still no food; trying unstick. Found cobblestone (4) and 2 dirt in the pit.
@@ -214,3 +215,6 @@
 - 22:50 act: {"actions":[{"do":"goto","target":{"x":-274,"y":68,"z":318}}],"say":"Riker: I was struck down while waiting at the beds and woke at spawn with nothing. I'm going to my dropped pile at -274,68,318 now.
 - 22:50 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":324}}],"say":"Riker: a phantom is close to me. Trini, keep your chicken; you need it more. I'm moving to the group now."}
 - 22:51 say: {"text":"I'm at the white beds with no food. I'll search the grass here with the group for seeds and animals, and give any food to Trini first."}
+- 22:59 act: {"say":"Riker here, health 20, hunger 20, no food. I'm trying the grass right here for seeds, in sight of the beds. Trini and Data first for anything.","intent":{"goal":"gather_grass_seeds","program":
+- 22:59 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":320}}]}
+- 22:59 act: {"say":"Riker back at the white beds with the group, day 244. Health 20, hunger 20, no food. Grass seeds gave nothing here. Trini, Data and Jason first for anything found. I'll hold here and watch for
