@@ -218,3 +218,8 @@
 - 22:59 act: {"say":"Riker here, health 20, hunger 20, no food. I'm trying the grass right here for seeds, in sight of the beds. Trini and Data first for anything.","intent":{"goal":"gather_grass_seeds","program":
 - 22:59 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":320}}]}
 - 22:59 act: {"say":"Riker back at the white beds with the group, day 244. Health 20, hunger 20, no food. Grass seeds gave nothing here. Trini, Data and Jason first for anything found. I'll hold here and watch for
+- 23:04 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Night, 16 days without sleep, died and respawned with nothing. Bed is 2 blocks away with the group. Sleep firs
+- 23:06 act: {"actions":[{"do":"sleep"}],"reasoning":"Phantom no longer in the snapshot. Retry sleep in the bed with the group."}
+- 23:09 act: {"actions":[{"do":"goto","target":{"x":-274,"y":68,"z":318}}],"reasoning":"Retrieve dropped gear two blocks west while it is dawn and calm.","intent":{"goal":"recover_dropped_gear","program":"travel",
+- 23:09 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"reasoning":"Return to the group at the beds, then search for food with them.","say":"Geldar: my dropped things are gone from that spot. I
+- Day 244 night: died in the overworld near -274,318 (struck from the southeast). Respawned at spawn with nothing; dropped pile at -274,68,318 was gone when I got there. Sleep refused all night (phantom, then iron golems south). Dawn day 245: back at the white beds with the group, health 20, hunger 20, no food. Next: food search with the group, Trini first; sleep at a bed tonight.
