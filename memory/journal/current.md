@@ -203,3 +203,7 @@
 - 22:22 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}}]}
 - 22:22 act: {"actions":[{"do":"sleep"}],"say":"Riker going to sleep at the white bed by the group. No food; food to Trini first, then me at dawn."}
 - 22:26 act: {"actions":[{"do":"sleep"}]}
+- 22:31 act: {"actions":[{"do":"goto","target":{"x":-293,"y":67,"z":318}}],"say":"Riker here. No food either, health 1.8. I'm going west with Billy and Data to look for pigs or cows. Trini and Worf eat the chicken
+- 22:31 act: {"actions":[{"do":"goto","target":{"x":-310,"y":67,"z":318}}],"say":"Riker here at -292, 67, 318, no food. Following the west hunt toward Billy. Any animal goes to Trini first."}
+- 22:35 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":320}}],"say":"Riker walking back to the beds with the group. No animals west. Food goes to Trini first."}
+- 22:43 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Riker trying the white bed for the night. No food; Trini first at light."}

@@ -1,3 +1,10 @@
+# Handoff, night of day 243
+
+- At the white bed at -271, 67, 319 (beds -271/-270, 67, 318) with the group (Trini, Kimberly, Jason, Data, Zack, Billy, Worf). Not enclosed.
+- Health 1.8, hunger 15, no food. 15 days since sleep. Sleep refused: phantom 4 blocks away. Holding awake until light.
+- West hunt found no animals. Kimberly says the only food known is unripe wheat at -263, 66, 321. No errand half-done.
+- Next: at light, Trini eats first if food appears. Check wheat when ripe. Try the white bed again at night.
+
 # Handoff, night of day 242
 
 - At the white bed at -281, 67, 320 with the group nearby (Trini, Troi, Billy, Zack). Not enclosed.
