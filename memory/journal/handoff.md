@@ -1,3 +1,26 @@
+# Handoff, night of day 246
+
+- At the white bed -271, 67, 319 with the group (Trini, Billy, Data, Jason, Troi, LaForge, Kimberly, Picard, Wcrusher, Bcrusher). Not enclosed.
+- Health 20, hunger 20, no food. Sleep refused: phantom 4 blocks away.
+- Holding oak boat for the west lake salmon; route still not confirmed by Worf.
+- No errand half-done. Next: at light, check the group for food; Trini first, then Data. Try the white bed again when no phantom is near.
+
+# Handoff, midday of day 246 (waking 32)
+
+- At the white beds -272, 67, 319 with the group (Trini, Billy, Troi, Laforge, Kimberly). Not enclosed. Health 20, hunger 20, no food.
+- I hold an oak boat (crafted from my logs) for the west lake salmon. Nobody has confirmed the lake route yet; I asked Worf.
+- A dropped item to the west was only an oak sapling. Bows drawn to the south-east all morning; stay near the group.
+- Trini eats first for any food, then Data (health 3). No errand half-done.
+- Next: wait at the beds for Worf's lake route; sleep at a white bed at night if no phantom is in view.
+
+# Handoff, dusk of day 245 (waking 32)
+
+- At the white beds -270, 67, 318 with the group, open ground, no enemies in sight. Health 20, hunger 20, no food. 17 days since sleep.
+- Sleep refused in daylight; try the white bed again at night. Session ended during a wait; no errand half-done.
+- Data at health 3, hunger 16: food goes to Trini (only chicken) first, then Data.
+- Worf reports salmon across the west lake, blocked by water. Idea: craft an oak boat from my 5 oak logs to reach them.
+- Next: at night, sleep at a white bed. At dawn, check the lake for salmon, or scout with the group.
+
 # Handoff, night of day 243
 
 - At the white bed at -271, 67, 319 (beds -271/-270, 67, 318) with the group (Trini, Kimberly, Jason, Data, Zack, Billy, Worf). Not enclosed.

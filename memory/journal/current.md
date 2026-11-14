@@ -228,3 +228,11 @@
 - 23:10 act: {"say":"Riker: sleep is refused until dark. I'll stay by the white beds with the group and try again at dusk. No food yet; Trini first.","intent":{"goal":"hold_at_beds_until_dusk","program":"rest","ar
 - 23:10 act: {"say":"Riker: I'm out on the west grass alone, so I'm heading back to the white beds to join the group.","intent":{"goal":"return_to_group_at_beds","program":"travel","arguments":{"target":{"x":-270,
 - 23:14 act: {"say":"Riker: it's dusk, so I'm trying the white bed now. Worf, I'll look at the lake for salmon at first light if no one has gone yet; I can make a boat from my oak logs.","actions":[{"do":"sleep"}]
+- 23:22 act: {"say":"Riker: it's night, trying the white bed now. No food; Trini eats first at light, then Data.","actions":[{"do":"sleep"}]}
+- 23:26 act: {"actions":[{"do":"sleep"}]}
+- 23:30 act: {"say":"Riker, dawn of day 246. No food on me, health 20. I'm making an oak boat from my logs to reach Worf's salmon across the west lake. Any fish goes to Trini first, then Data.","actions":[{"do":"c
+- 23:31 act: {"say":"Riker has an oak boat ready. Worf, where is the west lake exactly? I'll take the boat for the salmon and bring any fish to Trini first.","intent":{"goal":"hold_at_beds_until_lake_known","progr
+- 23:35 act: {"say":"Riker: there is a dropped item 10 blocks west at -284, 66, 323. I'll go see what it is, and come back to the beds.","actions":[{"do":"goto","target":{"x":-284,"y":66,"z":323}}],"intent":{"goal
+- 23:35 act: {"say":"Riker: the item was only an oak sapling. No food. Heading back to the beds with the group.","actions":[{"do":"goto","target":{"x":-272,"y":67,"z":320}}],"intent":{"goal":"return_to_beds_with_g
+- 23:35 act: {"say":"Riker is back at the beds with the group. Still no food on me; Trini first for anything found.","intent":{"goal":"hold_at_beds_for_night","program":"rest","arguments":{},"wake_on":["directly_a
+- 23:43 act: {"actions":[{"do":"sleep"}],"say":"Riker at the white bed, night of day 246, health 20, no food. Trini eats first at light, then Data. I'm trying to sleep with the group.","intent":{"goal":"sleep_at_w
