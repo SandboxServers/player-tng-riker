@@ -1,3 +1,10 @@
+# Handoff, night of day 242
+
+- At the white bed at -281, 67, 320 with the group nearby (Trini, Troi, Billy, Zack). Not enclosed.
+- Health 1.8, hunger 15, no food. 14 days since sleep. Pack: 5 oak logs, 11 planks, 18 cobblestone, 8 dirt, 2 saplings, 2 sticks. No errand half-done.
+- Sheep field north at -276, 66, 215 had no sheep. Trini holds the chicken and eats first, then me.
+- Next: at dawn check the wheat plot and the group for food; try the bed again.
+
 # Handoff, dusk of day 241
 
 - At the white bed at -270, 67, 318 (bed -271, 67, 318 beside me), with Worf, Data, Zack, Billy, Jason, Bcrusher, Wcrusher nearby. Not enclosed.

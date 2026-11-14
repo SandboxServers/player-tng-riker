@@ -193,3 +193,13 @@
 - 22:09 act: {"intent":{"goal":"scout_grass_east_for_food","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_w
 - 22:09 act: {"actions":[{"do":"goto","target":{"x":-269,"y":67,"z":318}}]}
 - 22:13 act: {"say":"Riker, midday day 242. Health 1.8, hunger 15, no food. Trini first, then Jason. I'll stay near the wheat plot and the beds, and come to any call-out."}
+- 22:15 act: {"say":"Morning. I have no food; hunger is 15 and health is low. I'll scout the grass near the group for animals or wheat, and tell you what I find.","intent":{"goal":"scout_food_near_group","program"
+- 22:15 act: {"say":"Billy, I'm coming north behind you to the sheep field. I'll take any food after Trini. I have no weapon but a worn pickaxe."}
+- 22:16 act: {"say":"Riker: I'm going north to the sheep field near -276, 66, 215 with Billy. Any mutton goes to Trini first, then me.","intent":{"goal":"reach_sheep_field","program":"travel","arguments":{"target"
+- 22:17 say: {"text":"Riker here at the sheep field, health 1.8, no food. Is there mutton or a sheep in sight? Trini eats first."}
+- 22:17 act: {"actions":[{"do":"goto","target":{"x":-274,"y":66,"z":214}}]}
+- 22:17 act: {"say":"No sheep here at the field, only a dropped dirt block. I'm heading back south to the white beds to report to the group.","intent":{"goal":"return_to_beds","program":"travel","arguments":{"targ
+- 22:17 act: {"say":"Riker back at the white beds. No sheep at the north field and no food found. Still at 1.8 health, hunger 15. I'll keep watch here with the group."}
+- 22:22 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}}]}
+- 22:22 act: {"actions":[{"do":"sleep"}],"say":"Riker going to sleep at the white bed by the group. No food; food to Trini first, then me at dawn."}
+- 22:26 act: {"actions":[{"do":"sleep"}]}
