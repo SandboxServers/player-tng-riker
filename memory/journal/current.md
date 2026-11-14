@@ -26,3 +26,5 @@
 - 17:40 act: {"say":"Riker at the yellow beds, dusk on day 228. Still no food here. I'll stay by the bed and sleep when it is night.","intent":{"goal":"wait_for_night_at_bed","program":"rest","arguments":{"seconds
 - 17:40 act: {"intent":{"goal":"wait_for_night_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":
 - 17:44 act: {"actions":[{"do":"sleep"}],"say":"Riker going to the yellow bed for the night. No food yet; anything found goes to Kimberly first at dawn."}
+- 17:46 act: {"say":"Riker here. The yellow beds right by me are safe to sleep in tonight, LaForge.","intent":{"goal":"rest_at_yellow_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpecte
+- 17:46 act: {"intent":{"goal":"hold_until_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":3000,"max_block_operations":8}}}
