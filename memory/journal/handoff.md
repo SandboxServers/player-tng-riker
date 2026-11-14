@@ -1,3 +1,17 @@
+# Handoff, night of day 233
+
+- Standing at the white beds near -272, 67, 336 with Kimberly and Tommy. Health 20, hunger 20, not enclosed. No food in pack.
+- Gave my salmon to Worf (it worked). Billy never reached the beds; last heard at health 1.5 running to the camp beds at -281, 67, 320.
+- Sleep refused at the yellow bed (monsters nearby) and the bed search timed out earlier. Golems to the south.
+- Next: at dawn scout with the group for animals and apples; any food goes to Billy first, then Jason, then Worf.
+
+# Handoff, dusk of day 232
+
+- Holding by the yellow bed at -271, 67, 326 (near -270, 67, 324) with Zack, Troi and Billy. Health 20, hunger 20, not enclosed.
+- Sleep refused at the yellow bed (monsters nearby); iron golems to the south and west. Staying awake until dawn.
+- No food found on day 232. Pack: 5 oak logs, 15 cobblestone, 11 oak planks, 2 sticks, wooden pickaxe.
+- Next: at dawn hunt with the group; Billy gets any meat first, then Kimberly. Try the yellow bed again at night only once.
+
 # Handoff, morning of day 231
 
 - At the yellow bed at -271, 67, 326 with Billy. Health 20, hunger 20, no food. Pack: 11 oak planks, 5 oak logs.

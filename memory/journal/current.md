@@ -1,4 +1,10 @@
 # Journal
+- Day 232 afternoon: back at the beds, -270,66,322. No food on the whole west side. Resting with the group until dusk; will hunt again at dawn.
+- Day 232 afternoon: got out of the pit at -320,63,335 (mined 21 cobblestone along the way). Golems to the south and east; no food anywhere west. Walking back to the beds, -270,67,322.
+- Day 232 midday: reached -320,67,335, but I am in a pit with stone walls. Still no food; trying unstick. Found cobblestone (4) and 2 dirt in the pit.
+- Day 232 midday: west at -325,63,300 is walled by dirt; path blocked. Nothing edible seen. Trying south-west to -320,66,335.
+- Day 232 midday: NW spot at -300,66,300 gave nothing. Pushing west to -325,66,300. Others searching south, west and north.
+- Day 232 dawn (waking 16): no food, sleep refused all night. Scouted north-west to -300,66,300; no animals in sight yet.
 - 17:30 Walked to Kimberly at -277,67,297 (south of camp) and gave her the apple. Her give worked. Night now; heading back to the yellow beds to sleep.
 - 17:40 Kimberly is eating the apple now. Back at the yellow bed at -281,69,371, health and hunger 20. Going to sleep.
 - 17:07 act: {"say":"Riker here, just woke by the yellow beds. I have nothing in my pack. I'll look for wood and food, and I'll share what I find.","intent":{"goal":"gather_oak_log","program":"gather","arguments":
@@ -63,3 +69,41 @@
 - 18:29 act: {"say":"Riker here, dawn of day 231. Still no food. I'll join Jason and Billy on the south grass and call out any animal or apple. Billy gets any food first.","intent":{"goal":"search_south_grass_with
 - 18:29 act: {"say":"Riker: I could not follow Jason, he is out of my sight. Billy is right beside me; I'll stay with him and scout the grass near the beds. Call me if you see an animal.","intent":{"goal":"scout_g
 - 18:41 act: {"actions":[{"do":"sleep"}],"say":"Riker: night on day 231, no food found today. Sleeping at the yellow bed; food goes to Billy first at dawn."}
+- 18:42 act: {"intent":{"goal":"reach_yellow_bed","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":326}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"li
+- 18:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"say":"Going to sleep in the yellow bed. Night, everyone."}
+- 18:42 act: {"actions":[{"do":"wait","seconds":45},{"do":"sleep"}]}
+- 18:47 act: {"say":"Riker here, by the yellow bed with Troi and Billy. No food. Sleep keeps refusing for monsters, so I'll stay awake and watch till dawn, then hunt with Zack."}
+- 18:51 act: {"intent":{"goal":"scout_northwest_for_food","program":"travel","arguments":{"target":{"x":-300,"y":67,"z":300}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_complet
+- 18:55 act: {"intent":{"goal":"scout_further_west_for_animals","program":"travel","arguments":{"target":{"x":-325,"y":66,"z":300}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_c
+- 18:55 act: {"intent":{"goal":"scout_south_west_for_animals","program":"travel","arguments":{"target":{"x":-320,"y":66,"z":335}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_com
+- 18:56 act: {"actions":[{"do":"unstick"}]}
+- 18:56 act: {"intent":{"goal":"return_to_group_at_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":322}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_complete
+- 18:56 act: {"say":"Riker back at the beds, day 232 afternoon. Still no food; the west and south-west had none, and golems are to the south. I'll rest here with the group and go out again at dawn."}
+- 19:00 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"say":"Riker going to the yellow bed for the night. No food today; food goes to whoever is weakest at dawn."}
+- 19:01 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":324}}],"say":"Sleep refused again: monsters nearby. I'll stay awake by the beds with the group and watch for dawn.","intent":{"goal":"hold_at_bed
+- 19:01 act: {"actions":[]}
+- 19:01 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}},{"do":"sleep"}],"say":"Riker trying the white bed at -270,67,318 now that it is night. Bows are being drawn to the east, so stay close."}
+- 19:05 act: {"actions":[],"say":"Billy, I'm sorry you got hit. I'm staying awake right here with Zack and Troi. Stay close to us through the night."}
+- 19:09 act: {"actions":[{"do":"goto","target":{"x":-245,"y":66,"z":322}}],"say":"Riker, morning of day 233. No food on me. I'm searching east, where nobody has looked. Any animal or apple I see, Billy and Jason f
+- 19:09 act: {"actions":[{"do":"mine","block":"oak_leaves","count":6}],"say":"Riker at the east oaks, -245,67,322. No animals in sight. Trying the leaves for apples; anything found goes to Billy first."}
+- 19:10 act: {"actions":[{"do":"goto","target":{"x":-225,"y":66,"z":340}}],"say":"Riker: no apples from the east oak leaves and no animals here. Moving south-east to the open grass. Any food I see goes to Billy fi
+- 19:10 act: {"actions":[{"do":"unstick"}]}
+- 19:11 act: {"actions":[{"do":"goto","target":{"x":-265,"y":67,"z":322}}],"say":"Riker out of a pit at -225,63,340. Nothing edible in the east or south-east, no animals. Heading back to the beds to meet the group
+- 19:15 act: {"say":"I have one salmon from Zack. Billy is first for it, so I'm holding it until I see him. Worf, you're next after Billy and Jason.","intent":{"goal":"find_billy_for_salmon","program":"follow","ar
+- 19:15 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":324}}],"say":"Billy, I'm coming to the yellow bed with your salmon."}
+- 19:15 act: {"say":"Billy isn't at the yellow bed. I'm holding the salmon for him. Whoever sees him first, tell me."}
+- 19:19 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":320}}],"say":"Picard, I'm coming to the white bed with a salmon for you. Billy hasn't shown up here, so I'm giving it to the hungriest one in rea
+- 19:20 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"salmon","count":1}],"say":"Worf, here is my salmon. Billy has not come to the beds, and you are hungry."}
+- 19:20 act: {"actions":[{"do":"sleep"}],"say":"Gave my salmon to Worf. I'm going to try the white bed for the night."}
+- 19:20 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":325}}],"say":"Going to the yellow bed by the crafting table to try for the night."}
+- 19:20 act: {"actions":[{"do":"sleep"}]}
+- 19:21 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":322}}],"say":"Billy, I have no food left. I'm moving back north to the beds, away from the golems."}
+- 19:21 act: {"actions":[{"do":"unstick"}]}
+- 19:25 act: {"actions":[{"do":"sleep"}],"say":"Riker at the white beds. No food on me. Billy, if you can see this, come to the white bed at -270,67,336 and stay with the group."}
+- 19:26 act: {"actions":[],"say":"Billy and Jason, I have no food, only planks, cobble and logs. I'll stay here by the white bed at -270,318 until light."}
+- 19:30 act: {"actions":[],"say":"Riker, awake at dawn of day 234, hunger 20, no food. I'll scout east over the grass for cows, pigs, sheep or apples. Billy and Jason first if I find any.","intent":{"goal":"scout_
+- 19:30 act: {"actions":[],"say":"Riker: no animals in sight out east. Tommy, I'll head toward the known pig at -336,64,229 to help. Billy and Kimberly get the meat first.","intent":{"goal":"reach_known_pig_with_t
+- 19:31 act: {"actions":[],"say":"Riker at the pond near -330,64,231. A hostile skeleton with a bow is 18 blocks west, so take care. Salmon are in the water to the north-east. I have no rod, so Zack, if you can ca
+- 19:31 act: {"actions":[{"do":"goto","target":{"x":-296,"y":67,"z":290}}],"say":"Skeleton is shooting me. Retreating east to the white bed at -298,68,295. Tommy, follow me out of its line.","intent":{"goal":"flee
+- 19:32 act: {"actions":[],"say":"Riker at 1.8 health, hunger 17, no food. I'm at the white beds at -296,68,290 by the pond. Anyone with apple or meat, please bring it here. I'll stay still and out of sight.","int
+- 19:40 act: {"actions":[{"do":"sleep"}]}
