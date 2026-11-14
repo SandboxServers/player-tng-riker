@@ -1,4 +1,6 @@
 # Journal
+- 17:30 Walked to Kimberly at -277,67,297 (south of camp) and gave her the apple. Her give worked. Night now; heading back to the yellow beds to sleep.
+- 17:40 Kimberly is eating the apple now. Back at the yellow bed at -281,69,371, health and hunger 20. Going to sleep.
 - 17:07 act: {"say":"Riker here, just woke by the yellow beds. I have nothing in my pack. I'll look for wood and food, and I'll share what I find.","intent":{"goal":"gather_oak_log","program":"gather","arguments":
 - 17:09 act: {"actions":[{"do":"craft","item":"oak_planks","count":8}],"say":"Riker: I found oak and birch trees to the south, about 30 blocks from camp. I have 9 oak logs and one apple. The apple goes to Kimberly
 - 17:09 act: {"intent":{"goal":"reach_camp_table","program":"travel","arguments":{"target":{"x":-268,"y":68,"z":365}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"],"li
@@ -10,3 +12,10 @@
 - 17:20 say: {"text":"Riker here at the yellow bed by the camp table. I still hold the apple for Kimberly; I'll hand it over at dawn."}
 - 17:20 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":364}}]}
 - 17:21 act: {"say":"Riker here at the yellow beds. Kimberly, I'm right here by the bed north of the camp table. Come into sight and I'll hand you the apple.","intent":{"goal":"hand_apple_to_kimberly","program":"r
+- 17:22 act: {"say":"Riker here at the yellow beds. Kimberly, I have your apple. Come into sight and I'll hand it over.","intent":{"goal":"hand_apple_to_kimberly","program":"follow","arguments":{"target":"ag_kimbe
+- 17:22 act: {"say":"Riker: Kimberly, I'm still at the yellow beds with your apple. Tell me where you are and I'll walk to you.","intent":{"goal":"wait_for_kimberly_apple","program":"rest","arguments":{"seconds":1
+- 17:22 act: {"say":"Riker: Kimberly, I'm still at the yellow beds with your apple. Tell me where you are and I'll walk to you."}
+- 17:24 act: {"say":"Riker walking to you now, Kimberly. Coming to the south-west of the yellow bed.","intent":{"goal":"walk_to_kimberly","program":"travel","arguments":{"target":{"x":-277,"y":69,"z":297}},"wake_o
+- 17:24 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"apple","count":1}],"say":"Kimberly, here is your apple. It's yours."}
+- 17:24 act: {"intent":{"goal":"return_to_yellow_bed","program":"travel","arguments":{"target":{"x":-282,"y":69,"z":372}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"]
+- 17:25 act: {"intent":{"goal":"return_to_yellow_bed","program":"travel","arguments":{"target":{"x":-282,"y":69,"z":370}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_
