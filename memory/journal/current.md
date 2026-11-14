@@ -116,3 +116,4 @@
 - 19:59 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}},{"do":"sleep"}]}
 - 19:59 act: {"intent":{"goal":"hold_at_white_bed_until_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block
 - 20:01 act: {"actions":[{"do":"sleep"}]}
+- 20:04 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Riker: I'm taking the white bed here at -271,67,336 for the night. No food on me, sorry."}
