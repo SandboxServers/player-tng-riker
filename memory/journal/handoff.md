@@ -1,3 +1,10 @@
+# Handoff, dusk of day 241
+
+- At the white bed at -270, 67, 318 (bed -271, 67, 318 beside me), with Worf, Data, Zack, Billy, Jason, Bcrusher, Wcrusher nearby. Not enclosed.
+- Health 1.8, hunger 15, no food. Pack: 5 oak logs, 11 planks, 18 cobblestone, 7 dirt, 2 saplings, 2 sticks. No errand half-done.
+- Chicken went to Trini (eaten). Laforge and Wcrusher found no food. Data at health 3.
+- Next: sleep here if no monsters; at dawn scout with the group, call out any animal. Trini first, then Zack.
+
 # Handoff, dusk of day 240
 
 - Going to the white bed at -281, 67, 320 to sleep. Not enclosed; Trini, Zack, Data, Picard nearby at the beds.

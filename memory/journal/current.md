@@ -187,3 +187,9 @@
 - 21:48 act: {"say":"Riker, dawn of day 241 is near. Still no food. I'll scout the grass near the beds in sight of the group and call out any animal or fish. Trini first.","intent":{"goal":"scout_grass_near_beds_f
 - 21:48 act: {"actions":[{"do":"goto","target":{"x":-269,"y":67,"z":319}}],"intent":{"goal":"hold_with_group_at_beds","program":"rest","arguments":{"seconds":240},"wake_on":["directly_addressed","unexpected_damage
 - 21:48 act: {"intent":{"goal":"hold_with_group_at_beds","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations
+- 21:50 act: {"intent":{"goal":"hold_at_beds_watch_for_food","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operat
+- 22:00 act: {"actions":[{"do":"sleep"}],"say":"Riker, dusk of day 241. No food. Going to sleep at the white bed here with the group."}
+- 22:05 act: {"actions":[{"do":"sleep"}]}
+- 22:09 act: {"intent":{"goal":"scout_grass_east_for_food","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_w
+- 22:09 act: {"actions":[{"do":"goto","target":{"x":-269,"y":67,"z":318}}]}
+- 22:13 act: {"say":"Riker, midday day 242. Health 1.8, hunger 15, no food. Trini first, then Jason. I'll stay near the wheat plot and the beds, and come to any call-out."}
