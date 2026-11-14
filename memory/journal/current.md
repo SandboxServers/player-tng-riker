@@ -1,1 +1,11 @@
 # Journal
+- 17:07 act: {"say":"Riker here, just woke by the yellow beds. I have nothing in my pack. I'll look for wood and food, and I'll share what I find.","intent":{"goal":"gather_oak_log","program":"gather","arguments":
+- 17:09 act: {"actions":[{"do":"craft","item":"oak_planks","count":8}],"say":"Riker: I found oak and birch trees to the south, about 30 blocks from camp. I have 9 oak logs and one apple. The apple goes to Kimberly
+- 17:09 act: {"intent":{"goal":"reach_camp_table","program":"travel","arguments":{"target":{"x":-268,"y":68,"z":365}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"],"li
+- 17:10 act: {"actions":[{"do":"craft","item":"wooden_pickaxe","count":1},{"do":"craft","item":"wooden_axe","count":1}],"say":"Riker at the camp table. I have planks and logs to share. Do any of you need planks fo
+- 17:10 act: {"actions":[{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_pickaxe","count":1}]}
+- 17:13 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"apple","count":1}],"say":"Kimberly, I have the apple. I'm at the camp table; I'll hand it over as soon as you're in sight. Our group has no anima
+- 17:16 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"apple","count":1}],"say":"Kimberly, I'm standing on the crafting table at the camp, at the north side of the yellow beds. Walk toward me and I'll
+- 17:20 act: {"actions":[{"do":"goto","target":{"x":-270,"y":68,"z":364}},{"do":"give","to":"ag_kimberly_01","item":"apple","count":1}],"say":"Kimberly, I'm walking to the yellow beds by the camp table with the ap
+- 17:20 say: {"text":"Riker here at the yellow bed by the camp table. I still hold the apple for Kimberly; I'll hand it over at dawn."}
+- 17:20 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":364}}]}
