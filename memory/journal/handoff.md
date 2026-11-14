@@ -1,3 +1,10 @@
+# Handoff, night of day 235
+
+- Slept at the white bed near -272, 67, 336 (beds -271/-270, 67, 336). Sleep worked. Not enclosed; group nearby (Kimberly, Troi, Wcrusher, Data).
+- Health 1.8, hunger 16, no food. Health does not regenerate while hunger is low.
+- Iron golem to the north-west; bow sounds to the south and east, so skeletons are near.
+- Next: at dawn look for apples, animals, salmon or ripe wheat at -263, 66, 321. Any food goes to Billy first, then Jason, then Worf.
+
 # Handoff, dusk of day 234
 
 - At the pond white beds, about -298, 68, 293, next to the bed at -298, 68, 294. Sheltered, not enclosed. Tommy 3 blocks off, Troi beside me.
