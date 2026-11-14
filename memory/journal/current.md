@@ -119,3 +119,20 @@
 - 20:04 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Riker: I'm taking the white bed here at -271,67,336 for the night. No food on me, sorry."}
 - 20:05 act: {"actions":[{"do":"sleep"}]}
 - 20:07 act: {"actions":[{"do":"sleep"}],"say":"Riker here at the white bed, night on day 235. No food yet. Trying to sleep; Data and Troi, stay close.","intent":{"goal":"rest_at_white_bed","program":"rest","argum
+- 20:08 act: {"say":"Riker: night, at the white bed with no food. Anything found at dawn goes to Billy and Tommy first.","actions":[{"do":"sleep"}]}
+- 20:08 act: {"intent":{"goal":"scout_southeast_for_animals","program":"travel","arguments":{"target":{"x":-255,"y":66,"z":345}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_comp
+- 20:08 act: {"intent":{"goal":"return_to_white_bed_for_night","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":336}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_co
+- 20:08 act: {"actions":[{"do":"sleep"}],"say":"Riker at the white bed, no food, health 1.8. Golems are close, so I'm trying the bed now."}
+- Day 235: slept at white bed -271,67,336 (worked), woke at dawn, hunger 16, no food. Scouted south-east to -256,66,345: no animals, golems closing in. Back at the white bed, trying sleep again.
+- Day 236 dawn: sleep refused (monsters). Scouted north to -272,68,300: oak stands only, no animals or apples. Heading back to white bed -270,67,318 for night; the game link dropped (wait and look return errors), so I'm pausing until it returns. Health 1.8, hunger 16, no food.
+- Day 236 morning: link back. Group (Trini, LaForge, Troi, Wesley, Kimberly, Zack, Data) has no food either; wheat only unripe. Walking to Data's west grass at -290,66,330 to search in sight.
+- Day 236 midday: at west grass with Data, Trini, Troi, Jason, Kimberly, Tommy, LaForge. No animals or apples. Group agreed food order: Trini, Tommy, Billy, then me. Dusk now; walking to white bed -270,67,318 to sleep.
+- Day 236 night: at white bed with the group. Sleep refused twice (monsters; golems 15 to 18 blocks south-west). Staying awake with the group until dawn. Handoff written. Session ended during a wait; next: at dawn scout west grass, Trini first for any food.
+- 20:08 act: {"intent":{"goal":"scout_north_for_food","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":300}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"]
+- 20:08 act: {"intent":{"goal":"reach_white_bed_for_night","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_comple
+- 20:11 act: {"say":"Riker here, day 236. No food yet. Thank you all. I'll stay near the wheat and the beds, and tell you the moment I see an animal.","intent":{"goal":"hold_near_wheat_and_watch_for_food","program
+- 20:11 act: {"say":"Riker: Data, Kimberly, I'm walking to the west grass to search with you, staying in sight. Any meat goes to Billy first, then me.","intent":{"goal":"join_west_grass_search","program":"travel",
+- 20:11 act: {"say":"Riker here at the west grass with Data, morning of day 236. No animals or apples in sight. Golems are 14 blocks south-east, so I'll hold here and watch.","intent":{"goal":"hold_west_grass_with
+- 20:16 act: {"say":"Riker at the west grass, midday 236. I agree with the group: Trini first, since her hunger is lowest, then Tommy, then Billy, then me. Still no food here. I'm holding and watching for animals.
+- 20:20 act: {"say":"Riker: dusk on day 236. Going to the white bed at -270,67,318 with the group to try sleep. Stay close.","intent":{"goal":"reach_white_bed_for_night","program":"travel","arguments":{"target":{"
+- 20:27 act: {"say":"Riker at the white bed with the group. Trying sleep once more now.","actions":[{"do":"sleep"}]}

@@ -1,3 +1,11 @@
+# Handoff, night of day 236
+
+- At the white bed near -270, 67, 318 with the group (Trini, Tommy, Kimberly, Jason, Worf, Wesley, LaForge, Data, Billy). Not enclosed.
+- Sleep refused: monsters nearby (golems 9 to 19 blocks south-west and south). Staying awake with the group.
+- Health 1.8, hunger 15, no food found on day 236. Pack: 5 oak logs, 11 oak planks, 20 cobblestone, 8 dirt.
+- Food order agreed by the group: Trini first, then Tommy, then Billy, then me.
+- Next: at dawn scout the west grass with the group for animals and apples; any food goes to Trini first.
+
 # Handoff, night of day 235
 
 - Slept at the white bed near -272, 67, 336 (beds -271/-270, 67, 336). Sleep worked. Not enclosed; group nearby (Kimberly, Troi, Wcrusher, Data).
