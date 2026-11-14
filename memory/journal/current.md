@@ -213,3 +213,4 @@
 - 22:48 act: {"say":"Riker at the white beds. The travel failed, so I'm holding here near the crafting table. Zack, if you are going to the lake, call me when you have fish. I'm watching the beds.","intent":{"goal
 - 22:50 act: {"actions":[{"do":"goto","target":{"x":-274,"y":68,"z":318}}],"say":"Riker: I was struck down while waiting at the beds and woke at spawn with nothing. I'm going to my dropped pile at -274,68,318 now.
 - 22:50 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":324}}],"say":"Riker: a phantom is close to me. Trini, keep your chicken; you need it more. I'm moving to the group now."}
+- 22:51 say: {"text":"I'm at the white beds with no food. I'll search the grass here with the group for seeds and animals, and give any food to Trini first."}
