@@ -184,3 +184,6 @@
 - 21:40 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}]}
 - 21:40 act: {"actions":[{"do":"sleep"}],"say":"Riker at the bed for the night, no food. Trini first for any food at dawn."}
 - 21:44 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Riker going to the white bed for the night. No food; Trini first at dawn."}
+- 21:48 act: {"say":"Riker, dawn of day 241 is near. Still no food. I'll scout the grass near the beds in sight of the group and call out any animal or fish. Trini first.","intent":{"goal":"scout_grass_near_beds_f
+- 21:48 act: {"actions":[{"do":"goto","target":{"x":-269,"y":67,"z":319}}],"intent":{"goal":"hold_with_group_at_beds","program":"rest","arguments":{"seconds":240},"wake_on":["directly_addressed","unexpected_damage
+- 21:48 act: {"intent":{"goal":"hold_with_group_at_beds","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations
