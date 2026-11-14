@@ -55,3 +55,7 @@
 - 18:18 act: {"actions":[{"do":"sleep"}],"say":"Riker at the white bed at -270,67,318. Trying to sleep now. Anyone with food, Kimberly first."}
 - 18:18 act: {"actions":[],"intent":{"goal":"wait_at_white_bed_for_night","program":"rest","arguments":{"seconds":240},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_tic
 - 18:18 act: {"actions":[],"intent":{"goal":"wait_at_white_bed_for_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max
+- 18:23 act: {"actions":[{"do":"sleep"}],"say":"Billy, I'm by the white beds and can't see you. Is it still phantoms? Stay near the others."}
+- 18:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 18:24 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Riker: sleep was refused, monsters nearby. I'm going to the white bed by the crafting table. Billy, stay close to me.","intent":{"g
+- 18:24 act: {"actions":[{"do":"sleep"}]}
