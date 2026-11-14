@@ -9,3 +9,4 @@
 - 17:20 act: {"actions":[{"do":"goto","target":{"x":-270,"y":68,"z":364}},{"do":"give","to":"ag_kimberly_01","item":"apple","count":1}],"say":"Kimberly, I'm walking to the yellow beds by the camp table with the ap
 - 17:20 say: {"text":"Riker here at the yellow bed by the camp table. I still hold the apple for Kimberly; I'll hand it over at dawn."}
 - 17:20 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":364}}]}
+- 17:21 act: {"say":"Riker here at the yellow beds. Kimberly, I'm right here by the bed north of the camp table. Come into sight and I'll hand you the apple.","intent":{"goal":"hand_apple_to_kimberly","program":"r
