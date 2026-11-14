@@ -1,6 +1,6 @@
 # Recent days
 
-Day 228: I woke at dawn by the yellow beds, healthy and fed. Nobody in the group has found food yet: Kimberly, Jason, Trini, Zack, Tommy and Billy are all hungry or near it. I scouted south-east and then east for animals and found none. I broke oak leaves for apples and got nothing. I slept at the yellow bed at dusk. Next: keep looking for animals with the group, give any meat to Kimberly first, and keep getting to know everyone.
+Day 228: I woke at dawn by the yellow beds, healthy and fed. Nobody in the group has found food yet. I scouted east and south-east for animals and found none; oak leaves gave no apples. I gave my apple to Kimberly, who ate it. At dusk I said aloud that I had no food, waited for night, and slept in the yellow bed; the sleep worked. Next: keep looking for animals with the group, give any meat to Kimberly first, and keep getting to know everyone.
 
 Day 227: I woke at dawn by the yellow beds, healthy and fed. I gathered 9 oak logs and an apple, then handed the apple to Kimberly at about -277, 67, 297 (her give worked, and she is eating it). I slept in the yellow bed at night with the group. Next: find food with the group, and keep getting to know Billy, Zack, Trini, Jason and Tommy.
 

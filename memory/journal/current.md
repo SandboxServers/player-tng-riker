@@ -23,3 +23,6 @@
 - 17:30 act: {"say":"Riker scouting east from the south-east spot. No animals seen yet. Any meat goes to Kimberly first.","intent":{"goal":"scout_east_for_animals","program":"travel","arguments":{"target":{"x":-24
 - 17:34 act: {"say":"Riker: trying the oak leaves here for apples too. Calling out anything that drops; apples go to Kimberly.","actions":[{"do":"mine","block":"oak_leaves","count":4}]}
 - 17:39 act: {"say":"Riker: no animals found east or south-east today. Heading back to the yellow beds before dark; will call out any food at dawn.","intent":{"goal":"return_to_yellow_beds_for_night","program":"tr
+- 17:40 act: {"say":"Riker at the yellow beds, dusk on day 228. Still no food here. I'll stay by the bed and sleep when it is night.","intent":{"goal":"wait_for_night_at_bed","program":"rest","arguments":{"seconds
+- 17:40 act: {"intent":{"goal":"wait_for_night_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":
+- 17:44 act: {"actions":[{"do":"sleep"}],"say":"Riker going to the yellow bed for the night. No food yet; anything found goes to Kimberly first at dawn."}
