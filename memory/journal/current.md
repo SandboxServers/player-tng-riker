@@ -107,3 +107,12 @@
 - 19:31 act: {"actions":[{"do":"goto","target":{"x":-296,"y":67,"z":290}}],"say":"Skeleton is shooting me. Retreating east to the white bed at -298,68,295. Tommy, follow me out of its line.","intent":{"goal":"flee
 - 19:32 act: {"actions":[],"say":"Riker at 1.8 health, hunger 17, no food. I'm at the white beds at -296,68,290 by the pond. Anyone with apple or meat, please bring it here. I'll stay still and out of sight.","int
 - 19:40 act: {"actions":[{"do":"sleep"}]}
+- 19:44 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}],"say":"Riker: night, no food, health 1.8. Going to the white bed to sleep. Any meat goes to Billy first."}
+- 19:48 act: {"intent":{"goal":"scout_for_food_east","program":"travel","arguments":{"target":{"x":-283,"y":67,"z":300}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_t
+- 19:48 say: {"text":"Riker: no food either, health 1.8. If anyone finds salmon or apples, I'm near the pond east side. Billy and Jason first."}
+- 19:53 act: {"actions":[{"do":"mine","block":"oak_leaves","count":4}],"say":"Riker: no food yet. I'm breaking oak leaves for apples here. Anything found goes to Billy first."}
+- 19:54 act: {"actions":[{"do":"mine","block":"oak_leaves","count":6}]}
+- 19:59 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":320}}],"say":"Riker: no food yet. Moving back near the white beds at -270,318 with the group, away from the bows to the east."}
+- 19:59 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}},{"do":"sleep"}]}
+- 19:59 act: {"intent":{"goal":"hold_at_white_bed_until_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block
+- 20:01 act: {"actions":[{"do":"sleep"}]}

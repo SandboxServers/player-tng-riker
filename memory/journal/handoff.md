@@ -1,3 +1,10 @@
+# Handoff, dusk of day 234
+
+- At the pond white beds, about -298, 68, 293, next to the bed at -298, 68, 294. Sheltered, not enclosed. Tommy 3 blocks off, Troi beside me.
+- Health 1.8, hunger 17, no food. Health does not regenerate while hunger is low, so food comes first at dawn.
+- Sleep reported "worked" at dusk. Skeletons are west of the pond; keep away from it.
+- Next: at dawn look for apples, animals or salmon; any food goes to Billy first, then Jason, then Worf. Avoid the pond's west side.
+
 # Handoff, night of day 233
 
 - Standing at the white beds near -272, 67, 336 with Kimberly and Tommy. Health 20, hunger 20, not enclosed. No food in pack.
