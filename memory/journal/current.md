@@ -19,3 +19,7 @@
 - 17:24 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"apple","count":1}],"say":"Kimberly, here is your apple. It's yours."}
 - 17:24 act: {"intent":{"goal":"return_to_yellow_bed","program":"travel","arguments":{"target":{"x":-282,"y":69,"z":372}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"]
 - 17:25 act: {"intent":{"goal":"return_to_yellow_bed","program":"travel","arguments":{"target":{"x":-282,"y":69,"z":370}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_
+- 17:30 act: {"say":"Riker, dawn of day 228. Health and hunger 20, no food. I'll scout south-east on the grass, away from the west group, and call out any animal. Any meat goes to Kimberly first.","intent":{"goal"
+- 17:30 act: {"say":"Riker scouting east from the south-east spot. No animals seen yet. Any meat goes to Kimberly first.","intent":{"goal":"scout_east_for_animals","program":"travel","arguments":{"target":{"x":-24
+- 17:34 act: {"say":"Riker: trying the oak leaves here for apples too. Calling out anything that drops; apples go to Kimberly.","actions":[{"do":"mine","block":"oak_leaves","count":4}]}
+- 17:39 act: {"say":"Riker: no animals found east or south-east today. Heading back to the yellow beds before dark; will call out any food at dawn.","intent":{"goal":"return_to_yellow_beds_for_night","program":"tr
