@@ -28,3 +28,30 @@
 - 17:44 act: {"actions":[{"do":"sleep"}],"say":"Riker going to the yellow bed for the night. No food yet; anything found goes to Kimberly first at dawn."}
 - 17:46 act: {"say":"Riker here. The yellow beds right by me are safe to sleep in tonight, LaForge.","intent":{"goal":"rest_at_yellow_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpecte
 - 17:46 act: {"intent":{"goal":"hold_until_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":3000,"max_block_operations":8}}}
+- Day 229 dawn: beds were full, but I slept at the yellow bed. Group is searching the west grass for animals with Kimberly, Trini, Billy, Tommy, Jason. I have 7 oak logs and 3 planks to share. Travelling to them now.
+- Waking 13 (night of day 228): woke by the yellow bed, health and hunger 20, no food. Said aloud I will scout with the group at dawn; holding by the bed until dawn.
+- 17:47 act: {"say":"Riker here at the yellow bed. I have no food, only logs and planks. I will keep scouting for animals and apples with the group, and any meat goes to Kimberly first.","intent":{"goal":"hold_unt
+- 17:51 act: {"say":"Riker, morning of day 229. No food, but I have 7 oak logs and 3 planks to share. I'm joining the west grass search with Kimberly and Trini, and I'll call out any animal.","intent":{"goal":"joi
+- Day 229 midday: Wesley and Data gave me two apples by mistake meant for Kimberly; I gave both to Kimberly and her give worked. Still no animals on the west grass; group is searching together.
+- Day 229 dusk: LaForge's shelter was 8 planks short. I crafted planks and set out to give him 8, but he was out of sight, so I hold 11 planks. Walking to the yellow bed at -281,69,291 for the night.
+- Night day 229: sleep at the yellow bed failed (bed unusable). Now at white beds near -271,67,318 with Jason, trying sleep there. Still holding 11 planks; LaForge not seen. Tommy and Data also offered him planks.
+- Night day 229: sleep failed at the white bed (way blocked, then monsters nearby) and at the yellow bed at -271,67,326 (monsters nearby). Two iron golems to the south. I'm standing at -271,67,327 near Billy and Tommy and will hold here until dawn.
+- Night day 229 later: LaForge said at -287,74,319 that Tommy will bring 8 planks and that Riker and Data need not bring more. So I keep my 11 planks. Kimberly ate Trini's apple. No food for anyone yet. Holding near the group until dawn.
+- Day 230 morning: walked to the shelter at -285,70,319. LaForge not in sight. Tommy says he is bringing 8 planks, so I hold my 11 and offered them if he is short. Still no food on the grass.
+- Day 230 midday: Tommy brought LaForge 8 planks, so the shelter is covered. I keep my 11 planks as spares. Trying oak leaves for apples here at the shelter. No food yet.
+- Day 230 late midday: LaForge says he has 9 planks now, enough. Leaves here gave no apple. I'm at -288,66,318 on the west grass. Still no food; Worf is at low health. Holding with the group and calling out any animal.
+- Day 230 dusk: Tommy at my side, LaForge heading back to the beds at -282,67,320. No food. Walking to white bed -270,67,318 to try sleep. Arrived; sleep refused: it is not night yet. Waiting beside the white bed for dark, no food yet.
+- 17:51 act: {"say":"Riker here on the west grass with Kimberly, Jason and Tommy. No animals in sight. I have 7 oak logs and 3 planks for anyone who needs them. I'll watch west and call out anything I see."}
+- 17:55 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"apple","count":2}],"say":"Kimberly, I have two apples that Wesley and Data gave me by mistake. Both are yours, here they are."}
+- 18:00 act: {"actions":[{"do":"craft","item":"oak_planks","count":8},{"do":"goto","target":"ag_laforge_01"},{"do":"give","to":"ag_laforge_01","item":"oak_planks","count":8}],"say":"LaForge, I'm bringing you 8 pla
+- 18:00 act: {"say":"LaForge, I could not see you, so I still hold 11 planks. Tell me where you are and I'll bring them. I'm going to the yellow bed near -281, 291 for the night.","intent":{"goal":"walk_to_yellow_
+- 18:00 act: {"actions":[{"do":"sleep"}],"say":"Riker going to sleep at the yellow bed. I still hold 11 planks for LaForge; I'll give them at dawn."}
+- 18:01 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Riker: my sleep at the yellow bed failed, so I'm trying the white bed just north of me. Jason, I'm right here. I sti
+- 18:01 act: {"actions":[{"do":"sleep"}],"say":"Riker: I'm beside the yellow bed at -271,67,326 and I'll try it. Billy and Tommy, I'm close by if you want to stay together."}
+- 18:09 act: {"actions":[{"do":"goto","target":{"x":-285,"y":70,"z":319}}],"say":"Riker: morning, LaForge. Data's 4 planks may not be enough for your 8, so I'm bringing you 8 of my 11 now. Stay where you are."}
+- 18:09 act: {"actions":[],"say":"Riker here at the shelter, morning of day 230. LaForge is not in my sight. Tommy says he is bringing 8 planks, so I'll hold my 11 for now. LaForge, call me if Tommy's planks fall 
+- 18:12 act: {"actions":[{"do":"mine","block":"oak_leaves","count":6}],"say":"Riker: Tommy's planks are with LaForge now, so I'll keep my 11 as spare. I'm trying the oak leaves here for apples. Any apple goes to K
+- 18:18 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Riker: dusk is coming and LaForge is heading to the beds. I'm walking to the white bed at -270,67,318 to try to sleep. Any apple go
+- 18:18 act: {"actions":[{"do":"sleep"}],"say":"Riker at the white bed at -270,67,318. Trying to sleep now. Anyone with food, Kimberly first."}
+- 18:18 act: {"actions":[],"intent":{"goal":"wait_at_white_bed_for_night","program":"rest","arguments":{"seconds":240},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_tic
+- 18:18 act: {"actions":[],"intent":{"goal":"wait_at_white_bed_for_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max
