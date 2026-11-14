@@ -118,3 +118,4 @@
 - 20:01 act: {"actions":[{"do":"sleep"}]}
 - 20:04 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Riker: I'm taking the white bed here at -271,67,336 for the night. No food on me, sorry."}
 - 20:05 act: {"actions":[{"do":"sleep"}]}
+- 20:07 act: {"actions":[{"do":"sleep"}],"say":"Riker here at the white bed, night on day 235. No food yet. Trying to sleep; Data and Troi, stay close.","intent":{"goal":"rest_at_white_bed","program":"rest","argum
