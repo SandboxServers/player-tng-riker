@@ -59,3 +59,7 @@
 - 18:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
 - 18:24 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Riker: sleep was refused, monsters nearby. I'm going to the white bed by the crafting table. Billy, stay close to me.","intent":{"g
 - 18:24 act: {"actions":[{"do":"sleep"}]}
+- 18:27 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":325}},{"do":"sleep"}],"say":"Riker: it is night, no food yet for anyone. I'm going to the yellow bed at -271,67,326 to sleep. Kimberly first if f
+- 18:29 act: {"say":"Riker here, dawn of day 231. Still no food. I'll join Jason and Billy on the south grass and call out any animal or apple. Billy gets any food first.","intent":{"goal":"search_south_grass_with
+- 18:29 act: {"say":"Riker: I could not follow Jason, he is out of my sight. Billy is right beside me; I'll stay with him and scout the grass near the beds. Call me if you see an animal.","intent":{"goal":"scout_g
+- 18:41 act: {"actions":[{"do":"sleep"}],"say":"Riker: night on day 231, no food found today. Sleeping at the yellow bed; food goes to Billy first at dawn."}
