@@ -1,3 +1,9 @@
+# Handoff, night of day 238
+
+- Slept at the white bed -270, 67, 318 (sleep worked). Group nearby: Trini, Jason, Troi. Not enclosed.
+- Health 1.8, hunger 15, no food. Holding 1 wheat (Trini refused it raw; keep for bread with 2 more).
+- Next: at dawn scout west grass with the group for animals, apples, seeds. Any food goes to Trini first, then me.
+
 # Handoff, night of day 236
 
 - At the white bed near -270, 67, 318 with the group (Trini, Tommy, Kimberly, Jason, Worf, Wesley, LaForge, Data, Billy). Not enclosed.

@@ -138,3 +138,17 @@
 - 20:27 act: {"say":"Riker at the white bed with the group. Trying sleep once more now.","actions":[{"do":"sleep"}]}
 - 20:32 act: {"say":"Riker here. Health 1.8, hunger 15, no food. I'm going south-east on the grass for seeds or animals. Any food goes to Trini first, then Tommy.","intent":{"goal":"scout_se_grass_for_food","progr
 - 20:32 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":330}}]}
+- 20:34 act: {"say":"Riker here, health 1.8, hunger 15, no food. I'm holding at the yellow beds. Any food goes to me or Trini, whoever is lowest.","intent":{"goal":"hold_at_beds_for_food","program":"rest","argumen
+- 20:34 act: {"intent":{"goal":"hold_at_beds_for_food","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":6000,"max_block_operati
+- 20:40 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":326}},{"do":"sleep"}],"say":"Riker going to the yellow bed for the night. Food to Trini first, then me."}
+- 20:40 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}]}
+- 20:45 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"say":"Riker going to sleep in the yellow bed. Food at first light goes to Trini, then me."}
+- 20:45 act: {"intent":{"goal":"shelter_for_sleep","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_w
+- 20:49 act: {"actions":[{"do":"goto","target":{"x":-263,"y":66,"z":320}},{"do":"mine","block":"wheat","count":3}],"say":"Riker: the wheat at -263,66,321 is ripe. I'm going to harvest it now. Trini gets the first 
+- 20:49 act: {"say":"Riker here by the wheat. Jason, Trini gets the first of it, then me. Tell me when it's in hand.","intent":{"goal":"receive_wheat_share","program":"trade_wait","arguments":{},"wake_on":["direct
+- 20:52 act: {"say":"Riker: I have 1 wheat from Jason, and Trini released hers to me. Wheat alone won't feed, so I'll keep it for bread and call out when there are three. Any more ripe wheat, Trini first.","action
+- 20:59 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"wheat","count":1}],"say":"Riker here at -264, 66, 320, health 2, hunger 15. Trini, I'm giving you my one wheat. Trini first for any food.","intent":
+- 21:01 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"intent":{"goal":"reach_white_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed","p
+- 21:01 act: {"actions":[{"do":"note","text":"Handoff night of 238: at white bed -270,67,318 with Trini, Jason, Troi. Not enclosed. Health 1.8, hunger 15, no food. Holding 1 wheat (Trini refused it raw). Next: at 
+- 21:09 act: {"say":"Riker, day 239, health 2, hunger 15. Going north with the group to the sheep field, in sight of Trini. Any mutton goes to Trini first, then me.","intent":{"goal":"join_sheep_search","program":
+- 21:14 act: {"actions":[{"do":"eat"}],"say":"Riker: thank you Zack and Ezra. I'm eating the chicken now, health 2. Trini already has food, so I'll keep the rotten flesh as a last resort."}
