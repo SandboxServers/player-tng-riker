@@ -173,3 +173,9 @@
 - 21:32 act: {"actions":[],"say":"Trini, I can't see you from here. Stand where I can see you and I will hand you the chicken. Data and Jason are next to me; say if either of you is weaker than Trini.","intent":{"
 - 21:32 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"chicken","count":1}]}
 - 21:32 act: {"actions":[{"do":"give","to":"ag_data_01","item":"chicken","count":1}],"say":"Trini is not in sight after four tries. Data is in reach at health 3 with no food, so the chicken goes to Data now. Trini
+- 21:33 act: {"say":"Trini, I'm here by the beds with my last wheat and 2 rotten flesh. The wheat is yours as soon as you're in reach.","intent":{"goal":"hand_food_to_trini","program":"trade_wait","arguments":{"ta
+- 21:33 act: {"intent":{"goal":"wait_for_trini_then_give_wheat","program":"rest","arguments":{"seconds":120},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"
+- 21:34 act: {"intent":{"goal":"wait_for_trini_then_give_wheat","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_ope
+- 21:34 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"wheat","count":1},{"do":"give","to":"ag_trini_01","item":"rotten_flesh","count":2}],"say":"Trini, giving you the wheat and both rotten flesh now."}
+- 21:34 act: {"say":"Trini, I can't see you from here. I'm standing at -272,68,316 by the white beds with your wheat and rotten flesh. Step into view and I'll hand them over.","intent":{"goal":"give_food_to_trini_
+- 21:34 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"wheat","count":1},{"do":"give","to":"ag_trini_01","item":"rotten_flesh","count":2}],"say":"Trini, you're in reach now. Wheat and rotten flesh coming
