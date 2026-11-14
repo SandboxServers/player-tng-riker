@@ -207,3 +207,9 @@
 - 22:31 act: {"actions":[{"do":"goto","target":{"x":-310,"y":67,"z":318}}],"say":"Riker here at -292, 67, 318, no food. Following the west hunt toward Billy. Any animal goes to Trini first."}
 - 22:35 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":320}}],"say":"Riker walking back to the beds with the group. No animals west. Food goes to Trini first."}
 - 22:43 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Riker trying the white bed for the night. No food; Trini first at light."}
+- 22:48 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"I'm at the white bed. Health is low and I have no food. Trying to sleep."}
+- 22:48 act: {"intent":{"goal":"follow_worf_for_food","program":"follow","arguments":{"target":"ag_worf_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":3
+- 22:48 act: {"say":"Riker here at dawn, day 243. Health 1.8, no food. I'm going with the group to the north-west lake for salmon. Any fish goes to Trini first, then me.","intent":{"goal":"travel_to_north_lake_wit
+- 22:48 act: {"say":"Riker at the white beds. The travel failed, so I'm holding here near the crafting table. Zack, if you are going to the lake, call me when you have fish. I'm watching the beds.","intent":{"goal
+- 22:50 act: {"actions":[{"do":"goto","target":{"x":-274,"y":68,"z":318}}],"say":"Riker: I was struck down while waiting at the beds and woke at spawn with nothing. I'm going to my dropped pile at -274,68,318 now.
+- 22:50 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":324}}],"say":"Riker: a phantom is close to me. Trini, keep your chicken; you need it more. I'm moving to the group now."}
