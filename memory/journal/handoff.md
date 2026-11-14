@@ -1,10 +1,10 @@
-# Handoff, day 230 dusk
+# Handoff, night of day 230
 
-- Standing beside the white bed at -270, 67, 318 (other white bed at -271, 67, 318). Health 20, hunger 20.
-- Sleep was refused at 230 midday: "it is not night." Try the bed again once night falls.
-- Holding 11 oak planks as spares. LaForge's shelter is covered (9 planks, enough).
+- Standing by the white bed at -270, 67, 327 area with Billy, Trini, Jason, LaForge and Bcrusher nearby. Health 20, hunger 20.
+- Sleep was refused twice tonight: monsters nearby. My session was superseded during a wait.
+- Holding 11 oak planks as spares. LaForge's shelter is covered.
 - No food found on day 230. Kimberly is the first to get any apple or meat.
-- Next: wait for night, then sleep here; if refused, try the yellow bed at -271, 67, 326. Keep scouting at dawn.
+- Next: when sleep is allowed, sleep at the nearest free bed; at dawn keep scouting for food with the group.
 
 # Old handoff, end of day 229
 
