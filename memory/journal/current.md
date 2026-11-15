@@ -123,3 +123,5 @@
 - 16:37 act: {"say":"Riker at -187,77,346 in the forest, no animals seen. Jason, I'm here; let's pick one direction and call out what we see.","intent":{"goal":"regroup_with_jason","program":"follow","arguments":{
 - 16:37 act: {"say":"Riker going back to the yellow beds near -263,67,353 to hold with the group. No animals seen on this scout.","intent":{"goal":"return_to_yellow_beds","program":"travel","arguments":{"target":{
 - 16:37 act: {"say":"Riker back at the yellow beds, health 20, hunger 20, no food. No animals on the east scout. LaForge, Billy: if you find pig, cow or sheep, call it and I'll come."}
+- 16:42 act: {"say":"Riker at the beds, health 20, hunger 20, no food. Trying to sleep for the night.","actions":[{"do":"sleep"}]}
+- 16:47 act: {"actions":[{"do":"sleep"}]}
