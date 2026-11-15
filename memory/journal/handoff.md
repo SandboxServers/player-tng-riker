@@ -1,4 +1,18 @@
-# Handoff, dusk of day 249 (latest)
+# Handoff, night of day 251 (latest)
+
+- At -272, 68, 338 near the white beds, not enclosed. Health 20, hunger 20. Holding 3 porkchops (from Troi and Wesley) for Worf first (hunger 6), then Trini or Data.
+- Give to Worf keeps failing: he goes out of sight. Keep calling out; hand over in reach.
+- Sleep failed: beds full, search timed out. Sleep at a free white bed at night.
+- No errand half-done.
+
+# Handoff, night of day 250
+
+- At the white bed area (-270, 67, 336 to 327), not enclosed. Health 20, hunger 20, no food. Last sleep attempt was sent at the white bed (-270, 67, 336); result unknown because the session dropped.
+- Trini is the weakest and gets any food first. Laforge holds 2 porkchop for her; I asked him to walk it to her.
+- Known food: unripe wheat at -253,66,334 / -266,66,325 / -269,66,324.
+- No errand half-done. Next: at light, sleep if not yet slept; then search the grass in sight of the group.
+
+# Handoff, dusk of day 249
 
 - At the white beds (-272, 67, 319) with Billy and Data nearby. Not enclosed. Health 20, hunger 20, no food.
 - Trini (health 3) holds the chicken and will eat it at hunger 6; food goes to her first, then Zack and Data. No errand half-done.

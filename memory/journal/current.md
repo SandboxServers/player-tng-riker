@@ -132,3 +132,25 @@
 - 00:13 act: {"say":"Riker: the follow to Zack failed, probably because he is out of sight. I'm staying at the white beds. Golems are to the south, so I won't go south. Any food, call out and I'll come."}
 - 00:24 act: {"say":"Geldar here. I have no food, health 20. I'm staying near the group and will try the bed again.","actions":[{"do":"sleep"}],"intent":{"goal":"rest_until_dawn","program":"rest","arguments":{},"w
 - 00:29 act: {"say":"Riker, dawn of day 249. Health 20, no food. I'll search the grass near the beds in sight of the group; any food goes to Trini first.","actions":[{"do":"goto","target":{"x":-272,"y":67,"z":320}
+- 00:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Good night. I'm at the white bed with the group, and I have no food on me."}
+- 00:41 act: {"intent":{"goal":"wait_for_creeper_to_leave_then_sleep","program":"rest","arguments":{"seconds":120},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":
+- 00:44 act: {"actions":[{"do":"sleep"}],"say":"Goodnight, everyone. I have no food; Trini first at light."}
+- 00:49 act: {"intent":{"goal":"search_grass_near_group_for_animals","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":340}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","g
+- 00:49 act: {"say":"Riker: searched the grass south of the beds, no animals or food. Holding near the yellow beds in sight of the group. Trini first if anyone finds food.","intent":{"goal":"hold_near_yellow_beds_
+- 00:53 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":337}}],"say":"Riker here, midday day 250, no food on me. I'm going to the white beds to stay with Trini. Any food call-out, I'll help carry it to
+- 00:53 act: {"actions":[],"intent":{"goal":"hold_at_beds_for_food","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_
+- 00:53 act: {"actions":[{"do":"sleep"}],"say":"Riker: it's dark. I'm going to sleep at the white bed by Trini. Anyone with food, come find me at light."}
+- 00:56 act: {"actions":[{"do":"sleep"}]}
+- 01:00 act: {"actions":[{"do":"sleep"}],"say":"Laforge, Trini is 9 blocks north at the crafting table, -270,67,327. Please walk the porkchop to her now."}
+- 01:03 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 01:05 act: {"actions":[{"do":"sleep"}],"say":"Glad Trini ate. Riker sleeping at the white bed here; food at first light goes to her first."}
+- 01:07 act: {"actions":[{"do":"sleep"}]}
+- 01:08 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":327}}],"say":"Dawn. My sleep failed at the beds, the way was blocked. I am going back to the white beds to look for food with the group.","intent
+- 01:10 act: {"actions":[],"say":"Riker at the beds, day 251. No food on me. I'll search the grass just west of the beds in sight of Worf and Laforge. Any animal I find goes to Worf or Trini first."}
+- 01:17 act: {"actions":[],"say":"Worf is weakest, so the porkchop goes to Worf, then Trini. I have no food, only logs and cobblestone. I'll stay at the beds with you and sleep at a bed at dusk."}
+- 01:21 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"porkchop","count":2}],"say":"Worf, I have 3 porkchops from Troi and Wesley. Giving you 2 now. I'll keep one for Data or Trini, whoever is in sight fi
+- 01:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Worf is out of my sight, so I'm holding the 3 porkchops. Worf, Data or Trini, call out and I'll give them. I'm going
+- 01:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 01:23 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":335}},{"do":"give","to":"ag_worf_01","item":"porkchop","count":2}],"say":"Worf, coming to you now with the porkchops."}
+- 01:23 act: {"actions":[],"say":"Riker holding 3 porkchops at -272,68,338. Worf, Trini or Data, come into sight and say so; I'll hand them over in reach."}
+- 01:26 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"porkchop","count":2}],"say":"Worf, giving you 2 porkchops now. Eat one at hunger 6."}
