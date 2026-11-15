@@ -426,3 +426,36 @@
 - 09:22 act: {"actions":[{"do":"sleep"}]}
 - 09:23 act: {"intent":{"goal":"rest_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_
 - 09:25 act: {"actions":[{"do":"wait","seconds":30},{"do":"sleep"}],"say":"Phantom was close and sleep was refused. Trying the bed again."}
+- 09:28 act: {"intent":{"goal":"scout_grass_for_food","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"]
+- 09:28 act: {"intent":{"goal":"reach_bed_and_sleep","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":1200,"max_block_operations":8}
+- 09:30 act: {"intent":{"goal":"join_sheep_search","program":"travel","arguments":{"target":{"x":-242,"y":68,"z":259}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"],"l
+- 09:31 act: {"intent":{"goal":"return_to_beds_with_group","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":320}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_comple
+- 09:35 act: {"actions":[{"do":"wait","seconds":5}],"say":"Riker, still at the beds, no food, hunger 17. Troi and Trini first with the mutton; I will go out with anyone who finds wheat or an animal."}
+- 09:39 act: {"actions":[],"say":"I hold 2 beef from LaForge, hunger 17. Trini first, then Troi. Trini or Troi, say where you are and I will bring it."}
+- 09:43 act: {"actions":[{"do":"give","to":"ag_troi_01","item":"beef","count":2}],"say":"Troi, here are my 2 beef. Trini is not in sight, so they are yours."}
+- 09:44 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 09:52 act: {"intent":{"goal":"join_cow_hunt","program":"follow","arguments":{"target":"ag_troi_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":3000,"max_blo
+- 09:52 act: {"intent":{"goal":"reach_cow_spot","program":"travel","arguments":{"x":-228,"y":68,"z":209},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":3000,"max_
+- 09:52 act: {"intent":{"goal":"reach_cow_spot","program":"travel","arguments":{"target":{"x":-228,"y":68,"z":209}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks"
+- 10:01 act: {"intent":{"goal":"reach_white_bed","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks
+- 10:02 act: {"actions":[{"do":"sleep"}],"say":"At the white bed now. Trying to sleep."}
+- 10:02 act: {"actions":[{"do":"sleep"}]}
+- 10:11 act: {"intent":{"goal":"join_meat_hunt_southeast","program":"travel","arguments":{"target":{"x":-222,"y":68,"z":226}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wo
+- 10:16 act: {"say":"Riker here at the cow spot, hunger 16, no food. Macdonald, Trini first with the mutton, then me if any is left."}
+- 10:20 act: {"intent":{"goal":"return_to_beds_for_night","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wo
+- 10:21 act: {"actions":[{"do":"sleep"}],"say":"Riker at the bed, hunger 16, no food. Kimberly, you are weakest; Troi's beef is going to Lewis and Bcrusher, I have none to give."}
+- 10:25 act: {"actions":[{"do":"sleep"}],"say":"Riker trying the bed again now. Trini, you are back; Macdonald holds mutton for you, and I have no food."}
+- 10:30 act: {"intent":{"goal":"join_chicken_hunt_north","program":"travel","arguments":{"target":{"x":-275,"y":67,"z":237}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wor
+- 10:31 act: {"actions":[{"do":"goto","target":{"x":-275,"y":67,"z":237}}],"say":"Zombie hitting me, health 8. I have no weapon; moving away."}
+- 10:31 act: {"intent":{"goal":"flee_zombie_north_west","program":"travel","arguments":{"target":{"x":-300,"y":64,"z":180}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_worl
+- 10:31 act: {"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks"
+- 10:31 act: {"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks"
+- 10:31 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed","une
+- 10:36 act: {"actions":[],"say":"I have no weapon or food, so I can only watch. Macdonald, get next to the beds. Kimberly, I will stay here."}
+- 10:40 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Trying to sleep at the bed here. Chicken went to Lewis; Trini next."}
+- 10:44 act: {"actions":[{"do":"sleep"}]}
+- 10:56 act: {"actions":[{"do":"give","to":"ag_lewis_01","item":"oak_sapling","count":3},{"do":"give","to":"ag_lewis_01","item":"oak_log","count":10}],"say":"Lewis, Worf says the saplings and logs were meant for y
+- 11:04 act: {"actions":[{"do":"sleep"}],"say":"Night, day 280. No food on me. Trying the bed here with the group; Picard, LaForge and Trini first for any food at dawn."}
+- 11:04 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 11:06 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 11:10 act: {"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":336}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks"

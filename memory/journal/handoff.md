@@ -1,4 +1,18 @@
-# Handoff, night of day 275 (latest)
+# Handoff, day 279 midday (latest)
+
+- Died on day 279 to an unseen zombie near -302,175 (no weapon). Respawned; now at the white bed -270,67,318 with Trini, Troi, Leonardo in reach. Health 20, hunger 20, empty pack. 1 dirt left at -302,63,175 (not worth it).
+- Clark has a chicken for Trini first, then the hungriest. Macdonald gave Trini mutton. Chapman hungry (17).
+- No errand half-done. No intent running.
+- Next: no weapon, no food. Stay with the group at the beds. Give any meat to Trini first, then the hungriest. Sleep at a white bed at night (-270,67,318 or -270,67,336). Do not walk the north road alone.
+
+# Handoff, night of day 277 (older)
+
+- Walking to the white beds at -270,67,318 (travel intent running). Not sheltered yet; open grass, dim. Health 20, hunger 16, pack 1 dirt. Days since sleep 13.
+- No food at the cow spot -228,68,210. Leonardo near, Troi about 12 blocks away.
+- Held for Trini: 2 beef (LaForge), 1 (Troi). Trini not located.
+- Next: at the beds, try sleep if no golem or creeper is near; otherwise stay with the group. Food goes to Trini first.
+
+# Handoff, night of day 275
 
 - At the white bed -270,67,318 (bed -271,67,318 beside me) with LaForge, Troi, Clark nearby. Not enclosed. Health 20, hunger 17, empty pack (1 dirt). Days since sleep 11.
 - No food found day 275 in the north-west. Sheep seen at -242,68,259; Troi and Data going there at first light. Lewis holds 2 mutton for Trini.
