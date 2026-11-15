@@ -100,3 +100,10 @@
 - 15:52 act: {"actions":[{"do":"goto","target":{"x":-231,"y":67,"z":346}}],"say":"Riker, dawn 295. I died at -231,67,346 and my pack is there, with a chicken. I'm full now, so I'll go pick it up and bring it to We
 - 15:52 act: {"actions":[{"do":"note","text":"Day 295 midday: the death spot -231,67,346 is empty. My pack and the chicken are gone. Going back to the group at the beds."},{"do":"goto","target":{"x":-270,"y":67,"z
 - 16:03 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Night is here. I am going to the white bed with the group, no food yet."}
+- 16:04 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Riker, night 295, no food, hunger 20, health 20. Going to the white bed to sleep.","reasoning":"Night, no monsters n
+- 16:05 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"reasoning":"Sleep blocked twice at the 318 bed. Golems are 12+ blocks off. Stand at the other bed and wait for the monsters to move befor
+- 16:05 act: {"actions":[{"do":"sleep"}],"say":"Riker at the bed at -270,67,336, no monsters in view. Trying to sleep.","reasoning":"No hostile in view now. One try at this bed; if it is blocked, I wait for dawn w
+- 16:09 act: {"actions":[{"do":"goto","target":{"x":-213,"y":69,"z":351}}],"say":"Riker, dawn of day 296. Health 20, hunger 20, no food. I'm heading east to the pig area at -213,69,351. Any meat I find goes to who
+- 16:10 act: {"actions":[{"do":"goto","target":{"x":-205,"y":70,"z":362}}],"say":"Riker: my path east was blocked, so I'm trying south-east toward -205,70,362 where the pigs were. Calling out any animal.","reasoni
+- 16:10 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":352}}],"say":"Riker: no animals out here and it is dark. Going back to the group near -262,67,352 with Trini and Jason.","reasoning":"Alone at ni
+- 16:14 act: {"actions":[],"say":"Riker, health 20, hunger 20, no food and no weapon. Leonardo, I'll scout west with you for pigs or cows. Meat goes to Wesley first. Say when you leave.","reasoning":"Several peopl
