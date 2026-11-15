@@ -34,3 +34,31 @@
 - 13:54 act: {"intent":{"goal":"wait_at_beds_for_food_share","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":1200,"max_block_o
 - 13:58 act: {"actions":[{"do":"note","text":"Riker at beds -272,67,322, hunger 15, no food. Leonardo (11) and Picard (14) are lower; mutton goes to them first."}],"say":"Riker, hunger 15, no food. Leonardo and Pi
 - 14:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["goal_completed","di
+- 14:22 say: {"text":"Riker here, night 290, no food, hunger 15. Two iron golems about 8 blocks west. I'll wait by the bed and sleep once they move off."}
+- 14:24 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":337}}],"reasoning":"Golems now ~20 blocks away. Move next to bed, then sleep."}
+- 14:27 act: {"actions":[{"do":"goto","target":{"x":-213,"y":69,"z":351}}],"say":"Riker: morning. No food, hunger 15. Heading east to the pigs near -213,69,351 with the hunt. Meat goes to Zack and Leonardo first."
+- 14:29 act: {"actions":[{"do":"goto","target":"ag_picard_01"}],"say":"Riker here, a phantom is on me. Moving to Picard and Clark.","reasoning":"Phantom hitting me, no weapon. Dawn is coming and Picard and Clark a
+- 14:33 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":6},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"
+- 14:35 act: {"actions":[{"do":"craft","item":"oak_planks","count":8},{"do":"craft","item":"crafting_table","count":1},{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}],"reaso
+- 14:35 act: {"actions":[{"do":"goto","target":{"x":-222,"y":68,"z":351}}],"say":"Riker: I have a wooden sword now. Going back to the pig hunt at -222,68,351.","reasoning":"Armed now. Rejoin the hunt at the pig ar
+- 14:43 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":337}}],"say":"Riker: going west with the group to the white beds for the night. No pigs found, no food.","reasoning":"Group is heading to the bed
+- 14:44 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"No mob within 8 blocks now (golems 12+). Try the bed."}
+- 14:44 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"reasoning":"Position shows -260,66,349, not at the bed. Walk back to the bed before trying sleep again."}
+- 14:47 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Nearest golem 12 blocks away, no phantom on me. Try the bed again."}
+- 14:48 act: {"actions":[{"do":"sleep"}],"reasoning":"The use on the bed was refused, but the sleep verb is the right way. Try sleep alone once."}
+- 14:49 act: {"actions":[{"do":"goto","target":{"x":-266,"y":67,"z":342}}],"reasoning":"Dawn. An iron golem stands beside me and I was hit. Move away to the group, southeast."}
+- 14:49 act: {"actions":[{"do":"attack","target":"phantom"},{"do":"attack","target":"phantom"}],"reasoning":"A phantom is on top of me and hitting. Fight it with the wooden sword."}
+- 14:50 act: {"actions":[{"do":"goto","target":{"x":-235,"y":67,"z":350}}],"reasoning":"Health 12, hunger 14, a phantom and golems close. Leave the golems and follow the group east toward the pig area."}
+- 14:50 act: {"actions":[{"do":"goto","target":{"x":-216,"y":69,"z":350}}],"reasoning":"Morning, no mobs in view. Follow Chapman and the group east to the pig area and look for any animal."}
+- 14:52 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantom on me to the north-west. Fighting it.","reasoning":"A phantom is attacking me at 2.9 blocks, health 10. I should fight it with the sword 
+- 14:52 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"The phantom is closing from the east. I will strike again while the group is near."}
+- 14:52 act: {"actions":[{"do":"goto","target":{"x":-208,"y":70,"z":358}},{"do":"attack","target":"pig"}],"say":"Pig to the south-east at -209,70,360. Going for it.","reasoning":"A pig is 13 blocks away, out of th
+- 14:52 act: {"actions":[{"do":"eat"}],"say":"Got 2 porkchops. One is for Picard or Leonardo when they are in sight; I am eating one now, I am at 8 health.","reasoning":"I hold 2 porkchops. I am at 8 health and ph
+- 14:52 act: {"actions":[{"do":"goto","target":"ag_picard_01"},{"do":"give","to":"ag_picard_01","item":"porkchop","count":1}],"say":"Picard, here is the last porkchop. Zack and Leonardo were not in sight, so it is
+- 14:52 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"A phantom is attacking me at 2 blocks, health 6. I gave the porkchop to Picard. I must hit back now."}
+- 14:53 act: {"actions":[{"do":"goto","target":{"x":-203,"y":71,"z":364}},{"do":"attack","target":"pig"}],"say":"Phantom gone west. Going for the pig at -202,71,366 now.","reasoning":"Health 4. The phantom has lef
+- 14:53 act: {"actions":[{"do":"goto","target":{"x":-153,"y":100,"z":327}},{"do":"attack","target":"cow"}],"say":"Cow at -152,100,327. Going to it; I have 2 porkchops in my pack.","reasoning":"I am far from the gr
+- 14:53 act: {"actions":[{"do":"goto","target":{"x":-200,"y":70,"z":356}}],"say":"Got beef and a porkchop from a cow here. Taking the meat back to the group: Zack and Leonardo first, then Picard.","reasoning":"I h
+- 14:54 act: {"actions":[{"do":"goto","target":"ag_picard_01"},{"do":"give","to":"ag_picard_01","item":"porkchop","count":1}],"say":"Picard, here is a porkchop. I still have 2 beef for Zack and Leonardo when they 
+- 14:54 act: {"actions":[{"do":"goto","target":"ag_leonardo_01"},{"do":"give","to":"ag_leonardo_01","item":"beef","count":2}],"say":"Leonardo, here is the beef, two pieces. Eat when your hunger is low.","reasoning
+- 14:54 act: {"actions":[{"do":"give","to":"ag_picard_01","item":"beef","count":1}],"say":"Picard, I could not find Leonardo, so this last beef is for you. Something hit me just now; I am watching for it.","reason
