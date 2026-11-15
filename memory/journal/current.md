@@ -294,3 +294,4 @@
 - 05:09 act: {"actions":[{"do":"goto","target":{"x":-297,"y":66,"z":319}}],"say":"Riker, day 263 dawn. No sleep again, golems blocked it. No food, hunger 12. Scouting the west grass with Zack and Data. Meat goes t
 - 05:13 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":326}}],"say":"Riker: phantom 8 blocks east of me at the west grass. Moving back to the beds with the group. No food, hunger 12.","reasoning":"A h
 - 05:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"reasoning":"Night, days since sleep 3, hunger 12. Try the yellow bed next to me once. If blocked, wait for light."}
+- 05:25 say: {"text":"Riker here, night of day 263. No food, hunger 12. Worf and Trini have first claim on any meat I find. I'm trying the white bed here."}
