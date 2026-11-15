@@ -245,3 +245,6 @@
 - 03:52 act: {"actions":[{"do":"note","text":"Day 259 midday: planted wheat seeds at -263,66,320 (tilled -263,65,320 first). Earlier tries at -263,66,323 failed: seeds need farmland below. Hunger 15, health 17, no
 - 04:01 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Heading to the north white bed for the night. Still no food; meat goes to Trini first."}
 - 04:01 act: {"actions":[{"do":"sleep"}],"say":"Riker going to sleep at the north white bed. No food; Trini first at dawn."}
+- 04:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 04:03 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Riker going to the north white bed to sleep now. No food; Trini first at dawn."}
+- 04:04 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
