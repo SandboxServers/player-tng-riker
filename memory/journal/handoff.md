@@ -1,4 +1,10 @@
-# Handoff, day 248 daytime (latest)
+# Handoff, dusk of day 249 (latest)
+
+- At the white beds (-272, 67, 319) with Billy and Data nearby. Not enclosed. Health 20, hunger 20, no food.
+- Trini (health 3) holds the chicken and will eat it at hunger 6; food goes to her first, then Zack and Data. No errand half-done.
+- Next: sleep at a white bed tonight; at dawn search the grass in sight of the group.
+
+# Handoff, day 248 daytime
 
 - At the white beds -271, 67, 327, not enclosed. Health 20, hunger 20, no food. Golems 13 to 20 blocks south; I am not going south.
 - The follow to Zack failed (he was out of sight). Zack, Kimberly, Picard and LaForge are searching nearby grass; none found food yet.
