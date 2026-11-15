@@ -261,3 +261,11 @@
 - 04:11 act: {"say":"Riker at the wheat field. All four plants are still unripe, no food. Golems are south, so I am staying north of the field. Data, I have 5 wheat seeds if you have clear tilled ground.","intent"
 - 04:15 act: {"actions":[{"do":"till","at":{"x":-263,"y":65,"z":325}}],"say":"Riker: Picard, I'm tilling the grass beside me now at -263,65,325 for planting. Data, I'll plant my 5 seeds there. Ripe wheat still goe
 - 04:15 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":-263,"y":66,"z":325}}]}
+- 04:18 act: {"actions":[{"do":"goto","target":{"x":-267,"y":66,"z":335}}],"say":"Riker here, no food, going to the ripe wheat at -267,66,335. Any wheat I get goes to Trini first.","reasoning":"Hunger 14, no food.
+- 04:19 act: {"actions":[{"do":"goto","target":{"x":-267,"y":66,"z":335}},{"do":"mine","block":"wheat","count":1}],"reasoning":"Ripe wheat is 4 blocks south. Golems are closing from the south-west and south, so mo
+- 04:19 act: {"actions":[{"do":"mine","block":"wheat","count":1}],"reasoning":"I am adjacent to the ripe wheat. The earlier mine did not report a result, so I am trying once more."}
+- 04:19 act: {"actions":[{"do":"goto","target":"ag_trini_01"},{"do":"give","to":"ag_trini_01","item":"wheat","count":1}],"say":"Trini, here is my one wheat. Eat it.","reasoning":"Trini gets food first. Golems are 
+- 04:19 act: {"actions":[{"do":"note","text":"Got 1 wheat from ripe plant at -267,66,335. Trini out of sight; golems between me and beds. Holding wheat for Trini."}],"say":"Riker: I have one wheat for Trini. Trini
+- 04:19 act: {"actions":[{"do":"goto","target":"ag_data_01"},{"do":"give","to":"ag_data_01","item":"wheat","count":1}],"say":"Data, here is my one wheat for the bread. Trini already has food.","reasoning":"Trini h
+- 04:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Riker going to the white bed for the night. No food; Trini first at dawn for any wheat.","reasoning":"Night has begu
+- 04:25 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"say":"Riker at the yellow bed, night of 260. No food on me. Trini first for any wheat at dawn.","reasoning":"Night, sheltered-ish near Tr
