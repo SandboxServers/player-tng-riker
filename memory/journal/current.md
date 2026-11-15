@@ -270,3 +270,27 @@
 - 04:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Riker going to the white bed for the night. No food; Trini first at dawn for any wheat.","reasoning":"Night has begu
 - 04:25 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"say":"Riker at the yellow bed, night of 260. No food on me. Trini first for any wheat at dawn.","reasoning":"Night, sheltered-ish near Tr
 - 04:26 say: {"text":"No food on me, sorry Trini. Kimberly has your porkchop; she is holding it for you. I'm sleeping at the yellow bed now."}
+- 04:26 act: {"say":"Riker, awake after sleep at the yellow bed, night of day 260. Health 17, hunger 13, no food. I'll hold here until dawn and then look for food with the group.","intent":{"goal":"hold_at_yellow_
+- 04:28 act: {"say":"Riker, dawn of day 260. No food. Trini has the first claim on the pig's meat and any wheat. I'm walking to the white beds at -270,67,334 to meet Trini and Tommy, and I'll offer my 7 wheat seed
+- 04:29 act: {"say":"Riker at dawn, day 261. Health 17, hunger 13, no food. Worf is weakest, so wheat and meat go to him first. I'm going to till the grass under me and plant my 7 seeds here, and I'll tell you wha
+- 04:29 act: {"actions":[{"do":"till","at":{"x":-268,"y":66,"z":336}}]}
+- 04:29 act: {"say":"Riker: tilling here failed twice (someone's work, and not tillable). Picard, you have a hoe and a plot. I'll give my 7 wheat seeds to you if you'll plant them, and tell me the plot. Trini and 
+- 04:37 act: {"actions":[{"do":"give","to":"ag_picard_01","item":"wheat_seeds","count":7}],"say":"Riker: Picard, here are my 7 wheat seeds for your plot at -290,68,285. Please plant them and tell me when they are 
+- 04:38 act: {"actions":[{"do":"give","to":"ag_picard_01","item":"wheat_seeds","count":7}],"say":"Riker: Picard, retrying the handoff: 7 wheat seeds for your plot. Tell me if you are out of reach."}
+- 04:38 act: {"actions":[{"do":"goto","target":"ag_picard_01"},{"do":"give","to":"ag_picard_01","item":"wheat_seeds","count":7}],"say":"Riker: Picard, I'm stepping to you to hand over the 7 wheat seeds."}
+- 04:38 act: {"actions":[],"say":"Riker: my 7 wheat seeds went to Kimberly by mistake (the give to Picard hit her). Kimberly, please pass them to Picard for his plot at -290,68,285, or plant them yourself. Picard,
+- 04:40 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Riker going to the white bed for the night. No food; Worf first, then Trini at dawn."}
+- 04:40 act: {"actions":[{"do":"give","to":"ag_picard_01","item":"wheat_seeds","count":1}],"say":"Kimberly, Picard has the seed plot at -290,68,285. Please hand the wheat seeds to Picard. Picard, tell her if you w
+- 04:42 act: {"actions":[{"do":"sleep"}],"say":"Riker at the white bed, night of day 261. Seeds are settled: Picard has his seven. No food; Worf first at dawn, then Trini."}
+- 04:43 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Riker going to the white bed at -270,67,318 for the night. No food; Worf and Trini first at dawn."}
+- 04:46 act: {"actions":[{"do":"sleep"}]}
+- 04:50 act: {"actions":[{"do":"goto","target":"ag_data_01"}],"say":"Riker, morning of day 262. Health 17, hunger 13, no food. I'll search the west grass with Data, in sight. Any meat or apple goes to Worf, then T
+- 04:50 act: {"actions":[],"say":"Data, Trini and I are with you. Lead to the west grass, and call out any animal you see. Worf first, then Trini.","intent":{"goal":"hold_near_data_on_west_grass","program":"rest",
+- 04:58 act: {"actions":[{"do":"goto","target":{"x":-298,"y":66,"z":319}}],"say":"Riker walking west to join Data's group at -299,66,319. No food. Worf first, then Trini."}
+- 05:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Riker going to the white bed at -271,67,318 with the group to try sleep. Still no food; meat goes to Worf, then Trin
+- 05:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Sleep was blocked at the south beds by a golem 6.7 blocks away. The north bed is farther from it, and Clark, D
+- 05:04 act: {"actions":[{"do":"sleep"}],"reasoning":"Still at the south bed at -272,67,336. Golem 12 blocks away. One more try now, then wait."}
+- 05:04 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"No golem is in view at the north bed now. Try the bed at -271,67,318 once more."}
+- 05:09 act: {"actions":[{"do":"goto","target":{"x":-297,"y":66,"z":319}}],"say":"Riker, day 263 dawn. No sleep again, golems blocked it. No food, hunger 12. Scouting the west grass with Zack and Data. Meat goes t
+- 05:13 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":326}}],"say":"Riker: phantom 8 blocks east of me at the west grass. Moving back to the beds with the group. No food, hunger 12.","reasoning":"A h
+- 05:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"reasoning":"Night, days since sleep 3, hunger 12. Try the yellow bed next to me once. If blocked, wait for light."}

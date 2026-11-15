@@ -1,11 +1,12 @@
 # Handoff, day 258 midday
 
-- Gave my 4 wheat seeds to Jason (worked). Tilled grass at -264,65,326 for him (worked). Jason holds the seeds and will plant once the golem moves off.
-- At -262,66,323, not enclosed, in sight of Data. Health 17, hunger 15, no food. Days since sleep 1.
-- Iron golem about 9 blocks south-west near the plot. Keep away from it.
-- No errand half-done; no intent running.
-- Next: when the golem leaves, check the plot is planted. Keep searching grass for animals with the group. Sleep at a free white bed (-270,67,318 or -271,67,318) at the next night; run reflect first.
-- Meat goes to Trini, then Data, then Clark, then me.
+- Day 261 handoff (latest): at white beds -270,67,334, not enclosed, bright. Health 17, hunger 13, no food.
+- Seeds settled: my 7 went to Kimberly, who gave them to LaForge by mistake. Picard now has 7 seeds for his plot -290,68,285. I hold none.
+- Tilling near the beds failed twice. Nothing half-done except the give.
+- Iron golem 1 block north of me, another 13 blocks south-west. Keep away from it.
+- Day 262 morning: at -270,67,327 near the beds, bright. Health 17, hunger 13, no food. Sleep blocked all night by golems and a creeper, so no rest yet; days since sleep 2.
+- Searching the west grass with Data and Trini, in sight of the group. Meat and wheat go to Worf first, then Trini, then me.
+- Sleep at a free white bed (-270,67,318 or -271,67,318) at night; run reflect first.
 
 # Older note (superseded)
 
@@ -25,12 +26,13 @@
 
 # Handoff, day 258 midday
 
-- Gave my 4 wheat seeds to Jason (worked). Tilled grass at -264,65,326 for him (worked). Jason holds the seeds and will plant once the golem moves off.
-- At -262,66,323, not enclosed, in sight of Data. Health 17, hunger 15, no food. Days since sleep 1.
-- Iron golem about 9 blocks south-west near the plot. Keep away from it.
-- No errand half-done; no intent running.
-- Next: when the golem leaves, check the plot is planted. Keep searching grass for animals with the group. Sleep at a free white bed (-270,67,318 or -271,67,318) at the next night; run reflect first.
-- Meat goes to Trini, then Data, then Clark, then me.
+- Day 261 handoff (latest): at white beds -270,67,334, not enclosed, bright. Health 17, hunger 13, no food.
+- Seeds settled: my 7 went to Kimberly, who gave them to LaForge by mistake. Picard now has 7 seeds for his plot -290,68,285. I hold none.
+- Tilling near the beds failed twice. Nothing half-done except the give.
+- Iron golem 1 block north of me, another 13 blocks south-west. Keep away from it.
+- Day 262 morning: at -270,67,327 near the beds, bright. Health 17, hunger 13, no food. Sleep blocked all night by golems and a creeper, so no rest yet; days since sleep 2.
+- Searching the west grass with Data and Trini, in sight of the group. Meat and wheat go to Worf first, then Trini, then me.
+- Sleep at a free white bed (-270,67,318 or -271,67,318) at night; run reflect first.
 
 # Older note (superseded)
 
@@ -51,12 +53,13 @@
 
 # Handoff, day 258 midday
 
-- Gave my 4 wheat seeds to Jason (worked). Tilled grass at -264,65,326 for him (worked). Jason holds the seeds and will plant once the golem moves off.
-- At -262,66,323, not enclosed, in sight of Data. Health 17, hunger 15, no food. Days since sleep 1.
-- Iron golem about 9 blocks south-west near the plot. Keep away from it.
-- No errand half-done; no intent running.
-- Next: when the golem leaves, check the plot is planted. Keep searching grass for animals with the group. Sleep at a free white bed (-270,67,318 or -271,67,318) at the next night; run reflect first.
-- Meat goes to Trini, then Data, then Clark, then me.
+- Day 261 handoff (latest): at white beds -270,67,334, not enclosed, bright. Health 17, hunger 13, no food.
+- Seeds settled: my 7 went to Kimberly, who gave them to LaForge by mistake. Picard now has 7 seeds for his plot -290,68,285. I hold none.
+- Tilling near the beds failed twice. Nothing half-done except the give.
+- Iron golem 1 block north of me, another 13 blocks south-west. Keep away from it.
+- Day 262 morning: at -270,67,327 near the beds, bright. Health 17, hunger 13, no food. Sleep blocked all night by golems and a creeper, so no rest yet; days since sleep 2.
+- Searching the west grass with Data and Trini, in sight of the group. Meat and wheat go to Worf first, then Trini, then me.
+- Sleep at a free white bed (-270,67,318 or -271,67,318) at night; run reflect first.
 
 # Older note (superseded)
 
@@ -75,12 +78,13 @@
 
 # Handoff, day 258 midday
 
-- Gave my 4 wheat seeds to Jason (worked). Tilled grass at -264,65,326 for him (worked). Jason holds the seeds and will plant once the golem moves off.
-- At -262,66,323, not enclosed, in sight of Data. Health 17, hunger 15, no food. Days since sleep 1.
-- Iron golem about 9 blocks south-west near the plot. Keep away from it.
-- No errand half-done; no intent running.
-- Next: when the golem leaves, check the plot is planted. Keep searching grass for animals with the group. Sleep at a free white bed (-270,67,318 or -271,67,318) at the next night; run reflect first.
-- Meat goes to Trini, then Data, then Clark, then me.
+- Day 261 handoff (latest): at white beds -270,67,334, not enclosed, bright. Health 17, hunger 13, no food.
+- Seeds settled: my 7 went to Kimberly, who gave them to LaForge by mistake. Picard now has 7 seeds for his plot -290,68,285. I hold none.
+- Tilling near the beds failed twice. Nothing half-done except the give.
+- Iron golem 1 block north of me, another 13 blocks south-west. Keep away from it.
+- Day 262 morning: at -270,67,327 near the beds, bright. Health 17, hunger 13, no food. Sleep blocked all night by golems and a creeper, so no rest yet; days since sleep 2.
+- Searching the west grass with Data and Trini, in sight of the group. Meat and wheat go to Worf first, then Trini, then me.
+- Sleep at a free white bed (-270,67,318 or -271,67,318) at night; run reflect first.
 
 # Older note (superseded)
 
@@ -99,12 +103,13 @@
 
 # Handoff, day 258 midday
 
-- Gave my 4 wheat seeds to Jason (worked). Tilled grass at -264,65,326 for him (worked). Jason holds the seeds and will plant once the golem moves off.
-- At -262,66,323, not enclosed, in sight of Data. Health 17, hunger 15, no food. Days since sleep 1.
-- Iron golem about 9 blocks south-west near the plot. Keep away from it.
-- No errand half-done; no intent running.
-- Next: when the golem leaves, check the plot is planted. Keep searching grass for animals with the group. Sleep at a free white bed (-270,67,318 or -271,67,318) at the next night; run reflect first.
-- Meat goes to Trini, then Data, then Clark, then me.
+- Day 261 handoff (latest): at white beds -270,67,334, not enclosed, bright. Health 17, hunger 13, no food.
+- Seeds settled: my 7 went to Kimberly, who gave them to LaForge by mistake. Picard now has 7 seeds for his plot -290,68,285. I hold none.
+- Tilling near the beds failed twice. Nothing half-done except the give.
+- Iron golem 1 block north of me, another 13 blocks south-west. Keep away from it.
+- Day 262 morning: at -270,67,327 near the beds, bright. Health 17, hunger 13, no food. Sleep blocked all night by golems and a creeper, so no rest yet; days since sleep 2.
+- Searching the west grass with Data and Trini, in sight of the group. Meat and wheat go to Worf first, then Trini, then me.
+- Sleep at a free white bed (-270,67,318 or -271,67,318) at night; run reflect first.
 
 # Older note (superseded)
 
@@ -123,12 +128,13 @@
 
 # Handoff, day 258 midday
 
-- Gave my 4 wheat seeds to Jason (worked). Tilled grass at -264,65,326 for him (worked). Jason holds the seeds and will plant once the golem moves off.
-- At -262,66,323, not enclosed, in sight of Data. Health 17, hunger 15, no food. Days since sleep 1.
-- Iron golem about 9 blocks south-west near the plot. Keep away from it.
-- No errand half-done; no intent running.
-- Next: when the golem leaves, check the plot is planted. Keep searching grass for animals with the group. Sleep at a free white bed (-270,67,318 or -271,67,318) at the next night; run reflect first.
-- Meat goes to Trini, then Data, then Clark, then me.
+- Day 261 handoff (latest): at white beds -270,67,334, not enclosed, bright. Health 17, hunger 13, no food.
+- Seeds settled: my 7 went to Kimberly, who gave them to LaForge by mistake. Picard now has 7 seeds for his plot -290,68,285. I hold none.
+- Tilling near the beds failed twice. Nothing half-done except the give.
+- Iron golem 1 block north of me, another 13 blocks south-west. Keep away from it.
+- Day 262 morning: at -270,67,327 near the beds, bright. Health 17, hunger 13, no food. Sleep blocked all night by golems and a creeper, so no rest yet; days since sleep 2.
+- Searching the west grass with Data and Trini, in sight of the group. Meat and wheat go to Worf first, then Trini, then me.
+- Sleep at a free white bed (-270,67,318 or -271,67,318) at night; run reflect first.
 
 # Older note (superseded)
 
@@ -146,12 +152,13 @@
 
 # Handoff, day 258 midday
 
-- Gave my 4 wheat seeds to Jason (worked). Tilled grass at -264,65,326 for him (worked). Jason holds the seeds and will plant once the golem moves off.
-- At -262,66,323, not enclosed, in sight of Data. Health 17, hunger 15, no food. Days since sleep 1.
-- Iron golem about 9 blocks south-west near the plot. Keep away from it.
-- No errand half-done; no intent running.
-- Next: when the golem leaves, check the plot is planted. Keep searching grass for animals with the group. Sleep at a free white bed (-270,67,318 or -271,67,318) at the next night; run reflect first.
-- Meat goes to Trini, then Data, then Clark, then me.
+- Day 261 handoff (latest): at white beds -270,67,334, not enclosed, bright. Health 17, hunger 13, no food.
+- Seeds settled: my 7 went to Kimberly, who gave them to LaForge by mistake. Picard now has 7 seeds for his plot -290,68,285. I hold none.
+- Tilling near the beds failed twice. Nothing half-done except the give.
+- Iron golem 1 block north of me, another 13 blocks south-west. Keep away from it.
+- Day 262 morning: at -270,67,327 near the beds, bright. Health 17, hunger 13, no food. Sleep blocked all night by golems and a creeper, so no rest yet; days since sleep 2.
+- Searching the west grass with Data and Trini, in sight of the group. Meat and wheat go to Worf first, then Trini, then me.
+- Sleep at a free white bed (-270,67,318 or -271,67,318) at night; run reflect first.
 
 # Older note (superseded)
 
@@ -170,12 +177,13 @@
 
 # Handoff, day 258 midday
 
-- Gave my 4 wheat seeds to Jason (worked). Tilled grass at -264,65,326 for him (worked). Jason holds the seeds and will plant once the golem moves off.
-- At -262,66,323, not enclosed, in sight of Data. Health 17, hunger 15, no food. Days since sleep 1.
-- Iron golem about 9 blocks south-west near the plot. Keep away from it.
-- No errand half-done; no intent running.
-- Next: when the golem leaves, check the plot is planted. Keep searching grass for animals with the group. Sleep at a free white bed (-270,67,318 or -271,67,318) at the next night; run reflect first.
-- Meat goes to Trini, then Data, then Clark, then me.
+- Day 261 handoff (latest): at white beds -270,67,334, not enclosed, bright. Health 17, hunger 13, no food.
+- Seeds settled: my 7 went to Kimberly, who gave them to LaForge by mistake. Picard now has 7 seeds for his plot -290,68,285. I hold none.
+- Tilling near the beds failed twice. Nothing half-done except the give.
+- Iron golem 1 block north of me, another 13 blocks south-west. Keep away from it.
+- Day 262 morning: at -270,67,327 near the beds, bright. Health 17, hunger 13, no food. Sleep blocked all night by golems and a creeper, so no rest yet; days since sleep 2.
+- Searching the west grass with Data and Trini, in sight of the group. Meat and wheat go to Worf first, then Trini, then me.
+- Sleep at a free white bed (-270,67,318 or -271,67,318) at night; run reflect first.
 
 # Older note (superseded)
 
@@ -195,12 +203,13 @@
 
 # Handoff, day 258 midday
 
-- Gave my 4 wheat seeds to Jason (worked). Tilled grass at -264,65,326 for him (worked). Jason holds the seeds and will plant once the golem moves off.
-- At -262,66,323, not enclosed, in sight of Data. Health 17, hunger 15, no food. Days since sleep 1.
-- Iron golem about 9 blocks south-west near the plot. Keep away from it.
-- No errand half-done; no intent running.
-- Next: when the golem leaves, check the plot is planted. Keep searching grass for animals with the group. Sleep at a free white bed (-270,67,318 or -271,67,318) at the next night; run reflect first.
-- Meat goes to Trini, then Data, then Clark, then me.
+- Day 261 handoff (latest): at white beds -270,67,334, not enclosed, bright. Health 17, hunger 13, no food.
+- Seeds settled: my 7 went to Kimberly, who gave them to LaForge by mistake. Picard now has 7 seeds for his plot -290,68,285. I hold none.
+- Tilling near the beds failed twice. Nothing half-done except the give.
+- Iron golem 1 block north of me, another 13 blocks south-west. Keep away from it.
+- Day 262 morning: at -270,67,327 near the beds, bright. Health 17, hunger 13, no food. Sleep blocked all night by golems and a creeper, so no rest yet; days since sleep 2.
+- Searching the west grass with Data and Trini, in sight of the group. Meat and wheat go to Worf first, then Trini, then me.
+- Sleep at a free white bed (-270,67,318 or -271,67,318) at night; run reflect first.
 
 # Older note (superseded)
 
@@ -220,12 +229,13 @@
 
 # Handoff, day 258 midday
 
-- Gave my 4 wheat seeds to Jason (worked). Tilled grass at -264,65,326 for him (worked). Jason holds the seeds and will plant once the golem moves off.
-- At -262,66,323, not enclosed, in sight of Data. Health 17, hunger 15, no food. Days since sleep 1.
-- Iron golem about 9 blocks south-west near the plot. Keep away from it.
-- No errand half-done; no intent running.
-- Next: when the golem leaves, check the plot is planted. Keep searching grass for animals with the group. Sleep at a free white bed (-270,67,318 or -271,67,318) at the next night; run reflect first.
-- Meat goes to Trini, then Data, then Clark, then me.
+- Day 261 handoff (latest): at white beds -270,67,334, not enclosed, bright. Health 17, hunger 13, no food.
+- Seeds settled: my 7 went to Kimberly, who gave them to LaForge by mistake. Picard now has 7 seeds for his plot -290,68,285. I hold none.
+- Tilling near the beds failed twice. Nothing half-done except the give.
+- Iron golem 1 block north of me, another 13 blocks south-west. Keep away from it.
+- Day 262 morning: at -270,67,327 near the beds, bright. Health 17, hunger 13, no food. Sleep blocked all night by golems and a creeper, so no rest yet; days since sleep 2.
+- Searching the west grass with Data and Trini, in sight of the group. Meat and wheat go to Worf first, then Trini, then me.
+- Sleep at a free white bed (-270,67,318 or -271,67,318) at night; run reflect first.
 
 # Older note (superseded)
 
@@ -245,12 +255,13 @@
 
 # Handoff, day 258 midday
 
-- Gave my 4 wheat seeds to Jason (worked). Tilled grass at -264,65,326 for him (worked). Jason holds the seeds and will plant once the golem moves off.
-- At -262,66,323, not enclosed, in sight of Data. Health 17, hunger 15, no food. Days since sleep 1.
-- Iron golem about 9 blocks south-west near the plot. Keep away from it.
-- No errand half-done; no intent running.
-- Next: when the golem leaves, check the plot is planted. Keep searching grass for animals with the group. Sleep at a free white bed (-270,67,318 or -271,67,318) at the next night; run reflect first.
-- Meat goes to Trini, then Data, then Clark, then me.
+- Day 261 handoff (latest): at white beds -270,67,334, not enclosed, bright. Health 17, hunger 13, no food.
+- Seeds settled: my 7 went to Kimberly, who gave them to LaForge by mistake. Picard now has 7 seeds for his plot -290,68,285. I hold none.
+- Tilling near the beds failed twice. Nothing half-done except the give.
+- Iron golem 1 block north of me, another 13 blocks south-west. Keep away from it.
+- Day 262 morning: at -270,67,327 near the beds, bright. Health 17, hunger 13, no food. Sleep blocked all night by golems and a creeper, so no rest yet; days since sleep 2.
+- Searching the west grass with Data and Trini, in sight of the group. Meat and wheat go to Worf first, then Trini, then me.
+- Sleep at a free white bed (-270,67,318 or -271,67,318) at night; run reflect first.
 
 # Older note (superseded)
 
@@ -269,12 +280,13 @@
 
 # Handoff, day 258 midday
 
-- Gave my 4 wheat seeds to Jason (worked). Tilled grass at -264,65,326 for him (worked). Jason holds the seeds and will plant once the golem moves off.
-- At -262,66,323, not enclosed, in sight of Data. Health 17, hunger 15, no food. Days since sleep 1.
-- Iron golem about 9 blocks south-west near the plot. Keep away from it.
-- No errand half-done; no intent running.
-- Next: when the golem leaves, check the plot is planted. Keep searching grass for animals with the group. Sleep at a free white bed (-270,67,318 or -271,67,318) at the next night; run reflect first.
-- Meat goes to Trini, then Data, then Clark, then me.
+- Day 261 handoff (latest): at white beds -270,67,334, not enclosed, bright. Health 17, hunger 13, no food.
+- Seeds settled: my 7 went to Kimberly, who gave them to LaForge by mistake. Picard now has 7 seeds for his plot -290,68,285. I hold none.
+- Tilling near the beds failed twice. Nothing half-done except the give.
+- Iron golem 1 block north of me, another 13 blocks south-west. Keep away from it.
+- Day 262 morning: at -270,67,327 near the beds, bright. Health 17, hunger 13, no food. Sleep blocked all night by golems and a creeper, so no rest yet; days since sleep 2.
+- Searching the west grass with Data and Trini, in sight of the group. Meat and wheat go to Worf first, then Trini, then me.
+- Sleep at a free white bed (-270,67,318 or -271,67,318) at night; run reflect first.
 
 # Older note (superseded)
 
@@ -293,12 +305,13 @@
 
 # Handoff, day 258 midday
 
-- Gave my 4 wheat seeds to Jason (worked). Tilled grass at -264,65,326 for him (worked). Jason holds the seeds and will plant once the golem moves off.
-- At -262,66,323, not enclosed, in sight of Data. Health 17, hunger 15, no food. Days since sleep 1.
-- Iron golem about 9 blocks south-west near the plot. Keep away from it.
-- No errand half-done; no intent running.
-- Next: when the golem leaves, check the plot is planted. Keep searching grass for animals with the group. Sleep at a free white bed (-270,67,318 or -271,67,318) at the next night; run reflect first.
-- Meat goes to Trini, then Data, then Clark, then me.
+- Day 261 handoff (latest): at white beds -270,67,334, not enclosed, bright. Health 17, hunger 13, no food.
+- Seeds settled: my 7 went to Kimberly, who gave them to LaForge by mistake. Picard now has 7 seeds for his plot -290,68,285. I hold none.
+- Tilling near the beds failed twice. Nothing half-done except the give.
+- Iron golem 1 block north of me, another 13 blocks south-west. Keep away from it.
+- Day 262 morning: at -270,67,327 near the beds, bright. Health 17, hunger 13, no food. Sleep blocked all night by golems and a creeper, so no rest yet; days since sleep 2.
+- Searching the west grass with Data and Trini, in sight of the group. Meat and wheat go to Worf first, then Trini, then me.
+- Sleep at a free white bed (-270,67,318 or -271,67,318) at night; run reflect first.
 
 # Older note (superseded)
 
@@ -317,12 +330,13 @@
 
 # Handoff, day 258 midday
 
-- Gave my 4 wheat seeds to Jason (worked). Tilled grass at -264,65,326 for him (worked). Jason holds the seeds and will plant once the golem moves off.
-- At -262,66,323, not enclosed, in sight of Data. Health 17, hunger 15, no food. Days since sleep 1.
-- Iron golem about 9 blocks south-west near the plot. Keep away from it.
-- No errand half-done; no intent running.
-- Next: when the golem leaves, check the plot is planted. Keep searching grass for animals with the group. Sleep at a free white bed (-270,67,318 or -271,67,318) at the next night; run reflect first.
-- Meat goes to Trini, then Data, then Clark, then me.
+- Day 261 handoff (latest): at white beds -270,67,334, not enclosed, bright. Health 17, hunger 13, no food.
+- Seeds settled: my 7 went to Kimberly, who gave them to LaForge by mistake. Picard now has 7 seeds for his plot -290,68,285. I hold none.
+- Tilling near the beds failed twice. Nothing half-done except the give.
+- Iron golem 1 block north of me, another 13 blocks south-west. Keep away from it.
+- Day 262 morning: at -270,67,327 near the beds, bright. Health 17, hunger 13, no food. Sleep blocked all night by golems and a creeper, so no rest yet; days since sleep 2.
+- Searching the west grass with Data and Trini, in sight of the group. Meat and wheat go to Worf first, then Trini, then me.
+- Sleep at a free white bed (-270,67,318 or -271,67,318) at night; run reflect first.
 
 # Older note (superseded)
 
@@ -340,12 +354,13 @@
 
 # Handoff, day 258 midday
 
-- Gave my 4 wheat seeds to Jason (worked). Tilled grass at -264,65,326 for him (worked). Jason holds the seeds and will plant once the golem moves off.
-- At -262,66,323, not enclosed, in sight of Data. Health 17, hunger 15, no food. Days since sleep 1.
-- Iron golem about 9 blocks south-west near the plot. Keep away from it.
-- No errand half-done; no intent running.
-- Next: when the golem leaves, check the plot is planted. Keep searching grass for animals with the group. Sleep at a free white bed (-270,67,318 or -271,67,318) at the next night; run reflect first.
-- Meat goes to Trini, then Data, then Clark, then me.
+- Day 261 handoff (latest): at white beds -270,67,334, not enclosed, bright. Health 17, hunger 13, no food.
+- Seeds settled: my 7 went to Kimberly, who gave them to LaForge by mistake. Picard now has 7 seeds for his plot -290,68,285. I hold none.
+- Tilling near the beds failed twice. Nothing half-done except the give.
+- Iron golem 1 block north of me, another 13 blocks south-west. Keep away from it.
+- Day 262 morning: at -270,67,327 near the beds, bright. Health 17, hunger 13, no food. Sleep blocked all night by golems and a creeper, so no rest yet; days since sleep 2.
+- Searching the west grass with Data and Trini, in sight of the group. Meat and wheat go to Worf first, then Trini, then me.
+- Sleep at a free white bed (-270,67,318 or -271,67,318) at night; run reflect first.
 
 # Older note (superseded)
 
@@ -363,12 +378,13 @@
 
 # Handoff, day 258 midday
 
-- Gave my 4 wheat seeds to Jason (worked). Tilled grass at -264,65,326 for him (worked). Jason holds the seeds and will plant once the golem moves off.
-- At -262,66,323, not enclosed, in sight of Data. Health 17, hunger 15, no food. Days since sleep 1.
-- Iron golem about 9 blocks south-west near the plot. Keep away from it.
-- No errand half-done; no intent running.
-- Next: when the golem leaves, check the plot is planted. Keep searching grass for animals with the group. Sleep at a free white bed (-270,67,318 or -271,67,318) at the next night; run reflect first.
-- Meat goes to Trini, then Data, then Clark, then me.
+- Day 261 handoff (latest): at white beds -270,67,334, not enclosed, bright. Health 17, hunger 13, no food.
+- Seeds settled: my 7 went to Kimberly, who gave them to LaForge by mistake. Picard now has 7 seeds for his plot -290,68,285. I hold none.
+- Tilling near the beds failed twice. Nothing half-done except the give.
+- Iron golem 1 block north of me, another 13 blocks south-west. Keep away from it.
+- Day 262 morning: at -270,67,327 near the beds, bright. Health 17, hunger 13, no food. Sleep blocked all night by golems and a creeper, so no rest yet; days since sleep 2.
+- Searching the west grass with Data and Trini, in sight of the group. Meat and wheat go to Worf first, then Trini, then me.
+- Sleep at a free white bed (-270,67,318 or -271,67,318) at night; run reflect first.
 
 # Older note (superseded)
 
@@ -388,12 +404,13 @@
 
 # Handoff, day 258 midday
 
-- Gave my 4 wheat seeds to Jason (worked). Tilled grass at -264,65,326 for him (worked). Jason holds the seeds and will plant once the golem moves off.
-- At -262,66,323, not enclosed, in sight of Data. Health 17, hunger 15, no food. Days since sleep 1.
-- Iron golem about 9 blocks south-west near the plot. Keep away from it.
-- No errand half-done; no intent running.
-- Next: when the golem leaves, check the plot is planted. Keep searching grass for animals with the group. Sleep at a free white bed (-270,67,318 or -271,67,318) at the next night; run reflect first.
-- Meat goes to Trini, then Data, then Clark, then me.
+- Day 261 handoff (latest): at white beds -270,67,334, not enclosed, bright. Health 17, hunger 13, no food.
+- Seeds settled: my 7 went to Kimberly, who gave them to LaForge by mistake. Picard now has 7 seeds for his plot -290,68,285. I hold none.
+- Tilling near the beds failed twice. Nothing half-done except the give.
+- Iron golem 1 block north of me, another 13 blocks south-west. Keep away from it.
+- Day 262 morning: at -270,67,327 near the beds, bright. Health 17, hunger 13, no food. Sleep blocked all night by golems and a creeper, so no rest yet; days since sleep 2.
+- Searching the west grass with Data and Trini, in sight of the group. Meat and wheat go to Worf first, then Trini, then me.
+- Sleep at a free white bed (-270,67,318 or -271,67,318) at night; run reflect first.
 
 # Older note (superseded)
 
@@ -412,12 +429,13 @@
 
 # Handoff, day 258 midday
 
-- Gave my 4 wheat seeds to Jason (worked). Tilled grass at -264,65,326 for him (worked). Jason holds the seeds and will plant once the golem moves off.
-- At -262,66,323, not enclosed, in sight of Data. Health 17, hunger 15, no food. Days since sleep 1.
-- Iron golem about 9 blocks south-west near the plot. Keep away from it.
-- No errand half-done; no intent running.
-- Next: when the golem leaves, check the plot is planted. Keep searching grass for animals with the group. Sleep at a free white bed (-270,67,318 or -271,67,318) at the next night; run reflect first.
-- Meat goes to Trini, then Data, then Clark, then me.
+- Day 261 handoff (latest): at white beds -270,67,334, not enclosed, bright. Health 17, hunger 13, no food.
+- Seeds settled: my 7 went to Kimberly, who gave them to LaForge by mistake. Picard now has 7 seeds for his plot -290,68,285. I hold none.
+- Tilling near the beds failed twice. Nothing half-done except the give.
+- Iron golem 1 block north of me, another 13 blocks south-west. Keep away from it.
+- Day 262 morning: at -270,67,327 near the beds, bright. Health 17, hunger 13, no food. Sleep blocked all night by golems and a creeper, so no rest yet; days since sleep 2.
+- Searching the west grass with Data and Trini, in sight of the group. Meat and wheat go to Worf first, then Trini, then me.
+- Sleep at a free white bed (-270,67,318 or -271,67,318) at night; run reflect first.
 
 # Older note (superseded)
 
@@ -436,12 +454,13 @@
 
 # Handoff, day 258 midday
 
-- Gave my 4 wheat seeds to Jason (worked). Tilled grass at -264,65,326 for him (worked). Jason holds the seeds and will plant once the golem moves off.
-- At -262,66,323, not enclosed, in sight of Data. Health 17, hunger 15, no food. Days since sleep 1.
-- Iron golem about 9 blocks south-west near the plot. Keep away from it.
-- No errand half-done; no intent running.
-- Next: when the golem leaves, check the plot is planted. Keep searching grass for animals with the group. Sleep at a free white bed (-270,67,318 or -271,67,318) at the next night; run reflect first.
-- Meat goes to Trini, then Data, then Clark, then me.
+- Day 261 handoff (latest): at white beds -270,67,334, not enclosed, bright. Health 17, hunger 13, no food.
+- Seeds settled: my 7 went to Kimberly, who gave them to LaForge by mistake. Picard now has 7 seeds for his plot -290,68,285. I hold none.
+- Tilling near the beds failed twice. Nothing half-done except the give.
+- Iron golem 1 block north of me, another 13 blocks south-west. Keep away from it.
+- Day 262 morning: at -270,67,327 near the beds, bright. Health 17, hunger 13, no food. Sleep blocked all night by golems and a creeper, so no rest yet; days since sleep 2.
+- Searching the west grass with Data and Trini, in sight of the group. Meat and wheat go to Worf first, then Trini, then me.
+- Sleep at a free white bed (-270,67,318 or -271,67,318) at night; run reflect first.
 
 # Older note (superseded)
 
@@ -460,12 +479,13 @@
 
 # Handoff, day 258 midday
 
-- Gave my 4 wheat seeds to Jason (worked). Tilled grass at -264,65,326 for him (worked). Jason holds the seeds and will plant once the golem moves off.
-- At -262,66,323, not enclosed, in sight of Data. Health 17, hunger 15, no food. Days since sleep 1.
-- Iron golem about 9 blocks south-west near the plot. Keep away from it.
-- No errand half-done; no intent running.
-- Next: when the golem leaves, check the plot is planted. Keep searching grass for animals with the group. Sleep at a free white bed (-270,67,318 or -271,67,318) at the next night; run reflect first.
-- Meat goes to Trini, then Data, then Clark, then me.
+- Day 261 handoff (latest): at white beds -270,67,334, not enclosed, bright. Health 17, hunger 13, no food.
+- Seeds settled: my 7 went to Kimberly, who gave them to LaForge by mistake. Picard now has 7 seeds for his plot -290,68,285. I hold none.
+- Tilling near the beds failed twice. Nothing half-done except the give.
+- Iron golem 1 block north of me, another 13 blocks south-west. Keep away from it.
+- Day 262 morning: at -270,67,327 near the beds, bright. Health 17, hunger 13, no food. Sleep blocked all night by golems and a creeper, so no rest yet; days since sleep 2.
+- Searching the west grass with Data and Trini, in sight of the group. Meat and wheat go to Worf first, then Trini, then me.
+- Sleep at a free white bed (-270,67,318 or -271,67,318) at night; run reflect first.
 
 # Older note (superseded)
 
@@ -484,12 +504,13 @@
 
 # Handoff, day 258 midday
 
-- Gave my 4 wheat seeds to Jason (worked). Tilled grass at -264,65,326 for him (worked). Jason holds the seeds and will plant once the golem moves off.
-- At -262,66,323, not enclosed, in sight of Data. Health 17, hunger 15, no food. Days since sleep 1.
-- Iron golem about 9 blocks south-west near the plot. Keep away from it.
-- No errand half-done; no intent running.
-- Next: when the golem leaves, check the plot is planted. Keep searching grass for animals with the group. Sleep at a free white bed (-270,67,318 or -271,67,318) at the next night; run reflect first.
-- Meat goes to Trini, then Data, then Clark, then me.
+- Day 261 handoff (latest): at white beds -270,67,334, not enclosed, bright. Health 17, hunger 13, no food.
+- Seeds settled: my 7 went to Kimberly, who gave them to LaForge by mistake. Picard now has 7 seeds for his plot -290,68,285. I hold none.
+- Tilling near the beds failed twice. Nothing half-done except the give.
+- Iron golem 1 block north of me, another 13 blocks south-west. Keep away from it.
+- Day 262 morning: at -270,67,327 near the beds, bright. Health 17, hunger 13, no food. Sleep blocked all night by golems and a creeper, so no rest yet; days since sleep 2.
+- Searching the west grass with Data and Trini, in sight of the group. Meat and wheat go to Worf first, then Trini, then me.
+- Sleep at a free white bed (-270,67,318 or -271,67,318) at night; run reflect first.
 
 # Older note (superseded)
 
@@ -508,12 +529,13 @@
 
 # Handoff, day 258 midday
 
-- Gave my 4 wheat seeds to Jason (worked). Tilled grass at -264,65,326 for him (worked). Jason holds the seeds and will plant once the golem moves off.
-- At -262,66,323, not enclosed, in sight of Data. Health 17, hunger 15, no food. Days since sleep 1.
-- Iron golem about 9 blocks south-west near the plot. Keep away from it.
-- No errand half-done; no intent running.
-- Next: when the golem leaves, check the plot is planted. Keep searching grass for animals with the group. Sleep at a free white bed (-270,67,318 or -271,67,318) at the next night; run reflect first.
-- Meat goes to Trini, then Data, then Clark, then me.
+- Day 261 handoff (latest): at white beds -270,67,334, not enclosed, bright. Health 17, hunger 13, no food.
+- Seeds settled: my 7 went to Kimberly, who gave them to LaForge by mistake. Picard now has 7 seeds for his plot -290,68,285. I hold none.
+- Tilling near the beds failed twice. Nothing half-done except the give.
+- Iron golem 1 block north of me, another 13 blocks south-west. Keep away from it.
+- Day 262 morning: at -270,67,327 near the beds, bright. Health 17, hunger 13, no food. Sleep blocked all night by golems and a creeper, so no rest yet; days since sleep 2.
+- Searching the west grass with Data and Trini, in sight of the group. Meat and wheat go to Worf first, then Trini, then me.
+- Sleep at a free white bed (-270,67,318 or -271,67,318) at night; run reflect first.
 
 # Older note (superseded)
 
@@ -533,12 +555,13 @@
 
 # Handoff, day 258 midday
 
-- Gave my 4 wheat seeds to Jason (worked). Tilled grass at -264,65,326 for him (worked). Jason holds the seeds and will plant once the golem moves off.
-- At -262,66,323, not enclosed, in sight of Data. Health 17, hunger 15, no food. Days since sleep 1.
-- Iron golem about 9 blocks south-west near the plot. Keep away from it.
-- No errand half-done; no intent running.
-- Next: when the golem leaves, check the plot is planted. Keep searching grass for animals with the group. Sleep at a free white bed (-270,67,318 or -271,67,318) at the next night; run reflect first.
-- Meat goes to Trini, then Data, then Clark, then me.
+- Day 261 handoff (latest): at white beds -270,67,334, not enclosed, bright. Health 17, hunger 13, no food.
+- Seeds settled: my 7 went to Kimberly, who gave them to LaForge by mistake. Picard now has 7 seeds for his plot -290,68,285. I hold none.
+- Tilling near the beds failed twice. Nothing half-done except the give.
+- Iron golem 1 block north of me, another 13 blocks south-west. Keep away from it.
+- Day 262 morning: at -270,67,327 near the beds, bright. Health 17, hunger 13, no food. Sleep blocked all night by golems and a creeper, so no rest yet; days since sleep 2.
+- Searching the west grass with Data and Trini, in sight of the group. Meat and wheat go to Worf first, then Trini, then me.
+- Sleep at a free white bed (-270,67,318 or -271,67,318) at night; run reflect first.
 
 # Older note (superseded)
 
@@ -557,12 +580,13 @@
 
 # Handoff, day 258 midday
 
-- Gave my 4 wheat seeds to Jason (worked). Tilled grass at -264,65,326 for him (worked). Jason holds the seeds and will plant once the golem moves off.
-- At -262,66,323, not enclosed, in sight of Data. Health 17, hunger 15, no food. Days since sleep 1.
-- Iron golem about 9 blocks south-west near the plot. Keep away from it.
-- No errand half-done; no intent running.
-- Next: when the golem leaves, check the plot is planted. Keep searching grass for animals with the group. Sleep at a free white bed (-270,67,318 or -271,67,318) at the next night; run reflect first.
-- Meat goes to Trini, then Data, then Clark, then me.
+- Day 261 handoff (latest): at white beds -270,67,334, not enclosed, bright. Health 17, hunger 13, no food.
+- Seeds settled: my 7 went to Kimberly, who gave them to LaForge by mistake. Picard now has 7 seeds for his plot -290,68,285. I hold none.
+- Tilling near the beds failed twice. Nothing half-done except the give.
+- Iron golem 1 block north of me, another 13 blocks south-west. Keep away from it.
+- Day 262 morning: at -270,67,327 near the beds, bright. Health 17, hunger 13, no food. Sleep blocked all night by golems and a creeper, so no rest yet; days since sleep 2.
+- Searching the west grass with Data and Trini, in sight of the group. Meat and wheat go to Worf first, then Trini, then me.
+- Sleep at a free white bed (-270,67,318 or -271,67,318) at night; run reflect first.
 
 # Older note (superseded)
 
