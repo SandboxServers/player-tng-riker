@@ -1,1 +1,15 @@
 # Journal
+- 18:10 act: {"say":"Riker, dawn 302, hunger 18, health 20, no food. Zack is lowest, so Zack eats first. I'll go north-west with Data and Chapman for the sheep, and move away from the iron golem to the south.","in
+- 18:10 act: {"say":"No sheep here yet. Leonardo is heading east to the pigs. I'll keep scouting north-west for sheep and call out if I find food.","intent":{"goal":"scout_for_sheep","program":"travel","arguments"
+- 18:11 act: {"say":"Still no sheep at -320,65,300. Zack ate and has 1 mutton and 3 chicken left. I'll keep looking north-west and keep my hunger in view.","intent":{"goal":"scout_for_sheep_north","program":"trave
+- 18:11 act: {"say":"Water to the north and a salmon in deep water, which I cannot reach. No sheep here. I'm heading back to the beds to rejoin the group.","intent":{"goal":"return_to_beds","program":"travel","arg
+- 18:11 act: {"say":"Back at the beds. Hunger 18, no food, nothing to share yet. Whoever finds sheep or cows, call out and I will come.","intent":{"goal":"wait_at_beds_for_food_call","program":"trade_wait","argume
+- 18:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"say":"Riker at the white bed for the night, hunger 18, health 20, no food. I'll call out at dawn for any meat."}
+- 18:23 act: {"actions":[{"do":"sleep"}]}
+- 18:24 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 18:25 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantom on me, fighting it with my wooden sword."}
+- 18:25 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":338}}],"say":"Phantoms are up here and I'm perched by water. Moving back to the white beds near the golems and the group."}
+- 18:25 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}]}
+- 18:25 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, on the white bed at -270,67,336. Golems are friendly and no hostile is near. Try sleep once more."}
+- 18:25 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Riker, no food, health 19, hunger 16. Back at the white bed to sleep. Jason, Chapman, call out if you're in my sight
+- 18:28 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Jason is fed now, so no one needs me. Go to the north white bed and try sleep once the golems are clear."}
