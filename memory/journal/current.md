@@ -195,3 +195,17 @@
 - 02:29 say: {"text":"Riker at dawn, day 255. No food here. Meat goes to Trini, Data, then Worf, then me. I'll search the grass in sight of the group."}
 - 02:29 act: {"say":"Riker at dawn, day 255. No food here. Meat goes to Trini, Data, then Worf, then me. I'll search the grass in sight of the group.","intent":{"goal":"search_grass_for_food","program":"gather","a
 - 02:29 act: {"actions":[{"do":"note","text":"Day 255 dawn: night 254 sleep refused (skeleton, then beds occupied). Still at white bed 318, health 17, hunger 16, no food. Gather for wheat failed (nothing to gather
+- 02:35 act: {"say":"Riker at midday, day 255. Hunger 16, no food. Wheat nearby is unripe, so I won't count on it. I'll search the grass in sight of Lewis and Zack for animals, and any meat goes to Trini, Data, th
+- 02:39 act: {"say":"Riker at dusk, day 255. Still no food, hunger 16. Heading to the white beds near -268, 66, 333 to sleep with the group.","actions":[{"do":"goto","target":{"x":-268,"y":66,"z":333}},{"do":"slee
+- 02:44 act: {"say":"Riker, night of day 255, at the white beds. No food, hunger 16. Trying to sleep here with the group.","actions":[{"do":"sleep"}]}
+- 02:45 act: {"say":"Riker, night of day 255. No monsters in my sight now; trying the bed again.","actions":[{"do":"sleep"}]}
+- Day 256 dawn: sleep at the beds was not reached; awake health 17, hunger 16, no food. Crafted a wooden hoe from my planks and sticks at the table (worked). Holding 5 wheat seeds from Troi and me; trying to till and plant near camp. Trini (health 8) is first for any meat.
+- Day 256 morning: wheat seeds placed at -267,66,325 (worked). Everyone is searching grass in sight of camp; no food found yet. Bows drawn around the camp all morning.
+- Day 256 day: till at (-267,65,325) worked. Placing wheat seeds on it for the group's farm. Tommy and Billy are searching grass near the beds.
+- Day 256 day (earlier): first till failed (block above not clear). Trying another grass spot. Trini says she has no meat, is holding at the beds.
+- Day 255 night: midday grass search gave no animals. Sleep refused (skeleton 8 blocks away), then beds at the group all occupied. Health 17, hunger 16, no food. Next: wait for a free bed, sleep, then search grass at dawn; meat goes to Trini, Data, Worf, then me.
+- 02:50 act: {"say":"Riker at dawn, day 256. No food, but I have 5 wheat seeds. I'll craft a hoe at the crafting table and till ground near the beds for Wesley's farm. Trini, any meat goes to you first.","actions"
+- 02:50 act: {"say":"Riker: hoe made. Tilling the grass next to me, then I'll plant Troi's and my seeds on it in sight of camp.","actions":[{"do":"till","at":{"x":-269,"y":65,"z":326}}]}
+- 02:50 act: {"actions":[{"do":"till","at":{"x":-267,"y":65,"z":325}}],"say":"Trini, I hear you. Any meat I find goes to you first. I'm trying to till ground here for the wheat seeds."}
+- 02:50 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":-267,"y":66,"z":325}}]}
+- 02:54 act: {"actions":[],"say":"Riker, day 256 morning: seeds planted at -267,66,325 on the tilled ground. I'll search the grass in sight of camp. Data at health 3, Trini at 8: any meat goes to them first."}
