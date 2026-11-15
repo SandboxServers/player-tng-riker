@@ -469,3 +469,24 @@
 - 11:24 act: {"intent":{"goal":"wait_for_dawn_with_group","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operation
 - 11:24 act: {"actions":[{"do":"sleep"}],"reasoning":"Retry sleep now that the earlier rest has finished."}
 - 11:25 act: {"say":"Riker, first light on day 281. Health 20, hunger 20, no food, no tools. I'll go with the group to search for animals; any food goes to Trini first.","intent":{"goal":"scout_for_food_with_group
+- 11:27 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Riker here, night of day 281. No food, health and hunger 20. Going to the north white bed with the group. Any food g
+- 11:27 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Riker, night of day 281, awake at -280,67,320. Going to the white bed to sleep. No food.","reasoning":"Still night, 
+- 11:29 act: {"intent":{"goal":"scout_sheep_field_for_mutton","program":"travel","arguments":{"target":{"x":-276,"y":66,"z":215}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"ma
+- 11:30 act: {"intent":{"goal":"return_south_to_group_scouting","program":"travel","arguments":{"target":{"x":-270,"y":66,"z":300}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"
+- 11:30 act: {"actions":[{"do":"unstick"}],"reasoning":"Trapped in a pit at -269,66,300, near the group. Get out with unstick, then go on."}
+- 11:31 act: {"intent":{"goal":"rejoin_group_at_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":322}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_
+- 11:35 act: {"intent":{"goal":"scout_far_south_for_animals","program":"travel","arguments":{"target":{"x":-270,"y":66,"z":355}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max
+- 11:35 say: {"text":"Riker: nothing south of the beds, no animals, only iron golems. Still no food. I'll hold near the beds with the group."}
+- 11:39 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Riker: dusk is coming. Going to the white bed at the north beds to sleep with the group. No food.","reasoning":"Dusk, no food found
+- 11:39 act: {"actions":[{"do":"sleep"}],"reasoning":"Dusk, at the white bed, no food. Sleep here with the group."}
+- 11:44 act: {"actions":[{"do":"sleep"}],"reasoning":"Night has come; sleep at the bed with the group."}
+- 11:44 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"A creeper blocked sleep and I drifted south. Return to the white bed and try again."}
+- 11:44 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"reasoning":"Still at -271,327; a creeper 9 blocks away blocks sleep. Try the bed once more."}
+- 11:44 act: {"actions":[{"do":"sleep"}],"reasoning":"At the bed, no monsters visible. Sleep."}
+- 11:48 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Riker at dawn, day 283. No food on me. A creeper blocked sleep all night. I'll go with the group for the pig lead; any meat goes to
+- 11:50 act: {"actions":[],"say":"Riker: Lewis, the chicken goes to LaForge first (health 2), then Trini. I have nothing to hand over. Ready to follow the pig lead.","reasoning":"Lewis has a chicken and is searchi
+- 11:53 act: {"actions":[{"do":"goto","target":{"x":-273,"y":67,"z":327}}],"say":"Riker: Picard, the chicken goes to LaForge at the crafting tables first, then Trini. I'm going there too to help watch.","reasoning
+- 11:57 act: {"actions":[{"do":"give","to":"ag_laforge_01","item":"chicken","count":1}],"say":"Riker: LaForge, the chicken is yours. Eat it now.","reasoning":"I hold the chicken; LaForge at health 2 is first in li
+- 11:57 act: {"actions":[{"do":"goto","target":{"x":-274,"y":67,"z":327}},{"do":"give","to":"ag_laforge_01","item":"chicken","count":1}],"say":"LaForge, I'm coming to you with the chicken. Eat it as soon as you ha
+- 11:57 say: {"text":"The chicken is with LaForge now. I have no food left. Next, the pig hunt; call out any animal you see."}
+- 12:01 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Night, no food, golems south. Sleep at the north bed with the group, then reflect."}
