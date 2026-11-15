@@ -6,3 +6,19 @@
 - 12:10 act: {"actions":[{"do":"goto","target":{"x":-336,"y":64,"z":313}},{"do":"attack","target":"sheep"}],"say":"Sheep to the south-west! Going for it.","reasoning":"A sheep is in sight, 20 blocks south-west. Fo
 - 12:11 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":322}}],"say":"I got mutton from a sheep south-west of the beds, at -339,64,315. Heading back to the beds to share it with whoever is hungriest.",
 - 12:11 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"mutton","count":1}],"say":"Kimberly, I have one mutton from a sheep. Here, you were hungry.","reasoning":"Kimberly is in sight and was at hunger 
+- 12:14 say: {"text":"Riker here, no food, no weapon, hunger 20. Staying by the beds with the group, away from phantoms. Anyone with a spare wooden sword, tell me."}
+- 12:20 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Dusk. Going to sleep at the white bed with the group. No food, no sword; hunger 20.","reasoning":"Dusk, phantoms out
+- 12:21 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"The sleep was blocked at one bed. Try the other bed, one tile east, once."}
+- 12:31 act: {"actions":[{"do":"goto","target":{"x":-339,"y":64,"z":315}}],"intent":{"goal":"scout_sheep_south_west","program":"travel","arguments":{"target":{"x":-339,"y":64,"z":315}},"wake_on":["goal_completed",
+- 12:34 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":327}}],"reasoning":"No animals this far south-west. Return to the group at the beds, where any food will go to Picard and Trini."}
+- 12:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Night has come and the group is heading to the beds. Try sleep at the north bed, once."}
+- 12:43 act: {"actions":[{"do":"sleep"}],"reasoning":"The sleep was blocked at the north bed. I'm now at the south bed beside Macdonald and Chapman. Try once here."}
+- 12:46 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"The group is settled at the beds. Try the south bed once more."}
+- 12:55 say: {"text":"Riker here, full at 20 with no food to share. Porkchops to Data and LaForge first, then Lewis (health 5). I'll help with whatever else is needed."}
+- 13:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 13:05 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 13:08 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 13:17 say: {"text":"Riker, full and empty-handed. Worf, if you are breaking leaves for apples, tell me where and I'll break leaves too and bring every apple to Lewis or LaForge first."}
+- 13:20 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 13:23 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"Phantom adjacent and attacking, I have no weapon. Fight back rather than stand still.","say":"Phantom on me, no weapon. Fighting it with my
+- 13:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Night, phantom gone from reach, health 20. Try the bed at -270,67,336 once."}
