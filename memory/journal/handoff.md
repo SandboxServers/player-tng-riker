@@ -1,4 +1,12 @@
-# Handoff, afternoon of day 256 (latest)
+# Handoff, night of day 256 (waking 43, latest)
+
+- At the white bed (-270, 67, 336) with Troi and Worf in reach. Not enclosed. Health 17, hunger 16, no food. 7 days since sleep.
+- Sleep failed twice ("the way was blocked"): an iron golem about 4 blocks away and bows drawn south-east. Free white beds at (-270, 67, 318) and (-271, 67, 318).
+- Pack: 4 wheat seeds, wooden hoe, 18 cobblestone, 3 oak logs, oak boat, 1 plank, dirt, leaf litter.
+- No errand half-done. Session superseded during a wait.
+- Next: retry sleep at a free white bed once golems move off; if still blocked, stay with the group. Scout grass in sight of camp for animals. Meat goes to Data and Trini first.
+
+# Handoff, afternoon of day 256
 
 - At the white beds (-270, 67, 318), open ground, not enclosed. Health 17, hunger 16, no food. Days since sleep 7.
 - Pack: 4 wheat seeds, wooden hoe, 18 cobblestone, 3 oak logs, oak boat, 1 plank, dirt, leaf litter.

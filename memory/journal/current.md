@@ -215,3 +215,5 @@
 - 02:57 act: {"intent":{"goal":"search_grass_east_for_food","program":"travel","arguments":{"target":{"x":-264,"y":66,"z":322}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_compl
 - 02:57 act: {"say":"Riker, afternoon of day 256. Still no food, hunger 16. Data and Trini first for any meat. I'm going back to the white beds to hold with the group until dusk.","intent":{"goal":"hold_at_beds_un
 - 02:57 act: {"intent":{"goal":"hold_at_beds_until_dusk","program":"rest","arguments":{"seconds":240},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"],"limits":{"max_worl
+- 03:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Riker at the white bed, night of day 256. No food. Meat goes to Data and Trini first.","reasoning":"Night, bed in re
+- 03:03 act: {"actions":[{"do":"sleep"}],"reasoning":"Sleep blocked last try, likely by a golem near. One more try at this bed, then wait."}
