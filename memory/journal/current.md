@@ -237,3 +237,5 @@
 - 03:33 act: {"say":"Jason, I gave you my 4 wheat seeds for your plot. Tell me if you want me to help carry or watch for food.","actions":[{"do":"goto","target":"ag_jason_01"}]}
 - 03:33 act: {"say":"Jason, I'll till -264,65,326 now. You hold the seeds, so you plant it.","actions":[{"do":"till","at":{"x":-264,"y":65,"z":326}}]}
 - 03:35 act: {"say":"Jason, plant when the golem moves off. I'll stay here north of the plot and watch for food.","actions":[{"do":"goto","target":{"x":-262,"y":66,"z":322}}]}
+- 03:38 act: {"actions":[{"do":"note","text":"Day 258 afternoon: health 17, hunger 15, no food. Jason is planting my tilled spot now. Holding no seeds."}],"say":"Riker here, afternoon of day 258. Jason, thank you 
+- 03:38 act: {"actions":[{"do":"note","text":"Day 258 afternoon: waited near plot. Jason asked if -264,65,326 is tilled; I answered yes per my earlier till. Still no food, hunger 15, health 17."}],"say":"Jason, I 
