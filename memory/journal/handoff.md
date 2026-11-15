@@ -1,6 +1,13 @@
-# Handoff, night of day 304 (latest)
+# Handoff, day 307 (latest)
 
-- Slept at the yellow bed near -242,69,344 earlier tonight; sleep worked, days since sleep 0.
+- Where: -234,59,348, walled in in a pocket by the crafting table at -233,58,348. Not safe to rest yet.
+- Pack: wooden sword, wooden hoe, wooden pickaxe, 15 cobblestone, 3 planks, 4 oak logs, 2 birch logs, dirt, leaf litter. No food.
+- Health 3.3, hunger 17. Health does not regenerate while hunger is low.
+- Group is at the yellow beds around -248,66,350. Chapman has chickens; Jason holds rotten flesh.
+- No errand half-done. Intent: wait with cursor c_469853, mine a way north, rejoin the group.
+- Next: when hunger reaches 6, eat (chicken or rotten flesh). Share meat per group rule (Chapman first, then Clark and Troi). Sleep in a bed at night only when no hostile is within about 8 blocks. Run reflect first.
+
+# Earlier handoff, night of day 304
 - Now at the white beds -270,67,336, not enclosed. Health 12.4, hunger 13, no food in pack.
 - Sleep failed here: the way was blocked by iron golems. A phantom attacked and left.
 - No errand half-done. No intent running.

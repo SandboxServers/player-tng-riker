@@ -67,3 +67,11 @@
 - 19:50 act: {"actions":[{"do":"mine","block":"stone","count":3}]}
 - 19:50 act: {"intent":{"goal":"join_group_at_yellow_beds_v5","program":"travel","arguments":{"target":{"x":-248,"y":66,"z":350}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_
 - 19:51 say: {"text":"Riker is walled in at -233,59,347 by stone, no path out for travel. Health 3.3, hunger 17. If anyone is near, come look for me; I have a pickaxe."}
+- 20:00 act: {"say":"Riker, at -234,59,348, health 3, hunger 17. Chapman, I am lowest near you in the pocket. I am coming to the beds now.","intent":{"goal":"rejoin_group_beds","program":"travel","arguments":{"tar
+- 20:01 act: {"actions":[{"do":"mine","block":"dirt","count":4},{"do":"mine","block":"stone","count":3}],"say":"Riker at -234,59,348, digging west and up out of this pocket toward the beds. Health 3.3, hunger 17."
+- 20:01 act: {"actions":[{"do":"goto","target":{"x":-233,"y":56,"z":345}}],"say":"Riker: there is a dropped item 2 blocks away at -233,56,345. Checking it."}
+- 20:01 act: {"say":"Riker still in the pit at -234,57,346, no path out. Health 3.3, hunger 17, no food. Anyone with meat, call me; I'll hold here.","intent":{"goal":"hold_in_pit_for_rescue","program":"trade_wait"
+- 20:09 act: {"actions":[{"do":"mine","block":"stone","count":3}],"say":"Riker, dawn 308, still in the pit at -234,57,346. Health 3.3, hunger 17, no food. Worf or Bcrusher, if you can reach me, call out; I am digg
+- 20:10 act: {"actions":[{"do":"unstick"}],"say":"Riker: I am at 0.3 health and something hit me from behind. I have no food. Anyone with meat, come to -234,57,347 now."}
+- 20:10 say: {"text":"Riker here, respawned at the yellow beds with nothing. My things lie in the pit at -234,55,346. Could someone walk there with me in daylight? I will not go alone."}
+- 20:13 say: {"text":"Riker: thank you, Kimberly. I am at the yellow beds in sight of you, with nothing in hand. Please hand the things over, and I will keep to the group."}
