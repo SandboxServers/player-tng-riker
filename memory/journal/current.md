@@ -299,3 +299,7 @@
 - 05:32 act: {"say":"Riker: no food found in the west oak stands. I'll check the oak leaves north at -284,73,322 for apples, then call out. Jason is weakest, so anything I find goes to him, then Worf.","intent":{"
 - 05:37 act: {"say":"Riker: no food in the oak stand. I'm walking back to the white beds with the group, to hold there until dusk and sleep. Jason has the porkchops, so that's settled.","intent":{"goal":"return_to
 - 05:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Riker going to the white bed for the night. No food; any meat goes to Jason, then Worf and Trini."}
+- 05:42 act: {"say":"I'm awake at the white beds with no food. Jason first at dawn, then Trini and Worf. Anyone with meat, tell me where.","reasoning":"Night, just woke from sleep. Food is the need. Stay near beds
+- 05:48 act: {"say":"Dawn. I'm scouting the grass to the west with the group for animals. Any meat goes to Jason first, then Trini and Worf.","intent":{"goal":"scout_west_grass_for_animals","program":"travel","arg
+- 05:48 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":334}}],"say":"I scouted the west grass: no animals, no food. Heading back to the white beds with the group.","reasoning":"West grass empty and it
+- 05:48 act: {"say":"Riker: I have 18 cobblestone and 3 oak logs to trade for food. If the trader sells food, tell me and I'll offer it there. Jason and Trini first for any food I get.","reasoning":"A trader is ne
