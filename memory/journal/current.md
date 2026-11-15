@@ -120,3 +120,4 @@
 - 23:48 act: {"say":"Riker at dawn, day 247. No food on me. Trini eats first when hunger allows, then Data. I'm going to the west lake with my oak boat for salmon. Worf, which way is the route? I won't go alone; w
 - 23:50 act: {"say":"Worf, Riker here. Please give me the west lake route and where the salmon are. I'm waiting to leave with Tommy, Troi and LaForge in sight.","reasoning":"Route still unknown; ask Worf directly 
 - 23:52 act: {"say":"Riker: Worf says the salmon are across the north lake, reachable only by boat. I'll take the oak boat with LaForge in sight. LaForge, Tommy, Troi: meet me at the beds and tell me the shore spo
+- 00:05 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Geldar: no food, health 20. Going to the white bed with the group. Trini first at light.","intent":{"goal":"reach_be
