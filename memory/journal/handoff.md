@@ -1,4 +1,12 @@
-# Handoff, dawn day 273 (latest)
+# Handoff, night of day 275 (latest)
+
+- At the white bed -270,67,318 (bed -271,67,318 beside me) with LaForge, Troi, Clark nearby. Not enclosed. Health 20, hunger 17, empty pack (1 dirt). Days since sleep 11.
+- No food found day 275 in the north-west. Sheep seen at -242,68,259; Troi and Data going there at first light. Lewis holds 2 mutton for Trini.
+- Phantom 23 blocks south-east at dusk. Bow sounds to the south-west all day.
+- No errand half-done. Sleep attempted at this bed tonight.
+- Next: at light, go to the sheep area with Troi and Data; mutton and any meat goes to Trini first, then Worf, then Tommy/Billy, then me. Run reflect before sleeping.
+
+# Handoff, dawn day 273 (older)
 
 - At the north white bed area -271,67,327 with Troi, Clark, Lewis, Chapman, Macdonald in reach. Not enclosed, bright. Health 20, hunger 20, empty pack. Days since sleep 9.
 - Night 272: sleep refused all night (blocked, creeper 6 and 7 blocks away, phantom 5 blocks away). Trini says the bed at -271,67,318 worked at full night.

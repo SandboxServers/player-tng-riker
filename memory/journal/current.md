@@ -403,3 +403,24 @@
 - 08:24 act: {"actions":[{"do":"sleep"}]}
 - 08:26 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
 - 08:27 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}},{"do":"sleep"}]}
+- 08:32 say: {"text":"Geldar here, day 273, no food, health 20. The group is scouting for animals and wheat. I'll stay near the beds and wait for dusk. Anything I find goes to Trini first."}
+- 08:36 act: {"actions":[{"do":"note","text":"Day 273 morning: at white beds -271,67,327, health 20, hunger 20, empty pack. Group scouting for food; no animals in sight. Waiting near beds for dusk, then bed at -27
+- 08:40 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Riker: dusk on day 273, no food, health 20. Going to the bed at -271,67,318 to try sleep. Any food at dawn goes to T
+- 08:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Riker: night on day 273, trying the bed at -271,67,318 now. No food; Trini first at dawn."}
+- 08:43 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 08:45 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 08:49 say: {"text":"Riker, dawn day 274. No food here. I'll scout the east grass for animals or wheat. Any food goes to Trini, then Worf."}
+- 08:49 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":318}}],"intent":{"goal":"scout_east_grass_for_food","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":318}},"wake_on":["directly_addr
+- 08:50 act: {"actions":[{"do":"goto","target":{"x":-248,"y":67,"z":318}}],"intent":{"goal":"scout_east_grass_for_food","program":"travel","arguments":{"target":{"x":-248,"y":67,"z":318}},"wake_on":["directly_addr
+- 08:53 act: {"intent":{"goal":"return_to_beds_for_dusk","program":"travel","arguments":{"target":{"x":-266,"y":67,"z":322}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_complete
+- 08:57 act: {"actions":[{"do":"mine","block":"short_grass","count":2}]}
+- 08:57 act: {"intent":{"goal":"return_to_beds_for_dusk","program":"travel","arguments":{"target":{"x":-268,"y":67,"z":322}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wor
+- 09:01 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantom on me at the beds! I have no sword, so I'm hitting it bare-handed."}
+- 09:01 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Riker, dusk day 274. A phantom hit me at the beds; I'm heading to the white bed at -270,67,318 to try sleep."}
+- 09:09 say: {"text":"Riker, dawn day 275. No food. I'll scout the north-west grass with Bcrusher for animals. Any food goes to Trini, then Worf."}
+- 09:10 act: {"intent":{"goal":"scout_northwest_grass_for_food","program":"travel","arguments":{"target":{"x":-295,"y":67,"z":305}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_c
+- 09:12 act: {"say":"Riker, morning day 275. Heading north-west with Data and Bcrusher to look for animals. Any food goes to Trini first.","intent":{"goal":"scout_north_west_grass","program":"travel","arguments":{
+- 09:14 act: {"say":"Riker, midday day 275, at -288,68,310 north-west. Lewis, where was the sheep? I'll head there to look for more. Any food goes to Trini first."}
+- 09:21 act: {"say":"Riker, night day 275. Going to the white bed at -270,67,318 to sleep. Mutton to Trini first, Lewis has it. Going on at first light.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}
+- 09:21 act: {"intent":{"goal":"rest_for_night","program":"rest","arguments":{},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":12000,"max_block_operations":16}}}
+- 09:22 act: {"actions":[{"do":"sleep"}]}
