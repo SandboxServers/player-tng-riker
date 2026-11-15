@@ -1,4 +1,13 @@
-# Handoff, day 268 afternoon (latest)
+# Handoff, day 272 (latest; session superseded during a wait)
+
+- At the white bed -271,67,336 (beside -270,67,336) with Kimberly, Bcrusher, Data, Jason in reach. Not enclosed, bright morning. Health 20, hunger 20, empty pack. Days since sleep 8.
+- Night 271: sleep refused all night (phantom 4 blocks away, creeper 10 away). Day 272 sleep refused: not night.
+- Scouted south-east grass on day 272: no animals, only water and iron golems. No food anywhere yet.
+- Pack at -279,69,310 (from the phantom death on day 270) still not recovered.
+- No errand half-done. No intent running.
+- Next: at dusk, sleep at the white bed -271,67,336 if no phantom is in range. Run reflect first. Food goes to Trini first, then Tommy, Billy, then me.
+
+# Handoff, day 268 afternoon
 
 - At the west edge near -299,66,319 with Lewis, Billy, LaForge and Troi in reach. Open grass, bright. Health 10, hunger 9, no food. Days since sleep 4.
 - No animals found in the west. Bows drawn to the north and northeast, so skeletons are likely there. Stay away from that direction.

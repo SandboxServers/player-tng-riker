@@ -374,3 +374,28 @@
 - 07:33 act: {"say":"Riker: the salmon are 12 blocks out in deep water, too far for the spear from the bank. I'm going back to the grass to look for land animals.","actions":[{"do":"goto","target":{"x":-300,"y":66
 - 07:34 act: {"say":"Riker: no animals in sight here. I'm scouting south-west over the grass for cows, pigs or sheep.","actions":[{"do":"goto","target":{"x":-320,"y":66,"z":330}}],"intent":{"goal":"scout_sw_grass_
 - 07:38 act: {"say":"Riker: no animals out west either. I'm heading back to the beds with the group.","actions":[{"do":"goto","target":{"x":-300,"y":66,"z":318}}],"intent":{"goal":"return_to_beds_with_group","prog
+- 07:41 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantom to the south! Fighting it.","reasoning":"Phantom adjacent and attacking, health 8. Fight with stone sword, then shelter."}
+- 07:41 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":295}}],"intent":{"goal":"reach_white_bed","program":"travel","arguments":{"target":{"x":-298,"y":68,"z":295}},"wake_on":["goal_completed","direct
+- 07:41 act: {"actions":[{"do":"use","at":{"x":-298,"y":68,"z":295}},{"do":"sleep"}],"reasoning":"Night, health falling, no food. Sleep in bed to rest; food problem next morning."}
+- 07:41 act: {"actions":[{"do":"sleep"}],"say":"Phantom is hitting me, health 4. Trying to sleep at the bed.","reasoning":"Health 4, phantom above. Sleep attempt; if refused, fight or wall in with cobblestone."}
+- 07:42 act: {"actions":[{"do":"goto","target":{"x":-276,"y":70,"z":296}},{"do":"attack","target":"phantom"}],"say":"Phantom southwest, health 2. Fighting it now.","reasoning":"Health 2, phantom close. Only option
+- 07:42 act: {"actions":[{"do":"goto","target":{"x":-297,"y":68,"z":294}},{"do":"sleep"}],"intent":{"goal":"sleep_at_white_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","
+- 07:42 act: {"actions":[{"do":"goto","target":{"x":-297,"y":68,"z":294}}],"reasoning":"Walk back to bed alone; previous try stalled and the intent failed."}
+- 07:42 act: {"actions":[{"do":"sleep"}],"say":"Riker: a phantom killed me on the way back. I'm at the white bed with nothing; my pack lies near -279,69,310. Trying to sleep.","reasoning":"Respawned at bed, health
+- 07:43 act: {"actions":[{"do":"goto","target":{"x":-297,"y":68,"z":294}},{"do":"sleep"}],"reasoning":"Sleep failed on the way being blocked. Walk back to the bed, then sleep."}
+- 07:44 act: {"actions":[{"do":"goto","target":{"x":-297,"y":68,"z":294}}],"reasoning":"Sleep was blocked again, probably because I am far from the bed. Walk to the bed alone first.","intent":{"goal":"reach_bed","
+- 07:44 act: {"actions":[{"do":"sleep"}],"reasoning":"I am at the bed with nobody hostile in sight. Try sleep."}
+- 07:44 act: {"actions":[{"do":"goto","target":{"x":-297,"y":68,"z":295}},{"do":"sleep"}],"reasoning":"I drifted back to -282,67,319 and my sleep did not register. Walk to the bed and sleep there."}
+- 07:49 act: {"actions":[{"do":"goto","target":{"x":-279,"y":69,"z":310}}],"reasoning":"Dawn on day 271. Phantoms are around, but the pack is only about 10 blocks off. Go and recover it, then return to the group."
+- 07:49 act: {"actions":[{"do":"goto","target":{"x":-279,"y":69,"z":310}}],"say":"Going to my pack at -279,69,310. Phantom to the south-west, watching it."}
+- 07:49 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":319}}],"intent":{"goal":"rejoin_beds","program":"travel","arguments":{"target":{"x":-282,"y":67,"z":319}},"wake_on":["directly_addressed","unexpe
+- 07:49 act: {"actions":[{"do":"sleep"}],"say":"Back at the beds with Lewis. No phantom in sight. Trying to sleep once."}
+- 08:01 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Night. Going to the white bed at -270,67,318 to sleep. No food, hunger 20."}
+- 08:03 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantom on me at the white bed. I have no weapon. Anyone with a sword, come near."}
+- 08:04 act: {"actions":[{"do":"unstick"}]}
+- 08:04 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 08:05 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"No phantom in sight now. Trying the bed to sleep."}
+- 08:08 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 08:11 act: {"actions":[{"do":"goto","target":{"x":-262,"y":66,"z":344}}],"say":"Riker: dawn day 272, no food. I'm scouting south-east grass for animals; any meat goes to Trini first.","intent":{"goal":"scout_sou
+- 08:11 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"say":"Riker: no animals in the south-east grass, only water and golems. Back to the beds."}
+- 08:11 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
