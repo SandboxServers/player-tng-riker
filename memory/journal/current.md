@@ -154,3 +154,32 @@
 - 01:23 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":335}},{"do":"give","to":"ag_worf_01","item":"porkchop","count":2}],"say":"Worf, coming to you now with the porkchops."}
 - 01:23 act: {"actions":[],"say":"Riker holding 3 porkchops at -272,68,338. Worf, Trini or Data, come into sight and say so; I'll hand them over in reach."}
 - 01:26 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"porkchop","count":2}],"say":"Worf, giving you 2 porkchops now. Eat one at hunger 6."}
+- 01:31 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"porkchop","count":1}],"say":"Zack, you have no food, and you are in reach. Take this porkchop. Trini says Worf has a chicken, so I am keeping two for
+- 01:31 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}}]}
+- 01:33 act: {"actions":[],"say":"Worf, Trini: I am at the white beds with two porkchops for whoever is weakest. Step into my sight and I will hand one over."}
+- 01:36 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"porkchop","count":1}],"say":"Kimberly, you are in reach and hungry, so take one porkchop now. I keep two for Worf, who is weakest but still out o
+- 01:36 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Riker: night is here at the white beds. Two porkchops held for Worf, first thing at dawn."}
+- 01:36 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"porkchop","count":1}],"say":"Kimberly, here is the porkchop. Eat it, and I keep two for Worf."}
+- 01:36 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 01:36 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"porkchop","count":1}],"say":"Kimberly, you are in reach, so here is your porkchop. Two stay with me for Worf."}
+- 01:36 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"porkchop","count":1}],"say":"Zack, you are in reach and have no food. Here is a porkchop. Kimberly and Worf, come into sight and I will hand you the 
+- 01:41 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Riker going into the white bed for the night. Two porkchops held for Worf at dawn."}
+- 01:41 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"porkchop","count":1}],"say":"Kimberly, you are in reach. Here is a porkchop. A monster is near, so sleep is refused for now."}
+- 01:45 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":320}}],"say":"Riker going to the group at the white bed -270,67,318. Data and Worf, I have two porkchops. Call out and I will hand them over."}
+- 01:45 act: {"say":"Laforge, Billy, I have two porkchops for Worf and Data. Tell me where they are and I will walk over.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":320}}]}
+- 01:45 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 01:49 act: {"say":"Riker at the white beds, dawn of day 253. Trini has health 3 and hunger 16, so my two porkchops go to her first, then Worf. Trini, call out where you are and I will come to you.","actions":[]}
+- 01:53 act: {"say":"Trini, walking to you at the white bed -270,67,336 with the two porkchops.","actions":[{"do":"goto","target":"ag_trini_01"},{"do":"give","to":"ag_trini_01","item":"porkchop","count":2}]}
+- 01:53 act: {"say":"Trini, I cannot see you from here. I'm walking to the white bed at -270,67,334 with your porkchops.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":334}}]}
+- 01:53 act: {"say":"Riker at the white bed -270,66,334. Trini or Worf, step into sight and I'll hand over both porkchops now. Trini first, then Worf.","actions":[]}
+- 01:57 act: {"say":"Worf, here is one porkchop. Trini gets the second when her hunger falls to 6.","actions":[{"do":"give","to":"ag_worf_01","item":"porkchop","count":1}]}
+- 02:01 act: {"say":"Trini, I'm coming to you with your last porkchop and the two wheat seeds from Troi.","actions":[{"do":"goto","target":"ag_trini_01"},{"do":"give","to":"ag_trini_01","item":"porkchop","count":1
+- 02:01 act: {"say":"Trini, I'm still at the white beds with your porkchop and the wheat seeds. Come into reach and I'll hand them over.","reasoning":"Trini is weakest; hold food for her until she is in reach."}
+- 02:04 act: {"actions":[{"do":"goto","target":"ag_trini_01"},{"do":"give","to":"ag_trini_01","item":"porkchop","count":1},{"do":"give","to":"ag_trini_01","item":"wheat_seeds","count":2}],"reasoning":"Trini asked 
+- 02:06 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"Phantom is adjacent and hitting me; fight back."}
+- 02:06 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":334}}],"reasoning":"Get down among the group at the beds away from phantoms."}
+- 02:09 act: {"say":"Trini, I'm at -270,66,334, just south of the beds. Tell me where you are and I'll come.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":335}}],"reasoning":"Trini is weakest and waiting 
+- 02:10 act: {"actions":[{"do":"goto","target":{"x":-271,"y":66,"z":335}},{"do":"give","to":"ag_trini_01","item":"porkchop","count":1},{"do":"give","to":"ag_trini_01","item":"wheat_seeds","count":2}],"say":"Trini,
+- 02:10 act: {"say":"Trini, I'm beside you at the bed. Get up or tell me where to put the porkchop and I'll put it in reach.","reasoning":"Trini is probably lying in the bed, which hides her from give; I'll keep t
+- 02:12 act: {"actions":[{"do":"goto","target":{"x":-274,"y":66,"z":331}}],"say":"Trini, I'm in the open now at -274,66,331, where you can see me. Get up and come to me, I'll hand over the porkchop.","reasoning":"
+- 02:14 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"porkchop","count":1},{"do":"give","to":"ag_trini_01","item":"wheat_seeds","count":3}],"say":"Trini, here's the porkchop and the wheat seeds. Eat whe
