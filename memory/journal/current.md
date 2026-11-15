@@ -1,5 +1,7 @@
 # Journal
 
+- Day 257 midday: at white beds -270,67,318, health 17, hunger 16, no food. Holding 4 wheat seeds and a wooden hoe. My rest intent failed once; retried as a wait. Tommy and Jason are planting at -265,65,323; I offered my seeds to whoever has clear ground. Meat goes to Ezra and Data first.
+
 - Day 256 (latest): woke on grass by the crafting table, health 17, hunger 16, no food. Walked west to search: no animals, and a drop to the west, so I stopped. Bows drawn north and south. Searched east in sight of the group; meat goes to Trini, then Data.
 
 - Day 248 dawn: at white beds -271,67,327, health 20, hunger 20, no food. Group food still at zero; Trini (hunger 11) and Data (health 3) first. Sent a follow intent behind Zack to scout the east grass in sight.
@@ -217,3 +219,7 @@
 - 02:57 act: {"intent":{"goal":"hold_at_beds_until_dusk","program":"rest","arguments":{"seconds":240},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"],"limits":{"max_worl
 - 03:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Riker at the white bed, night of day 256. No food. Meat goes to Data and Trini first.","reasoning":"Night, bed in re
 - 03:03 act: {"actions":[{"do":"sleep"}],"reasoning":"Sleep blocked last try, likely by a golem near. One more try at this bed, then wait."}
+- 03:11 act: {"say":"Riker here at the white beds, day 257, health 17, hunger 16, no food. I hold 4 wheat seeds and a wooden hoe. I'll plant them on dirt beside Tommy's plot, and any meat goes to Data and Ezra fir
+- 03:11 act: {"intent":{"goal":"hold_at_beds_and_help_plant_wheat","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_
+- 03:12 act: {"say":"Riker: Worf, I hold 4 wheat seeds and a hoe. Tommy, tell me where your plot is and I'll till and plant beside you. Meat still goes to Ezra and Data first."}
+- 03:16 act: {"say":"Riker: the plot at -265,65,323 is crowded now. I'll hold my 4 seeds and plant on any clear grass Jason or Tommy points me to. Still no food; meat goes to Ezra and Data first."}
