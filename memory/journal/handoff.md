@@ -1,4 +1,13 @@
-# Handoff, day 279 midday (latest)
+# Handoff, night of day 289 (latest)
+
+- Slept at white bed -270,67,318 on night 289; sleep worked, days since sleep reset to 0.
+- At the beds with the group. Not enclosed. Health 20, hunger 15, no food, no weapon. Pack: 1 dirt, 1 white_wool.
+- Lewis died to a spider in the evening of day 290. Picard (14) and Leonardo (11) are the lowest on food.
+- Iron golem was about 9 blocks south at last check. Do not travel at night.
+- No errand half-done. No intent running.
+- Next: at dawn, scout the west lake cow area (around -334,64,229) with the group. Any food goes to Picard first, then Leonardo. Stay away from salmon in deep water alone. Sleep at a white bed at night only if no mob is within about 8 blocks. Run reflect first.
+
+# Handoff, day 279 midday (older)
 
 - Died on day 279 to an unseen zombie near -302,175 (no weapon). Respawned; now at the white bed -270,67,318 with Trini, Troi, Leonardo in reach. Health 20, hunger 20, empty pack. 1 dirt left at -302,63,175 (not worth it).
 - Clark has a chicken for Trini first, then the hungriest. Macdonald gave Trini mutton. Chapman hungry (17).

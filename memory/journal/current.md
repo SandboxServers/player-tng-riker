@@ -30,3 +30,7 @@
 - 13:42 act: {"actions":[{"do":"sleep"}],"say":"Riker at the white bed, trying to sleep. No food, hunger 17."}
 - 13:43 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Sleep at the bed at 336 was blocked. Trying the bed at 318 once."}
 - 13:52 act: {"intent":{"goal":"search_grass_north_for_animals","program":"travel","arguments":{"target":{"x":-290,"y":67,"z":285}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"
+- 13:54 act: {"intent":{"goal":"return_to_group_at_beds","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":322}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_wor
+- 13:54 act: {"intent":{"goal":"wait_at_beds_for_food_share","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":1200,"max_block_o
+- 13:58 act: {"actions":[{"do":"note","text":"Riker at beds -272,67,322, hunger 15, no food. Leonardo (11) and Picard (14) are lower; mutton goes to them first."}],"say":"Riker, hunger 15, no food. Leonardo and Pi
+- 14:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["goal_completed","di
