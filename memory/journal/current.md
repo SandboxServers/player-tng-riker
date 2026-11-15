@@ -269,3 +269,4 @@
 - 04:19 act: {"actions":[{"do":"goto","target":"ag_data_01"},{"do":"give","to":"ag_data_01","item":"wheat","count":1}],"say":"Data, here is my one wheat for the bread. Trini already has food.","reasoning":"Trini h
 - 04:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Riker going to the white bed for the night. No food; Trini first at dawn for any wheat.","reasoning":"Night has begu
 - 04:25 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"say":"Riker at the yellow bed, night of 260. No food on me. Trini first for any wheat at dawn.","reasoning":"Night, sheltered-ish near Tr
+- 04:26 say: {"text":"No food on me, sorry Trini. Kimberly has your porkchop; she is holding it for you. I'm sleeping at the yellow bed now."}
