@@ -1,4 +1,18 @@
-# Handoff, night of day 289 (latest)
+# Handoff, dusk of day 295 (latest)
+
+- At the north white bed area (-270,67,318) with Macdonald, Lewis, Bcrusher, Clark in reach. Not enclosed, dim. Health 20, hunger 20, empty pack.
+- Pack lost: the drop at -231,67,346 was empty at dawn 295 (died there to a phantom on night 294).
+- Days since sleep 6. No food. No weapon. No errand half-done. No intent running.
+- Next: wait with the group for food call-outs; give any food to Wesley and Trini first, in reach. At night, if no hostile within about 8 blocks, run reflect and sleep in the bed at -270,67,318 or -271,67,318.
+
+# Handoff, dusk of day 293 (older)
+
+- At the yellow beds -262,67,353 with Macdonald and Leonardo in reach. Not enclosed. Health 3, hunger 17, no food.
+- Jason is holding a chicken for me and says he is handing it over; it has not reached my pack yet.
+- Golem 9 blocks west (friendly). No errand half-done. No intent running.
+- Next: take the chicken when it arrives and eat it. Then try sleep at a yellow bed if no hostile is within about 8 blocks. Run reflect first. Meat goes to LaForge, then Zack and Leonardo.
+
+# Handoff, night of day 289 (older)
 
 - Slept at white bed -270,67,318 on night 289; sleep worked, days since sleep reset to 0.
 - At the beds with the group. Not enclosed. Health 20, hunger 15, no food, no weapon. Pack: 1 dirt, 1 white_wool.

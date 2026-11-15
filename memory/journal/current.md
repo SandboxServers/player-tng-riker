@@ -62,3 +62,41 @@
 - 14:54 act: {"actions":[{"do":"goto","target":"ag_picard_01"},{"do":"give","to":"ag_picard_01","item":"porkchop","count":1}],"say":"Picard, here is a porkchop. I still have 2 beef for Zack and Leonardo when they 
 - 14:54 act: {"actions":[{"do":"goto","target":"ag_leonardo_01"},{"do":"give","to":"ag_leonardo_01","item":"beef","count":2}],"say":"Leonardo, here is the beef, two pieces. Eat when your hunger is low.","reasoning
 - 14:54 act: {"actions":[{"do":"give","to":"ag_picard_01","item":"beef","count":1}],"say":"Picard, I could not find Leonardo, so this last beef is for you. Something hit me just now; I am watching for it.","reason
+- 14:55 act: {"say":"Riker here, hunger 17, no food. Picard, are you carrying any meat left? I'll look for a cow or pig to the north-west.","actions":[]}
+- 14:55 act: {"intent":{"goal":"scout_pigs_east","program":"travel","arguments":{"target":{"x":-200,"y":70,"z":358}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks
+- 14:55 act: {"say":"Riker, no pigs here now. Heading east toward the cow I saw near -152,100,327.","intent":{"goal":"scout_cow_east","program":"travel","arguments":{"target":{"x":-155,"y":90,"z":327}},"wake_on":[
+- 14:56 act: {"say":"Riker: coming to the cow at -158,100,323. Worf, if you have any meat spare, I'm hungry at 17.","actions":[{"do":"goto","target":{"x":-158,"y":100,"z":323}},{"do":"attack","target":"cow"}]}
+- 14:56 act: {"actions":[{"do":"unstick"}]}
+- 14:59 act: {"actions":[{"do":"mine","block":"dirt","count":2},{"do":"unstick"}]}
+- 14:59 act: {"say":"Riker: free of the rock. Skeleton horse 5 blocks west, so I'm moving east away from it. Worf, I'll wait east at -145,94,335 for the beef.","intent":{"goal":"move_away_east","program":"travel",
+- 15:00 act: {"say":"Riker at -145,100,336, sunset coming, hunger 17. Worf, I'm here waiting for the beef. Skeletons are north of the rock.","actions":[{"do":"goto","target":{"x":-145,"y":101,"z":335}}]}
+- 15:03 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}],"say":"Zombie on me, fighting it. Thanks Worf, I have the beef."}
+- 15:04 act: {"actions":[{"do":"eat"}],"say":"Riker at 3 health, eating beef now."}
+- 15:04 act: {"actions":[{"do":"use","at":{"x":-184,"y":77,"z":344},"item":"wooden_sword"},{"do":"attack","target":"phantom"}],"say":"Phantoms coming from the west, I'm fighting with my sword."}
+- 15:05 act: {"actions":[{"do":"use","item":"wooden_sword"},{"do":"attack","target":"phantom"}],"reasoning":"Phantom 3.6 blocks east, health 5. Equip the sword and attack it."}
+- 15:05 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":364}},{"do":"sleep"}],"reasoning":"Health steady at 5, reflex retreat moved me to the white beds at -272,67,362. Phantom gone from view. Golems a
+- 15:06 act: {"actions":[{"do":"sleep"}],"reasoning":"I am standing at the white bed at -294,69,350 with no hostile in view. Sleep failed as blocked; try once more before building a shelter."}
+- 15:06 act: {"actions":[],"say":"Riker here. I have no food left, sorry. I found a beef-less pack and a wooden sword. Let us wait for light and then look for cows together.","reasoning":"Group in reach at the bed
+- 15:07 act: {"actions":[{"do":"use","item":"wooden_sword","entity":"phantom"},{"do":"attack","target":"phantom"},{"do":"attack","target":"phantom"}],"reasoning":"Phantom 2 blocks away hitting me, health 3. Equip 
+- 15:07 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"A phantom was hitting me; it is out of view now. Hold the sword ready and stay near the golems and the group."}
+- 15:12 act: {"actions":[],"say":"Riker at dawn 293, health 3, no food. Going with the group to the pig area. Any meat, call it out and I will help take it to the weakest.","reasoning":"Dawn. Group heading to pig 
+- 15:12 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":352}}],"say":"Riker, health 3, no food. Jason, if the chicken is still with you, I am heading to the yellow beds at -262,67,352. Give it to whoev
+- 15:15 act: {"actions":[],"say":"Riker at the yellow beds, -262,67,353, health 3. Jason, bring the chicken here to me and I will eat it. Thank you, Macdonald.","reasoning":"Jason keeps the chicken for me but is o
+- 15:19 act: {"actions":[],"say":"Jason, I see no chicken in my pack yet. Please give it to me by hand here, I am at the yellow beds. Then I will eat it.","reasoning":"The chicken has not reached my pack. Ask him 
+- 15:21 act: {"actions":[{"do":"sleep"}],"intent":{"goal":"rest_night_293","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"ma
+- 15:23 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}}],"say":"Riker is walking back to the yellow bed at -263,67,353 now. Jason, hold the chicken for me there.","reasoning":"I was moved away by
+- 15:24 act: {"actions":[],"say":"Jason, I'm here at the yellow bed, in reach. Please hand me the chicken now. I'm at health 3.","reasoning":"Riker is back at the beds with Jason in reach. Ask for the chicken face
+- 15:28 act: {"actions":[{"do":"sleep"}],"say":"Jason, the chicken going to Leonardo is fine, he was weaker. I'm at health 3 with no food. I'll try the bed now.","reasoning":"Chicken went to Leonardo, who is weake
+- 15:28 act: {"actions":[],"say":"It's dawn. I have 18 wheat seeds but no food. Who has seen cows, sheep or pigs nearby? I'll go with the group to look.","reasoning":"Dawn, no food. Ask the group where animals are
+- 15:30 act: {"actions":[],"say":"Jason, I'm right here at -242,69,344, in reach. Hold the chicken out to me and I'll eat it.","reasoning":"Jason says the chicken is still with him and he is holding it out. I'm in
+- 15:32 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Jason, I'm stepping over to you on the open grass.","reasoning":"The hand-over keeps failing at 2 blocks. Step next to Jason on open ground so 
+- 15:33 act: {"actions":[],"say":"Jason, you're 2 blocks away and the chicken has not come to me. If it's blocked, give it to Bcrusher or Wcrusher, who are at health 2.","reasoning":"The hand-over is not working a
+- 15:36 act: {"actions":[{"do":"note","text":"Got 1 wheat from Leonardo. Inventory marks wheat not edible; keep it for bread or seed plan."}],"say":"Thank you Leonardo, I have your wheat. Jason, I'll try once more
+- 15:36 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":346}}],"say":"Jason, I'm moving to open ground at -240,69,346. Hold the chicken there.","reasoning":"My earlier step toward Jason did not move me
+- 15:39 act: {"actions":[{"do":"goto","target":"ag_clark_01"}],"say":"Clark, I'm Riker, health 3 and no food. I'm coming to you for the chicken.","reasoning":"Clark has a chicken and is about 12 blocks east in day
+- 15:39 act: {"actions":[{"do":"note","text":"Day 294 midday: Clark is not in sight, so the goto failed. Leonardo is 2 blocks away. Health 3, hunger 16, no food."}],"say":"Leonardo, do you have any meat? I have no
+- 15:42 act: {"actions":[{"do":"goto","target":{"x":-230,"y":67,"z":346}}],"say":"Coming to you now, Clark. Hold the chicken.","reasoning":"Clark has the chicken 12 blocks east and is asking me to come into reach.
+- 15:42 act: {"actions":[{"do":"note","text":"Night 294: reached Clark at -231,67,346. He is in reach. Asked for the chicken."}],"say":"Clark, I'm in reach. Please hand me the chicken. Health 3, hunger 16.","reaso
+- 15:52 act: {"actions":[{"do":"goto","target":{"x":-231,"y":67,"z":346}}],"say":"Riker, dawn 295. I died at -231,67,346 and my pack is there, with a chicken. I'm full now, so I'll go pick it up and bring it to We
+- 15:52 act: {"actions":[{"do":"note","text":"Day 295 midday: the death spot -231,67,346 is empty. My pack and the chicken are gone. Going back to the group at the beds."},{"do":"goto","target":{"x":-270,"y":67,"z
+- 16:03 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Night is here. I am going to the white bed with the group, no food yet."}
