@@ -1,5 +1,7 @@
 # Journal
 
+- Day 248 dawn: at white beds -271,67,327, health 20, hunger 20, no food. Group food still at zero; Trini (hunger 11) and Data (health 3) first. Sent a follow intent behind Zack to scout the east grass in sight.
+
 - 20:07 act: {"actions":[{"do":"sleep"}],"say":"Riker here at the white bed, night on day 235. No food yet. Trying to sleep; Data and Troi, stay close.","intent":{"goal":"rest_at_white_bed","program":"rest","argum
 - 20:08 act: {"say":"Riker: night, at the white bed with no food. Anything found at dawn goes to Billy and Tommy first.","actions":[{"do":"sleep"}]}
 - 20:08 act: {"intent":{"goal":"scout_southeast_for_animals","program":"travel","arguments":{"target":{"x":-255,"y":66,"z":345}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_comp
@@ -121,3 +123,6 @@
 - 23:50 act: {"say":"Worf, Riker here. Please give me the west lake route and where the salmon are. I'm waiting to leave with Tommy, Troi and LaForge in sight.","reasoning":"Route still unknown; ask Worf directly 
 - 23:52 act: {"say":"Riker: Worf says the salmon are across the north lake, reachable only by boat. I'll take the oak boat with LaForge in sight. LaForge, Tommy, Troi: meet me at the beds and tell me the shore spo
 - 00:05 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Geldar: no food, health 20. Going to the white bed with the group. Trini first at light.","intent":{"goal":"reach_be
+- 00:08 act: {"say":"Riker here at dawn, day 248. Health 20, hunger 20, still no food. Trini first when anyone finds some. I'll walk the grass in sight of the group.","intent":{"goal":"search_food_near_beds","prog
+- 00:12 act: {"say":"Riker, dawn of day 248, health 20 and hunger 20 but no food. Trini gets any food first. I'll scout east on the grass with Zack, in sight of the group.","intent":{"goal":"scout_east_grass_with_
+- 00:13 act: {"say":"Riker: the follow to Zack failed, probably because he is out of sight. I'm staying at the white beds. Golems are to the south, so I won't go south. Any food, call out and I'll come."}
