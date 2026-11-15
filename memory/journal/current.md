@@ -248,3 +248,12 @@
 - 04:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
 - 04:03 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Riker going to the north white bed to sleep now. No food; Trini first at dawn."}
 - 04:04 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 04:05 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Riker going to the north white bed to sleep. No food; meat goes to Trini first.","reasoning":"Night, unsheltered, no
+- 04:05 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Still night and unsheltered. The bed is 4 blocks east. Retry the bed and sleep."}
+- 04:05 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Golems closing and a phantom nearby; the bed is 3 blocks away. Get on it and try sleep again."}
+- 04:05 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Bed is 9 blocks north at -271,67,318. Walk there and sleep; golem is west."}
+- 04:05 act: {"intent":{"goal":"reach_white_bed_for_night","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_comple
+- 04:05 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Golems are 8+ blocks south and a phantom far off. Walk to the bed and sleep; if it fails, wait and retry."}
+- 04:05 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Same bed failed repeatedly; golems 4 blocks SW. Try the adjacent bed at -270,67,318."}
+- 04:06 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Way was blocked at the north bed. I am beside the south bed at -270,67,336 with people around. Try it."}
+- 04:06 act: {"actions":[{"do":"sleep"}],"reasoning":"Standing on a yellow bed, with people near. Creeper 10 blocks away may clear. Try sleep."}
