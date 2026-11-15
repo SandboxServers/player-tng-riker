@@ -317,3 +317,16 @@
 - 06:00 act: {"actions":[{"do":"sleep"}],"say":"Riker going to sleep in the yellow bed. No food. Jason first at dawn."}
 - 06:04 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}]}
 - 06:08 act: {"say":"Riker, dawn day 266. Still no food, hunger 11. Has anyone traded with the wandering trader? What does it sell? Meat or bread goes to Jason first."}
+- 06:10 act: {"say":"Morning, Troi. I have no food either, hunger 11. I'm going north-west to look for animals.","actions":[],"intent":{"goal":"scout_northwest_for_food","program":"travel","arguments":{"target":{"
+- 06:10 act: {"say":"I'm at the north-west edge. Two horses nearby, but no food I can eat. Still looking for cows, sheep or pigs.","actions":[],"intent":{"goal":"scout_north_for_food","program":"travel","arguments
+- 06:10 act: {"say":"Salmon in the lake to the north. I'm going to the shore to catch one for the group, Troi first.","actions":[{"do":"goto","target":{"x":-314,"y":63,"z":243}}]}
+- 06:10 act: {"actions":[{"do":"attack","target":"salmon"}]}
+- 06:11 act: {"say":"The salmon swam off and I drifted into deep water. Getting back to the shore before trying again.","actions":[{"do":"goto","target":{"x":-336,"y":64,"z":252}}]}
+- 06:11 act: {"say":"Found a lake to the north-west full of salmon. I'm back on the shore, safe. I need a sword to catch them. Anyone with a sword or a food source, please say so.","actions":[{"do":"craft","item":
+- 06:11 act: {"actions":[{"do":"craft","item":"oak_planks","count":4},{"do":"craft","item":"crafting_table","count":1},{"do":"place","block":"crafting_table","at":"feet"},{"do":"craft","item":"stone_sword","count"
+- 06:11 act: {"actions":[{"do":"place","block":"crafting_table","at":{"x":-336,"y":64,"z":250}},{"do":"craft","item":"stone_sword","count":1}]}
+- 06:11 act: {"say":"The shore here is too small to build a table. I'm heading back to the crafting table by the white beds to make the stone sword, then I'll come back to the salmon.","actions":[{"do":"goto","tar
+- 06:11 act: {"intent":{"goal":"reach_white_bed_table_for_sword","program":"travel","arguments":{"target":{"x":-292,"y":68,"z":284}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_
+- 06:13 act: {"actions":[{"do":"craft","item":"stone_sword","count":1}],"say":"Riker at the table, crafting a stone sword for the salmon. Food goes to Trini first.","intent":{"goal":"return_to_salmon_shore","progr
+- 06:14 act: {"actions":[{"do":"goto","target":{"x":-318,"y":63,"z":247}},{"do":"attack","target":"salmon"}],"say":"Riker has a stone sword now and is at the lake edge. Trying for a salmon; any catch goes to Trini
+- 06:15 act: {"actions":[{"do":"goto","target":{"x":-312,"y":64,"z":257}}],"say":"Riker: salmon swim out of reach in the deep water. I'm getting onto the shore by the sign at -312,64,258 and will wait there with t
