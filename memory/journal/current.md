@@ -257,3 +257,7 @@
 - 04:05 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Same bed failed repeatedly; golems 4 blocks SW. Try the adjacent bed at -270,67,318."}
 - 04:06 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Way was blocked at the north bed. I am beside the south bed at -270,67,336 with people around. Try it."}
 - 04:06 act: {"actions":[{"do":"sleep"}],"reasoning":"Standing on a yellow bed, with people near. Creeper 10 blocks away may clear. Try sleep."}
+- 04:10 act: {"intent":{"goal":"check_wheat_field","program":"travel","arguments":{"target":{"x":-264,"y":66,"z":324}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_tic
+- 04:11 act: {"say":"Riker at the wheat field. All four plants are still unripe, no food. Golems are south, so I am staying north of the field. Data, I have 5 wheat seeds if you have clear tilled ground.","intent"
+- 04:15 act: {"actions":[{"do":"till","at":{"x":-263,"y":65,"z":325}}],"say":"Riker: Picard, I'm tilling the grass beside me now at -263,65,325 for planting. Data, I'll plant my 5 seeds there. Ripe wheat still goe
+- 04:15 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":-263,"y":66,"z":325}}]}
