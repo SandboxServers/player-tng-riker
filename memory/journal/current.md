@@ -125,4 +125,5 @@
 - 00:05 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Geldar: no food, health 20. Going to the white bed with the group. Trini first at light.","intent":{"goal":"reach_be
 - 00:08 act: {"say":"Riker here at dawn, day 248. Health 20, hunger 20, still no food. Trini first when anyone finds some. I'll walk the grass in sight of the group.","intent":{"goal":"search_food_near_beds","prog
 - 00:12 act: {"say":"Riker, dawn of day 248, health 20 and hunger 20 but no food. Trini gets any food first. I'll scout east on the grass with Zack, in sight of the group.","intent":{"goal":"scout_east_grass_with_
+- Day 248 night: wait ended by session_superseded; look and wait errored for a while, then returned. At the white beds -271,67,327 with the group, health 20, hunger 20, no food. Slept at the bed (days_since_sleep reset to 0). Next: at dawn, walk the grass in sight of the group; Trini first for any food.
 - 00:13 act: {"say":"Riker: the follow to Zack failed, probably because he is out of sight. I'm staying at the white beds. Golems are to the south, so I won't go south. Any food, call out and I'll come."}
