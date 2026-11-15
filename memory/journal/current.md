@@ -240,3 +240,8 @@
 - 03:38 act: {"actions":[{"do":"note","text":"Day 258 afternoon: health 17, hunger 15, no food. Jason is planting my tilled spot now. Holding no seeds."}],"say":"Riker here, afternoon of day 258. Jason, thank you 
 - 03:38 act: {"actions":[{"do":"note","text":"Day 258 afternoon: waited near plot. Jason asked if -264,65,326 is tilled; I answered yes per my earlier till. Still no food, hunger 15, health 17."}],"say":"Jason, I 
 - 03:41 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"It is night. I am going to the white bed to sleep.","intent":{"goal":"reach_white_bed","program":"travel","arguments":{"target":{"x
+- 03:51 act: {"actions":[{"do":"goto","target":{"x":-263,"y":66,"z":322}},{"do":"place","block":"wheat_seeds","at":{"x":-263,"y":66,"z":323}}],"say":"Riker, day 259 dawn. Thank you Jason for the six seeds. Going t
+- 03:52 act: {"actions":[{"do":"goto","target":{"x":-262,"y":66,"z":320}},{"do":"till","at":{"x":-263,"y":65,"z":320}},{"do":"place","block":"wheat_seeds","at":{"x":-263,"y":66,"z":320}}],"intent":{"goal":"till_an
+- 03:52 act: {"actions":[{"do":"note","text":"Day 259 midday: planted wheat seeds at -263,66,320 (tilled -263,65,320 first). Earlier tries at -263,66,323 failed: seeds need farmland below. Hunger 15, health 17, no
+- 04:01 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Heading to the north white bed for the night. Still no food; meat goes to Trini first."}
+- 04:01 act: {"actions":[{"do":"sleep"}],"say":"Riker going to sleep at the north white bed. No food; Trini first at dawn."}
