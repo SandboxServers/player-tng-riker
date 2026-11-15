@@ -239,3 +239,4 @@
 - 03:35 act: {"say":"Jason, plant when the golem moves off. I'll stay here north of the plot and watch for food.","actions":[{"do":"goto","target":{"x":-262,"y":66,"z":322}}]}
 - 03:38 act: {"actions":[{"do":"note","text":"Day 258 afternoon: health 17, hunger 15, no food. Jason is planting my tilled spot now. Holding no seeds."}],"say":"Riker here, afternoon of day 258. Jason, thank you 
 - 03:38 act: {"actions":[{"do":"note","text":"Day 258 afternoon: waited near plot. Jason asked if -264,65,326 is tilled; I answered yes per my earlier till. Still no food, hunger 15, health 17."}],"say":"Jason, I 
+- 03:41 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"It is night. I am going to the white bed to sleep.","intent":{"goal":"reach_white_bed","program":"travel","arguments":{"target":{"x
