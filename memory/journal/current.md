@@ -295,3 +295,7 @@
 - 05:13 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":326}}],"say":"Riker: phantom 8 blocks east of me at the west grass. Moving back to the beds with the group. No food, hunger 12.","reasoning":"A h
 - 05:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"reasoning":"Night, days since sleep 3, hunger 12. Try the yellow bed next to me once. If blocked, wait for light."}
 - 05:25 say: {"text":"Riker here, night of day 263. No food, hunger 12. Worf and Trini have first claim on any meat I find. I'm trying the white bed here."}
+- 05:28 act: {"say":"Riker here, dawn of day 264. Health 17, hunger 12, no food. I'll scout the grass and leaves nearby for animals and apples. Any meat goes to Worf and Trini first.","intent":{"goal":"scout_food_
+- 05:32 act: {"say":"Riker: no food found in the west oak stands. I'll check the oak leaves north at -284,73,322 for apples, then call out. Jason is weakest, so anything I find goes to him, then Worf.","intent":{"
+- 05:37 act: {"say":"Riker: no food in the oak stand. I'm walking back to the white beds with the group, to hold there until dusk and sleep. Jason has the porkchops, so that's settled.","intent":{"goal":"return_to
+- 05:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Riker going to the white bed for the night. No food; any meat goes to Jason, then Worf and Trini."}
