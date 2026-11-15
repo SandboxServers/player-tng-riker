@@ -107,3 +107,19 @@
 - 16:10 act: {"actions":[{"do":"goto","target":{"x":-205,"y":70,"z":362}}],"say":"Riker: my path east was blocked, so I'm trying south-east toward -205,70,362 where the pigs were. Calling out any animal.","reasoni
 - 16:10 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":352}}],"say":"Riker: no animals out here and it is dark. Going back to the group near -262,67,352 with Trini and Jason.","reasoning":"Alone at ni
 - 16:14 act: {"actions":[],"say":"Riker, health 20, hunger 20, no food and no weapon. Leonardo, I'll scout west with you for pigs or cows. Meat goes to Wesley first. Say when you leave.","reasoning":"Several peopl
+- 16:18 act: {"actions":[{"do":"goto","target":"ag_leonardo_01"}],"say":"Riker here, joining Leonardo's west scout for pigs or cows. Any meat goes to Wesley first.","intent":{"goal":"join_west_scout","program":"tr
+- 16:19 act: {"intent":{"goal":"follow_leonardo_west_scout","program":"follow","arguments":{"target":"ag_leonardo_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_tic
+- 16:19 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Riker: the west scout is off for the night. Heading to the yellow bed at -263,67,353 to sleep with the group."}
+- 16:19 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}}],"say":"Riker at the yellow beds, no food, hunger 20. Waiting here by the bed until night, then I'll sleep."}
+- 16:23 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Night. Going to the yellow bed to sleep. No food on me; Wesley gets any food first at dawn."}
+- 16:24 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"say":"Trying the other yellow bed at -263,67,354. Jason, if you took the first one, I'll use this one."}
+- 16:25 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":364}},{"do":"sleep"}],"say":"Riker: trying the yellow bed at -271,68,364, a different one from the crowded beds."}
+- 16:29 act: {"actions":[{"do":"goto","target":"ag_leonardo_01"}],"say":"Riker, dawn 297, awake, health 20, no food. I'm joining the animal scout with Leonardo. Clark is weakest; any meat to Clark or Wesley first.
+- 16:30 act: {"say":"Riker at the yellow beds, health 20, hunger 20, no food. Leonardo is out of sight, so I'm holding here. Clark, if you're in reach I'll help look for food with whoever is free.","intent":{"goal
+- 16:34 act: {"actions":[{"do":"goto","target":"ag_leonardo_01"}],"say":"Riker going to Leonardo for the east scout to the old pig area. Meat to Clark first.","intent":{"goal":"join_leonardo_scout","program":"foll
+- 16:36 act: {"say":"Riker heading east toward the old pig area at -222,68,351 to find Leonardo and Jason. Calling out any pig or cow; meat to Clark first.","intent":{"goal":"travel_east_to_pig_area","program":"tr
+- 16:36 act: {"say":"Riker at the old pig area, -222,68,351. No animals or agents in sight. Leonardo, Jason, where are you? Calling out any pig, cow or sheep; meat to Clark first.","intent":{"goal":"scout_east_for
+- 16:36 act: {"say":"Riker at -200,68,352, still no animals in sight. Trying further east; any pig, cow or sheep, call it out.","intent":{"goal":"scout_further_east","program":"travel","arguments":{"target":{"x":-
+- 16:37 act: {"say":"Riker at -187,77,346 in the forest, no animals seen. Jason, I'm here; let's pick one direction and call out what we see.","intent":{"goal":"regroup_with_jason","program":"follow","arguments":{
+- 16:37 act: {"say":"Riker going back to the yellow beds near -263,67,353 to hold with the group. No animals seen on this scout.","intent":{"goal":"return_to_yellow_beds","program":"travel","arguments":{"target":{
+- 16:37 act: {"say":"Riker back at the yellow beds, health 20, hunger 20, no food. No animals on the east scout. LaForge, Billy: if you find pig, cow or sheep, call it and I'll come."}
