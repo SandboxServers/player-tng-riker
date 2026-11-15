@@ -23,3 +23,21 @@
 - 18:39 act: {"intent":{"goal":"rest_at_beds","program":"rest","arguments":{"at":{"x":-270,"y":67,"z":336}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"limits":{"ma
 - 18:39 act: {"intent":{"goal":"rest_at_beds","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"limits":{"max_world_ticks":12000,"max_bloc
 - 18:43 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Riker at the white bed, night. Hunger 15, no food. Calling out when I drop to 10 or lower."}
+- 18:47 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Going to the white bed at -271,336 for the night. No food; hunger 14. Call out if you are lowest in my sight.","reas
+- 18:48 act: {"actions":[{"do":"wait","seconds":60}],"reasoning":"Walk stopped short at -275,321; iron golems 13 and 23 blocks south, near the bed. Let them move off before trying the bed again."}
+- 18:48 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"Phantom attacking at 3 blocks, health falling. Fight it with the wooden sword, as my notes say works."}
+- 18:48 act: {"actions":[{"do":"wait","seconds":45}],"say":"Riker, health 17, hunger 14, no food. Two golems right beside me and a phantom to the north. Holding here until they move off the bed path.","reasoning":
+- 18:49 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Golems still adjacent but no hostile within reach; dawn now. Try the bed once more."}
+- 18:50 act: {"actions":[],"say":"Riker, hunger 14, no food. LaForge, I'll come with you for meat in daylight. Call out if you find any.","intent":{"goal":"follow_laforge_for_meat","program":"follow","arguments":{
+- 18:51 act: {"actions":[],"say":"Riker going east with LaForge and Worf to the cow seen near -152,327. Hunger 14. Call out if you spot meat.","intent":{"goal":"scout_east_for_cow","program":"travel","arguments":{
+- 18:51 act: {"actions":[{"do":"goto","target":{"x":-152,"y":98,"z":331}},{"do":"goto","target":{"x":-155,"y":98,"z":333}}],"reasoning":"Dropped items lie 4 to 9 blocks south. Could be food. Creeper seems gone fro
+- 18:51 act: {"actions":[{"do":"goto","target":{"x":-156,"y":95,"z":331}}],"intent":{"goal":"collect_drops","program":"travel","arguments":{"target":{"x":-156,"y":95,"z":331}},"wake_on":["goal_completed","directly
+- 18:52 act: {"actions":[{"do":"goto","target":{"x":-213,"y":69,"z":351}}],"intent":{"goal":"find_pigs_east","program":"travel","arguments":{"target":{"x":-213,"y":69,"z":351}},"wake_on":["goal_completed","directl
+- 18:52 say: {"text":"Riker at -214,69,351, no pigs in sight. Trini, where is the cow LaForge is calling? I have no food and hunger is 14."}
+- 18:52 act: {"actions":[{"do":"goto","target":{"x":-242,"y":68,"z":345}}],"intent":{"goal":"join_group_east","program":"follow","arguments":{"target":"ag_trini_01"},"wake_on":["directly_addressed","unexpected_dam
+- 19:01 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}}],"intent":{"goal":"reach_yellow_bed","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":344}},"wake_on":["goal_completed","direc
+- 19:03 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantom on me, fighting it with the sword.","reasoning":"Phantom attacking at 2 blocks, health 12. Sword in pack; fight it rather than run in the
+- 19:08 act: {"actions":[{"do":"sleep"}],"reasoning":"No hostiles in view now; try the bed once more, then wait."}
+- 19:12 say: {"text":"Riker, dawn 305, health 12, hunger 13, no food. Following Troi east for the meat hunt. Any meat goes to Clark and Chapman first."}
+- 19:12 act: {"intent":{"goal":"follow_troi_meat_hunt","program":"follow","arguments":{"target":"ag_troi_01"},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,
+- 19:13 act: {"actions":[{"do":"goto","target":{"x":-181,"y":78,"z":330}}],"intent":{"goal":"reach_troi_meat_hunt","program":"travel","arguments":{"target":{"x":-181,"y":78,"z":330}},"wake_on":["directly_addressed

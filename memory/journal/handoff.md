@@ -1,9 +1,10 @@
-# Handoff, day 303 (latest)
+# Handoff, night of day 304 (latest)
 
-- At the white beds near -270,67,337, not enclosed. Health 19, hunger 15, no food.
-- Sleep refused at -270,67,336: "it is not night". Days since sleep about 2.
+- Slept at the yellow bed near -242,69,344 earlier tonight; sleep worked, days since sleep 0.
+- Now at the white beds -270,67,336, not enclosed. Health 12.4, hunger 13, no food in pack.
+- Sleep failed here: the way was blocked by iron golems. A phantom attacked and left.
 - No errand half-done. No intent running.
-- Next: wait near the beds for dusk; sleep at -270,67,336 once it is dark and no mob is within about 8 blocks. Run reflect first. Call Trini or Kimberly when hunger is 10 or lower. Scout east for the known cow and pigs when it is light.
+- Next: stay with the group until dawn. At first light, follow the group and hand any meat to the lowest first (Zack, Chapman, Clark, LaForge). Retry sleep at a bed at night only if no hostile is within about 8 blocks. Run reflect first.
 
 # Handoff, night of day 301 (older)
 
