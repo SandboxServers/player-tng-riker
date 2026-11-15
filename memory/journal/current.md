@@ -399,3 +399,7 @@
 - 08:11 act: {"actions":[{"do":"goto","target":{"x":-262,"y":66,"z":344}}],"say":"Riker: dawn day 272, no food. I'm scouting south-east grass for animals; any meat goes to Trini first.","intent":{"goal":"scout_sou
 - 08:11 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"say":"Riker: no animals in the south-east grass, only water and golems. Back to the beds."}
 - 08:11 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 08:22 act: {"actions":[{"do":"sleep"}]}
+- 08:24 act: {"actions":[{"do":"sleep"}]}
+- 08:26 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 08:27 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}},{"do":"sleep"}]}

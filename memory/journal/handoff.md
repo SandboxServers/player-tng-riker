@@ -1,4 +1,11 @@
-# Handoff, day 272 (latest; session superseded during a wait)
+# Handoff, dawn day 273 (latest)
+
+- At the north white bed area -271,67,327 with Troi, Clark, Lewis, Chapman, Macdonald in reach. Not enclosed, bright. Health 20, hunger 20, empty pack. Days since sleep 9.
+- Night 272: sleep refused all night (blocked, creeper 6 and 7 blocks away, phantom 5 blocks away). Trini says the bed at -271,67,318 worked at full night.
+- No errand half-done. No intent running.
+- Next: wait near the beds for dusk; at full night try the bed at -271,67,318 (or 336 beds). Run reflect first. Food goes to Trini first, then Tommy, Billy, then me.
+
+# Handoff, day 272 (older)
 
 - At the white bed -271,67,336 (beside -270,67,336) with Kimberly, Bcrusher, Data, Jason in reach. Not enclosed, bright morning. Health 20, hunger 20, empty pack. Days since sleep 8.
 - Night 271: sleep refused all night (phantom 4 blocks away, creeper 10 away). Day 272 sleep refused: not night.
