@@ -462,3 +462,10 @@
 - 11:10 act: {"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":336}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks"
 - 11:15 act: {"say":"Riker here, day 281. Pack empty, no food, no seeds. Health 20, hunger 20. Trini, I have nothing to give yet; I will look for food with the group.","intent":{"goal":"hold_near_beds","program":"
 - 11:15 act: {"say":"Riker: Clark, I have no hoe or seeds, so I can't till. I'll stay at the beds and hand over anything I find to Trini first."}
+- 11:24 act: {"say":"Riker awake at the north beds, night of day 281. Health 20, hunger 20, no food, empty pack. I'll go with the group at dawn to look for food, and anything I find goes to Trini first.","intent":
+- 11:24 act: {"intent":{"goal":"rest_till_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":3000,"max_block_operations":8}
+- 11:24 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"The sleep failed because the way was blocked here. Try the south white bed instead."}
+- 11:24 act: {"actions":[{"do":"sleep"}],"reasoning":"Sleep was refused because a creeper was 8 blocks away. Try again now; if still refused, wait and retry."}
+- 11:24 act: {"intent":{"goal":"wait_for_dawn_with_group","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operation
+- 11:24 act: {"actions":[{"do":"sleep"}],"reasoning":"Retry sleep now that the earlier rest has finished."}
+- 11:25 act: {"say":"Riker, first light on day 281. Health 20, hunger 20, no food, no tools. I'll go with the group to search for animals; any food goes to Trini first.","intent":{"goal":"scout_for_food_with_group
