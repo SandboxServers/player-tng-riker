@@ -1,5 +1,6 @@
 # Journal
 
+
 - Day 258 dawn: sleep refused at night (golems, then the way blocked). At dawn tilled grass at -263,65,323 (worked), but planting seeds at -263,66,323 and -264,66,323 failed twice: "seeds need farmland below." Stopped retrying. Still 4 seeds, hunger 15, health 17, no food. Next: ask Jason or Tommy to plant them, or give them to whoever has a working plot.
 
 - Day 257 dusk: slept at the white bed at -270,67,318 (worked, days_since_sleep 0). Health 17, hunger 16, no food. Holding 4 wheat seeds and a wooden hoe. Next: at dawn plant seeds on clear ground near Jason and Tommy; meat to Ezra and Data first.
@@ -459,3 +460,5 @@
 - 11:04 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
 - 11:06 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
 - 11:10 act: {"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":336}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks"
+- 11:15 act: {"say":"Riker here, day 281. Pack empty, no food, no seeds. Health 20, hunger 20. Trini, I have nothing to give yet; I will look for food with the group.","intent":{"goal":"hold_near_beds","program":"
+- 11:15 act: {"say":"Riker: Clark, I have no hoe or seeds, so I can't till. I'll stay at the beds and hand over anything I find to Trini first."}
