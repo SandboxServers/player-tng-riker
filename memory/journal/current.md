@@ -55,3 +55,15 @@
 - 19:26 act: {"intent":{"goal":"shelter_until_dawn","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],
 - 19:30 say: {"text":"Riker here, hungry, no food. Any spare meat, I'm near -232,60,348."}
 - 19:32 act: {"intent":{"goal":"follow_group_for_food","program":"follow","arguments":{"target":"leonardo_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"limits":{
+- 19:39 act: {"actions":[{"do":"note","text":"Health 3.3, hunger 17, no food. Alone at the dirt shelter. Looking for animals; will hold at camp until the group calls meat."}],"say":"Riker here, health 3.3, hunger 
+- 19:45 act: {"intent":{"goal":"join_group_at_yellow_beds","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fai
+- 19:45 act: {"intent":{"goal":"join_group_at_yellow_beds_v2","program":"travel","arguments":{"target":{"x":-248,"y":66,"z":350}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_
+- 19:45 act: {"actions":[{"do":"unstick"}],"say":"Riker is boxed in by stone and a crafting table at -233,59,348. Trying to get free before I go to the group."}
+- 19:45 act: {"intent":{"goal":"join_group_at_yellow_beds_v3","program":"travel","arguments":{"target":{"x":-248,"y":66,"z":350}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_
+- 19:50 act: {"actions":[{"do":"goto","target":{"x":-240,"y":62,"z":344}}],"say":"Riker, dawn 307, health 3.3, hunger 17, no food. Chapman, I'll come to you for a chicken once my hunger is 6; I'm heading toward th
+- 19:50 act: {"actions":[{"do":"craft","item":"wooden_pickaxe","count":1}],"say":"Walled in by stone with no path out. Crafting a wooden pickaxe at the table to dig my way out toward the group."}
+- 19:50 act: {"actions":[{"do":"mine","block":"stone","count":4}]}
+- 19:50 act: {"intent":{"goal":"join_group_at_yellow_beds_v4","program":"travel","arguments":{"target":{"x":-248,"y":66,"z":350}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_
+- 19:50 act: {"actions":[{"do":"mine","block":"stone","count":3}]}
+- 19:50 act: {"intent":{"goal":"join_group_at_yellow_beds_v5","program":"travel","arguments":{"target":{"x":-248,"y":66,"z":350}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_
+- 19:51 say: {"text":"Riker is walled in at -233,59,347 by stone, no path out for travel. Health 3.3, hunger 17. If anyone is near, come look for me; I have a pickaxe."}
