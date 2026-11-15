@@ -125,3 +125,16 @@
 - 16:37 act: {"say":"Riker back at the yellow beds, health 20, hunger 20, no food. No animals on the east scout. LaForge, Billy: if you find pig, cow or sheep, call it and I'll come."}
 - 16:42 act: {"say":"Riker at the beds, health 20, hunger 20, no food. Trying to sleep for the night.","actions":[{"do":"sleep"}]}
 - 16:47 act: {"actions":[{"do":"sleep"}]}
+- 16:53 act: {"say":"Riker joining the east pig hunt, no food, no weapon. Meat to Wesley first, then Clark. I'll call out any animal.","intent":{"goal":"join_east_pig_hunt","program":"travel","arguments":{"target"
+- 16:55 act: {"actions":[{"do":"goto","target":{"x":-215,"y":69,"z":351}}],"say":"Riker heading east to the pig hunt now, no food, hunger 20. Will call out any animal."}
+- 17:03 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}},{"do":"sleep"}],"say":"Riker walking back to the yellow beds for the night. No food, no pigs found east, hunger 20. Food first at dawn."}
+- 17:04 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}},{"do":"sleep"}]}
+- 17:07 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Riker trying the yellow bed once more. Golems are about 3 and 19 blocks away."}
+- 17:12 act: {"intent":{"goal":"join_chicken_hunt","program":"travel","arguments":{"target":{"x":-257,"y":66,"z":199}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"l
+- 17:16 act: {"actions":[{"do":"goto","target":{"x":-257,"y":66,"z":175}}],"say":"No chickens here yet. I'm scouting north a little for animals; I'll call out if I find any."}
+- 17:18 act: {"actions":[{"do":"goto","target":{"x":-257,"y":66,"z":198}}],"say":"Nothing on the open plain north, just grass and a drop. Coming back to the chicken ground to meet the group."}
+- 17:22 act: {"intent":{"goal":"return_to_beds_at_night","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":352}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_complete
+- 17:23 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Back at the yellow beds with Lewis. Trying to sleep. No food, hunger 20."}
+- 17:32 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":352}}],"say":"Riker, dawn 300, no food, no weapon, hunger full. Going with Picard and Lewis east for pigs. Call out if you find one; I'll help ca
+- 17:32 act: {"intent":{"goal":"follow_picard_east","program":"follow","arguments":{"target":"ag_picard_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"m
+- 17:32 act: {"actions":[{"do":"goto","target":{"x":-236,"y":67,"z":350}}],"say":"Picard is out of sight, so I'm heading east on my own in daylight to look for pigs. Will call out."}
