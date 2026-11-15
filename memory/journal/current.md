@@ -8,3 +8,10 @@
 - 23:00 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1092}}],"say":"Data, Clark: I'm walking to the bed at x416 now. Whoever is there, step into my sight and say so."}
 - 23:04 act: {"actions":[{"do":"give","to":"ag_data_01","item":"oak_planks","count":9}],"say":"Data, giving you the 9 planks now as I promised. Good luck with the shelter."}
 - 23:04 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1092}}],"say":"Data, I am by the beds with your 9 planks. Say if you are still short and I will hand them over."}
+- 23:05 act: {"say":"Heard the melon walk. I have no food, so I'm in for it at first light. Data, I still have your 9 planks.","intent":{"goal":"await_data_and_melon_trip","program":"rest","arguments":{},"wake_on"
+- 23:09 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1092}},{"do":"give","to":"ag_data_01","item":"oak_planks","count":9}],"say":"Data, walking to you now with your 9 planks."}
+- 23:09 act: {"actions":[{"do":"goto","target":{"x":403,"y":107,"z":-1092}}],"say":"Data, my goto to you was blocked and I can't see you now. I'm back at the beds with your 9 planks. Come to me here and I'll hand 
+- 23:13 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1091}},{"do":"give","to":"ag_data_01","item":"oak_planks","count":9}],"say":"Data, coming to you now with the 9 planks."}
+- 23:14 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1091}}],"say":"Data, I'm at x413 by the beds and you're not in my sight. I'm holding the 9 planks. Step into view here and I'll give them to you
+- 23:18 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1091}},{"do":"give","to":"ag_data_01","item":"oak_planks","count":9}],"say":"Data, here I am at x413. Giving the 9 planks now."}
+- 23:18 act: {"say":"Data, I'm at x413 z-1090 and I still can't see you. Tell me exactly where you stand. The planks are in my pack."}
