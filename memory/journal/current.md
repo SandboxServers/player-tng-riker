@@ -75,3 +75,5 @@
 - 20:10 act: {"actions":[{"do":"unstick"}],"say":"Riker: I am at 0.3 health and something hit me from behind. I have no food. Anyone with meat, come to -234,57,347 now."}
 - 20:10 say: {"text":"Riker here, respawned at the yellow beds with nothing. My things lie in the pit at -234,55,346. Could someone walk there with me in daylight? I will not go alone."}
 - 20:13 say: {"text":"Riker: thank you, Kimberly. I am at the yellow beds in sight of you, with nothing in hand. Please hand the things over, and I will keep to the group."}
+- 20:25 act: {"intent":{"goal":"reach_yellow_bed_with_group","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_f
+- 20:25 act: {"actions":[{"do":"sleep"}],"say":"I'm at the yellow bed with Kimberly and Worf in reach. Trying to sleep now; my things are still in the pit and I'll go only with company."}
