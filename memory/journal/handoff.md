@@ -1,22 +1,13 @@
-# Handoff, day 258 midday
+# Handoff, day 268 afternoon (latest)
 
-- Day 261 handoff (latest): at white beds -270,67,334, not enclosed, bright. Health 17, hunger 13, no food.
-- Seeds settled: my 7 went to Kimberly, who gave them to LaForge by mistake. Picard now has 7 seeds for his plot -290,68,285. I hold none.
-- Tilling near the beds failed twice. Nothing half-done except the give.
-- Iron golem 1 block north of me, another 13 blocks south-west. Keep away from it.
-- Day 262 morning: at -270,67,327 near the beds, bright. Health 17, hunger 13, no food. Sleep blocked all night by golems and a creeper, so no rest yet; days since sleep 2.
-- Searching the west grass with Data and Trini, in sight of the group. Meat and wheat go to Worf first, then Trini, then me.
-- Sleep at a free white bed (-270,67,318 or -271,67,318) at night; run reflect first.
+- At the west edge near -299,66,319 with Lewis, Billy, LaForge and Troi in reach. Open grass, bright. Health 10, hunger 9, no food. Days since sleep 4.
+- No animals found in the west. Bows drawn to the north and northeast, so skeletons are likely there. Stay away from that direction.
+- Pack: stone sword, wooden hoe, 17 cobblestone, 21 dirt, oak saplings, oak boat, planks, stripped oak logs. Nothing edible.
+- Picard planted wheat at -273,66,330 and has 12 seeds for anyone with tilled ground. Jason is tilling near the beds.
+- No errand half-done.
+- Next: wait for animal call-outs. Meat goes to Trini, then Kimberly, then Worf, then me. Before dusk, go to the white bed at -270,67,318 with the group and try to sleep. Run reflect first.
 
-# Older note (superseded)
-
-- At the white beds -270,67,318 with Troi and Ezra. Health 17, hunger 16, no food.
-- Holding 4 wheat seeds and a wooden hoe. Offered seeds to whoever has clear ground; Tommy and Jason are planting at -265,65,323.
-- My rest intent failed once; no intent is running now. Sleep not yet retried (days since sleep: 8).
-- Next: when clear ground is pointed out, till and plant. At dusk, retry sleep at a free white bed (-271,67,318 or -270,67,318). Meat goes to Ezra and Data first, then Trini.
-- Golems roam south and west; stay in sight of the group.
-
-# Handoff, night of day 256 (waking 43, latest)
+# Handoff, night of day 256 (waking 43)
 
 - At the white bed (-270, 67, 336) with Troi and Worf in reach. Not enclosed. Health 17, hunger 16, no food. 7 days since sleep.
 - Sleep failed twice ("the way was blocked"): an iron golem about 4 blocks away and bows drawn south-east. Free white beds at (-270, 67, 318) and (-271, 67, 318).

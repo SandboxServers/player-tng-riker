@@ -341,3 +341,36 @@
 - 06:35 act: {"actions":[{"do":"goto","target":{"x":-300,"y":64,"z":262}}],"reasoning":"A skeleton to the north is shooting me (health 10). Get out of its line, south and away, before anything else."}
 - 06:37 act: {"intent":{"goal":"reach_white_bed_before_night","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_com
 - 06:37 act: {"actions":[],"say":"Riker at the white beds, health 10, hunger 10, no food. Kimberly, Bcrusher, has anyone found fish, animals or apples? Whatever comes first goes to the weakest.","reasoning":"I'm a
+- 06:40 act: {"actions":[{"do":"sleep"}],"say":"Riker at the white beds, dusk, hunger 10, no food. Sleeping here with the group."}
+- 06:40 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Riker: sleep was blocked at the south bed, so I'm trying the north white bed at -270,67,318. No food."}
+- 06:43 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Riker trying the white bed at -270,67,318 again, night. No food."}
+- 06:46 act: {"actions":[{"do":"sleep"}],"say":"Riker trying the bed once more. No food; hunger 10."}
+- 06:47 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Riker trying the other bed half at -271,67,318. No food, hunger 9."}
+- 06:50 act: {"intent":{"goal":"join_west_food_search","program":"travel","arguments":{"target":{"x":-300,"y":66,"z":319}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"
+- 06:51 say: {"text":"Riker at the west edge with Lewis and Billy. No animals in sight yet. I'll follow any call-out; meat to Trini and Kimberly first."}
+- 06:59 act: {"say":"Heading back to the white beds with Lewis for the night. Food still first to Trini, then Kimberly, then Worf.","intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":-
+- 07:03 act: {"actions":[{"do":"sleep"}],"say":"Riker going to sleep in the white bed here at -270,67,318."}
+- 07:03 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 07:04 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}]}
+- 07:04 act: {"actions":[{"do":"sleep"}]}
+- 07:05 act: {"intent":{"goal":"reach_bed_for_sleep","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["goal_completed","precondition_failed","directly_addressed"],"limits":{"max_world
+- 07:07 act: {"actions":[{"do":"sleep"}]}
+- 07:08 say: {"text":"Riker here. I have no food either. Dawn is here, so I'll search the grass for cows or pigs with anyone who wants to come, and any meat goes to Trini first."}
+- 07:11 act: {"intent":{"goal":"reach_salmon_water","program":"travel","arguments":{"target":{"x":-318,"y":66,"z":258}},"wake_on":["goal_completed","precondition_failed","directly_addressed","unexpected_damage"],"
+- 07:15 act: {"actions":[{"do":"goto","target":{"x":-316,"y":63,"z":250}}],"intent":{"goal":"reach_salmon_shore","program":"travel","arguments":{"target":{"x":-316,"y":63,"z":250}},"wake_on":["goal_completed","pre
+- 07:16 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-314,"y":63,"z":262}}]}
+- 07:16 say: {"text":"Riker: I'm out of the water at the salmon lake. I have no rod, so I can't catch them. Laforge, if you catch fish, Trini and Chapman first, please. I'm heading back toward the group to search 
+- 07:16 act: {"intent":{"goal":"return_to_group_search","program":"travel","arguments":{"target":{"x":-285,"y":66,"z":300}},"wake_on":["goal_completed","precondition_failed","directly_addressed","unexpected_damage
+- 07:16 say: {"text":"Trader, Riker here. I have 10 oak saplings. Do you have any bread, meat or food to trade for them? I am hungry and have no food."}
+- 07:18 act: {"actions":[{"do":"goto","target":{"x":-297,"y":67,"z":296}}]}
+- 07:21 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":293}},{"do":"sleep"}],"say":"Riker here, night of day 269. No food, hunger 8. Going to the bed at -298,68,294 to sleep. Food goes to Chapman, the
+- 07:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":317}},{"do":"sleep"}]}
+- 07:28 act: {"actions":[{"do":"goto","target":{"x":-300,"y":67,"z":300}}],"say":"Riker, dawn of day 270. No food, hunger 7. Going west to the grass to look for cows or pigs. Any meat goes to Chapman, then Trini."
+- 07:28 act: {"actions":[],"say":"Trader, Riker here. I'll trade 10 oak saplings for any bread, meat or food. Yes or no?"}
+- 07:32 act: {"actions":[{"do":"goto","target":{"x":-312,"y":67,"z":288}}],"intent":{"goal":"scout_west_for_animals","program":"travel","arguments":{"target":{"x":-312,"y":67,"z":288}},"wake_on":["directly_address
+- 07:32 act: {"actions":[{"do":"place","block":"crafting_table","at":"feet"},{"do":"craft","item":"wooden_spear","count":1}]}
+- 07:32 act: {"actions":[{"do":"goto","target":{"x":-319,"y":65,"z":270}}],"say":"Riker: I made a wooden spear. Going to the north shore at -319,64,268 to try for salmon. Picard, I'm coming.","intent":{"goal":"rea
+- 07:33 act: {"actions":[{"do":"goto","target":{"x":-314,"y":63,"z":262}},{"do":"attack","target":"salmon"}],"say":"Riker: salmon are out in the deep water north. I'm trying to get within reach of them with my spe
+- 07:33 act: {"say":"Riker: the salmon are 12 blocks out in deep water, too far for the spear from the bank. I'm going back to the grass to look for land animals.","actions":[{"do":"goto","target":{"x":-300,"y":66
+- 07:34 act: {"say":"Riker: no animals in sight here. I'm scouting south-west over the grass for cows, pigs or sheep.","actions":[{"do":"goto","target":{"x":-320,"y":66,"z":330}}],"intent":{"goal":"scout_sw_grass_
+- 07:38 act: {"say":"Riker: no animals out west either. I'm heading back to the beds with the group.","actions":[{"do":"goto","target":{"x":-300,"y":66,"z":318}}],"intent":{"goal":"return_to_beds_with_group","prog
