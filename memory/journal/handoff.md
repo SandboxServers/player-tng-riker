@@ -1,6 +1,5 @@
-Handoff, day 315 midday.
-- Heading back to the beds near 400,107,-1090 from the north search (x430 z-881). Health 20, hunger 20, no food yet.
-- Chickens went to Billy and Tommy (Leonardo keeps one for Lewis). Zack and Beverly search south and west.
-- Searched north of the chicken field (x430, z-960 to z-881): no animals found.
-- Have: 4 oak_log, 4 cobblestone, 5 oak_sapling, wooden sword (worn), wooden pickaxe, 2 sticks, 1 plank, gravel.
-- Next: rejoin the group at the beds, help with food, and build the wall when stone allows.
+Handoff, day 316 night (slept at the white beds x401 z-1092).
+- Holding 9 oak_planks for Data (ag_data_01). He was not in sight at the beds when I came; give failed "no such agent in sight". Give first thing when he is in view.
+- Health 20, hunger 20, no food. Picard (health 2) needs food most; Lewis holds one raw chicken for the weakest.
+- Melon trip at first light to x310 z-875 (Wesley, Jason, MacDonald, Johnny, Troi). Join it if still hungry.
+- Next: give planks to Data, help the food search, help build the stone wall at the beds when stone allows.
