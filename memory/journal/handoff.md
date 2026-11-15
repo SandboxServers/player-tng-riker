@@ -1,8 +1,9 @@
 # Handoff, night of day 301 (latest)
 
-- Slept at north white bed -270,67,318 on night 301; sleep worked, days since sleep reset to 0. Health 20, hunger 20.
-- No food on me. Pack: sword, hoe, 6 planks, 4 logs. No errand half-done. No intent running.
-- Next: at dawn, food for the lowest first, scout sheep or cows with the group. Sleep at a white bed at night only if no mob is within about 8 blocks. Run reflect first.
+- Sleep blocked at the north and south white beds tonight; iron golems 6-9 blocks away at the south beds (-272,67,336). Not yet slept on night 301; days since sleep 0.
+- Health 20, hunger 18, no food. Pack: wooden sword, wooden hoe, 6 planks, 4 logs, crafting table, stick. No errand half-done. No intent running.
+- With Worf, Billy, Bcrusher, Data, Kimberly, Troi at the south beds. Not enclosed.
+- Next: once golems move off, try sleep at -270,67,336 or -270,67,318 once. Give food to the lowest in reach first. Run reflect before sleeping.
 
 # Handoff, dusk of day 295 (older)
 

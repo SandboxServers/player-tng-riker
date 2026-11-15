@@ -152,3 +152,13 @@
 - 17:49 act: {"intent":{"goal":"hold_at_beds_until_dusk","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_opera
 - 17:53 act: {"say":"Riker, hunger 20, no food. Zack is lowest at 8 with mutton and chicken; Zack and Bcrusher eat first. I'm holding at the beds and will go to any animal call-out."}
 - 18:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Riker going to the north white bed at dusk, hunger 20, no food. Will try to sleep there if no phantom is close."}
+- 18:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Night 301, hunger 19, no food on me. Trying the bed to the north now.","reasoning":"Night, bed one block away. Retry
+- 18:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Previous sleep blocked; try a different bed in the group camp."}
+- 18:04 act: {"actions":[{"do":"wait","seconds":60}],"reasoning":"Sleep blocked at several beds; wait for the area to clear, then retry."}
+- 18:05 act: {"actions":[{"do":"sleep"}],"reasoning":"Try the bed I stand beside once more."}
+- 18:06 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Riker going to the north bed to sleep. Hunger 19, no food on me.","reasoning":"Dusk; try the north bed once more, th
+- 18:06 act: {"actions":[{"do":"wait","seconds":120}],"reasoning":"Beds keep blocking sleep. Hold with the group and retry later rather than spam the same try."}
+- 18:06 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"My intent failed on a precondition. Wait is done, nothing hostile in sight. Walk to the bed and try sleep once
+- 18:06 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Previous goto was blocked by the running action. Now clear. Walk to the bed and sleep."}
+- 18:06 act: {"actions":[{"do":"wait","seconds":60}],"reasoning":"An iron golem is closing 5.7 blocks away. Sleep would be blocked. Let it pass before trying the bed again."}
+- 18:06 act: {"actions":[{"do":"wait","seconds":120}],"reasoning":"Golems keep sleep blocked. Wait for them to move off, then try once more."}
