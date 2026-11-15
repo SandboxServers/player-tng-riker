@@ -1,4 +1,11 @@
-# Handoff, night of day 301 (latest)
+# Handoff, day 303 (latest)
+
+- At the white beds near -270,67,337, not enclosed. Health 19, hunger 15, no food.
+- Sleep refused at -270,67,336: "it is not night". Days since sleep about 2.
+- No errand half-done. No intent running.
+- Next: wait near the beds for dusk; sleep at -270,67,336 once it is dark and no mob is within about 8 blocks. Run reflect first. Call Trini or Kimberly when hunger is 10 or lower. Scout east for the known cow and pigs when it is light.
+
+# Handoff, night of day 301 (older)
 
 - Sleep blocked at the north and south white beds tonight; iron golems 6-9 blocks away at the south beds (-272,67,336). Not yet slept on night 301; days since sleep 0.
 - Health 20, hunger 18, no food. Pack: wooden sword, wooden hoe, 6 planks, 4 logs, crafting table, stick. No errand half-done. No intent running.

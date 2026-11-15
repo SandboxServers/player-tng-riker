@@ -13,3 +13,13 @@
 - 18:25 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, on the white bed at -270,67,336. Golems are friendly and no hostile is near. Try sleep once more."}
 - 18:25 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Riker, no food, health 19, hunger 16. Back at the white bed to sleep. Jason, Chapman, call out if you're in my sight
 - 18:28 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Jason is fed now, so no one needs me. Go to the north white bed and try sleep once the golems are clear."}
+- 18:29 act: {"say":"Riker here, hunger 15, no food. I'm going to scout for animals; if anyone sees meat or wheat, call it out.","intent":{"goal":"scout_for_animals","program":"travel","arguments":{"target":{"x":-
+- 18:29 act: {"say":"Riker, hunger 15, no food. Trini, I'll come into your sight when I drop to 10. I'm scouting west now for animals.","intent":{"goal":"scout_west_for_animals","program":"travel","arguments":{"ta
+- 18:30 act: {"say":"Riker, no animals here yet. I'm heading south-west toward where sheep were seen before, around -339,64,315.","intent":{"goal":"scout_sheep_south_west","program":"travel","arguments":{"target":
+- 18:30 act: {"say":"Riker at -338,64,315, no animals in sight. Going south to look further.","intent":{"goal":"scout_south_for_animals","program":"travel","arguments":{"target":{"x":-335,"y":64,"z":345}},"wake_on
+- 18:32 act: {"actions":[{"do":"unstick"}],"say":"Riker is stuck in a pit at -334,68,345, climbing out. Still no animals; hunger 15."}
+- 18:33 act: {"say":"Riker is out of the pit and heading to the white beds for the night with the group. Hunger 15, no food.","intent":{"goal":"return_to_beds_for_night","program":"travel","arguments":{"target":{"
+- 18:34 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Riker at the white bed, trying to sleep. Hunger 15, no food; I'll share at dawn if anyone calls."}
+- 18:39 act: {"intent":{"goal":"rest_at_beds","program":"rest","arguments":{"at":{"x":-270,"y":67,"z":336}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"limits":{"ma
+- 18:39 act: {"intent":{"goal":"rest_at_beds","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"limits":{"max_world_ticks":12000,"max_bloc
+- 18:43 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Riker at the white bed, night. Hunger 15, no food. Calling out when I drop to 10 or lower."}
