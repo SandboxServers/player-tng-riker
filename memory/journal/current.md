@@ -1,4 +1,5 @@
 # Journal
+- 18:02 (day 301 reflect) went to the north bed and slept; sleep worked. No food found on day 301; Zack and Bcrusher fed first.
 - 12:08 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Going to the white bed with the group to sleep. I have no food, only dirt.","reasoning":"Night, no food, no bed of m
 - 12:10 act: {"actions":[{"do":"goto","target":{"x":-285,"y":67,"z":300}}],"say":"Riker, dawn of day 284. No food, hunger 20. I'll scout the grass north-west with the group and call out any animal.","reasoning":"D
 - 12:10 act: {"actions":[{"do":"goto","target":{"x":-305,"y":67,"z":285}}],"say":"No animals here yet. Scouting further north-west, calling out anything I see.","reasoning":"Morning. No animals in sight. Push nort
@@ -138,3 +139,16 @@
 - 17:32 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":352}}],"say":"Riker, dawn 300, no food, no weapon, hunger full. Going with Picard and Lewis east for pigs. Call out if you find one; I'll help ca
 - 17:32 act: {"intent":{"goal":"follow_picard_east","program":"follow","arguments":{"target":"ag_picard_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"m
 - 17:32 act: {"actions":[{"do":"goto","target":{"x":-236,"y":67,"z":350}}],"say":"Picard is out of sight, so I'm heading east on my own in daylight to look for pigs. Will call out."}
+- 17:37 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":8},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"
+- 17:38 act: {"actions":[{"do":"craft","item":"oak_planks","count":16},{"do":"craft","item":"crafting_table","count":1},{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_hoe","count":1}],"say":"
+- 17:38 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1}],"intent":{"goal":"travel_to_white_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":322}},"wake_on":["goal_completed","dir
+- 17:39 act: {"say":"Riker is back at the white beds with a sword, a hoe and a table. Any animal spotted, call out. I'll scout the grass with you at dawn."}
+- 17:43 act: {"say":"Riker: Data, I last saw a sheep south-west near -339,64,315 and a cow east near -152,100,327. Night now, I'm going to try the north bed.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":
+- 17:44 act: {"say":"Riker: sleep refused, a phantom is 10 blocks off. I'll stay by Clark and try the bed again shortly.","intent":{"goal":"rest_wait_phantom","program":"rest","arguments":{},"wake_on":["directly_a
+- 17:44 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 17:44 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 17:45 act: {"say":"Riker: beds keep refusing me tonight. I'll stand by the group until dawn and try again then.","intent":{"goal":"wait_for_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed","
+- 17:49 act: {"say":"Riker here, dawn 301, health 20, hunger 20. I have a sword, hoe, 6 planks and 4 logs, no food. Picard is scouting the sheep to the south-west; I will stay with the group near the white beds.",
+- 17:49 act: {"intent":{"goal":"hold_at_beds_until_dusk","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_opera
+- 17:53 act: {"say":"Riker, hunger 20, no food. Zack is lowest at 8 with mutton and chicken; Zack and Bcrusher eat first. I'm holding at the beds and will go to any animal call-out."}
+- 18:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Riker going to the north white bed at dusk, hunger 20, no food. Will try to sleep there if no phantom is close."}

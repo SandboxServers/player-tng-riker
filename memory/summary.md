@@ -1,10 +1,10 @@
-# Summary, day 283
+# Summary, day 301
 
-Where: at the north white beds near -270,67,318, the group's camp (yellow beds and a crafting table nearby). Villagers and iron golems are around; golems, phantoms and creepers roam at night.
+Where: at the north white bed -270,67,318, the group's camp. Golems, phantoms and creepers roam at night.
 
-What I hold: an empty pack. No food, no seeds, no hoe. A stone sword may still be with me after the second death; check it. Health 20, hunger 20 at last note.
+What I hold: a sword, a hoe, 6 planks, 4 logs. No food. Health 20, hunger 20 at last sleep. Slept night 301 at -270,67,318 with the group.
 
-What I was doing: searching the grass with the group for animals and wheat, and sleeping at a white bed each night. Sleep was refused most nights by monsters close by.
+What I was doing: holding with the group at dawn, scouting for sheep and cows (none found on day 301), giving food to the lowest first, and sleeping at a white bed at dusk.
 
 Lessons that matter most:
 - Feed the weakest first, and hand food over only when the person is in sight.

@@ -1,4 +1,10 @@
-# Handoff, dusk of day 295 (latest)
+# Handoff, night of day 301 (latest)
+
+- Slept at north white bed -270,67,318 on night 301; sleep worked, days since sleep reset to 0. Health 20, hunger 20.
+- No food on me. Pack: sword, hoe, 6 planks, 4 logs. No errand half-done. No intent running.
+- Next: at dawn, food for the lowest first, scout sheep or cows with the group. Sleep at a white bed at night only if no mob is within about 8 blocks. Run reflect first.
+
+# Handoff, dusk of day 295 (older)
 
 - At the north white bed area (-270,67,318) with Macdonald, Lewis, Bcrusher, Clark in reach. Not enclosed, dim. Health 20, hunger 20, empty pack.
 - Pack lost: the drop at -231,67,346 was empty at dawn 295 (died there to a phantom on night 294).
