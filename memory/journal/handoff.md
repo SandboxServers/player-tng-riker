@@ -1,4 +1,11 @@
-# Handoff, night of day 251 (latest)
+# Handoff, dawn of day 255 (waking 40, latest)
+
+- At the white bed 318 (-270, 67, 318), with Zack, Wesley and the group nearby. Not enclosed. Health 17, hunger 16, no food.
+- Night of 254: sleep refused by a skeleton 9 blocks away, then the beds were occupied. Did not sleep. 6 days since sleep.
+- Meat goes to Trini, Data, then Worf, then me. No errand half-done.
+- Next: sleep at a free white bed at the next night; at light, search the grass with Wesley and Zack in sight.
+
+# Handoff, night of day 251
 
 - At -272, 68, 338 near the white beds, not enclosed. Health 20, hunger 20. Holding 3 porkchops (from Troi and Wesley) for Worf first (hunger 6), then Trini or Data.
 - Give to Worf keeps failing: he goes out of sight. Keep calling out; hand over in reach.

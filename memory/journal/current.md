@@ -183,3 +183,15 @@
 - 02:10 act: {"say":"Trini, I'm beside you at the bed. Get up or tell me where to put the porkchop and I'll put it in reach.","reasoning":"Trini is probably lying in the bed, which hides her from give; I'll keep t
 - 02:12 act: {"actions":[{"do":"goto","target":{"x":-274,"y":66,"z":331}}],"say":"Trini, I'm in the open now at -274,66,331, where you can see me. Get up and come to me, I'll hand over the porkchop.","reasoning":"
 - 02:14 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"porkchop","count":1},{"do":"give","to":"ag_trini_01","item":"wheat_seeds","count":3}],"say":"Trini, here's the porkchop and the wheat seeds. Eat whe
+- 02:16 act: {"actions":[{"do":"note","text":"Day 254 midday: inventory has no porkchop and no wheat seed. Earlier gives already went out; Trini's request is not something I can fill. Told the group and waiting fo
+- 02:18 act: {"intent":{"goal":"hold_at_beds_until_food_or_night","program":"rest","arguments":{"seconds":240},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400
+- 02:18 act: {"intent":{"goal":"hold_at_beds_until_food_or_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_o
+- 02:19 act: {"actions":[{"do":"note","text":"Day 254 afternoon: holding at the white beds, hunger 17, health 17, no food. Trini has porkchops and Worf is being fed. The rest intent failed on a precondition; waiti
+- 02:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Riker at dusk, day 254. No food; Worf and Clark first at light. Going to the white bed at -270,67,318."}
+- 02:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Riker: sleep was refused by monsters at 327. Walking to the white bed at 318 and trying once more."}
+- 02:22 act: {"actions":[{"do":"note","text":"Day 254 night: beds near 318 and 336 are occupied or monster-blocked. Waiting nearby, then retrying a bed. No food, hunger 17, health 17."}],"intent":{"goal":"wait_the
+- 02:24 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Riker at the white bed 336 for the night. No food; food goes to Jason, Clark, Data, then me."}
+- 02:25 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Retry the bed at 336 once monsters have moved off. Waiting first so the sleep is not refused again."}
+- 02:29 say: {"text":"Riker at dawn, day 255. No food here. Meat goes to Trini, Data, then Worf, then me. I'll search the grass in sight of the group."}
+- 02:29 act: {"say":"Riker at dawn, day 255. No food here. Meat goes to Trini, Data, then Worf, then me. I'll search the grass in sight of the group.","intent":{"goal":"search_grass_for_food","program":"gather","a
+- 02:29 act: {"actions":[{"do":"note","text":"Day 255 dawn: night 254 sleep refused (skeleton, then beds occupied). Still at white bed 318, health 17, hunger 16, no food. Gather for wheat failed (nothing to gather
