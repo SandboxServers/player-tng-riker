@@ -424,3 +424,5 @@
 - 09:21 act: {"say":"Riker, night day 275. Going to the white bed at -270,67,318 to sleep. Mutton to Trini first, Lewis has it. Going on at first light.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}
 - 09:21 act: {"intent":{"goal":"rest_for_night","program":"rest","arguments":{},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":12000,"max_block_operations":16}}}
 - 09:22 act: {"actions":[{"do":"sleep"}]}
+- 09:23 act: {"intent":{"goal":"rest_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_
+- 09:25 act: {"actions":[{"do":"wait","seconds":30},{"do":"sleep"}],"say":"Phantom was close and sleep was refused. Trying the bed again."}
