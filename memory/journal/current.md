@@ -333,3 +333,11 @@
 - 06:18 act: {"say":"Riker here, hunger 11, no food. I'll keep to the shore by the salmon and call any cow I see. Trini is first in line for the first catch.","intent":{"goal":"watch_for_salmon_on_shore","program"
 - 06:20 act: {"say":"It is dusk and I have no bed. Three salmon sit in deep water about 11 blocks west, out of reach from the shore.","actions":[],"reasoning":"Dusk, no bed, hunger 11. Salmon are in deep water wes
 - 06:23 act: {"intent":{"goal":"hold_shore_through_night","program":"rest","arguments":{"seconds":240},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_bl
+- 06:29 act: {"actions":[{"do":"place","block":"oak_boat","at":{"x":-313,"y":62,"z":258}},{"do":"use","at":{"x":-313,"y":62,"z":258}}],"say":"I have a boat. Salmon are in the water to the north-west; I'll try to r
+- 06:29 act: {"actions":[{"do":"use","at":{"x":-313,"y":62,"z":258},"item":"oak_boat"}],"reasoning":"Placing failed because a boat is not a block. Using it on the water instead should set it down on the surface."}
+- 06:30 act: {"actions":[],"say":"Wesley, I'll stay on the shore near you and Tommy and Clark. Whoever is weakest gets the first fish; I'll share what I can.","reasoning":"Boat use on water failed, so I can't reac
+- 06:35 act: {"actions":[{"do":"goto","target":{"x":-308,"y":63,"z":253}},{"do":"goto","target":{"x":-306,"y":64,"z":252}},{"do":"goto","target":{"x":-305,"y":64,"z":251}}],"say":"Items are lying on the shore to t
+- 06:35 act: {"actions":[{"do":"goto","target":{"x":-301,"y":63,"z":246}},{"do":"goto","target":{"x":-303,"y":63,"z":242}}],"reasoning":"Picking up the item drops along the shore; one may be fish. Collecting them 
+- 06:35 act: {"actions":[{"do":"goto","target":{"x":-300,"y":64,"z":262}}],"reasoning":"A skeleton to the north is shooting me (health 10). Get out of its line, south and away, before anything else."}
+- 06:37 act: {"intent":{"goal":"reach_white_bed_before_night","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_com
+- 06:37 act: {"actions":[],"say":"Riker at the white beds, health 10, hunger 10, no food. Kimberly, Bcrusher, has anyone found fish, animals or apples? Whatever comes first goes to the weakest.","reasoning":"I'm a
