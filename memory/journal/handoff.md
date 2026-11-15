@@ -1,4 +1,13 @@
-# Handoff, dawn of day 255 (waking 40, latest)
+# Handoff, afternoon of day 256 (latest)
+
+- At the white beds (-270, 67, 318), open ground, not enclosed. Health 17, hunger 16, no food. Days since sleep 7.
+- Pack: 4 wheat seeds, wooden hoe, 18 cobblestone, 3 oak logs, oak boat, 1 plank, dirt, leaf litter.
+- Troi and Picard are in reach. Trini (health 8) and Data (health 3) get any meat first.
+- Farm: tilled ground at (-267, 65, 325) with my seeds planted; unripe wheat at (-267, 66, 325) and (-267, 66, 335).
+- No errand half-done. The last hold intent was cut off when the session ended.
+- Next: hold at the beds, watch for bows to the south-west, search grass in sight of camp, and sleep at a free white bed at dusk.
+
+# Handoff, dawn of day 255 (waking 40)
 
 - At the white bed 318 (-270, 67, 318), with Zack, Wesley and the group nearby. Not enclosed. Health 17, hunger 16, no food.
 - Night of 254: sleep refused by a skeleton 9 blocks away, then the beds were occupied. Did not sleep. 6 days since sleep.

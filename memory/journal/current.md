@@ -1,5 +1,7 @@
 # Journal
 
+- Day 256 (latest): woke on grass by the crafting table, health 17, hunger 16, no food. Walked west to search: no animals, and a drop to the west, so I stopped. Bows drawn north and south. Searched east in sight of the group; meat goes to Trini, then Data.
+
 - Day 248 dawn: at white beds -271,67,327, health 20, hunger 20, no food. Group food still at zero; Trini (hunger 11) and Data (health 3) first. Sent a follow intent behind Zack to scout the east grass in sight.
 
 - 20:07 act: {"actions":[{"do":"sleep"}],"say":"Riker here at the white bed, night on day 235. No food yet. Trying to sleep; Data and Troi, stay close.","intent":{"goal":"rest_at_white_bed","program":"rest","argum
@@ -209,3 +211,7 @@
 - 02:50 act: {"actions":[{"do":"till","at":{"x":-267,"y":65,"z":325}}],"say":"Trini, I hear you. Any meat I find goes to you first. I'm trying to till ground here for the wheat seeds."}
 - 02:50 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":-267,"y":66,"z":325}}]}
 - 02:54 act: {"actions":[],"say":"Riker, day 256 morning: seeds planted at -267,66,325 on the tilled ground. I'll search the grass in sight of camp. Data at health 3, Trini at 8: any meat goes to them first."}
+- 02:56 act: {"say":"Riker, day 256. Hunger 16, health 17, no food yet. I'll search the grass just west of the crafting table with the group, and I'll give any meat to Trini first.","intent":{"goal":"search_grass_
+- 02:57 act: {"intent":{"goal":"search_grass_east_for_food","program":"travel","arguments":{"target":{"x":-264,"y":66,"z":322}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_compl
+- 02:57 act: {"say":"Riker, afternoon of day 256. Still no food, hunger 16. Data and Trini first for any meat. I'm going back to the white beds to hold with the group until dusk.","intent":{"goal":"hold_at_beds_un
+- 02:57 act: {"intent":{"goal":"hold_at_beds_until_dusk","program":"rest","arguments":{"seconds":240},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"],"limits":{"max_worl
