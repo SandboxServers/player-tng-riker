@@ -41,3 +41,17 @@
 - 19:12 say: {"text":"Riker, dawn 305, health 12, hunger 13, no food. Following Troi east for the meat hunt. Any meat goes to Clark and Chapman first."}
 - 19:12 act: {"intent":{"goal":"follow_troi_meat_hunt","program":"follow","arguments":{"target":"ag_troi_01"},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,
 - 19:13 act: {"actions":[{"do":"goto","target":{"x":-181,"y":78,"z":330}}],"intent":{"goal":"reach_troi_meat_hunt","program":"travel","arguments":{"target":{"x":-181,"y":78,"z":330}},"wake_on":["directly_addressed
+- 19:15 act: {"actions":[{"do":"goto","target":{"x":-152,"y":100,"z":327}}],"say":"Nobody in sight. I'm heading east toward the cow I saw near -152, to find food.","intent":{"goal":"reach_cow_east","program":"trav
+- 19:19 act: {"actions":[{"do":"goto","target":{"x":-139,"y":103,"z":327}},{"do":"attack","target":"pig"}],"say":"A pig is east of me at -140,103,327. Going for it; Troi and Lewis, it's yours to share with Clark a
+- 19:19 act: {"actions":[{"do":"eat"}],"say":"Got three porkchops from the pig. Eating one now; two are for Clark and Chapman first, as the group agreed. Tell me where you are."}
+- 19:19 say: {"text":"Riker here at -122,99,331 with 2 porkchops. Clark or Chapman, call out and I'll bring them to you."}
+- 19:21 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}]}
+- 19:22 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}]}
+- 19:22 act: {"actions":[{"do":"eat"}],"say":"Zombies are down for now. Health 3.4 and falling. I'm eating and staying put by the trees."}
+- 19:24 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}]}
+- 19:25 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}],"say":"Zombie coming from the west. Health 3. I'm f
+- 19:25 act: {"actions":[{"do":"attack","target":"zombie"}],"say":"Zombie 4 blocks east. Fighting it with the sword."}
+- 19:26 act: {"actions":[{"do":"unstick"}]}
+- 19:26 act: {"intent":{"goal":"shelter_until_dawn","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],
+- 19:30 say: {"text":"Riker here, hungry, no food. Any spare meat, I'm near -232,60,348."}
+- 19:32 act: {"intent":{"goal":"follow_group_for_food","program":"follow","arguments":{"target":"leonardo_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"limits":{
