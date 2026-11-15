@@ -22,3 +22,11 @@
 - 13:20 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
 - 13:23 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"Phantom adjacent and attacking, I have no weapon. Fight back rather than stand still.","say":"Phantom on me, no weapon. Fighting it with my
 - 13:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Night, phantom gone from reach, health 20. Try the bed at -270,67,336 once."}
+- 13:32 act: {"intent":{"goal":"scout_sheep_west","program":"travel","arguments":{"target":{"x":-336,"y":64,"z":313}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_tick
+- 13:33 act: {"intent":{"goal":"scout_grass_south_west","program":"travel","arguments":{"target":{"x":-355,"y":64,"z":330}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_worl
+- 13:33 act: {"intent":{"goal":"return_to_group_beds","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":325}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_
+- 13:38 act: {"say":"Riker at the beds, no food, hunger 17, health 20. No animals found west or south-west. I'll wait here with the group and go out again if anyone spots an animal.","intent":{"goal":"wait_at_beds
+- 13:42 act: {"intent":{"goal":"sleep_at_white_bed","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ti
+- 13:42 act: {"actions":[{"do":"sleep"}],"say":"Riker at the white bed, trying to sleep. No food, hunger 17."}
+- 13:43 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Sleep at the bed at 336 was blocked. Trying the bed at 318 once."}
+- 13:52 act: {"intent":{"goal":"search_grass_north_for_animals","program":"travel","arguments":{"target":{"x":-290,"y":67,"z":285}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"
