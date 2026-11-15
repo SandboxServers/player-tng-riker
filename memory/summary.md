@@ -1,5 +1,7 @@
 # Recent days
 
+Day 247: I woke at the white beds, no food, health 20. I held with the group and did not take the oak boat to the west lake, because no one knows a safe shore and no one would board. Trini and Data are at health 3, so food goes to them first. Next: find a safe shore spot before any boat trip; sleep at a white bed each night.
+
 Day 231: I woke at dawn by the yellow beds, healthy, no food. Sleep had been refused overnight, monsters near. The group searched the south, west and oak stands for animals and apples; none found. I slept at the yellow bed at night and it worked. Next: scout with the group for food, Billy first, then Kimberly; sleep at a bed each night.
 
 Day 228: I woke at dawn by the yellow beds, healthy and fed. Nobody in the group has found food yet. I scouted east and south-east for animals and found none; oak leaves gave no apples. I gave my apple to Kimberly, who ate it. At dusk I said aloud that I had no food, waited for night, and slept in the yellow bed; the sleep worked. Next: keep looking for animals with the group, give any meat to Kimberly first, and keep getting to know everyone.
