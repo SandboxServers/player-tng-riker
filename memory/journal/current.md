@@ -1,5 +1,9 @@
 # Journal
 
+- Day 258 dawn: sleep refused at night (golems, then the way blocked). At dawn tilled grass at -263,65,323 (worked), but planting seeds at -263,66,323 and -264,66,323 failed twice: "seeds need farmland below." Stopped retrying. Still 4 seeds, hunger 15, health 17, no food. Next: ask Jason or Tommy to plant them, or give them to whoever has a working plot.
+
+- Day 257 dusk: slept at the white bed at -270,67,318 (worked, days_since_sleep 0). Health 17, hunger 16, no food. Holding 4 wheat seeds and a wooden hoe. Next: at dawn plant seeds on clear ground near Jason and Tommy; meat to Ezra and Data first.
+
 - Day 257 midday: at white beds -270,67,318, health 17, hunger 16, no food. Holding 4 wheat seeds and a wooden hoe. My rest intent failed once; retried as a wait. Tommy and Jason are planting at -265,65,323; I offered my seeds to whoever has clear ground. Meat goes to Ezra and Data first.
 
 - Day 256 (latest): woke on grass by the crafting table, health 17, hunger 16, no food. Walked west to search: no animals, and a drop to the west, so I stopped. Bows drawn north and south. Searched east in sight of the group; meat goes to Trini, then Data.
@@ -223,3 +227,13 @@
 - 03:11 act: {"intent":{"goal":"hold_at_beds_and_help_plant_wheat","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_
 - 03:12 act: {"say":"Riker: Worf, I hold 4 wheat seeds and a hoe. Tommy, tell me where your plot is and I'll till and plant beside you. Meat still goes to Ezra and Data first."}
 - 03:16 act: {"say":"Riker: the plot at -265,65,323 is crowded now. I'll hold my 4 seeds and plant on any clear grass Jason or Tommy points me to. Still no food; meat goes to Ezra and Data first."}
+- 03:19 act: {"say":"Riker at the white beds, dusk day 257. I slept, so I'm rested for now. No food, hunger 16. I hold 4 wheat seeds and a hoe; I'll plant with Jason and Tommy at dawn. Meat goes to Ezra and Data f
+- 03:24 act: {"actions":[{"do":"sleep"}],"say":"Riker at the white bed, night of day 257. No food, hunger 16. Trying to sleep; meat goes to Trini and Ezra first."}
+- 03:28 act: {"actions":[{"do":"goto","target":{"x":-264,"y":66,"z":322}},{"do":"till","at":{"x":-263,"y":65,"z":323}}],"say":"Riker, dawn of day 258. No food, hunger 15. Going to the plot near Jason and Tommy to 
+- 03:28 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":-263,"y":66,"z":323}}]}
+- 03:29 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":-264,"y":66,"z":323}}]}
+- 03:29 act: {"say":"Riker at -265,66,322, dawn day 258. My place at -263,66,323 failed: seeds need farmland below, though my till there worked. Jason, Tommy: I have 4 wheat seeds. Whoever has a working plot, say 
+- 03:33 act: {"actions":[{"do":"goto","target":"ag_jason_01"},{"do":"give","to":"ag_jason_01","item":"wheat_seeds","count":4}],"say":"Jason, I'm coming to you with my 4 wheat seeds for your plot, since yours works
+- 03:33 act: {"say":"Jason, I gave you my 4 wheat seeds for your plot. Tell me if you want me to help carry or watch for food.","actions":[{"do":"goto","target":"ag_jason_01"}]}
+- 03:33 act: {"say":"Jason, I'll till -264,65,326 now. You hold the seeds, so you plant it.","actions":[{"do":"till","at":{"x":-264,"y":65,"z":326}}]}
+- 03:35 act: {"say":"Jason, plant when the golem moves off. I'll stay here north of the plot and watch for food.","actions":[{"do":"goto","target":{"x":-262,"y":66,"z":322}}]}

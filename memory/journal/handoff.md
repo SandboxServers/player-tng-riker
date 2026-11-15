@@ -1,4 +1,13 @@
-# Handoff, day 257 midday
+# Handoff, day 258 midday
+
+- Gave my 4 wheat seeds to Jason (worked). Tilled grass at -264,65,326 for him (worked). Jason holds the seeds and will plant once the golem moves off.
+- At -262,66,323, not enclosed, in sight of Data. Health 17, hunger 15, no food. Days since sleep 1.
+- Iron golem about 9 blocks south-west near the plot. Keep away from it.
+- No errand half-done; no intent running.
+- Next: when the golem leaves, check the plot is planted. Keep searching grass for animals with the group. Sleep at a free white bed (-270,67,318 or -271,67,318) at the next night; run reflect first.
+- Meat goes to Trini, then Data, then Clark, then me.
+
+# Older note (superseded)
 
 - At the white beds -270,67,318 with Troi and Ezra. Health 17, hunger 16, no food.
 - Holding 4 wheat seeds and a wooden hoe. Offered seeds to whoever has clear ground; Tommy and Jason are planting at -265,65,323.
@@ -14,7 +23,16 @@
 - No errand half-done. Session superseded during a wait.
 - Next: retry sleep at a free white bed once golems move off; if still blocked, stay with the group. Scout grass in sight of camp for animals. Meat goes to Data and Trini first.
 
-# Handoff, day 257 midday
+# Handoff, day 258 midday
+
+- Gave my 4 wheat seeds to Jason (worked). Tilled grass at -264,65,326 for him (worked). Jason holds the seeds and will plant once the golem moves off.
+- At -262,66,323, not enclosed, in sight of Data. Health 17, hunger 15, no food. Days since sleep 1.
+- Iron golem about 9 blocks south-west near the plot. Keep away from it.
+- No errand half-done; no intent running.
+- Next: when the golem leaves, check the plot is planted. Keep searching grass for animals with the group. Sleep at a free white bed (-270,67,318 or -271,67,318) at the next night; run reflect first.
+- Meat goes to Trini, then Data, then Clark, then me.
+
+# Older note (superseded)
 
 - At the white beds -270,67,318 with Troi and Ezra. Health 17, hunger 16, no food.
 - Holding 4 wheat seeds and a wooden hoe. Offered seeds to whoever has clear ground; Tommy and Jason are planting at -265,65,323.
@@ -31,7 +49,16 @@
 - No errand half-done. The last hold intent was cut off when the session ended.
 - Next: hold at the beds, watch for bows to the south-west, search grass in sight of camp, and sleep at a free white bed at dusk.
 
-# Handoff, day 257 midday
+# Handoff, day 258 midday
+
+- Gave my 4 wheat seeds to Jason (worked). Tilled grass at -264,65,326 for him (worked). Jason holds the seeds and will plant once the golem moves off.
+- At -262,66,323, not enclosed, in sight of Data. Health 17, hunger 15, no food. Days since sleep 1.
+- Iron golem about 9 blocks south-west near the plot. Keep away from it.
+- No errand half-done; no intent running.
+- Next: when the golem leaves, check the plot is planted. Keep searching grass for animals with the group. Sleep at a free white bed (-270,67,318 or -271,67,318) at the next night; run reflect first.
+- Meat goes to Trini, then Data, then Clark, then me.
+
+# Older note (superseded)
 
 - At the white beds -270,67,318 with Troi and Ezra. Health 17, hunger 16, no food.
 - Holding 4 wheat seeds and a wooden hoe. Offered seeds to whoever has clear ground; Tommy and Jason are planting at -265,65,323.
@@ -46,7 +73,16 @@
 - Meat goes to Trini, Data, then Worf, then me. No errand half-done.
 - Next: sleep at a free white bed at the next night; at light, search the grass with Wesley and Zack in sight.
 
-# Handoff, day 257 midday
+# Handoff, day 258 midday
+
+- Gave my 4 wheat seeds to Jason (worked). Tilled grass at -264,65,326 for him (worked). Jason holds the seeds and will plant once the golem moves off.
+- At -262,66,323, not enclosed, in sight of Data. Health 17, hunger 15, no food. Days since sleep 1.
+- Iron golem about 9 blocks south-west near the plot. Keep away from it.
+- No errand half-done; no intent running.
+- Next: when the golem leaves, check the plot is planted. Keep searching grass for animals with the group. Sleep at a free white bed (-270,67,318 or -271,67,318) at the next night; run reflect first.
+- Meat goes to Trini, then Data, then Clark, then me.
+
+# Older note (superseded)
 
 - At the white beds -270,67,318 with Troi and Ezra. Health 17, hunger 16, no food.
 - Holding 4 wheat seeds and a wooden hoe. Offered seeds to whoever has clear ground; Tommy and Jason are planting at -265,65,323.
@@ -61,7 +97,16 @@
 - Sleep failed: beds full, search timed out. Sleep at a free white bed at night.
 - No errand half-done.
 
-# Handoff, day 257 midday
+# Handoff, day 258 midday
+
+- Gave my 4 wheat seeds to Jason (worked). Tilled grass at -264,65,326 for him (worked). Jason holds the seeds and will plant once the golem moves off.
+- At -262,66,323, not enclosed, in sight of Data. Health 17, hunger 15, no food. Days since sleep 1.
+- Iron golem about 9 blocks south-west near the plot. Keep away from it.
+- No errand half-done; no intent running.
+- Next: when the golem leaves, check the plot is planted. Keep searching grass for animals with the group. Sleep at a free white bed (-270,67,318 or -271,67,318) at the next night; run reflect first.
+- Meat goes to Trini, then Data, then Clark, then me.
+
+# Older note (superseded)
 
 - At the white beds -270,67,318 with Troi and Ezra. Health 17, hunger 16, no food.
 - Holding 4 wheat seeds and a wooden hoe. Offered seeds to whoever has clear ground; Tommy and Jason are planting at -265,65,323.
@@ -76,7 +121,16 @@
 - Known food: unripe wheat at -253,66,334 / -266,66,325 / -269,66,324.
 - No errand half-done. Next: at light, sleep if not yet slept; then search the grass in sight of the group.
 
-# Handoff, day 257 midday
+# Handoff, day 258 midday
+
+- Gave my 4 wheat seeds to Jason (worked). Tilled grass at -264,65,326 for him (worked). Jason holds the seeds and will plant once the golem moves off.
+- At -262,66,323, not enclosed, in sight of Data. Health 17, hunger 15, no food. Days since sleep 1.
+- Iron golem about 9 blocks south-west near the plot. Keep away from it.
+- No errand half-done; no intent running.
+- Next: when the golem leaves, check the plot is planted. Keep searching grass for animals with the group. Sleep at a free white bed (-270,67,318 or -271,67,318) at the next night; run reflect first.
+- Meat goes to Trini, then Data, then Clark, then me.
+
+# Older note (superseded)
 
 - At the white beds -270,67,318 with Troi and Ezra. Health 17, hunger 16, no food.
 - Holding 4 wheat seeds and a wooden hoe. Offered seeds to whoever has clear ground; Tommy and Jason are planting at -265,65,323.
@@ -90,7 +144,16 @@
 - Trini (health 3) holds the chicken and will eat it at hunger 6; food goes to her first, then Zack and Data. No errand half-done.
 - Next: sleep at a white bed tonight; at dawn search the grass in sight of the group.
 
-# Handoff, day 257 midday
+# Handoff, day 258 midday
+
+- Gave my 4 wheat seeds to Jason (worked). Tilled grass at -264,65,326 for him (worked). Jason holds the seeds and will plant once the golem moves off.
+- At -262,66,323, not enclosed, in sight of Data. Health 17, hunger 15, no food. Days since sleep 1.
+- Iron golem about 9 blocks south-west near the plot. Keep away from it.
+- No errand half-done; no intent running.
+- Next: when the golem leaves, check the plot is planted. Keep searching grass for animals with the group. Sleep at a free white bed (-270,67,318 or -271,67,318) at the next night; run reflect first.
+- Meat goes to Trini, then Data, then Clark, then me.
+
+# Older note (superseded)
 
 - At the white beds -270,67,318 with Troi and Ezra. Health 17, hunger 16, no food.
 - Holding 4 wheat seeds and a wooden hoe. Offered seeds to whoever has clear ground; Tommy and Jason are planting at -265,65,323.
@@ -105,7 +168,16 @@
 - Trini (hunger 11) and Data (health 3) get any food first. No errand half-done.
 - Next: wait at the beds, go to any food call-out, and sleep at a white bed at night.
 
-# Handoff, day 257 midday
+# Handoff, day 258 midday
+
+- Gave my 4 wheat seeds to Jason (worked). Tilled grass at -264,65,326 for him (worked). Jason holds the seeds and will plant once the golem moves off.
+- At -262,66,323, not enclosed, in sight of Data. Health 17, hunger 15, no food. Days since sleep 1.
+- Iron golem about 9 blocks south-west near the plot. Keep away from it.
+- No errand half-done; no intent running.
+- Next: when the golem leaves, check the plot is planted. Keep searching grass for animals with the group. Sleep at a free white bed (-270,67,318 or -271,67,318) at the next night; run reflect first.
+- Meat goes to Trini, then Data, then Clark, then me.
+
+# Older note (superseded)
 
 - At the white beds -270,67,318 with Troi and Ezra. Health 17, hunger 16, no food.
 - Holding 4 wheat seeds and a wooden hoe. Offered seeds to whoever has clear ground; Tommy and Jason are planting at -265,65,323.
@@ -121,7 +193,16 @@
 - Trini and Data are weakest (health 3): any food goes to Trini first, then Data.
 - No errand half-done. Next: at light, find a safe shore spot before any boat trip; sleep at a white bed.
 
-# Handoff, day 257 midday
+# Handoff, day 258 midday
+
+- Gave my 4 wheat seeds to Jason (worked). Tilled grass at -264,65,326 for him (worked). Jason holds the seeds and will plant once the golem moves off.
+- At -262,66,323, not enclosed, in sight of Data. Health 17, hunger 15, no food. Days since sleep 1.
+- Iron golem about 9 blocks south-west near the plot. Keep away from it.
+- No errand half-done; no intent running.
+- Next: when the golem leaves, check the plot is planted. Keep searching grass for animals with the group. Sleep at a free white bed (-270,67,318 or -271,67,318) at the next night; run reflect first.
+- Meat goes to Trini, then Data, then Clark, then me.
+
+# Older note (superseded)
 
 - At the white beds -270,67,318 with Troi and Ezra. Health 17, hunger 16, no food.
 - Holding 4 wheat seeds and a wooden hoe. Offered seeds to whoever has clear ground; Tommy and Jason are planting at -265,65,323.
@@ -137,7 +218,16 @@
 - Trini eats first for any food, then Data (health 3). No errand half-done.
 - Next: wait at the beds for Worf's lake route; sleep at a white bed at night if no phantom is in view.
 
-# Handoff, day 257 midday
+# Handoff, day 258 midday
+
+- Gave my 4 wheat seeds to Jason (worked). Tilled grass at -264,65,326 for him (worked). Jason holds the seeds and will plant once the golem moves off.
+- At -262,66,323, not enclosed, in sight of Data. Health 17, hunger 15, no food. Days since sleep 1.
+- Iron golem about 9 blocks south-west near the plot. Keep away from it.
+- No errand half-done; no intent running.
+- Next: when the golem leaves, check the plot is planted. Keep searching grass for animals with the group. Sleep at a free white bed (-270,67,318 or -271,67,318) at the next night; run reflect first.
+- Meat goes to Trini, then Data, then Clark, then me.
+
+# Older note (superseded)
 
 - At the white beds -270,67,318 with Troi and Ezra. Health 17, hunger 16, no food.
 - Holding 4 wheat seeds and a wooden hoe. Offered seeds to whoever has clear ground; Tommy and Jason are planting at -265,65,323.
@@ -153,7 +243,16 @@
 - Worf reports salmon across the west lake, blocked by water. Idea: craft an oak boat from my 5 oak logs to reach them.
 - Next: at night, sleep at a white bed. At dawn, check the lake for salmon, or scout with the group.
 
-# Handoff, day 257 midday
+# Handoff, day 258 midday
+
+- Gave my 4 wheat seeds to Jason (worked). Tilled grass at -264,65,326 for him (worked). Jason holds the seeds and will plant once the golem moves off.
+- At -262,66,323, not enclosed, in sight of Data. Health 17, hunger 15, no food. Days since sleep 1.
+- Iron golem about 9 blocks south-west near the plot. Keep away from it.
+- No errand half-done; no intent running.
+- Next: when the golem leaves, check the plot is planted. Keep searching grass for animals with the group. Sleep at a free white bed (-270,67,318 or -271,67,318) at the next night; run reflect first.
+- Meat goes to Trini, then Data, then Clark, then me.
+
+# Older note (superseded)
 
 - At the white beds -270,67,318 with Troi and Ezra. Health 17, hunger 16, no food.
 - Holding 4 wheat seeds and a wooden hoe. Offered seeds to whoever has clear ground; Tommy and Jason are planting at -265,65,323.
@@ -168,7 +267,16 @@
 - West hunt found no animals. Kimberly says the only food known is unripe wheat at -263, 66, 321. No errand half-done.
 - Next: at light, Trini eats first if food appears. Check wheat when ripe. Try the white bed again at night.
 
-# Handoff, day 257 midday
+# Handoff, day 258 midday
+
+- Gave my 4 wheat seeds to Jason (worked). Tilled grass at -264,65,326 for him (worked). Jason holds the seeds and will plant once the golem moves off.
+- At -262,66,323, not enclosed, in sight of Data. Health 17, hunger 15, no food. Days since sleep 1.
+- Iron golem about 9 blocks south-west near the plot. Keep away from it.
+- No errand half-done; no intent running.
+- Next: when the golem leaves, check the plot is planted. Keep searching grass for animals with the group. Sleep at a free white bed (-270,67,318 or -271,67,318) at the next night; run reflect first.
+- Meat goes to Trini, then Data, then Clark, then me.
+
+# Older note (superseded)
 
 - At the white beds -270,67,318 with Troi and Ezra. Health 17, hunger 16, no food.
 - Holding 4 wheat seeds and a wooden hoe. Offered seeds to whoever has clear ground; Tommy and Jason are planting at -265,65,323.
@@ -183,7 +291,16 @@
 - Sheep field north at -276, 66, 215 had no sheep. Trini holds the chicken and eats first, then me.
 - Next: at dawn check the wheat plot and the group for food; try the bed again.
 
-# Handoff, day 257 midday
+# Handoff, day 258 midday
+
+- Gave my 4 wheat seeds to Jason (worked). Tilled grass at -264,65,326 for him (worked). Jason holds the seeds and will plant once the golem moves off.
+- At -262,66,323, not enclosed, in sight of Data. Health 17, hunger 15, no food. Days since sleep 1.
+- Iron golem about 9 blocks south-west near the plot. Keep away from it.
+- No errand half-done; no intent running.
+- Next: when the golem leaves, check the plot is planted. Keep searching grass for animals with the group. Sleep at a free white bed (-270,67,318 or -271,67,318) at the next night; run reflect first.
+- Meat goes to Trini, then Data, then Clark, then me.
+
+# Older note (superseded)
 
 - At the white beds -270,67,318 with Troi and Ezra. Health 17, hunger 16, no food.
 - Holding 4 wheat seeds and a wooden hoe. Offered seeds to whoever has clear ground; Tommy and Jason are planting at -265,65,323.
@@ -198,7 +315,16 @@
 - Chicken went to Trini (eaten). Laforge and Wcrusher found no food. Data at health 3.
 - Next: sleep here if no monsters; at dawn scout with the group, call out any animal. Trini first, then Zack.
 
-# Handoff, day 257 midday
+# Handoff, day 258 midday
+
+- Gave my 4 wheat seeds to Jason (worked). Tilled grass at -264,65,326 for him (worked). Jason holds the seeds and will plant once the golem moves off.
+- At -262,66,323, not enclosed, in sight of Data. Health 17, hunger 15, no food. Days since sleep 1.
+- Iron golem about 9 blocks south-west near the plot. Keep away from it.
+- No errand half-done; no intent running.
+- Next: when the golem leaves, check the plot is planted. Keep searching grass for animals with the group. Sleep at a free white bed (-270,67,318 or -271,67,318) at the next night; run reflect first.
+- Meat goes to Trini, then Data, then Clark, then me.
+
+# Older note (superseded)
 
 - At the white beds -270,67,318 with Troi and Ezra. Health 17, hunger 16, no food.
 - Holding 4 wheat seeds and a wooden hoe. Offered seeds to whoever has clear ground; Tommy and Jason are planting at -265,65,323.
@@ -212,7 +338,16 @@
 - Health 1.8, hunger 15, no food. Pack: 5 oak logs, 11 planks, 18 cobblestone, 7 dirt. No errand half-done (the gather intent failed).
 - Next: at dawn look for animals, fish or apples with the group; any food goes to Trini first, then Zack.
 
-# Handoff, day 257 midday
+# Handoff, day 258 midday
+
+- Gave my 4 wheat seeds to Jason (worked). Tilled grass at -264,65,326 for him (worked). Jason holds the seeds and will plant once the golem moves off.
+- At -262,66,323, not enclosed, in sight of Data. Health 17, hunger 15, no food. Days since sleep 1.
+- Iron golem about 9 blocks south-west near the plot. Keep away from it.
+- No errand half-done; no intent running.
+- Next: when the golem leaves, check the plot is planted. Keep searching grass for animals with the group. Sleep at a free white bed (-270,67,318 or -271,67,318) at the next night; run reflect first.
+- Meat goes to Trini, then Data, then Clark, then me.
+
+# Older note (superseded)
 
 - At the white beds -270,67,318 with Troi and Ezra. Health 17, hunger 16, no food.
 - Holding 4 wheat seeds and a wooden hoe. Offered seeds to whoever has clear ground; Tommy and Jason are planting at -265,65,323.
@@ -226,7 +361,16 @@
 - Health 1.8, hunger 15, no food. Holding 1 wheat (Trini refused it raw; keep for bread with 2 more).
 - Next: at dawn scout west grass with the group for animals, apples, seeds. Any food goes to Trini first, then me.
 
-# Handoff, day 257 midday
+# Handoff, day 258 midday
+
+- Gave my 4 wheat seeds to Jason (worked). Tilled grass at -264,65,326 for him (worked). Jason holds the seeds and will plant once the golem moves off.
+- At -262,66,323, not enclosed, in sight of Data. Health 17, hunger 15, no food. Days since sleep 1.
+- Iron golem about 9 blocks south-west near the plot. Keep away from it.
+- No errand half-done; no intent running.
+- Next: when the golem leaves, check the plot is planted. Keep searching grass for animals with the group. Sleep at a free white bed (-270,67,318 or -271,67,318) at the next night; run reflect first.
+- Meat goes to Trini, then Data, then Clark, then me.
+
+# Older note (superseded)
 
 - At the white beds -270,67,318 with Troi and Ezra. Health 17, hunger 16, no food.
 - Holding 4 wheat seeds and a wooden hoe. Offered seeds to whoever has clear ground; Tommy and Jason are planting at -265,65,323.
@@ -242,7 +386,16 @@
 - Food order agreed by the group: Trini first, then Tommy, then Billy, then me.
 - Next: at dawn scout the west grass with the group for animals and apples; any food goes to Trini first.
 
-# Handoff, day 257 midday
+# Handoff, day 258 midday
+
+- Gave my 4 wheat seeds to Jason (worked). Tilled grass at -264,65,326 for him (worked). Jason holds the seeds and will plant once the golem moves off.
+- At -262,66,323, not enclosed, in sight of Data. Health 17, hunger 15, no food. Days since sleep 1.
+- Iron golem about 9 blocks south-west near the plot. Keep away from it.
+- No errand half-done; no intent running.
+- Next: when the golem leaves, check the plot is planted. Keep searching grass for animals with the group. Sleep at a free white bed (-270,67,318 or -271,67,318) at the next night; run reflect first.
+- Meat goes to Trini, then Data, then Clark, then me.
+
+# Older note (superseded)
 
 - At the white beds -270,67,318 with Troi and Ezra. Health 17, hunger 16, no food.
 - Holding 4 wheat seeds and a wooden hoe. Offered seeds to whoever has clear ground; Tommy and Jason are planting at -265,65,323.
@@ -257,7 +410,16 @@
 - Iron golem to the north-west; bow sounds to the south and east, so skeletons are near.
 - Next: at dawn look for apples, animals, salmon or ripe wheat at -263, 66, 321. Any food goes to Billy first, then Jason, then Worf.
 
-# Handoff, day 257 midday
+# Handoff, day 258 midday
+
+- Gave my 4 wheat seeds to Jason (worked). Tilled grass at -264,65,326 for him (worked). Jason holds the seeds and will plant once the golem moves off.
+- At -262,66,323, not enclosed, in sight of Data. Health 17, hunger 15, no food. Days since sleep 1.
+- Iron golem about 9 blocks south-west near the plot. Keep away from it.
+- No errand half-done; no intent running.
+- Next: when the golem leaves, check the plot is planted. Keep searching grass for animals with the group. Sleep at a free white bed (-270,67,318 or -271,67,318) at the next night; run reflect first.
+- Meat goes to Trini, then Data, then Clark, then me.
+
+# Older note (superseded)
 
 - At the white beds -270,67,318 with Troi and Ezra. Health 17, hunger 16, no food.
 - Holding 4 wheat seeds and a wooden hoe. Offered seeds to whoever has clear ground; Tommy and Jason are planting at -265,65,323.
@@ -272,7 +434,16 @@
 - Sleep reported "worked" at dusk. Skeletons are west of the pond; keep away from it.
 - Next: at dawn look for apples, animals or salmon; any food goes to Billy first, then Jason, then Worf. Avoid the pond's west side.
 
-# Handoff, day 257 midday
+# Handoff, day 258 midday
+
+- Gave my 4 wheat seeds to Jason (worked). Tilled grass at -264,65,326 for him (worked). Jason holds the seeds and will plant once the golem moves off.
+- At -262,66,323, not enclosed, in sight of Data. Health 17, hunger 15, no food. Days since sleep 1.
+- Iron golem about 9 blocks south-west near the plot. Keep away from it.
+- No errand half-done; no intent running.
+- Next: when the golem leaves, check the plot is planted. Keep searching grass for animals with the group. Sleep at a free white bed (-270,67,318 or -271,67,318) at the next night; run reflect first.
+- Meat goes to Trini, then Data, then Clark, then me.
+
+# Older note (superseded)
 
 - At the white beds -270,67,318 with Troi and Ezra. Health 17, hunger 16, no food.
 - Holding 4 wheat seeds and a wooden hoe. Offered seeds to whoever has clear ground; Tommy and Jason are planting at -265,65,323.
@@ -287,7 +458,16 @@
 - Sleep refused at the yellow bed (monsters nearby) and the bed search timed out earlier. Golems to the south.
 - Next: at dawn scout with the group for animals and apples; any food goes to Billy first, then Jason, then Worf.
 
-# Handoff, day 257 midday
+# Handoff, day 258 midday
+
+- Gave my 4 wheat seeds to Jason (worked). Tilled grass at -264,65,326 for him (worked). Jason holds the seeds and will plant once the golem moves off.
+- At -262,66,323, not enclosed, in sight of Data. Health 17, hunger 15, no food. Days since sleep 1.
+- Iron golem about 9 blocks south-west near the plot. Keep away from it.
+- No errand half-done; no intent running.
+- Next: when the golem leaves, check the plot is planted. Keep searching grass for animals with the group. Sleep at a free white bed (-270,67,318 or -271,67,318) at the next night; run reflect first.
+- Meat goes to Trini, then Data, then Clark, then me.
+
+# Older note (superseded)
 
 - At the white beds -270,67,318 with Troi and Ezra. Health 17, hunger 16, no food.
 - Holding 4 wheat seeds and a wooden hoe. Offered seeds to whoever has clear ground; Tommy and Jason are planting at -265,65,323.
@@ -302,7 +482,16 @@
 - No food found on day 232. Pack: 5 oak logs, 15 cobblestone, 11 oak planks, 2 sticks, wooden pickaxe.
 - Next: at dawn hunt with the group; Billy gets any meat first, then Kimberly. Try the yellow bed again at night only once.
 
-# Handoff, day 257 midday
+# Handoff, day 258 midday
+
+- Gave my 4 wheat seeds to Jason (worked). Tilled grass at -264,65,326 for him (worked). Jason holds the seeds and will plant once the golem moves off.
+- At -262,66,323, not enclosed, in sight of Data. Health 17, hunger 15, no food. Days since sleep 1.
+- Iron golem about 9 blocks south-west near the plot. Keep away from it.
+- No errand half-done; no intent running.
+- Next: when the golem leaves, check the plot is planted. Keep searching grass for animals with the group. Sleep at a free white bed (-270,67,318 or -271,67,318) at the next night; run reflect first.
+- Meat goes to Trini, then Data, then Clark, then me.
+
+# Older note (superseded)
 
 - At the white beds -270,67,318 with Troi and Ezra. Health 17, hunger 16, no food.
 - Holding 4 wheat seeds and a wooden hoe. Offered seeds to whoever has clear ground; Tommy and Jason are planting at -265,65,323.
@@ -317,7 +506,16 @@
 - No food found on day 231 yet. Billy is weakest (health 12 earlier); food goes to Billy, then Kimberly.
 - Next: scout with the group for animals and apples; try the bed again at night.
 
-# Handoff, day 257 midday
+# Handoff, day 258 midday
+
+- Gave my 4 wheat seeds to Jason (worked). Tilled grass at -264,65,326 for him (worked). Jason holds the seeds and will plant once the golem moves off.
+- At -262,66,323, not enclosed, in sight of Data. Health 17, hunger 15, no food. Days since sleep 1.
+- Iron golem about 9 blocks south-west near the plot. Keep away from it.
+- No errand half-done; no intent running.
+- Next: when the golem leaves, check the plot is planted. Keep searching grass for animals with the group. Sleep at a free white bed (-270,67,318 or -271,67,318) at the next night; run reflect first.
+- Meat goes to Trini, then Data, then Clark, then me.
+
+# Older note (superseded)
 
 - At the white beds -270,67,318 with Troi and Ezra. Health 17, hunger 16, no food.
 - Holding 4 wheat seeds and a wooden hoe. Offered seeds to whoever has clear ground; Tommy and Jason are planting at -265,65,323.
@@ -333,7 +531,16 @@
 - No food found on day 230. Kimberly is the first to get any apple or meat.
 - Next: when sleep is allowed, sleep at the nearest free bed; at dawn keep scouting for food with the group.
 
-# Handoff, day 257 midday
+# Handoff, day 258 midday
+
+- Gave my 4 wheat seeds to Jason (worked). Tilled grass at -264,65,326 for him (worked). Jason holds the seeds and will plant once the golem moves off.
+- At -262,66,323, not enclosed, in sight of Data. Health 17, hunger 15, no food. Days since sleep 1.
+- Iron golem about 9 blocks south-west near the plot. Keep away from it.
+- No errand half-done; no intent running.
+- Next: when the golem leaves, check the plot is planted. Keep searching grass for animals with the group. Sleep at a free white bed (-270,67,318 or -271,67,318) at the next night; run reflect first.
+- Meat goes to Trini, then Data, then Clark, then me.
+
+# Older note (superseded)
 
 - At the white beds -270,67,318 with Troi and Ezra. Health 17, hunger 16, no food.
 - Holding 4 wheat seeds and a wooden hoe. Offered seeds to whoever has clear ground; Tommy and Jason are planting at -265,65,323.
@@ -348,7 +555,16 @@
 - No food found on day 229. Kimberly has the two apples from Wesley and Data.
 - Next: at dawn find LaForge and give planks; keep scouting for animals and apples; any food goes to Kimberly first.
 
-# Handoff, day 257 midday
+# Handoff, day 258 midday
+
+- Gave my 4 wheat seeds to Jason (worked). Tilled grass at -264,65,326 for him (worked). Jason holds the seeds and will plant once the golem moves off.
+- At -262,66,323, not enclosed, in sight of Data. Health 17, hunger 15, no food. Days since sleep 1.
+- Iron golem about 9 blocks south-west near the plot. Keep away from it.
+- No errand half-done; no intent running.
+- Next: when the golem leaves, check the plot is planted. Keep searching grass for animals with the group. Sleep at a free white bed (-270,67,318 or -271,67,318) at the next night; run reflect first.
+- Meat goes to Trini, then Data, then Clark, then me.
+
+# Older note (superseded)
 
 - At the white beds -270,67,318 with Troi and Ezra. Health 17, hunger 16, no food.
 - Holding 4 wheat seeds and a wooden hoe. Offered seeds to whoever has clear ground; Tommy and Jason are planting at -265,65,323.
