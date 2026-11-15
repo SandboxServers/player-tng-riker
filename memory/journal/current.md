@@ -312,3 +312,8 @@
 - 05:53 act: {"say":"Trader sold me nothing: I could not trade with it. Use on the trader failed twice, so I'm changing course. Going north to the sheep at -276, 66, 300 with Data and Billy. Mutton goes to Jason f
 - 05:53 act: {"say":"Geldar at the sheep spot with Billy and Data. I see no sheep in sight yet. Billy, where did you see them?"}
 - 05:54 act: {"say":"No sheep here now. I'm heading back to the yellow bed at -281, 69, 292 with the group. Still no food; Jason first for any meat.","intent":{"goal":"return_to_yellow_bed","program":"travel","arg
+- 05:55 act: {"intent":{"goal":"scout_sheep_northwest","program":"travel","arguments":{"target":{"x":-276,"y":66,"z":300}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"
+- 06:00 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":292}}],"say":"Riker, dusk, no food, hunger 12. Going to the yellow bed for the night. Any food goes to Jason first."}
+- 06:00 act: {"actions":[{"do":"sleep"}],"say":"Riker going to sleep in the yellow bed. No food. Jason first at dawn."}
+- 06:04 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}]}
+- 06:08 act: {"say":"Riker, dawn day 266. Still no food, hunger 11. Has anyone traded with the wandering trader? What does it sell? Meat or bread goes to Jason first."}
