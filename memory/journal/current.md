@@ -331,3 +331,5 @@
 - 06:14 act: {"actions":[{"do":"goto","target":{"x":-318,"y":63,"z":247}},{"do":"attack","target":"salmon"}],"say":"Riker has a stone sword now and is at the lake edge. Trying for a salmon; any catch goes to Trini
 - 06:15 act: {"actions":[{"do":"goto","target":{"x":-312,"y":64,"z":257}}],"say":"Riker: salmon swim out of reach in the deep water. I'm getting onto the shore by the sign at -312,64,258 and will wait there with t
 - 06:18 act: {"say":"Riker here, hunger 11, no food. I'll keep to the shore by the salmon and call any cow I see. Trini is first in line for the first catch.","intent":{"goal":"watch_for_salmon_on_shore","program"
+- 06:20 act: {"say":"It is dusk and I have no bed. Three salmon sit in deep water about 11 blocks west, out of reach from the shore.","actions":[],"reasoning":"Dusk, no bed, hunger 11. Salmon are in deep water wes
+- 06:23 act: {"intent":{"goal":"hold_shore_through_night","program":"rest","arguments":{"seconds":240},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_bl
