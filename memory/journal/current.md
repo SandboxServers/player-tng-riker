@@ -303,3 +303,12 @@
 - 05:48 act: {"say":"Dawn. I'm scouting the grass to the west with the group for animals. Any meat goes to Jason first, then Trini and Worf.","intent":{"goal":"scout_west_grass_for_animals","program":"travel","arg
 - 05:48 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":334}}],"say":"I scouted the west grass: no animals, no food. Heading back to the white beds with the group.","reasoning":"West grass empty and it
 - 05:48 act: {"say":"Riker: I have 18 cobblestone and 3 oak logs to trade for food. If the trader sells food, tell me and I'll offer it there. Jason and Trini first for any food I get.","reasoning":"A trader is ne
+- 05:50 act: {"say":"Geldar here, day 265, health 17, hunger 12, no food. I have 18 cobblestone and 3 oak logs to trade. I'm heading west to the wandering trader, and I'll give any food to Jason first.","intent":{
+- 05:50 act: {"say":"Geldar: I'm at the west edge, no trader in sight yet. Has anyone seen it? I'll wait here a little for it."}
+- 05:51 act: {"say":"Geldar: the trader is at the south-east, about 17 blocks. I'm going to it now with my 18 cobblestone and 3 logs. I'll tell the group what it sells.","intent":{"goal":"reach_trader_now","progra
+- 05:51 act: {"say":"Trader, Geldar here. Do you sell food? I offer 18 cobblestone and 3 oak logs for bread or meat."}
+- 05:52 act: {"actions":[{"do":"goto","target":{"x":-271,"y":66,"z":340}},{"do":"use","entity":"wandering_trader"}],"say":"Jason, the trader is 10 blocks east of me. I am going to it now to see what food it has."}
+- 05:53 act: {"actions":[{"do":"use","at":{"x":-268,"y":66,"z":340}}]}
+- 05:53 act: {"say":"Trader sold me nothing: I could not trade with it. Use on the trader failed twice, so I'm changing course. Going north to the sheep at -276, 66, 300 with Data and Billy. Mutton goes to Jason f
+- 05:53 act: {"say":"Geldar at the sheep spot with Billy and Data. I see no sheep in sight yet. Billy, where did you see them?"}
+- 05:54 act: {"say":"No sheep here now. I'm heading back to the yellow bed at -281, 69, 292 with the group. Still no food; Jason first for any meat.","intent":{"goal":"return_to_yellow_bed","program":"travel","arg
