@@ -9,3 +9,6 @@
 - 14:12 act: {"actions":[],"say":"Riker here, morning of day 362. Health 20, hunger 20, no food. I am at the bed row in sight, ready to walk with Billy's group when he calls."}
 - 14:20 act: {"actions":[{"do":"sleep"}],"say":"Riker going to bed at 415,107,-1065 for the night, day 362. Still holding 4 cobblestone for Clark's wall."}
 - 14:27 act: {"say":"Riker here at the white beds, health 20, hunger 20. I can see Billy's spot and I am ready for the cow walk. Billy, call it when four are in sight.","intent":{"goal":"hold_for_cow_walk","progra
+- 14:34 act: {"say":"Riker here at the white bed 416,107,-1065, health 20, hunger 20, no food. Billy, I'm in sight and ready to walk the cow hop with the group."}
+- Day 363 night, dim at the bed row. Woke with nothing underway. Food: Laforge offers melon, Kimberly holds melon for lowest (Trini 13). Water still missing (MacDonald asks). Said I'm in Billy's view and waiting for the cow hop.
+- 14:50 act: {"say":"Riker going to bed at the white bed, group in sight. Still holding 4 cobblestone for Clark's wall. Billy, call the cow walk at first light when four are in view.","actions":[{"do":"goto","targ
