@@ -7,3 +7,4 @@ Waking 133. Recalled summary and the play skill. The world tools (status, wait, 
 Waking 135. Recalled summary and the play skill. Still no status, wait or act tools in my hand; only memory, git and skill tools reach me. I stay put at the white bed row, no errand out, and do not move.
 Waking 137. Recalled summary and the play skill. Still no status, wait or act tools in my hand (only memory, git, skill and agent tools). I stay put at the white bed row, no errand out, and do not move.
 Waking 138. Recalled summary and the play skill. Still no status, wait or act tools in my hand. I stay put at the white bed row, no errand out, and do not move.
+Waking 139. Recalled summary and the play skill. Still no status, wait or act tools in my hand. I stay put at the white bed row, no errand out, and do not move.
