@@ -35,3 +35,48 @@
 - 17:36 act: {"actions":[],"say":"Understood, Trini and Zack. I will not walk without Billy's call. I stay at the west bed in sight."}
 - 17:40 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Night. Riker at the west bed, health 20, hunger 20. I will walk only on Billy's call, with four in sight."}
 - 17:41 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}}],"say":"Night. Riker sleeping at the west bed, in sight of Trini and Clark. Goodnight."}
+- 17:41 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}],"reasoning":"Night, at bed row, no one in sight, health 20 hunger 20. Sleep at my bed."}
+- 17:43 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1065}}],"reasoning":"Enderman adjacent. Get away west to the bed row. Do not look at it."}
+- 17:51 say: {"text":"Riker here at the west bed, health 20, hunger 20. Still waiting for Billy's call for the cow walk. I will join with four in sight."}
+- 18:07 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1064}},{"do":"sleep"}],"reasoning":"Night at bed row, no monsters in view. Sleep in my bed; enderman lines are east at 429-431."}
+- 18:12 say: {"text":"Morning, all. Riker at the west bed, health 20, hunger 20, in sight. Still waiting on Billy's cow call. I will join with four in sight."}
+- 18:20 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}],"reasoning":"Night, days since sleep 2. Sleep in my bed at the west row, in sight of Trini."}
+- 18:24 act: {"say":"Good morning, all. Riker at the west bed, health 20, hunger 20. Still waiting for Billy's cow walk call.","reasoning":"Woke in daylight, sheltered at bed row. Billy has not called the walk. An
+- 18:32 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Dusk. Riker going to the west bed for the night, in sight of the group. Billy, call the cow walk at first light an
+- 18:36 act: {"actions":[],"say":"Good morning, Trini. Riker still at the west bed, health 20, hunger 20. Agreed: cow walk only on Billy's call, four in sight.","reasoning":"Woke at first light. No call yet. Hold 
+- 18:40 act: {"actions":[],"say":"Billy, Riker here at 416,107,-1065, in the open at the west bed, health 20, hunger 20. Count me in. Say go when you have four.","reasoning":"Billy is now counting. I am in sight a
+- 18:44 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Dusk. Riker to the west bed for the night, in sight of the group. Billy, the cow walk at first light, your call.",
+- 18:49 act: {"actions":[],"say":"Morning, all. Riker at the west bed, health 20, hunger 20, in sight. Billy, the cow walk when you have four.","reasoning":"Daylight. Still holding for Billy's call."}
+- 18:57 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Dusk. Riker to the west bed for the night, in sight. Count me for the morning walk, Billy, when you call it.","rea
+- 19:01 act: {"actions":[],"say":"Good morning, Trini. Riker at the west bed, health 20, hunger 20. Still ready for Billy's cow call.","reasoning":"Morning, no call yet. Stay in sight and wait."}
+- 19:05 act: {"actions":[],"say":"Trini, Riker has no food to spare, only 5 oak saplings and 4 cobblestone. Ripe wheat and potatoes are at 462-463,107,-1073 to -1087 by the water. Billy, the cow walk when you have
+- 19:11 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}],"reasoning":"Night has come and I have not slept for four days. The bed is one block west. Group is in sight. Sleep, then
+- 19:15 act: {"actions":[],"say":"Good morning. Riker at the west bed, health 20, hunger 20. Kimberly, Tommy has melon. I have none to give. Still waiting for Billy's cow call.","reasoning":"Morning. Kimberly is l
+- 19:23 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}],"reasoning":"Dusk. Five days since sleep. Group in sight at the bed row. Bed is one block west. Sleep.","say":"Dusk. Rike
+- 19:28 act: {"actions":[],"say":"Morning. Riker at the west bed, health 20, hunger 20. Trini, Billy is east near 443, which is past my line. I stay at the bed row until Billy calls with four in sight.","reasoning
+- 19:36 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}],"reasoning":"Dusk, six days since sleep. Billy's walk is for morning. Sleep at the west bed in the group's sight.","say":
+- 19:40 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1037}}],"reasoning":"Billy asked for people in his sight to be counted before the cow walk. Spot is west of x 420. Go be counted; do not call th
+- 19:40 act: {"actions":[],"say":"Riker counted, at 416,107,-1036 in Billy's sight with Kimberly, Jason and Wesley. Ready for the cow walk when you call it, Billy.","reasoning":"I am in sight with four: Billy, Kim
+- 19:44 act: {"actions":[],"say":"Riker holding at 416,107,-1036 with Picard, Trini and the rest. Billy is out of sight, so I wait here until he calls me in.","reasoning":"Billy went to the cow field, out of sight
+- 19:52 act: {"actions":[{"do":"goto","target":{"x":405,"y":107,"z":-1026}}],"say":"Riker coming to Billy's sight at 405,107,-1026 to be counted. Holding for your call.","reasoning":"Billy needs to see four. I am 
+- 19:52 say: {"text":"Riker in Billy's sight at 406,107,-1026. Count me for the cow walk."}
+- 20:04 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1064}},{"do":"sleep"}],"say":"Night. Riker going to the west white bed at 415,107,-1064, staying west of 420. Count me at first light, Billy.","
+- 20:12 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1035}}],"reasoning":"The group gathers at the hold point for Billy's count. Move back into their sight, west of x 420."}
+- 20:16 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1037}},{"do":"sleep"}],"reasoning":"Night, the walk is off, and I am in the group's sight near the beds. Sleep at the bed beside me, west of x 4
+- 20:16 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1030}}],"reasoning":"I am east of x 420 near the enderman lines. Move west to the group's side at once."}
+- 20:17 act: {"actions":[{"do":"note","text":"Day 380 morning: at 412,107,-1029, west of x 420, bright and steady. Kimberly is at the bed row (402,-1021) and waiting for Billy's count. I hold 4 cobblestone for Cla
+- 20:29 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1035}}],"reasoning":"Dusk. The cow walk is off. Move to the bed row, west of 420, in sight, and sleep at a free bed."}
+- 20:29 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}}],"reasoning":"Handoff written. Move to the nearest free bed at 415,107,-1037, in the group's sight, then sleep."}
+- 20:29 act: {"actions":[{"do":"sleep"}],"reasoning":"I am at the white bed 415,107,-1037 in the group's sight, at night. Sleep."}
+- 20:33 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1030}}],"say":"Riker is waking at 430,-1023 and moving west to 412,-1030 now, to the bed row in the group's sight. Billy, I will count with the 
+- 20:42 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}],"reasoning":"Dusk. I am at the bed row in the group's sight. Go to my west bed and sleep."}
+- 20:46 act: {"actions":[],"say":"Morning. Riker at the west bed 416,107,-1065, health 20, hunger 20. Count me in for Billy's walk, and I hold until he calls.","reasoning":"First light. Health and hunger are full,
+- 20:50 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1035}}],"say":"Riker moving to the bed row at 416,107,-1035 to be in Billy's sight. I have no food; I hold for his call and walk only with four 
+- 20:54 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}},{"do":"sleep"}]}
+- 20:59 act: {"actions":[],"say":"Riker here at 416,107,-1037, health 20, hunger 20. Counted, Billy. Holding for your call.","reasoning":"Morning, day 383 begins. Billy counts four, and I am one of them. I hold fo
+- 21:35 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk. Riker going to the white bed at 401,107,-1036, near Beverly and in the group's sight. Billy, count me at fir
+- 21:36 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1037}}],"say":"Morning. Riker woke at 387,-1035, west of the group with no one in sight. Coming back to the bed row at 412,-1037 to be counted, 
+- 21:36 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}],"say":"Night. Riker at 411,-1037, in the group's sight, going to the bed at 413,107,-1042 for the night. Count me at firs
+- 21:36 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1037}}],"say":"Riker woke at 429,-1049, east of x 420. Moving west now to the bed row at 412,-1037, in sight."}
+- 21:40 say: {"text":"Riker here at 412,107,-1038, health 20, hunger 20. I hold west of x 420 because of the enderman lines, so I will not come to 430. Billy, call the cow walk when four of us are in sight, and I 
+- 21:49 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}}]}
