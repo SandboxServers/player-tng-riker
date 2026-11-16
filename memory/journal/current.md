@@ -65,3 +65,5 @@
 - 01:21 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1091}},{"do":"give","to":"ag_data_01","item":"oak_log","count":2}],"say":"Data, I am stepping toward you now, at 416,107,-1091. Giving my 2 oak 
 - 01:26 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1091}}],"say":"Night is here. Going to my bed at 401,107,-1092. Data, if you need my 2 logs, stand near the beds and I will give them."}
 - 01:26 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1092}}]}
+- 01:30 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1090}}],"say":"Data, I'm coming to you with the 2 oak logs."}
+- 01:39 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1092}}],"say":"Night, all. Data, I keep the 2 logs for you; I'll bring them at first light if you are in sight."}

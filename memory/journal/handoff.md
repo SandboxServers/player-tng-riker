@@ -1,5 +1,4 @@
-Handoff, day 323 night (at x402 z-1091, next to the white bed at x401 z-1092).
-- Holding 2 oak_log for Data. Data still cannot see me from my spots; the give from 416,107,-1091 did not reach him (goto was blocked). Troi is bringing his 4 logs. My 2 are spare.
-- Holding 5 oak_sapling, 4 cobblestone, 1 gravel, 1 oak_planks.
-- Health 20, hunger 20, no food. Chapman is near and may need food; I have none.
-- Next: when Data or Troi call me into sight, give the 2 logs to Data if he still needs them. Help the stone wall at the white beds when stone is spare. Find food.
+Handoff, day 324 night (slept at the white bed near x415 z-1092).
+- Holding 2 oak_log spare; Data asked for them but his route east was walled. Troi holds his 4 logs. Known oak logs east near 460,109,-1113.
+- No food on me. Health 20, hunger 20. Melon on offer from Laforge and Clark in the morning for whoever is weak.
+- Next: at first light, hand the 2 logs to Data if he is in sight, then find food from the group.
