@@ -90,3 +90,4 @@
 - 02:36 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1076}}],"say":"Morning all. Riker here, health full, hunger 20. I hold 4 cobblestone for Clark's wall and 3 melon for the weakest. Heading to th
 - 02:36 act: {"actions":[],"say":"Clark, the way to your wall is blocked from here, no path. I hold 4 cobblestone and 3 melon. Can someone come to the beds at 416,107,-1092 to take them?"}
 - 02:40 act: {"actions":[],"say":"Clark, the wall plan is planks now, so I will hold my 4 cobblestone unless you call for them. Worf, I am next to you; say your hunger and I will give melon."}
+- 02:44 act: {"say":"Worf, I'm staying by the beds through the night. Keep Data's wool safe and we'll hand it over at first light.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1092}}]}
