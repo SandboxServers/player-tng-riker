@@ -21,3 +21,5 @@
 - 03:31 say: {"text":"Data, I am with you at 393,107,-1095 in sight. No sheep in my view. Lead on, and I will follow and call if I see one."}
 - 03:35 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1091}},{"do":"note","text":"Dusk. Data is out west at 370 and I am 23 blocks back. Going to the white beds for the night, sheep search resumes a
 - 03:35 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1092}},{"do":"use","at":{"x":401,"y":107,"z":-1092}}]}
+- 03:36 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1092}}],"say":"Night at the white beds. Ag Macdonald is three blocks off. I am going to bed here."}
+- 03:36 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1092}}]}
