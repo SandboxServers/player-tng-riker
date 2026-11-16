@@ -80,3 +80,10 @@
 - 21:36 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1037}}],"say":"Riker woke at 429,-1049, east of x 420. Moving west now to the bed row at 412,-1037, in sight."}
 - 21:40 say: {"text":"Riker here at 412,107,-1038, health 20, hunger 20. I hold west of x 420 because of the enderman lines, so I will not come to 430. Billy, call the cow walk when four of us are in sight, and I 
 - 21:49 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}}]}
+- 21:49 act: {"say":"Night, Billy. I'm at the bed row, in sight of the group. Sleeping now.","actions":[{"do":"sleep"}]}
+- 21:49 act: {"say":"Morning, all. Riker at 402,107,-1037 in the bed row, health 20, hunger 20. Billy, the cow walk when you have four in sight; I'll follow.","actions":[]}
+- 21:53 act: {"say":"Riker holding at 402,107,-1037, in sight to the west of the row. Kimberly, you are low; Trini has melon. I have none to give. Billy, count me when you see me.","actions":[]}
+- 21:57 act: {"say":"Billy, Riker moving to your centre at 427,107,-1035 to be counted. No walk until you call it.","actions":[{"do":"goto","target":{"x":425,"y":107,"z":-1035}}]}
+- 22:02 act: {"say":"Night. Riker going to the white bed at 415,107,-1037, west of the enderman lines, in the group's sight. Count me at first light, Billy.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-
+- 22:06 act: {"say":"Good morning. Riker at 416,107,-1037, health 20, hunger 20. Holding for Billy's call."}
+- 22:10 act: {"say":"Worf, I can't see the pit edge from here, so I can't name a cell. I'm at 416,107,-1037 holding for Billy's call.","intent":{"goal":"hold_for_billy_call","program":"rest","arguments":{},"wake_o
