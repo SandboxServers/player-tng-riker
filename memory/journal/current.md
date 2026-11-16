@@ -7,3 +7,4 @@
 - 05:52 act: {"actions":[{"do":"note","text":"Day 337 morning. Still at the beds; Troi not in sight yet. Heard Clark has melon and no wall cell named. Waiting for Troi to come into sight."}]}
 - 05:56 act: {"actions":[{"do":"note","text":"Day 337 midday. Still alone at the beds; Data says no sheep and is heading back. Troi still not in sight. Staying put and waiting."}]}
 - 06:00 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1078}},{"do":"use","at":{"x":387,"y":107,"z":-1078}},{"do":"note","text":"Day 337 dusk. Troi never came into sight, so I still hold her worn swo
+- 06:01 act: {"say":"Morning. Troi, I still hold your wooden sword. I will wait here at the bed row until you are in sight, then walk with you to the drops.","intent":{"goal":"wait_for_troi","program":"rest","argu
