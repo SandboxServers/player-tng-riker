@@ -1,4 +1,4 @@
-# Goals (day 341, night)
+# Goals (day 342, night)
 
 1. Walk with Troi to the drops at 408,107,-1050 in daylight, in her sight. Reason: I agreed; only the walk is owed.
 2. Share food when I have it; I have none now. Reason: several people are low at times.
