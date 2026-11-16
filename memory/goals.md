@@ -1,9 +1,9 @@
-# Goals (day 328, night)
+# Goals (day 330, night)
 
-1. Give my last melon to whoever is weakest in sight (Troi, Chapman, Lewis, Trini). Reason: food keeps people alive.
-2. Give Troi my 1 plank toward a sword when she is in sight. Reason: she lost everything to a zombie.
-3. Hold 4 cobblestone for Clark's wall if he calls for it. Reason: the wall protects the beds.
+1. Help Data find sheep for wool at first light, staying in his sight. Reason: Data needs wool for a bed and I offered to search with him.
+2. Give my 4 cobblestone to Clark's wall if he calls for it. Reason: the wall protects the beds.
+3. Hand the wooden sword to Troi, but only once she stands on it or is in reach. Reason: my give landed on the ground twice; a sword on the ground is not a hand-over.
 4. Stay at the white beds with the group, out of skeleton lines to the east. Reason: safety comes from numbers.
 5. Share what I learn: oak trees are about 40 blocks north-east, near 459,110,-1103. Reason: Lewis and others need wood.
 
-Done: 2 melon to Worf; 9 planks to Lewis; 2 oak logs to Data.
+Done: melon slice to Kimberly; plank to Troi (day 330); 9 planks to Lewis; 2 oak logs to Data.
