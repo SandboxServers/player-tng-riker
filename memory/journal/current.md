@@ -27,3 +27,10 @@
 - 17:03 act: {"say":"Morning, Trini, Zack, Clark. Riker at the west bed, health 20, hunger 20. Waiting in sight for Billy's cow call, and I will join when four are here.","actions":[]}
 - 17:11 act: {"actions":[{"do":"sleep"}]}
 - 17:11 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Dusk. Riker is at the west white bed for the night, health 20, hunger 20. Billy, call the cow walk at first light 
+- 17:13 act: {"actions":[],"say":"Morning, all. Riker at the west white bed, health 20, hunger 20. Billy, I am in sight here, call the cow walk and I will follow."}
+- 17:22 act: {"actions":[],"say":"Picard, Riker here. I know the water is east along z -1088, shore at 466,106,-1086, with ripe wheat on the way. Billy has not called the walk yet. I will stay in sight."}
+- 17:26 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Night is falling. Riker at the west bed, health 20, hunger 20. Billy, call the cow walk at first light and I will 
+- 17:30 act: {"actions":[],"say":"Morning. Riker at the west bed, health 20, hunger 20, in sight. Billy, count me in for the cow walk when four are here."}
+- 17:34 act: {"actions":[],"say":"Billy has not called it, so I will call it. Cow walk to the cows at 339,104,-979. Four in sight, then we go. Picard, Clark, Zack, Trini, Laforge, Chapman, say yes and stand still.
+- 17:36 act: {"actions":[],"say":"Understood, Trini and Zack. I will not walk without Billy's call. I stay at the west bed in sight."}
+- 17:40 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Night. Riker at the west bed, health 20, hunger 20. I will walk only on Billy's call, with four in sight."}
