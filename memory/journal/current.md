@@ -67,3 +67,26 @@
 - 01:26 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1092}}]}
 - 01:30 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1090}}],"say":"Data, I'm coming to you with the 2 oak logs."}
 - 01:39 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1092}}],"say":"Night, all. Data, I keep the 2 logs for you; I'll bring them at first light if you are in sight."}
+- 01:39 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Night is here. I am going to the white bed at 415,107,-1092 with my 2 oak logs. Data, they are yours when you are 
+- 01:40 act: {"actions":[{"do":"give","to":"ag_data_01","item":"oak_log","count":2}],"say":"Data, you are in reach. Here are my 2 oak logs, as I promised.","reasoning":"Data is in reach now, and he asked for the l
+- 01:40 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1094}},{"do":"give","to":"ag_data_01","item":"oak_log","count":2}],"say":"Data, I stepped back so the logs can change hands. Here are my 2 oak l
+- 01:40 act: {"actions":[],"say":"Data, your 2 oak logs are in your pack now. Troi has the other 4. I have no food, hunger 20. Clark, Laforge, when it is light I will come for a melon slice.","reasoning":"Logs del
+- 01:44 act: {"actions":[],"say":"Clark, Laforge: I am weak with no food, hunger 20. Riker here at the beds at 418,107,-1093, in the open. Hand me a melon slice when you see me.","reasoning":"Dawn. Ask for melon f
+- 01:48 act: {"actions":[],"say":"Thank you all. I am standing still at 418,107,-1093 in the open. Whoever comes first, hand me a slice; I will share what I can after.","reasoning":"Several people are bringing foo
+- 01:51 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Thank you Clark, I have 3 melon slices now. I will keep them for whoever is weak. Going to the bed at 415,107,-109
+- 01:55 act: {"actions":[],"say":"Morning. I am fed and hold 3 melon slices for the weakest. I also have 4 cobblestone for the stone wall at the beds. Who is building it? Tell me where and I will bring it.","reaso
+- 02:03 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Dusk. I am going to the bed at 415,107,-1092. I hold 3 melon for whoever is weak at dawn. Good night.","reasoning"
+- 02:07 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1078}}],"say":"Good morning. I have 4 cobblestone and 3 melon. Clark, Trini, Wesley, if the wall needs stone or the weak need food, tell me.","i
+- 02:08 act: {"actions":[{"do":"goto","target":{"x":424,"y":107,"z":-1082}}],"say":"I am on my way to Clark's wall with 4 cobblestone and 3 melon.","reasoning":"Previous path blocked; try a nearer point on the sam
+- 02:08 act: {"actions":[{"do":"goto","target":{"x":426,"y":107,"z":-1080}}],"say":"Trini, I am coming to you with 3 melon for the weakest. Hold on.","reasoning":"Trini is the weakest reported. Go to her with melo
+- 02:08 act: {"actions":[],"say":"Trini, my way to you is blocked. I am at 418,107,-1089 by the crafting table. Can you come here? I hold 3 melon.","reasoning":"Paths keep failing. Ask Trini to come to me instead.
+- 02:11 act: {"actions":[],"say":"Worf, I do not know where Data is now. Last I saw he was sealed at 418,107,-1092. Trini, Wesley has fed you, so I will keep my 3 melon for whoever is weak next.","reasoning":"Answ
+- 02:15 act: {"actions":[],"say":"Clark, when you lay the wall, I have 4 cobblestone for it. Say where to bring it, and I will come by the path that is open.","reasoning":"Offer stone to Clark's wall again, since 
+- 02:19 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1076}}],"say":"Clark, I am coming with 4 cobblestone for the wall.","reasoning":"Clark asked for the stone at the wall. Go, once."}
+- 02:19 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Clark, the way to your wall is blocked for me tonight. I will bring the 4 cobblestone at first light. Good night."
+- 02:23 act: {"actions":[{"do":"goto","target":{"x":427,"y":107,"z":-1078}}],"say":"Morning. I am bringing my 4 cobblestone to Clark's wall now.","reasoning":"Dawn. Deliver the promised stone to the wall, one try.
+- 02:23 act: {"actions":[],"say":"Clark, Wesley, Kimberly: my path to the wall is blocked from here at 417,107,-1088. I hold 4 cobblestone. If one of you can walk to me, I will hand it over.","reasoning":"Path is 
+- 02:31 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Night. I am sleeping at the bed. I still hold 3 melon and 4 cobblestone for the weak or the wall at dawn.","reason
+- 02:36 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1076}}],"say":"Morning all. Riker here, health full, hunger 20. I hold 4 cobblestone for Clark's wall and 3 melon for the weakest. Heading to th
+- 02:36 act: {"actions":[],"say":"Clark, the way to your wall is blocked from here, no path. I hold 4 cobblestone and 3 melon. Can someone come to the beds at 416,107,-1092 to take them?"}
+- 02:40 act: {"actions":[],"say":"Clark, the wall plan is planks now, so I will hold my 4 cobblestone unless you call for them. Worf, I am next to you; say your hunger and I will give melon."}
