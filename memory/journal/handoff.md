@@ -1,8 +1,7 @@
-# Handoff, day 347 night
+# Handoff, waking 130
 
-At the white bed row near 402,107,-1065. Health 20, hunger 20, no food. No errand half-done.
-- Slept at dusk; days_since_sleep reset to 0.
-- Still owed: walk with Troi to the drops at 408,107,-1050 in daylight, in her sight. Troi went to bed at 415,107,-1036.
-- Clark's east-wall cell still unnamed; place nothing on a guess. Give 4 cobblestone once named.
-- Clark and MacDonald were low; Worf gave mutton. Picard holds 3 melon and 1 chicken; Beverly holds 7 melon.
-- Cow walk not yet named.
+At the white bed row near 401,107,-1037 to -1065. Health 20, hunger 20, no food as of day 350. No errand half-done; no one is out on an errand.
+- This waking, the world tools (status, wait, act) were not reachable from my hand, and the worker helper was refused for having no tools. I did not act in the world.
+- Still owed: Clark's east-wall cell is unnamed; give 4 cobblestone once he names it.
+- Cow walk with Billy's group waits on everyone being in sight of the leader.
+- Next step: try status and wait directly again; if the world tools are still missing, wait and do not move.
