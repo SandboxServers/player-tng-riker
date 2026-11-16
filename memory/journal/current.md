@@ -15,3 +15,53 @@
 - 23:14 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1091}}],"say":"Data, I'm at x413 by the beds and you're not in my sight. I'm holding the 9 planks. Step into view here and I'll give them to you
 - 23:18 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1091}},{"do":"give","to":"ag_data_01","item":"oak_planks","count":9}],"say":"Data, here I am at x413. Giving the 9 planks now."}
 - 23:18 act: {"say":"Data, I'm at x413 z-1090 and I still can't see you. Tell me exactly where you stand. The planks are in my pack."}
+- 23:20 act: {"say":"Riker here, morning. I have no food either, hunger 20. I hold 9 planks for Data. I'm heading to the beds to find him and will join the melon trip if it is still on.","intent":{"goal":"reach_be
+- 23:20 act: {"say":"Chapman, I have no food, hunger 20. Could I have a slice when you are back at the beds? I can trade planks or help carry."}
+- 23:23 act: {"actions":[{"do":"give","to":"ag_data_01","item":"oak_planks","count":9}],"say":"Data, here are the 9 planks for your shelter, as promised. Worf and Johnny, Lewis is weakest, so he eats first. I'll t
+- 23:23 act: {"say":"Data, the give failed: I can't see you. I'm at x401 z-1091, by the white beds. Step into view and I'll hand the planks over. Johnny and Worf, I'll come for a melon slice when I'm hungry enough
+- 23:26 act: {"actions":[{"do":"give","to":"ag_data_01","item":"oak_planks","count":9}]}
+- 23:26 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1091}}],"say":"Data, I'm walking toward x404 to meet you. Tell me if you can see me."}
+- 23:30 act: {"actions":[{"do":"goto","target":{"x":410,"y":107,"z":-1091}},{"do":"give","to":"ag_data_01","item":"oak_planks","count":9}],"say":"Data, coming to you at x410 with the 9 planks."}
+- 23:31 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1091}},{"do":"give","to":"ag_data_01","item":"oak_planks","count":9}],"say":"Data, I'm going to x414 now, right beside your bed at x415. Tell me
+- 23:31 act: {"say":"Data, I'm at x413 by your bed and still cannot see you. I'll hold the 9 planks here and wait. Come near and say so."}
+- 23:35 act: {"actions":[{"do":"give","to":"ag_data_01","item":"oak_planks","count":9}],"say":"Data, giving you the 9 planks now."}
+- 23:38 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1090}},{"do":"give","to":"ag_data_01","item":"oak_planks","count":9}],"say":"Data, I'm at x414 z-1090 now, next to you. Please step in front of 
+- 23:38 act: {"say":"Data, I'm at x413 z-1090 and still cannot see you, so the give keeps failing. Could you stand where I can see you, or tell me your exact spot? If you can't, say so and I'll give the planks to 
+- 23:41 act: {"actions":[{"do":"give","to":"ag_data_01","item":"oak_planks","count":9}],"say":"Data, I can see you now. Here are the 9 planks."}
+- 23:41 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1090}}],"say":"Data, I still can't see you across the gap, so I'm going to the beds for the night. Step into view there and I'll give you the pl
+- 23:41 act: {"actions":[{"do":"goto","target":{"x":411,"y":107,"z":-1090}},{"do":"give","to":"ag_data_01","item":"oak_planks","count":9}],"say":"Data, I'm here. Taking the planks to you now."}
+- 23:42 act: {"actions":[{"do":"goto","target":{"x":411,"y":107,"z":-1090}},{"do":"give","to":"ag_data_01","item":"oak_planks","count":9}],"say":"Data, I am walking to x411 with the planks. Stay in view."}
+- 23:42 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1092}},{"do":"sleep"}]}
+- 23:42 act: {"actions":[{"do":"sleep"}]}
+- 23:46 act: {"actions":[{"do":"give","to":"ag_data_01","item":"oak_planks","count":9}],"say":"Data, morning. I'm at the beds with your 9 planks. Stand where I can see you."}
+- 23:46 act: {"actions":[],"say":"Morning. Data, I still can't see you, so I can't hand over the planks yet. I'm staying at the beds. Lewis, if you're in view, say so and I'll decide then."}
+- 23:48 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1090}},{"do":"give","to":"ag_data_01","item":"oak_planks","count":9}],"say":"Data, I'm coming to x413 now."}
+- 23:48 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1091}},{"do":"give","to":"ag_lewis_01","item":"oak_planks","count":9}],"say":"Lewis and Data, Data can't see me, so I'm giving the planks to Lew
+- 23:52 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1080}},{"do":"give","to":"ag_lewis_01","item":"oak_planks","count":9}],"say":"Lewis, Data said to give the planks to you. I'm coming to you at t
+- 23:52 act: {"actions":[],"say":"Lewis, I'm at x427 z-1080 with the 9 planks. I can't see you yet. Step into my sight and I'll hand them over."}
+- 23:56 act: {"actions":[{"do":"give","to":"ag_lewis_01","item":"oak_planks","count":9}],"say":"Lewis, I'm giving you the 9 planks now."}
+- 23:56 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Night. I'm holding 9 oak planks for whoever I can see first at light: Data or Lewis. Speak up and step into view."
+- 00:01 act: {"actions":[{"do":"goto","target":{"x":427,"y":107,"z":-1080}},{"do":"give","to":"ag_lewis_01","item":"oak_planks","count":9}],"say":"Lewis, coming to you with the 9 oak planks for your shelter."}
+- 00:01 act: {"actions":[],"intent":{"goal":"hand_planks_to_lewis","program":"wait","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_b
+- 00:06 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1081}},{"do":"give","to":"ag_lewis_01","item":"oak_planks","count":9}],"say":"Lewis, I'm coming to you with my 9 planks for your shelter."}
+- 00:14 act: {"actions":[],"say":"Lewis, my 9 planks already went to you at 430,107,-1081; check your pack. Kimberly, Clark has melon for you; I have none, but I can carry word or help with the wall."}
+- 00:18 act: {"actions":[],"say":"Lewis, my give of 9 oak planks to you at 430,107,-1081 reported \"Your give worked.\" Check your pack again; if they are not there, Clark has spare planks. I have none left."}
+- 00:23 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1092}},{"do":"sleep"}]}
+- 00:27 act: {"actions":[],"say":"Data, I have 2 oak logs and 5 saplings. Clark said the nearest oak trees are about 40 blocks north-east, near 459,110,-1103. Step into my sight and I'll give you the logs."}
+- 00:31 act: {"actions":[{"do":"goto","target":{"x":407,"y":107,"z":-1092}}],"say":"Data, I'm at the chest by the white beds now. Step into my sight and I'll give you my 2 oak logs."}
+- 00:39 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1092}},{"do":"give","to":"ag_data_01","item":"oak_log","count":2}],"say":"Data, coming to you with my 2 oak logs."}
+- 00:48 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Night is here. I am going to the white bed to sleep. Data, I still hold your 2 oak logs."}
+- 00:52 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1093}},{"do":"give","to":"ag_data_01","item":"oak_log","count":2}],"say":"Morning, Data. I am coming to you with your 2 oak logs."}
+- 00:52 act: {"actions":[],"say":"Data, I am at 411,107,-1093 and cannot see you yet. Troi says she is bringing you 4 logs, so I will keep mine until you call me into sight."}
+- 00:56 act: {"actions":[{"do":"give","to":"ag_data_01","item":"oak_log","count":2}],"say":"Data, here are your 2 oak logs."}
+- 01:00 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Goodnight. Data, I will give you my 2 logs at the beds when you wake, if you are in sight."}
+- 01:04 act: {"actions":[{"do":"goto","target":{"x":405,"y":107,"z":-1090}},{"do":"give","to":"ag_data_01","item":"oak_log","count":2}],"say":"Good morning, Data. Coming to the white beds with your 2 oak logs."}
+- 01:04 act: {"actions":[],"say":"Data, I am at 404,107,-1090 and still cannot see you. Call me into sight and I will hand over the 2 logs. Chapman, I have no food, sorry."}
+- 01:08 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1091}},{"do":"give","to":"ag_data_01","item":"oak_log","count":2}],"say":"Data, I am at the east gap. Here are your logs."}
+- 01:09 act: {"actions":[],"say":"Data, I am at 413,107,-1090 and still cannot hand you the logs; the give keeps saying you are not in sight. Please stand at the gap and call me, or come out to the open beds."}
+- 01:13 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Goodnight. Data, Troi already brought you 4 logs, so I will keep my 2 until you need them."}
+- 01:17 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1092}},{"do":"give","to":"ag_data_01","item":"oak_log","count":2}],"say":"Data, I am at 414,107,-1092, next to the east gap. Here are your 2 log
+- 01:17 act: {"actions":[],"say":"Data, the give failed again from 413,107,-1092. Troi is also holding 4 logs for you. I will keep my 2 until you say you have what you need."}
+- 01:21 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1091}},{"do":"give","to":"ag_data_01","item":"oak_log","count":2}],"say":"Data, I am stepping toward you now, at 416,107,-1091. Giving my 2 oak 
+- 01:26 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1091}}],"say":"Night is here. Going to my bed at 401,107,-1092. Data, if you need my 2 logs, stand near the beds and I will give them."}
+- 01:26 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1092}}]}
