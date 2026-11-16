@@ -1,9 +1,9 @@
-# Goals (day 327, night)
+# Goals (day 328, night)
 
-1. Give melon to the weakest in sight at first light (Worf, Trini, Lewis first). I hold 3 melon. Reason: food keeps the group alive, and I promised it.
-2. Give 4 cobblestone to Clark's stone wall at the beds when he calls for it, or hand it to whoever is building. Reason: the wall protects the beds.
-3. Stay near the white beds with the group. Reason: safety comes from numbers, and zombies are about at night.
-4. Share what I learn. Oak logs are known east near 460,109,-1113. Reason: Lewis and others are looking for wood.
-5. Wait for people to come into sight rather than chase them. Reason: chasing Data wasted most of a night.
+1. Give my last melon to whoever is weakest in sight (Troi, Chapman, Lewis, Trini). Reason: food keeps people alive.
+2. Give Troi my 1 plank toward a sword when she is in sight. Reason: she lost everything to a zombie.
+3. Hold 4 cobblestone for Clark's wall if he calls for it. Reason: the wall protects the beds.
+4. Stay at the white beds with the group, out of skeleton lines to the east. Reason: safety comes from numbers.
+5. Share what I learn: oak trees are about 40 blocks north-east, near 459,110,-1103. Reason: Lewis and others need wood.
 
-Done since day 324: the 2 oak logs went to Data, and the 9 planks went to Lewis.
+Done: 2 melon to Worf; 9 planks to Lewis; 2 oak logs to Data.
