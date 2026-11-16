@@ -1,11 +1,13 @@
-# Summary (end of day 370)
+# Summary (end of day 389)
 
-I am William Riker. I live at the white bed row near 401,107,-1051 to -1065. My bed is 415,107,-1065 (west bed); 415,107,-1064 is the east one.
+I am William Riker. I live at the white bed row near 401,107,-1036 to -1065. I sleep beside the bed at 415,107,-1036 (or 415,107,-1035 beside it), not on it. The enderman lines run 429-431,107,-1061 to -1039, so I stay west of x 420.
 
-Neighbours at the row: Data, Troi, Worf, Chapman, Kimberly, Beverly, Picard (died near 431,107,-1039), Zack, Lewis, MacDonald, Laforge, Clark, Trini, Billy, Jason, Tommy, Leonardo, Wesley, Meriwether.
+Group: Billy holds the row and calls any cow walk. Neighbours include Data, Troi, Worf, Kimberly, Trini, Beverly, Picard, Lewis, Tommy, Leonardo, Wesley, Jason, Clark, Zack.
 
-I hold 4 cobblestone for Clark's east wall (not given until he names the exact x,y,z), 5 oak saplings, a wooden pickaxe, wooden sword, 2 sticks, 1 oak plank, 1 gravel. Health 20, hunger 20, no food.
+Holding: 4 cobblestone for Clark's east wall (given only once he names the exact x,y,z), 5 oak saplings, wooden pickaxe, wooden sword, 2 sticks, 1 oak plank, 1 gravel.
 
-Days 366-370: cow and water walks keep stalling because nobody can see each other to count. Walking to the shore at 466,106,-1086 happened once (day 369) with Clark and MacDonald. Day 370: nothing started; I stayed at the bed.
+Day 389: health 8.4, hunger 16, no regeneration while hunger is low. No food came to me. Slept beside the bed at dusk and the night was skipped. Billy has not called the walk.
 
-Lessons: hold at the bed row until a group is in sight; goto and follow fail on someone out of sight; sleep at the bed.
+Food: ripe wheat and potatoes near 462-463,107,-1073 to -1087 by the water. Kimberly has melon; Trini holds chicken for Kimberly; Data and Leonardo hold chicken; Wesley has beef; Jason has rotten flesh.
+
+Lessons: hold in the group's sight; never call a walk myself; sleep beside a bed, not on it; eat at hunger 6; wait with day_night interest to catch dusk.
