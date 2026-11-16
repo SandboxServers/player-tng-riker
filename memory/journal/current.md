@@ -1,1 +1,14 @@
 # Journal
+- 11:21 act: said I hold 4 cobblestone for Clark's east wall once he names the cell. Offered to search west for sheep with Data.
+- 11:25 act: said I will go west with Data only when Billy calls the group to move; holding at the beds in sight. Group heard: Kimberly hunger 16, Picard and Leonardo hold food for her.
+- 11:30 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1049}}],"say":"Riker: following Worf to his shelter with the group, in sight. Worf, I want to learn how you sealed it.","reasoning":"Worf's shel
+- 11:30 act: {"say":"Riker at Worf's shelter area now. Worf, how did you seal the walls and roof?","reasoning":"Arrived near the shelter. Ask Worf directly, goal 5."}
+- 11:33 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1050}}],"say":"Night. Riker going to the bed beside the group.","reasoning":"Night has come and I have a bed in the row, in the group's sight. G
+- 11:33 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1050}},{"do":"use","at":{"x":401,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Riker going to bed now, group in reach. Goodnight all.","reasoning":
+- 11:33 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1050}},{"do":"sleep"}],"reasoning":"The goto into the bed failed, probably blocked. Try using the bed from here, which is within reach."}
+- 11:33 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1051}},{"do":"sleep"}],"reasoning":"The first bed refused the use. Try the next bed in the row, one attempt only."}
+- Night 354: both beds refused use ("that block is a bed"); did not sleep, held in sight of Worf. Morning: Billy's cow walk still waiting; Trini hunger 16, Kimberly 16. Zack gave Wesley cobblestone. My 4 cobblestone still owed to Clark.
+- 11:33 act: {"say":"Riker: the beds will not take me, so I am not sleeping yet. I am staying by the group in sight. Worf, is your shelter open for one more?","reasoning":"Two bed attempts failed with the same rea
+- 11:41 act: {"say":"Riker in reach at the bed row, health 20, hunger 20, no food. I hold 4 cobblestone for Clark's east wall and will give it once he names the cell. Billy, I walk with the group when you call.","
+- 11:45 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1064}},{"do":"use","at":{"x":401,"y":107,"z":-1064}},{"do":"sleep"}],"say":"Riker trying the bed at 401,107,-1064 for the night, in sight of the
+- 11:45 act: {"actions":[{"do":"sleep"}],"reasoning":"Bed use keeps refusing. Try sleep here in the group's reach at night, as the tool allows."}

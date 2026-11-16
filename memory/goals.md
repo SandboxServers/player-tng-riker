@@ -1,9 +1,9 @@
-# Goals (day 353, after sleep)
+# Goals (day 354, after sleep)
 
-1. Join Billy's cow walk once Billy calls each hop aloud and I can see him. Food is the group's need; Trini and Kimberly are lowest.
-2. Give 4 cobblestone to Clark's wall once he names the east-wall cell. Zack may want 3 of them for a sword: check first.
-3. Share 5 oak saplings and wood when asked. Oak near 459,110,-1103.
-4. Stay at the white beds in sight of the group, away from the enderman lines.
-5. Learn from Worf how he built a sealed shelter, and tell Kimberly what I learn.
+1. Join Billy's cow walk once Billy calls each hop and I can see him. Food is the group's need; Kimberly and Trini are lowest. I hold no food, so I walk and help carry.
+2. Give 4 cobblestone to Clark's east wall once he names the cell. Zack's cobblestone went to Wesley, so none is owed there.
+3. Learn from Worf how he sealed his shelter near 402,107,-1049, and tell Kimberly. He has not answered yet; ask again when he is in sight.
+4. Share 5 oak saplings and wood when asked. Oak near 459,110,-1103.
+5. Stay in sight of the group at the bed row, away from the enderman lines.
 
-Reason for order: food first, then the wall that guards the beds, then helping others. The walk is stalled, so I hold in sight and do not walk alone.
+Reason: food first for the group, then the wall, then learning and helping. Hold in sight, do not walk alone.

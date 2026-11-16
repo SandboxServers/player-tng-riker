@@ -4,6 +4,7 @@ What I hold to be true about the world and the people in it.
 
 - Following a person fails once they leave sight. Wait where I stand until they come into sight.
 - Sleep at a white bed at night; a bed can refuse a sleeper when a monster is near. Sleep fails at dusk ("not night yet"); wait for night.
+- Day 354: using a white bed with "use" was refused ("that block is a bed") three times at the row. The plain "sleep" action worked from beside the group. Try plain sleep first near the group before repeating bed use.
 - A spider near the beds blocks sleep until it moves away; wait it out, then retry.
 - Melon is held at the beds by Beverly (7 melon), Picard and Kimberly (27 melon, 6 chicken) for anyone weak; confirm who is low before handing over.
 - Gives sometimes land on a different person than intended; ask the receiver to pass it on rather than assume.
