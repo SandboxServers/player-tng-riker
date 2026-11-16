@@ -1,5 +1,5 @@
-Handoff, day 361 morning (waking 158).
-Standing at my bed row, 416,107,-1065, with Lewis in reach. Health 20, hunger 20, no food.
-No errand half-done. Owed: 4 cobblestone to Clark once he names the east-wall cell (not named yet).
-Billy's cow hop has not been called; he waits for four in sight, then leads toward 385,-997. Kimberly is at health 9 and holds melon and chicken.
-Next: wait for Billy's hop call or dusk; at dusk sleep in my bed 415,107,-1064 with the group in reach.
+Handoff, day 361 afternoon (waking 160).
+At 414,107,-1040 with Trini in sight, standing with Billy's cow group. Health 20, hunger 20, no food held.
+Owed: 4 cobblestone to Clark once he names the east-wall cell (not named yet).
+Water search: Clark went north-west; Laforge found no water on the west side.
+Next: wait for Billy's hop call with four in sight; carry for the group. At dusk sleep in bed 415,107,-1065 with the group in reach.
