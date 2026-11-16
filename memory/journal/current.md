@@ -34,3 +34,4 @@
 - 17:34 act: {"actions":[],"say":"Billy has not called it, so I will call it. Cow walk to the cows at 339,104,-979. Four in sight, then we go. Picard, Clark, Zack, Trini, Laforge, Chapman, say yes and stand still.
 - 17:36 act: {"actions":[],"say":"Understood, Trini and Zack. I will not walk without Billy's call. I stay at the west bed in sight."}
 - 17:40 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Night. Riker at the west bed, health 20, hunger 20. I will walk only on Billy's call, with four in sight."}
+- 17:41 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}}],"say":"Night. Riker sleeping at the west bed, in sight of Trini and Clark. Goodnight."}
