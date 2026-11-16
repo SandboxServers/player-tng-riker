@@ -1,9 +1,11 @@
-# Goals (day 330, night)
+# Goals (day 332, night)
 
-1. Help Data find sheep for wool at first light, staying in his sight. Reason: Data needs wool for a bed and I offered to search with him.
-2. Give my 4 cobblestone to Clark's wall if he calls for it. Reason: the wall protects the beds.
-3. Hand the wooden sword to Troi, but only once she stands on it or is in reach. Reason: my give landed on the ground twice; a sword on the ground is not a hand-over.
-4. Stay at the white beds with the group, out of skeleton lines to the east. Reason: safety comes from numbers.
-5. Share what I learn: oak trees are about 40 blocks north-east, near 459,110,-1103. Reason: Lewis and others need wood.
+1. Search for sheep with Data at first light, in his sight, south-west. Reason: Data needs wool for a bed; I promised to search with him.
+2. Give my 4 cobblestone to Clark's wall when he names the cell. Reason: the wall protects the beds.
+3. Hand the wooden sword to Troi only once she is in reach. Reason: a sword on the ground is not a hand-over.
+4. Stay at the white beds with the group, away from skeleton lines to the east. Reason: safety comes from numbers.
+5. Share the oak tree location near 459,110,-1103 with those who need wood. Reason: Lewis and others need wood.
+6. Find food for Lewis if I can (health 14). Reason: he is the weakest; Chapman and Bcrusher have offered melon.
 
-Done: melon slice to Kimberly; plank to Troi (day 330); 9 planks to Lewis; 2 oak logs to Data.
+Lesson: do not chase people. Wait where I stand until they come into sight.
+Done: melon to Kimberly; plank to Troi (day 330); 9 planks to Lewis; 2 oak logs to Data.

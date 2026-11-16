@@ -1,5 +1,7 @@
-Handoff, day 327 night. In bed at white bed 415,107,-1092, sheltered at the beds, not in danger.
-- Holding 3 melon (for the weakest) and 4 cobblestone (for Clark's wall if he calls).
-- Worf is near at the beds. Data's 2 oak logs were handed over; Troi holds his 4.
-- At first light: offer melon to the weakest in sight, then give stone if asked.
-- Lesson: wait for people to come into sight rather than chasing them.
+Handoff, day 332 dusk. At the white bed row 388,107,-1093 with Data beside me (he is sleeping at bed 387,-1093). Sheltered at the beds, not in danger, no errand half-done.
+- Holding 4 cobblestone for Clark's wall when he calls.
+- Wooden sword to give Troi only when she is in reach.
+- Lewis is weak; Chapman and Bcrusher have melon for him. I have none.
+- Oak tree location near 459,110,-1103 for those who need wood.
+- No sheep found yet. Data will search at first light, in my sight.
+- Lesson: wait for people to come into sight; do not chase.
