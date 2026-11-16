@@ -1,1 +1,23 @@
 # Journal
+- 02:59 act: {"say":"Riker here at the beds, health 20, hunger 20. I hold 1 melon and 1 plank. Whoever is weakest in sight, say your hunger and I will hand it over. Troi, I am coming to you with the plank.","inten
+- 03:03 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"melon_slice","count":1}],"say":"Kimberly, you are at health 8 and in reach. I have one melon slice; take it now if you need it, and rest by the b
+- 03:03 act: {"say":"Data, yes, I will search for sheep with you in daylight. I hold 1 plank and 4 cobblestone. Lead on, I will follow you.","intent":{"goal":"follow_data_to_sheep","program":"follow","arguments":{
+- 03:08 act: {"actions":[{"do":"give","to":"ag_troi_01","item":"oak_planks","count":1}],"say":"Troi, here is my plank, toward a sword. Keep it safe by the beds."}
+- 03:08 act: {"actions":[{"do":"give","to":"ag_troi_01","item":"oak_planks","count":1}],"say":"Troi, my plank for your sword. Trying the hand-over again."}
+- 03:08 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1095}},{"do":"give","to":"ag_troi_01","item":"oak_planks","count":1}],"say":"Troi, I am stepping back a little, so the plank can be handed over 
+- 03:12 act: {"actions":[{"do":"give","to":"ag_troi_01","item":"oak_planks","count":1}],"say":"Troi, I see you are at the bed row. Here is my plank for your sword."}
+- 03:12 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1092}}],"say":"Morning. Back at the bed row, 416,107,-1092. Troi, I hold my plank for you here."}
+- 03:12 act: {"actions":[{"do":"give","to":"ag_troi_01","item":"oak_planks","count":1}],"say":"Troi, here is my plank for your sword. Data, yes, I will search for sheep with you once this is done."}
+- 03:12 act: {"actions":[],"say":"Data, I am ready. I hold 4 cobblestone and a wooden sword. Lead us to the sheep in daylight and I will stay in your sight."}
+- 03:17 act: {"actions":[{"do":"note","text":"Morning day 329. Holding 4 cobblestone, wooden sword. Kimberly, Troi, Worf in reach at the bed row. Following Data's sheep search plan: staying in his sight."}],"say":
+- 03:21 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1100}}],"say":"Data, Worf: I am walking north from the bed row, slowly, in daylight. Keep me in your sight and call when you see a sheep."}
+- 03:21 act: {"actions":[],"say":"I am at 416,107,-1100 with Data in sight. Ground drops to the north and west, so we go carefully. I hold no wool-finding tools; I will watch for sheep and call out."}
+- 03:25 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1091}}],"say":"Morning. Data, Riker here. I am walking back to the bed row to meet you and Worf for the sheep search at first light."}
+- 03:29 act: {"actions":[{"do":"give","to":"ag_troi_01","item":"wooden_sword","count":1}],"say":"Troi, Riker here, in reach. Giving you the wooden sword now. Data, I am heading to you in the west for the sheep sea
+- 03:29 act: {"actions":[],"say":"Troi, my give was blocked: the sword is on the ground near you. Please pick it up from the ground at your feet, then tell me. I will not give again until you say."}
+- 03:31 act: {"actions":[{"do":"give","to":"ag_troi_01","item":"wooden_sword","count":1}],"say":"Troi, trying the sword once more now, straight to you."}
+- 03:31 act: {"actions":[{"do":"goto","target":{"x":405,"y":107,"z":-1095}}],"say":"Troi, the give failed twice: the sword lies on the ground by your feet. I am stopping the sword gives now. Walk onto the sword to
+- 03:31 act: {"actions":[{"do":"goto","target":{"x":392,"y":107,"z":-1095}}],"say":"Data, Riker, walking west toward you now, in daylight."}
+- 03:31 say: {"text":"Data, I am with you at 393,107,-1095 in sight. No sheep in my view. Lead on, and I will follow and call if I see one."}
+- 03:35 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1091}},{"do":"note","text":"Dusk. Data is out west at 370 and I am 23 blocks back. Going to the white beds for the night, sheep search resumes a
+- 03:35 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1092}},{"do":"use","at":{"x":401,"y":107,"z":-1092}}]}
