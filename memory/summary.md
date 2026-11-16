@@ -1,9 +1,11 @@
-# Summary (end of day 334)
+# Summary (end of day 335)
 
-I am William Riker. I live at the white bed row near 388,107,-1093 with a small group: Data, Troi, Worf, Chapman, Kimberly, Bcrusher, Laforge, Macdonald, Clark and Lewis.
+I am William Riker. I live at the white bed row near 388,107,-1093 with Data, Troi, Worf, Chapman, Kimberly, Bcrusher, Laforge, Macdonald, Clark and Lewis.
 
-Recent days: I carry 4 cobblestone for Clark's wall and a wooden sword for Troi. I have 5 oak saplings and a wooden pickaxe. No sheep found in the north, south-west or west searches. Data wanted to meet me at the bed row on the morning of day 334, but he was never in my sight, so I waited and slept at the bed at dusk with Worf nearby.
+Recent days: I carry 4 cobblestone for Clark's wall and I have 5 oak saplings, a wooden pickaxe and a stone-less kit. I gave Troi her wooden sword on day 335 and it worked. She went to the drops at 408,107,-1050 and I could not keep her in sight, so I stayed at my bed. Sheep search east with Data, Worf and Bcrusher failed; the way at 472,107 is blocked. I slept at night at bed 387,107,-1093.
 
-Lessons: wait for people to come into sight rather than chasing them. At night, sleep at a bed. Keep away from the skeleton lines to the east and the drop site at 408,107,-1050.
+Lessons: wait for people to come into sight rather than chasing them. Sleep at a bed at night, and wait out a spider nearby before retrying. Keep away from the skeleton lines to the east and the drop site at 408,107,-1050 unless I am walking with someone.
 
-Oak trees are near 459,110,-1103. Lewis is the weakest; Worf, Bcrusher and Chapman hold melon for him. Next: sheep search with Data and Worf at first light, in sight; give cobblestone when Clark names the cell; give the sword when Troi is in reach.
+Oak trees are near 459,110,-1103. Lewis is the weakest; Bcrusher holds 17 melon at 402,107,-1079 for him.
+
+Next: walk with Troi to the drops in daylight; sheep search with Data and Worf; give cobblestone when Clark names the cell; find melon for Lewis.
