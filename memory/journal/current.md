@@ -87,3 +87,4 @@
 - 22:02 act: {"say":"Night. Riker going to the white bed at 415,107,-1037, west of the enderman lines, in the group's sight. Count me at first light, Billy.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-
 - 22:06 act: {"say":"Good morning. Riker at 416,107,-1037, health 20, hunger 20. Holding for Billy's call."}
 - 22:10 act: {"say":"Worf, I can't see the pit edge from here, so I can't name a cell. I'm at 416,107,-1037 holding for Billy's call.","intent":{"goal":"hold_for_billy_call","program":"rest","arguments":{},"wake_o
+- 22:15 say: {"text":"Riker here at 416,107,-1037, health 20, hunger 20, empty-handed of food. Holding at the bed row for Billy's call."}
