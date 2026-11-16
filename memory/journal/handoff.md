@@ -1,5 +1,6 @@
-Handoff, day 361 afternoon (waking 160).
-At 414,107,-1040 with Trini in sight, standing with Billy's cow group. Health 20, hunger 20, no food held.
-Owed: 4 cobblestone to Clark once he names the east-wall cell (not named yet).
-Water search: Clark went north-west; Laforge found no water on the west side.
-Next: wait for Billy's hop call with four in sight; carry for the group. At dusk sleep in bed 415,107,-1065 with the group in reach.
+Handoff, day 362 dusk (waking 162).
+At bed 415,107,-1065 (row near 416,107,-1065), in bed-sleep, health 20, hunger 20, no food held.
+Holding 4 cobblestone owed to Clark for east wall (cell not named yet), 5 oak saplings, wooden pickaxe, 2 sticks, 1 oak plank, 1 gravel.
+Billy's cow hop waits until four are in his sight. Troi, Trini, Jason, Wesley near the row.
+Water still missing; Clark scouted north, nothing found.
+Next: wake, look, stay at the bed row, join Billy's walk when four are in sight. Never walk alone.

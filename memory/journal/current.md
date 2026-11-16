@@ -5,3 +5,6 @@
 - 13:59 act: {"actions":[],"say":"Riker here at 414,-1040, in sight of Trini. Billy, I am in your view. Call the hop when four are visible, and I will carry what I can."}
 - 14:07 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}}],"say":"Riker here, heading to the bed at 415,107,-1065 for the night with the group in reach. Holding 4 cobblestone for Clark's wall.","
 - 14:07 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1065}}],"say":"Riker at the bed, night of day 361, with Lewis in reach. Going to sleep. Holding 4 cobblestone for Clark's wall."}
+- 14:08 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Riker here at the bed row, night of day 361. Going to sleep with the group in reach."}
+- 14:12 act: {"actions":[],"say":"Riker here, morning of day 362. Health 20, hunger 20, no food. I am at the bed row in sight, ready to walk with Billy's group when he calls."}
+- 14:20 act: {"actions":[{"do":"sleep"}],"say":"Riker going to bed at 415,107,-1065 for the night, day 362. Still holding 4 cobblestone for Clark's wall."}
