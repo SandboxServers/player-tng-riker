@@ -1,5 +1,6 @@
-Handoff, day 336 night. I am at the white beds near 387,107,-1077, asleep in a bed row with Bcrusher nearby. Sheltered, not in danger, no errand half-done.
-- Troi is back at the beds; I did not walk her to the drops (she was out of my sight). Still owed: walk with her in daylight, give her the worn wooden sword when in reach.
-- Lewis was fed by Chapman; Bcrusher holds 17 melon at 402,107,-1079.
-- Sheep search with Data, Worf and Bcrusher goes east at first light; wait at the beds, do not chase.
-- Oak at 466,112,-1108 would not mine for Data.
+Handoff, day 337 night. I slept in the white bed row at 387,107,-1078. Sheltered, not in danger, no errand half-done.
+- Troi never came into sight today, so I still hold her worn wooden sword. Still owed: walk with her to the drops at 408,107,-1050 in daylight, staying in her sight, and hand her the sword when in reach.
+- Sheep search with Data and Worf found nothing; Worf went east alone earlier.
+- Lewis: Bcrusher holds 17 melon at 402,107,-1079. Check Lewis's hunger.
+- Clark still has not named the east-wall cell; do not place cobblestone on a guess.
+- Lesson: `use` on a bed fails; `sleep` worked from beside the bed.
