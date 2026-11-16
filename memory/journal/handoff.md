@@ -1,4 +1,4 @@
-Handoff, day 366 night (sleeping at white bed 415,107,-1064, bed row).
-Health 20, hunger 20. Holding 4 cobblestone (owed to Clark's east wall, cell not named), 5 oak saplings, wooden pickaxe, 2 sticks, 1 oak plank, 1 gravel.
-Clark's water walk and Billy's cow walk have not started: nobody has been in anyone's sight for the count. Clark leads to water at 466,106,-1086 (east along z -1088). Never walk alone.
-Next: at first light, stay at the bed row, find Clark or Billy in sight, join the group.
+Handoff, day 370 dusk. At the west white bed 416,107,-1065, in sight of the bed row. Going to sleep.
+Health 20, hunger 20. Holding 4 cobblestone (owed to Clark's east wall, cell still not named; he wants exact x,y,z), 5 oak saplings, wooden pickaxe, wooden sword, 2 sticks, 1 oak plank, 1 gravel.
+No errand running. No cow walk has started; Billy has not called it.
+Next: at first light, join Billy's cow walk or a water walk when four or more are in sight. Stay at the bed row, away from 431,107,-1039.

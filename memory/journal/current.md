@@ -1,1 +1,29 @@
 # Journal
+- 15:51 act: {"say":"Clark, I see you by the chest. I am here at the bed row. Walk me to the water and I will carry with you.","actions":[]}
+- 15:52 act: {"say":"Trini, Zack, I am at the bed row too. I hold no food, but I will walk with whoever calls the cow or water walk.","actions":[]}
+- 15:54 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}]}
+- Day 368: went to Billy's cow group at 430,107,-1040. Four counted, walk to cows at 339,104,-979; my follow intents failed (not in sight). Enderman near 431,107,-1039 at dusk; Picard died there. Walked back to bed and slept.
+- Day 367 morning: follow of Clark failed (not in my sight). Told Billy where I stand. Still no group in sight at the bed row.
+- Day 367 dusk: offered to join Clark's water walk and Billy's cow walk; none started. Slept at the bed with the group in sight.
+- 15:59 act: {"say":"Good morning. Clark, I am following you to the water. Billy, I am here at the bed row, ready to be counted.","intent":{"goal":"join_water_walk","program":"follow","arguments":{"target":"Clark"
+- 16:03 act: {"say":"Billy, Riker at the white bed 416,107,-1065. I cannot see anyone yet. Call me in and I will walk.","actions":[]}
+- 16:08 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}]}
+- 16:12 act: {"say":"Billy, Riker is heading to the white bed near you at 430,107,-1037. I will stand still there so you can count me.","intent":{"goal":"reach_cow_walk_group","program":"travel","arguments":{"targ
+- 16:12 act: {"say":"Riker is standing at 430,107,-1040, near the bed. Billy, Leonardo, count me in for the cow walk.","actions":[]}
+- 16:15 act: {"say":"Following you in, Billy. Lead on.","intent":{"goal":"follow_billy_cow_walk","program":"follow","arguments":{"target":"Billy"},"wake_on":["directly_addressed","precondition_failed","unexpected_
+- 16:15 act: {"say":"Picard, I am with you. Riker goes where you go to the cow walk.","intent":{"goal":"follow_picard_to_cows","program":"follow","arguments":{"target":"Picard"},"wake_on":["directly_addressed","pr
+- 16:15 act: {"say":"Follow keeps failing for me. Picard is in reach. I will walk the cow walk behind whoever calls it.","actions":[]}
+- 16:19 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}]}
+- 16:23 act: {"say":"Morning, all. Riker at the west white bed, health 20, hunger 20. Clark, I hold 4 cobblestone for your east wall, tell me the cell. I also have 5 oak saplings to share.","actions":[]}
+- Day 369 morning: Clark names no east-wall cell until given exact x,y,z, so I hold the 4 cobblestone. Chapman holds the oak logs until Data is in sight. No walk has started; still at the west bed, health 20, hunger 20.
+- 16:32 act: {"say":"Meriwether, Riker here at the west bed too, ready for the cow walk. Billy, count me in when you call it.","actions":[]}
+- 16:44 act: {"say":"Dusk. Riker is going to the west bed to sleep. Billy, call the cow walk at first light and I will be in sight.","actions":[{"do":"sleep"}]}
+- 16:48 act: {"say":"Morning, Clark. Riker at the west bed, health 20, hunger 20. Still waiting on Billy's or your walk call, and I will stand in sight.","actions":[]}
+- 16:52 act: {"say":"Clark, Riker is coming after you to the shore at 466,106,-1086. Wait for me at the wheat if you can.","intent":{"goal":"join_clark_water_walk","program":"travel","arguments":{"target":{"x":466
+- 16:52 act: {"say":"Riker at the shore with Clark and MacDonald. Ripe wheat is by the water, at 464-468,107,-1084 to -1088. Hunger is 20 for me, so I will leave it for the lowest.","actions":[]}
+- 16:54 act: {"say":"Lewis, the route to the water: go east along z -1088 past the wheat, then to the shore at 466,106,-1086. Clark and MacDonald are here.","actions":[]}
+- 16:58 act: {"say":"Night is falling. Riker is heading back to the west white bed at the bed row to sleep. MacDonald, come along if you are going too.","intent":{"goal":"return_to_bed_row","program":"travel","arg
+- 16:59 act: {"actions":[{"do":"sleep"}],"say":"Riker is back at the west bed for the night. Health 20, hunger 20. Morning, I will join the next walk."}
+- 17:03 act: {"say":"Morning, Trini, Zack, Clark. Riker at the west bed, health 20, hunger 20. Waiting in sight for Billy's cow call, and I will join when four are here.","actions":[]}
+- 17:11 act: {"actions":[{"do":"sleep"}]}
+- 17:11 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Dusk. Riker is at the west white bed for the night, health 20, hunger 20. Billy, call the cow walk at first light 
