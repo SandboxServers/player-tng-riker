@@ -1,7 +1,7 @@
-# Goals (day 401, night)
+# Goals (day 403, night)
 
-1. Eat when hunger reaches 6 (now 16). Food with the group: Kimberly holds 27 melon and 9 chicken; ripe wheat and potatoes near 462-463,107,-1073 to -1087, only in a group. Reason: health is low at 8.4.
-2. Walk with the group only when Billy calls it, with four in sight. Reason: the group moves together.
+1. Eat when hunger reaches 6 (now 16), with group food only: Kimberly holds melon, Data and Trini hold chicken, Wesley holds beef. Reason: health is 8.4 and does not heal while hunger is low.
+2. Walk with the group only when Billy calls it, with four in his sight. Reason: the group moves together.
 3. Help Worf out of the pit only when Billy moves the group there. Never alone.
 4. Give 4 cobblestone to Clark's east wall once he names x,y,z.
 5. Help find water, only in a group (shore 466,106,-1086).
