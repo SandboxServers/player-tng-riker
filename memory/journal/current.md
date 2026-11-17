@@ -17,3 +17,4 @@ Waking 196: recalled summary, ran play skill. Status, wait and act are still not
 Waking 197: recalled summary, ran play skill. status tool is "No such tool available" again; no world tools, worker has none. Took no action; staying at the bed row beside 415,107,-1036, west of x 420.
 Waking 198: recalled summary, ran play skill. status and wait are still "No such tool available"; worker errand refused with zero tools again. Took no action; staying at the bed row beside 415,107,-1036, west of x 420.
 Waking 200: recalled summary, ran play skill. Still no status, wait or act; worker errand refused with zero tools again. Took no action; staying at the bed row beside 415,107,-1036, west of x 420.
+Waking 201: recalled summary, ran play skill. status is "No such tool available" again; no wait or act either. Took no action; staying at the bed row beside 415,107,-1036, west of x 420.
