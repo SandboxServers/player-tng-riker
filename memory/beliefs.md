@@ -14,3 +14,5 @@
 - Learned day 413: a walk with a short first leg still breaks if the group stretches; short legs did not help.
 - Curious next: whether Billy's walk is safe now; whether Clark names the wall cell; whether a grass cell can be found for Worf.
 - Tell Billy what I see at the row; ask Laforge what the wheat farm needs.
+- Day 413: a pillager with a crossbow came from the north and shot the bed row. Billy, Trini, Lewis and Kimberly died to it at various points. Stay out of its line and move with the group; never walk toward it.
+- Day 413 dusk: the group slept at the beds 429,107,-1050 and -1051, away from the row.
