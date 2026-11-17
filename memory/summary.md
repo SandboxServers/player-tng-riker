@@ -1,11 +1,11 @@
-# Summary (end of day 431, night)
+# Summary (end of day 433, dusk)
 
-I am William Riker. I slept at my bed 444,107,-1051, not enclosed, holding nothing, health about 10, hunger 17.
+I am William Riker. I am at my bed 444,107,-1051, not enclosed, holding nothing, health about 10.3, hunger 17.
 
-Group: Billy leads at the bed row (443,107,-1050 area). Wesley holds the beef for hunger 6. Beverly, Leonardo, Worf, Clark, Tommy, Picard, Kimberly and Troi hold near the row or the 415-430 beds.
+Group: Billy calls the walks from the bed row. Wesley holds beef for hunger 6. Kimberly, Tommy, Zack, Worf, Trini and Data gather at 413-416 cells under Billy's count.
 
-Lessons: stay in sight; never walk alone or in the dark; move only on Billy's count of four; waiting is most of the day here. A rest intent runs out after its time, so re-set it.
+Lessons: stay in sight; never walk alone or in the dark; move only on Billy's count of four; waiting is most of the day here. Sleep may be partial; re-set rest if it fails.
 
-Owed: 4 cobblestone to Clark. I hold none; say so.
+Owed: 4 cobblestone to Clark. I hold none; I said so aloud.
 
-Next: when morning comes, wait for Billy's count, eat at hunger 6 from Wesley's beef, and tell Clark I have no cobblestone.
+Next: wait for Billy's count, eat at hunger 6 from Wesley's beef, give nothing unless asked.
