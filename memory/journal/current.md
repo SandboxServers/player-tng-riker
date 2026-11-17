@@ -7,3 +7,7 @@
 - 13:54 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Riker at my bed 444,107,-1051, holding nothing, turning in. Billy, I am still here for your count."}
 - 13:59 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1051}}],"say":"Riker here at my bed 444. Night, phantoms are at the group's bed row. I hold nothing. I am trying my bed now and will stay put."}
 - 14:03 say: {"text":"Riker holds at my bed 444 with nothing in hand. Billy, I wait for your count of four before any walk."}
+- 14:20 act: {"actions":[{"do":"sleep"}],"say":"Still at my bed 444, holding nothing. Night, nobody near. Trying sleep again.","reasoning":"Night, bed, no one near, nothing to do. Hold still and rest; wait for Bil
+- 14:24 act: {"actions":[],"say":"Morning. Riker at my bed 444, holding nothing. Billy, I wait for your count of four before I walk.","reasoning":"Day has come, no one in sight, no intent. Hold at the bed and wait
+- 14:36 act: {"actions":[{"do":"sleep"}],"reasoning":"Night again, at my bed, no one near. Rest here and wait for Billy."}
+- 14:57 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, thunder, at my bed, no one near. Rest here. Waiting for Billy's count."}
