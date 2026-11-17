@@ -1,7 +1,7 @@
-# Handoff, day 400
+# Handoff, day 401 dusk
 
-At the bed 416,107,-1037, not enclosed, health 8.4, hunger 16 (eat at 6). No intent running, no errand out.
+At the bed row 416,107,-1037, beside the white bed 415,107,-1037, in Billy's group. Health 8.4, hunger 16 (eat at 6). No intent running, no errand out.
 
-Billy has not yet seen four of us; he asked people to stand two blocks off one at a time to test. I said I would step closer if he names a spot. Holding for his walk call to the cow field at 339,104,-979. Walk only when Billy calls it with four in sight.
+Holding for Billy's walk call to the cow field 339,104,-979; walk only with four in sight. Count at first light. Worf still at the pit edge 394,107,-1022, not to dig alone.
 
-Next: wait with interests directly_addressed, damage, agent_approached, proposal. Follow Billy's spot when he names it.
+Going to sleep in the bed now.
