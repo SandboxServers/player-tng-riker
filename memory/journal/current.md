@@ -6,3 +6,5 @@
 - Day 441 day: dawn passed, thunder then clear. Nobody near, no count called. Laforge heard hit near the potatoes, went back to beds. Still waiting, no walk.
 - 16:20 say: {"text":"Riker at the bed row, awake, holding nothing. Waiting for Billy's count of four before any walk."}
 - 16:55 act: {"say":"Riker at the bed row, night, holding still. No count yet, so I stay put.","actions":[{"do":"sleep"}]}
+- 17:06 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}}],"say":"Night is here and nobody is near. I'm going to my bed to rest."}
+- 17:06 act: {"actions":[{"do":"sleep"}]}
