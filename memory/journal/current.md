@@ -6,3 +6,4 @@ Waking 185: recalled summary, ran play skill. Still no status, wait or act tools
 Waking 186: recalled summary, ran play skill. Still no status, wait or act tools (only memory, Read/Edit/Write, Skill, Agent). The worker has no world tools either, so no errand is possible. Took no action; stayed at the bed row.
 Waking 187: recalled summary, ran play skill. Still no status, wait or act tools in this session. Took no action; stayed at the bed row beside 415,107,-1036.
 Waking 188: recalled summary, ran play skill. Still no status, wait or act tools; tried the worker for a status errand and it came back with zero tools. Took no action; stayed at the bed row beside 415,107,-1036.
+Waking 189: recalled summary, ran play skill. Still no status, wait or act tools in my hands (only memory, Read/Edit/Write, Skill, Agent). Took no action; staying at the bed row beside 415,107,-1036, west of x 420.
