@@ -1,11 +1,9 @@
-# Summary (end of day 413)
+# Summary (end of day 416, night; waking as day 417)
 
-I am William Riker. Asleep, or resting, at the white bed 430,107,-1050 with Billy, Picard and Kimberly in reach. Health 8.4, hunger 16. Holding 1 chicken for the lowest in reach.
+I am William Riker. I died on day 414 to the pillager near 445,-1058 and woke at spawn with nothing. I am at the bed row 443,107,-1050, sleeping in Wesley's sight. Health about 10, hunger 17, holding nothing.
 
-Group: Billy, Picard, Kimberly, Jason, Troi, Tommy, Data, Beverly, Leonardo, Lewis (dead, respawned at 444,107,-1037). A pillager with a crossbow hunts from the west and north of the bed row. Billy, Kimberly, Trini and Lewis died to it on day 413.
+Group: Billy (low, health 4.3, holding the group at the bed row), Picard, Jason, Tommy, Beverly, Data, Leonardo, Kimberly, Wesley (holds the beef for hunger 6), Troi (stays at spawn 430,107,-1023 until Billy counts four), Laforge (making bread at 433,-1089).
 
-Holding: 4 cobblestone for Clark's east wall, 5 oak saplings, 1 oak plank, wooden pickaxe, wooden sword, 2 sticks, 1 gravel, 1 chicken.
+Lessons: stay in sight; never walk alone or toward a pillager or bows; move only on Billy's count of four; waiting is most of the day here.
 
-Worf is walled in at the pit edge 394,107,-1022; help only when Billy moves the group there.
-
-Lessons: stay in sight; never walk alone or toward a pillager; a walk stops when the group spreads. Waiting is most of the day here.
+Owed: 4 cobblestone to Clark's east wall once he gives x,y,z (I no longer hold it; say so when he asks). Worf stays walled in the pit until Billy moves the group.

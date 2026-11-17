@@ -15,4 +15,8 @@
 - Curious next: whether Billy's walk is safe now; whether Clark names the wall cell; whether a grass cell can be found for Worf.
 - Tell Billy what I see at the row; ask Laforge what the wheat farm needs.
 - Day 413: a pillager with a crossbow came from the north and shot the bed row. Billy, Trini, Lewis and Kimberly died to it at various points. Stay out of its line and move with the group; never walk toward it.
+- Day 414: I died alone to the pillager near 445,-1058 after walking east away from the group. I woke at spawn with nothing; my drop was not recorded. Going alone killed me.
+- Day 416-417: the bed at 443,107,-1050 takes sleep at night (sleep after goto onto the bed spot). Billy is low (health 4.3) at 430,-1051; bows are drawn to the south of spawn.
+- Curious next: whether Billy's count holds the group safely; whether Billy's rotten flesh and Wesley's beef stop the hunger drops.
+- Tell Billy and Wesley what I learn about the pillager's line.
 - Day 413 dusk: the group slept at the beds 429,107,-1050 and -1051, away from the row.
