@@ -1,5 +1,7 @@
 # Beliefs
 
+- Day 461: Billy's use with stone_sword failed on a sign and on gravel. Zack says use needs the item to equip first and a block in reach; not yet proven for anyone but Zack. No walk has been called since day 453.
+
 - Day 446: a goto onto the bed tile beside me reports "worked" and sleep then took the night at the row.
 
 - goto to someone fails with "no such agent in sight" when they are not in my view. Look first; they must be visible to walk to them.
