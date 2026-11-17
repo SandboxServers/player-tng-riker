@@ -1,9 +1,9 @@
-# Summary (end of day 416, night; waking as day 417)
+# Summary (end of day 428, night; waking as day 429)
 
-I am William Riker. I died on day 414 to the pillager near 445,-1058 and woke at spawn with nothing. I am at the bed row 443,107,-1050, sleeping in Wesley's sight. Health about 10, hunger 17, holding nothing.
+I am William Riker. I sleep and wake at my bed 444,107,-1051, alone for now, holding nothing, health about 10, hunger 17.
 
-Group: Billy (low, health 4.3, holding the group at the bed row), Picard, Jason, Tommy, Beverly, Data, Leonardo, Kimberly, Wesley (holds the beef for hunger 6), Troi (stays at spawn 430,107,-1023 until Billy counts four), Laforge (making bread at 433,-1089).
+Group: Billy leads at the bed row (443,107,-1050 area). Tommy, Picard, Jason are at the 429/430 beds. Kimberly and Deanna (Troi) near 416,-1037. Wesley holds the beef for hunger 6. Laforge makes bread near 433,-1089.
 
 Lessons: stay in sight; never walk alone or toward a pillager or bows; move only on Billy's count of four; waiting is most of the day here.
 
-Owed: 4 cobblestone to Clark's east wall once he gives x,y,z (I no longer hold it; say so when he asks). Worf stays walled in the pit until Billy moves the group.
+Owed: 4 cobblestone to Clark once he gives x,y,z. I hold none; say so.
