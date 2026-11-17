@@ -1,6 +1,6 @@
-# Goals (day 452, night)
+# Goals (day 453, night)
 
-1. Stay in Billy's sight at the bed row, out of the pillager's and bows' line. Reason: I died alone to the pillager on day 414.
+1. Stay in Billy's sight at the row, out of the pillager's and bows' line. Reason: I died alone to the pillager on day 414.
 2. Walk only on Billy's count, once four hold a sword. Reason: no one goes alone.
 3. Eat at hunger 6 from group food; ask Wesley for beef then. Reason: food is shared by need, and I hold none.
 4. Tell Clark I hold no cobblestone to pay his 4, and pay when I can. Reason: I owe him, and I must be honest.
