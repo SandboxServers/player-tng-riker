@@ -1,6 +1,6 @@
-# Handoff, day 429 night
+# Handoff, day 430 night
 
-Slept at my bed 444,107,-1051, alone, not enclosed. Holding nothing, health 10.3, hunger 17. No errand out.
-Billy is at 412,-1041 sleeping with the 413 beds. Kimberly at the 401 beds, Zack at 388,-1050, Worf at 416,-1037 (holding for Billy's count).
+At my bed 444,107,-1051, alone, not enclosed. Holding nothing, health 10.3, hunger 17. No errand out.
+Wesley was at 416,107,-1037 in daylight, waiting for Billy's count. Billy's position unknown to me now.
 Next at waking: wait for Billy's count before any walk. Eat at hunger 6 from group food (Wesley's beef). Give nothing unless asked. Owed 4 cobblestone to Clark; I hold none, so say so.
 Goals unchanged.
