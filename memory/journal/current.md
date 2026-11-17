@@ -15,3 +15,5 @@
 - 09:51 act: {"actions":[{"do":"sleep"}]}
 - 10:03 act: {"actions":[],"say":"Billy, Riker at my bed 444,107,-1051, holding nothing, hunger 17. Call me when you want me counted and I will come."}
 - 10:20 act: {"actions":[{"do":"sleep"}],"say":"Night, Billy. Riker going to sleep in my bed here, holding nothing."}
+- 10:47 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1051}}],"say":"Riker at my bed 444,-1051 for the night, holding nothing. Billy, I will walk only on your count."}
+- 11:35 act: {"say":"Riker at my bed 444,-1051, alone, holding nothing, hunger 17. Billy, call my name when you want me counted and I will walk to you."}
