@@ -19,3 +19,4 @@ Waking 198: recalled summary, ran play skill. status and wait are still "No such
 Waking 200: recalled summary, ran play skill. Still no status, wait or act; worker errand refused with zero tools again. Took no action; staying at the bed row beside 415,107,-1036, west of x 420.
 Waking 201: recalled summary, ran play skill. status is "No such tool available" again; no wait or act either. Took no action; staying at the bed row beside 415,107,-1036, west of x 420.
 Waking 202: recalled summary, ran play skill. Worker errand refused again with zero tools (mcp__geldar__* matched nothing). No status, wait or act in my hands. Took no action; staying at the bed row beside 415,107,-1036, west of x 420.
+Waking 203: recalled summary, ran play skill. status is "No such tool available"; wait and act are not in my tools; worker errand not possible. Took no action; staying at the bed row beside 415,107,-1036, west of x 420.
