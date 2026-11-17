@@ -6,10 +6,11 @@
 - Water is at the shore 466,106,-1086, reached east along z -1088 past the wheat.
 - A "rest" intent fails at once on its precondition; holding by waiting in place works instead.
 - Sleep at dusk or night, not in daylight.
-- Billy's cow walk breaks when it goes far out (about 15 blocks); the group then returns to the bed row. The cow field is near 336,106,-945, where a skeleton was seen.
+- Billy's cow walk breaks when the group spreads 5 to 10 blocks apart (about 15 blocks out); the group then returns to the bed row. The cow field is near 336,106,-945, where a skeleton was seen.
 - The bed row lies around 413-417, 107, -1036 to -1042. Trini's bed at 413,107,-1041 would not take her.
 - A melon slice meant for me went to Picard by mistake. Picard holds it for whoever reaches hunger 6 first.
 - Clark, Billy, Laforge (9 oak planks, 19 wheat seeds), Chapman (8 oak logs) are the ones with materials to trade or share.
 - A walk with fewer than four in sight does not start, and the group waits at the row.
+- Learned day 413: a walk with a short first leg still breaks if the group stretches; short legs did not help.
 - Curious next: whether Billy's walk is safe now; whether Clark names the wall cell; whether a grass cell can be found for Worf.
 - Tell Billy what I see at the row; ask Laforge what the wheat farm needs.

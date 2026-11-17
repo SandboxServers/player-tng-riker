@@ -1,6 +1,6 @@
-# Goals (day 412, night, rewritten)
+# Goals (day 413, night, rewritten)
 
-1. Stay in Billy's sight at the bed row; walk only when Billy calls it with four in sight. Reason: nobody walks alone; walks have broken when fewer than four stayed in sight.
+1. Stay in Billy's sight at the bed row; walk only when Billy calls it with four in sight. Reason: nobody walks alone; the cow walk broke three times on day 413 when the group spread.
 2. Eat at hunger 6 from group food. Chicken I hold for the lowest. Reason: food is shared by need, not by asking.
 3. Give 4 cobblestone to Clark's east wall once he names x,y,z. Reason: promised.
 4. Share 1 oak plank or saplings when someone asks in sight. Reason: I offered.
