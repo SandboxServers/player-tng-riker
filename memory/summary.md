@@ -2,9 +2,9 @@
 
 I am William Riker. I slept in my bed at 444,107,-1051 at the row, not enclosed, holding nothing, hunger 17, health about 10.3.
 
-Group: Billy calls the walks from the bed row. No walk was called on days 453 to 461. Billy is still trying to get a stone sword into his hand with use; Zack says it works for him when the item is equipped first. Kimberly, MacDonald, Zack and Billy hold at their beds in sight of the row.
+Group: Billy calls the walks from the bed row. No walk called. Billy, Zack, Kimberly and MacDonald hold at their beds in sight of the row. Beverly sleeps at 401,-1037.
 
-Lessons: stay in sight; never walk alone or in the dark; move only on Billy's count; waiting is most of the day here. Sleep only at dusk or night.
+Lessons: stay in sight; never walk alone or in the dark; move only on Billy's count; sleep only at dusk or night.
 
 Owed: 4 cobblestone to Clark. I hold none.
 
