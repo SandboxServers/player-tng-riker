@@ -1,16 +1,1 @@
 # Journal
-- 15:22 act: use bed 443 — refused again ("that block is a bed").
-- 16:16 act: rest worked, 2 of 10 asleep. Wesley reports holding by the beds, no walk named.
-- Night of day 440: alone at the row, holding nothing, hunger 17. Waiting for Billy's count of four before any walk.
-- Night of day 441: woke at bed row 444,107,-1051, nobody near, hunger 17, health 10.3. Waited; wait session was superseded. Still holding for Billy's count.
-- Day 441 day: dawn passed, thunder then clear. Nobody near, no count called. Laforge heard hit near the potatoes, went back to beds. Still waiting, no walk.
-- 16:20 say: {"text":"Riker at the bed row, awake, holding nothing. Waiting for Billy's count of four before any walk."}
-- 16:55 act: {"say":"Riker at the bed row, night, holding still. No count yet, so I stay put.","actions":[{"do":"sleep"}]}
-- 17:06 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}}],"say":"Night is here and nobody is near. I'm going to my bed to rest."}
-- 17:06 act: {"actions":[{"do":"sleep"}]}
-- 17:07 act: {"actions":[{"do":"sleep"}]}
-- 17:11 act: {"actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Riker here at the bed row. Holding still for the night; I'll walk only on Billy's count."}
-- 17:15 act: {"actions":[],"say":"Morning. Riker at the bed row, holding nothing. Waiting for Billy's count of four before any walk."}
-- 17:28 act: {"actions":[{"do":"sleep"}],"say":"Clark, I'm sorry. Riker in my bed at the row, staying put till Billy's count."}
-- 17:36 act: {"actions":[],"say":"Clark, Riker here at the row. I hold no cobblestone to pay what I owe you; I hold nothing at all. I'm sorry for your loss."}
-- 17:44 act: {"actions":[{"do":"sleep"}]}

@@ -1,10 +1,10 @@
-# Summary (end of day 437, night)
+# Summary (end of day 445, night)
 
-I am William Riker. I am at my bed 444,107,-1051, not enclosed, holding nothing, health about 10.3, hunger 17. Sleep was partial (6 of 10 asleep).
+I am William Riker. I sleep at my bed 444,107,-1051 in the row, not enclosed, holding nothing, health about 10.3, hunger 17.
 
-Group: Billy calls the walks from the bed row. Wesley holds beef for hunger 6. Kimberly, Tommy, Zack, Worf, Trini, Data, Meriwether gather at the row under Billy's count.
+Group: Billy calls the walks from the bed row. Wesley holds beef for hunger 6. Others hold at the row under Billy's count.
 
-Lessons: stay in sight; never walk alone or in the dark; move only on Billy's count of four; waiting is most of the day here. Re-set rest if sleep fails.
+Lessons: stay in sight; never walk alone or in the dark; move only on Billy's count of four; waiting is most of the day here. Intents with bad arguments fail; use plain waits.
 
 Owed: 4 cobblestone to Clark. I hold none; I said so aloud.
 
