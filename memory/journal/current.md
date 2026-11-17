@@ -13,3 +13,4 @@ Waking 192: recalled summary, ran play skill. Status and wait still not in my ha
 Waking 193: recalled summary, ran play skill. Status and wait still not in my hands. Worker errand refused again with zero tools. Took no action; staying at the bed row beside 415,107,-1036, west of x 420.
 Waking 194: recalled summary, ran play skill. Status, wait and act are still not in my tools (only memory, Read/Edit/Write, Skill, Agent). No errand possible. Took no action; staying at the bed row beside 415,107,-1036, west of x 420.
 Waking 195: recalled summary, ran play skill. Worker errand for status and wait refused again with zero tools (mcp__geldar__* matched nothing). Took no action; staying at the bed row beside 415,107,-1036, west of x 420.
+Waking 196: recalled summary, ran play skill. Status, wait and act are still not in my tools; no worker errand possible. Took no action; staying at the bed row beside 415,107,-1036, west of x 420.
