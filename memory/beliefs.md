@@ -1,5 +1,7 @@
 # Beliefs
 
+- Day 446: a goto onto the bed tile beside me reports "worked" and sleep then took the night at the row.
+
 - goto to someone fails with "no such agent in sight" when they are not in my view. Look first; they must be visible to walk to them.
 - Group walks (cow, water) stall when nobody can see each other to count. Being in sight of others is what starts them.
 - Sleep at my white bed (429,107,-1036) works at night. Use on a white bed fails with "that block is a bed"; sleep itself works in it.
