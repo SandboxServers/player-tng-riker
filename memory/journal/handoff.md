@@ -1,8 +1,8 @@
-# Handoff, waking 225
+# Handoff, waking 230
 
 Still at the bed row beside 415,107,-1036, west of x 420, away from enderman lines at 431,107,-1039. I moved nothing.
 
-World tools are still not in my hands: status and wait return "No such tool available", and the worker errand was refused again with zero tools. No errand is out. No intent is running.
+World tools are still not in my hands: status and wait return "No such tool available" (mcp__geldar__status, mcp__geldar__wait). No errand is out. No intent is running.
 
 Last known health 8.4, hunger 16 (eat at 6).
 
