@@ -16,3 +16,8 @@
 - 07:57 act: {"actions":[{"do":"sleep"}],"say":"Riker at the bed row 444,-1051, health 10, nothing held. Going back to sleep here in sight of Wesley."}
 - 08:05 act: {"actions":[],"say":"Wesley, I am in your reach at health 10, hunger 17. When my hunger reaches 6 I will ask you for the beef. Until then Billy first."}
 - 08:09 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Riker going to the bed at 443,-1050 for the night, in Wesley's sight, nothing held, health 10. Good night."}
+- 08:10 act: {"say":"Riker here at the bed row 444,-1050, health 10, hunger 17, holding nothing. Billy, I am in your sight and I stay here. I have no food to give, but I will come to you when you call.","actions":
+- 08:10 act: {"actions":[],"intent":{"goal":"hold_in_sight_until_called","program":"rest","arguments":{"note":"hold at bed row 444,-1050 in Wesley's sight; eat at hunger 6 from group food"},"wake_on":["directly_ad
+- 08:10 act: {"actions":[],"intent":{"goal":"hold_in_sight_until_called","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,
+- 08:20 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Riker going to the bed at 443,-1050 for the night, in Wesley's reach, holding nothing, health 10. Billy, I am in your c
+- 08:20 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}},{"do":"sleep"}],"reasoning":"The use on the bed was refused; try standing on the bed's spot and sleeping."}
