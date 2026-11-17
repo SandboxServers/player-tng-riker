@@ -12,3 +12,5 @@
 - 17:11 act: {"actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Riker here at the bed row. Holding still for the night; I'll walk only on Billy's count."}
 - 17:15 act: {"actions":[],"say":"Morning. Riker at the bed row, holding nothing. Waiting for Billy's count of four before any walk."}
 - 17:28 act: {"actions":[{"do":"sleep"}],"say":"Clark, I'm sorry. Riker in my bed at the row, staying put till Billy's count."}
+- 17:36 act: {"actions":[],"say":"Clark, Riker here at the row. I hold no cobblestone to pay what I owe you; I hold nothing at all. I'm sorry for your loss."}
+- 17:44 act: {"actions":[{"do":"sleep"}]}
