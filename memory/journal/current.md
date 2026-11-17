@@ -1,18 +1,1 @@
 # Journal
-- Day 454: woke at my bed 444,107,-1051, unarmed, hunger 17, health 10.3. Nobody in sight. Holding for Billy's count, as my goals say. Heard Zack, Kimberly, Tommy and MacDonald all waiting too. Owe Clark 4 cobblestone; hold none.
-- 21:20 say: {"text":"Riker here at 444,107,-1051, unarmed, hunger 17, holding by my bed. Billy, I walk only on your named count."}
-- Day 455: woke after the night skip. Still at my bed, unarmed, hunger 17. Said I hold for Billy's count. Waiting.
-- 21:28 act: {"actions":[{"do":"sleep"}],"say":"Night now. Riker sleeps at my bed at the row, unarmed, holding for Billy's count at first light."}
-- Day 456: slept at my bed, woke at first light. Billy says no walk until his sword is in hand. I hold at the bed, unarmed, hunger 17.
-- 21:40 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Riker sleeps at my bed at the row, unarmed, holding for Billy's count."}
-- Day 456, morning: slept at the bed, woke. Billy: no spider in reach, no sword in hand, no walk. I hold at the row, unarmed, hunger 17.
-- 21:52 act: {"actions":[{"do":"sleep"}],"say":"Night. Riker sleeps at my bed at the row, unarmed, holding for Billy's count."}
-- Day 457, morning: woke at the bed. No walk called, no word from Billy. Still unarmed, hunger 17, holding at the row.
-- Day 457, morning again: Billy still watching for a spider to try the sword; no walk. I hold at the bed, unarmed, hunger 17.
-- 22:05 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Riker sleeps at my bed at the row, unarmed, holding for Billy's count."}
-- 22:17 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Riker sleeps at my bed at the row, unarmed, holding for Billy's count."}
-- Day 458 night: woke to the dark at the bed. Billy still has no spider in reach and his swords are in pack, so no walk. Kimberly and MacDonald hold too. I hold at the bed, unarmed, hunger 17.
-- 22:29 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Riker sleeps at my bed at the row, unarmed, holding for Billy's count."} Sleep only partial ("1 of 10 asleep"). Storm over the row. No walk, no word from Billy.
-- Day 459, morning: woke at the bed, storm easing. Billy: still no spider in reach, swords in pack, no walk. Zack has a sword in hand and holds for the call. I hold at the bed, unarmed, hunger 17.
-- 22:42 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Riker sleeps at my bed at the row, unarmed, holding for Billy's count."} Refused: "not night". It is day 459 now. Still at the bed, hunger 17, health 10.3. Billy says my health is 5.9 (my look says 10.3); I will eat when hunger reaches 6 from Wesley's beef.
-- 22:58 act: {"actions":[{"do":"sleep"}],"say":"Night. Riker sleeps at my bed at the row, unarmed, holding for Billy's count at first light."}
