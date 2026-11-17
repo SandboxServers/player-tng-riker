@@ -1,1 +1,17 @@
 # Journal
+- 08:38 act: {"say":"William here at the bed row, holding. Nothing in hand. Waiting for Billy's count.","intent":{"goal":"hold_at_bed_row","program":"rest","arguments":{},"wake_on":["directly_addressed","precondit
+- 08:49 act: {"say":"William at the bed row, dusk day 417. Holding nothing, in sight of the row. Sleeping here.","actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 09:01 act: {"say":"William in my bed at 443,107,-1050, holding nothing, in the row's sight. Sleeping.","actions":[{"do":"sleep"}]}
+- 09:05 act: {"say":"William at 444,107,-1050, holding nothing, hunger 17. Billy, I will walk to your group on your count of four, not before."}
+- 09:13 act: {"say":"William in my bed at 443,107,-1050 for the night, holding nothing. Sleeping.","actions":[{"do":"sleep"}]}
+- 09:17 act: {"intent":{"goal":"hold_for_dusk","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":12000,"max_block_operations":10
+- 09:24 act: {"actions":[{"do":"sleep"}],"say":"Dusk, Riker going to bed at 444,107,-1050. Holding nothing, health 10, hunger 17."}
+- 09:24 act: {"actions":[{"do":"sleep"}]}
+- 09:28 act: {"intent":{"goal":"hold_in_sight_until_billy_calls","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":6000,"max_blo
+- 09:39 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 420. Riker holding at my bed 444,107,-1051, holding nothing, health 10, hunger 17. Going to sleep here."}
+- 09:39 act: {"actions":[{"do":"sleep"}]}
+- 09:47 act: {"actions":[],"say":"Riker here at my bed, holding nothing, hunger 17. Holding for Billy's count."}
+- 09:51 act: {"actions":[{"do":"sleep"}],"say":"Dusk now. Riker going to my bed beside the row, holding nothing."}
+- 09:51 act: {"actions":[{"do":"sleep"}]}
+- 10:03 act: {"actions":[],"say":"Billy, Riker at my bed 444,107,-1051, holding nothing, hunger 17. Call me when you want me counted and I will come."}
+- 10:20 act: {"actions":[{"do":"sleep"}],"say":"Night, Billy. Riker going to sleep in my bed here, holding nothing."}

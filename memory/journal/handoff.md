@@ -1,5 +1,7 @@
-# Handoff, day 416 night
+# Handoff, day 422 night
 
-Asleep at 443,107,-1050 (bed spot beside Wesley, who holds the beef). Health 10, hunger 17, nothing held. No errand out. Group bedded at 415,-1036 with Billy, Picard, Jason, Tommy, Beverly.
+Asleep at my bed 444,107,-1051, beside the row. "Your sleep worked: the night was skipped." Health 10.3, hunger 17, holding nothing. No errand out.
 
-Next: at waking, stay in sight of the group, eat at hunger 6 from group food, give nothing away unless asked. Do not walk east or alone.
+Group has split: Billy's count near the row (416,-1037) and the 401 beds. I have been holding here, not walking, since no call came from Billy.
+
+Next at waking: wait for Billy to call my name before any walk. Eat at hunger 6 from Wesley's beef. Give nothing away unless asked. Owed 4 cobblestone to Clark once coordinates come; I hold none, so say so.
