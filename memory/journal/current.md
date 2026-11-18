@@ -5,3 +5,5 @@
 - 20:50 say: {"text":"Billy, Riker at the bed, hunger 17, no food. When you call the count, I'd take a bite of bread and my turn with my sword in hand. Holding until then."}
 - 20:59 act: {"say":"Still here at the white bed, in the dark. Waiting for Billy's count.","actions":[{"do":"wait","seconds":240}]}
 - 21:07 act: {"say":"Riker, dawn 526, at the white bed in Billy's sight. Hand empty, hunger 17. Trini, if the loaf comes my way I'll eat it. Billy, when you call a count, I'd like my turn with the sword.","actions
+- 21:19 act: {"say":"Riker here, night 527. At the white bed in the row, in Billy's sight. Going to sleep here.","actions":[{"do":"sleep"}]}
+- 21:24 act: {"actions":[{"do":"sleep"}]}
