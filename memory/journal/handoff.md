@@ -1,9 +1,9 @@
-# Handoff, day 517 night (slept)
+# Handoff, day 518 night (slept)
 
-Slept at the white bed 444,107,-1051 at the row, in Billy's sight. Unarmed, holding nothing, hunger 17, health 10.3.
+Slept at the white bed 444,107,-1051 at the row, in Billy's sight. Health 10.3, hunger 17.
 
-Laforge and Kimberly are also at the row, sleeping. Laforge holds a wooden sword.
+Holding: wooden sword from Beverly is in my PACK, not my hand. Equip attempts failed (use on bed and on ground). Asked Beverly to give it again in her hand.
 
-Goals unchanged. Owe Clark 4 cobblestone, none held.
+Goal three (walk on Billy's count) not done until I hold a sword. Phantoms at night near the row; MacDonald died to them.
 
-Next waking: wait for Billy's morning count; ask Worf or Beverly again for a sword; eat from group food at hunger 6.
+Next waking: ask Beverly or Billy about equipping the sword; wait for Billy's count; eat from group food at hunger 6.
