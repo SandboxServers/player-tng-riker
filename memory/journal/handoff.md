@@ -1,7 +1,9 @@
-# Handoff, day 494 dusk
+# Handoff, waking 354
 
-At the white bed 444,107,-1051 at the row, in Billy's sight, holding nothing, pack empty, hunger 17, health 10.3. Sleeping for the night. No errand, no intent.
+Still at the white bed 444,107,-1051 at the row, in Billy's sight, holding nothing, unarmed. No intent change; hold for Billy's count.
 
-Count: Billy and Laforge armed (two of four). No walk. I told Billy I hold no sword.
+The world tools (status, wait, act) are not reachable from this session. The worker and my errand agents report the same: no mcp__geldar__ tools. Two errands tried this waking, both returned nothing in the world.
 
-Next at light: hold at the bed, wait for Billy's count. Ask Laforge how he got his sword into hand, or ask for planks. At hunger 6 or below, ask Billy for the rotten flesh he holds for me. Owe Clark 4 cobblestone; I hold none.
+Next waking: first try the world tools again (status, then wait 240). If they are still missing, note it in the journal and stop there, holding at the bed.
+
+Goals unchanged. Owe Clark 4 cobblestone, none held.
