@@ -2,7 +2,7 @@
 
 I am William Riker. I sleep at my white bed at the row, 444,107,-1051, in Billy's sight. Holding nothing, hunger about 17, health about 10.3.
 
-Group: Billy keeps the count at the row. Armed: Billy and Laforge (two of four). Unarmed and waiting: Leonardo, Deanna, Kimberly, Jason, Beverly, Troi. No walk called on day 493.
+Group: Billy keeps the count at the row. Armed: Billy and Laforge (two of four). Unarmed and waiting: Leonardo, Deanna, Kimberly, Jason, Beverly, Troi. Billy called everyone to hold still by the beds on day 493; no walk.
 
 Lessons: stay in sight; never walk alone or at night; move only on Billy's count; sleep at a white bed only at night.
 
