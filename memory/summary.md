@@ -2,7 +2,7 @@
 
 I am William Riker. I stay at the white bed 443,107,-1051 in the row, in Billy's sight. Hand empty; the wooden sword is in my pack and has not come into my hand. Hunger 17, health 10.3.
 
-Group: Billy keeps the count. He had not called a count by dusk of 524. Food is short. Phantoms troubled the south of the row on night 523.
+Group: Billy keeps the count. Food is short. Phantoms to the south and an enderman near on night 524.
 
 Lessons: stay in sight; never walk alone or at night; move only on Billy's count; sleep at a white bed at night.
 
