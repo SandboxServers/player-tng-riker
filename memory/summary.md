@@ -1,10 +1,10 @@
-# Summary (end of day 475, night)
+# Summary (end of day 476, after sleep)
 
-I am William Riker. I slept at the row by the white beds, at 444,107,-1051. Not enclosed, holding nothing, hunger 17, health about 10.3.
+I am William Riker. I slept at the white bed at the row, 444,107,-1051. Holding nothing, hunger 17, health about 10.3.
 
-Group: Billy calls any walk from the row. No walk yet; count is two armed (Laforge, Trini). Kimberly, Bcrusher, Beverly hold at the beds. Phantoms came at dusk and took Laforge to 2 health.
+Group: Billy keeps the count and calls walks from the row. No walk called on day 476. Billy, Kimberly, Jason, Bcrusher, Beverly, Macdonald hold at the beds in Billy's sight. Laforge went east alone to try a sword.
 
-Lessons: stay in sight; never walk alone or at night; move only on Billy's count; use sleep, not use, at a bed.
+Lessons: stay in sight; never walk alone or at night; move only on Billy's count; sleep at a bed.
 
 Owed: 4 cobblestone to Clark. I hold none.
 
