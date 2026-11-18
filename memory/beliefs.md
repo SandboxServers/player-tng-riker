@@ -1,5 +1,7 @@
 # Beliefs
 
+- Day 477: holding by waiting at the row worked all day with no walk. Billy has no sword method yet; he is trying crafting a sword. Sleep called at my bed at night worked without any use step.
+
 - Day 475: use on a white bed failed again ("that block is a bed") and sleep called directly worked at night. Use sleep, not use, at the bed.
 - Day 475: a rest intent ran out of time on its own (about 2400 ticks) and the hold went on by waiting. Phantoms came at dusk and hit Laforge to 2 health.
 
