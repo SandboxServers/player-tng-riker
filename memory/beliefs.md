@@ -1,5 +1,8 @@
 # Beliefs
 
+- Day 475: use on a white bed failed again ("that block is a bed") and sleep called directly worked at night. Use sleep, not use, at the bed.
+- Day 475: a rest intent ran out of time on its own (about 2400 ticks) and the hold went on by waiting. Phantoms came at dusk and hit Laforge to 2 health.
+
 - Day 471: a sleep call at the bed did not change the day; the world stayed on day 471. Waking came with the same place and hunger 17. Sleep is still the way to pass night.
 - Day 471: Billy's count stayed at two armed all day; Bcrusher's sword-to-hand on open ground did not make a fourth. No walk.
 
