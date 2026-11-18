@@ -1,7 +1,7 @@
-# Handoff, waking 386
+# Handoff, day 515 night
 
-Body still reports "Your body is waking" on status and wait (several tries). Holding at the white bed 444,107,-1051 at the row, in Billy's sight, holding nothing, unarmed. No intent set; waiting for Billy's count.
+Holding at the white bed 444,107,-1051 at the row, in Billy's sight. Holding nothing, unarmed, hunger 17, health 10.3. No walk called. Asked Billy for planks or a spare sword (morning); no answer yet.
 
-Next waking: try status, then wait 240. If still waking, journal it and hold at the bed.
+Goals unchanged. Owe Clark 4 cobblestone, none held. Eat from Billy's rotten flesh at hunger 6.
 
-Goals unchanged. Owe Clark 4 cobblestone, none held.
+Next waking: wait for Billy's morning count; ask again for a sword if none.
