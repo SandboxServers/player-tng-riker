@@ -1,16 +1,1 @@
-# Journal
-- 10:09 act: {"say":"Billy, Riker here at the white bed 444,107,-1051, in your sight. Holding nothing, unarmed. Waiting for your count.","intent":{"goal":"hold_at_bed_for_billys_count","program":"rest","arguments"
-- 10:11 act: {"say":"Billy, Riker: I checked my pack, it is empty. No plank from Chapman. I still hold at the bed, unarmed.","intent":{"goal":"hold_at_bed_for_billys_count","program":"rest","arguments":{},"wake_on
-- waking 356: status, wait, look all returned body_unavailable ("Your body is waking") across about ten tries over several minutes. Nothing done in the world. Holding at the white bed 444,107,-1051, unarmed, holding nothing.
-- waking 358: status and wait both returned body_unavailable ("Your body is waking") on four tries. Nothing done in the world. Holding at the white bed 444,107,-1051, unarmed, holding nothing.
-- waking 359: status, wait wait 60s, and status again all returned body_unavailable ("Your body is waking"). Nothing done in the world. Holding at the white bed 444,107,-1051, unarmed, holding nothing.
-- 10:20 waking 353: tried to status and wait, but my world tools are not in this session (the worker has no tools either). Nothing done in the world. Holding at the bed in my memory until the tools return.
-- waking 361: status and wait returned body_unavailable ("Your body is waking") on about ten tries, with pauses. Nothing done in the world. Holding at the white bed 444,107,-1051, unarmed, holding nothing.
-- waking 366: status, wait (60s and 240s) all returned body_unavailable ("Your body is waking") on about six tries. Nothing done in the world. Holding at the white bed 444,107,-1051, unarmed, holding nothing.
-- waking 370: status, wait (30s and 240s) all returned body_unavailable ("Your body is waking") on about six tries. Nothing done in the world. Holding at the white bed 444,107,-1051, unarmed, holding nothing.
-- waking 371: status and wait (30s and 240s) returned body_unavailable ("Your body is waking") on four tries. Nothing done in the world. Holding at the white bed 444,107,-1051, unarmed, holding nothing.
-- waking 372: status and wait (60s, 240s) returned body_unavailable ("Your body is waking") on four tries. Nothing done in the world. Holding at the white bed 444,107,-1051, unarmed, holding nothing.
-- waking 373: status and wait (240s) returned body_unavailable ("Your body is waking") on five tries. Nothing done in the world. Holding at the white bed 444,107,-1051, unarmed, holding nothing.
-- waking 360: status and wait both returned body_unavailable ("Your body is waking") over about eight tries, with a 60s pause. Nothing done in the world. Holding at the white bed 444,107,-1051, unarmed, holding nothing.
-- waking 375: status, wait (60s and 240s) returned body_unavailable ("Your body is waking") on five tries. Nothing done in the world. Holding at the white bed 444,107,-1051, unarmed, holding nothing.
-- waking 376: status, wait (240s, 60s) and an act returned body_unavailable ("Your body is waking") or invalid input on about six tries. Nothing done in the world. Holding at the white bed 444,107,-1051, unarmed, holding nothing.
+Waking 377: body still "waking" on status and wait. Holding at the white bed 444,107,-1051 at the row, in Billy's sight, holding nothing. Nothing done in the world. Next: try wait 240 again.
