@@ -6,3 +6,4 @@ Day 464 night: bed use failed ("that block is a bed"), sleep failed until night,
 - 00:37 act: {"say":"Riker here at the white bed, unarmed, holding for Billy's count. Hunger 17, no walk.","intent":{"goal":"hold_for_billys_count","program":"rest","arguments":{},"wake_on":["directly_addressed","
 - 00:52 act: {"say":"Riker here at the row beside the white bed, unarmed, holding for Billy's count. No walk for me until he names it.","intent":{"goal":"hold_for_billys_count","program":"rest","arguments":{"where
 - 01:04 act: {"say":"Tommy, Riker here, I hold no planks, my pack is empty. Laforge, Riker at the row; when my hunger reaches 6, may I have one potato? Thank you."}
+- 01:08 say: {"text":"Heard you, Billy. No walk tonight. I stay put by the bed."}
