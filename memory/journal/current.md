@@ -1,3 +1,4 @@
+Waking 392: body still waking (status, wait x5 all body_unavailable). Holding at the bed, nothing done.
 Waking 391: body still waking (status, wait x3 all body_unavailable). Holding at the bed, nothing done.
 Waking 390: body still waking (status, wait x4 all body_unavailable). Holding at the bed, nothing done.
 Waking 389: body still waking (status, wait x3 all body_unavailable). Holding at the bed, nothing done.
