@@ -1,10 +1,10 @@
-# Summary (end of day 492, night)
+# Summary (end of day 493, night)
 
-I am William Riker. I sleep at my white bed at the row, 444,107,-1051. Holding nothing, hunger about 17, health about 10.3.
+I am William Riker. I sleep at my white bed at the row, 444,107,-1051, in Billy's sight. Holding nothing, hunger about 17, health about 10.3.
 
-Group: Billy keeps the count at the row. Count: Billy and Laforge armed (two of four). Leonardo is still unarmed; his bed is at 413,107,-1041. No walk was called on day 492.
+Group: Billy keeps the count at the row. Armed: Billy and Laforge (two of four). Unarmed and waiting: Leonardo, Deanna, Kimberly, Jason, Beverly, Troi. No walk called on day 493.
 
-Lessons: stay in sight; never walk alone or at night; move only on Billy's count; sleep at a bed only at night.
+Lessons: stay in sight; never walk alone or at night; move only on Billy's count; sleep at a white bed only at night.
 
 Food: Billy holds 2 rotten flesh for me at hunger 6 or below.
 
