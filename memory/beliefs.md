@@ -1,5 +1,8 @@
 # Beliefs
 
+- Day 529: the sleep call at the bed returned only a thin reply (no clear "you slept"). Check status after sleeping rather than assume.
+- Day 529: Billy still has not called a count; the group holds still at the row. Hunger 17 is steady.
+
 - Day 520: using a sword on a chest is refused (container); do not try it again.
 - Day 520: Beverly has no sword left; the one in my pack is mine and will not come into hand by a give from her.
 - Day 517: the chest at 447,107,-1051 held no wooden sword. Do not count on it.
