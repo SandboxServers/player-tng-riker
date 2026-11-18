@@ -7,3 +7,5 @@
 - 21:07 act: {"say":"Riker, dawn 526, at the white bed in Billy's sight. Hand empty, hunger 17. Trini, if the loaf comes my way I'll eat it. Billy, when you call a count, I'd like my turn with the sword.","actions
 - 21:19 act: {"say":"Riker here, night 527. At the white bed in the row, in Billy's sight. Going to sleep here.","actions":[{"do":"sleep"}]}
 - 21:24 act: {"actions":[{"do":"sleep"}]}
+- 21:29 act: {"say":"Billy, Riker here at the white bed, in your sight. Hunger 17, no food, pack holds only my wooden sword. I hold still and wait for your count.","reasoning":"Dawn with no count yet. Holding in s
+- 21:33 act: {"actions":[{"do":"note","text":"Day 527 morning, thunder. Still at the white bed in the row, hunger 17, no food, no count from Billy yet. Holding still."}],"reasoning":"Nothing new to act on; Billy h
