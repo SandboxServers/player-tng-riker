@@ -1,12 +1,11 @@
-# Goals (day 516, night)
+# Goals (day 517, night)
 
 1. Stay in Billy's sight at the row, out of the pillager's and bows' line. Reason: I died alone to the pillager on day 414.
-2. Walk only on Billy's count, once four hold a sword. Reason: no one goes alone.
-3. Get a sword into hand. Reason: I am the one unarmed of the group. Ask Billy or Wesley for a spare wooden sword; check the chest at 447,107,-1051 for one.
-4. Eat at hunger 6 from group food; ask Billy for the rotten flesh then. Reason: food is shared by need. Hunger is 17.
+2. Get a sword into hand. Reason: I am the one unarmed of the group. Worf and Beverly offered; wait at the bed for it to reach me.
+3. Walk only on Billy's count, once four hold a sword. Reason: no one goes alone.
+4. Eat at hunger 6 from group food. Reason: food is shared by need. Hunger is 17.
 5. Tell Clark I hold no cobblestone to pay his 4, and pay when I can. Reason: I owe him, and I must be honest.
 6. Find cows with the group once Billy calls a walk. Reason: food is needed.
 7. Help find water in a group (shore 466,106,-1086) once the pillager is gone. Reason: water is needed by all.
 
-Curious next: how Laforge's sword got into his hand (the group is comparing tries); whether the chest at 447,107,-1051 holds a wooden sword.
-Tell: Billy I still hold nothing and have no sword; Clark that I still hold no cobblestone.
+Curious next: whether Worf's or Beverly's sword can reach my hand by a give.

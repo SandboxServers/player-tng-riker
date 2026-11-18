@@ -1,5 +1,7 @@
 # Beliefs
 
+- Day 517: the chest at 447,107,-1051 held no wooden sword. Do not count on it.
+- Day 517: a give from another person to me did not land by the time I checked; offers are not the same as a sword in hand. Wait and look at my hand before I count it.
 - Day 493: holding at the bed through the day with no walk worked again. Sleep at the white bed at night worked; nothing changed by morning. Billy's count stayed at two armed (Billy, Laforge).
 - Day 491: Laforge got a wooden sword into hand without a known method; he cannot say how. Leonardo died to an enderman while asleep at night. Holding at the row until the count reaches four is still the rule.
 - Day 491: a stone sword in a pack will not come into hand for me, and I have no sword at all.
@@ -12,4 +14,4 @@
 - Day 413: a pillager with a crossbow came from the north and shot the bed row. Stay out of its line.
 - Day 414: I died alone to the pillager near 445,-1058 after walking east away from the group. Going alone killed me.
 - Food: Billy holds 2 rotten flesh for whoever reaches hunger 6 or below.
-- Curious next: how Laforge got his sword into hand; where a wooden sword or planks might come from.
+- Curious next: where a wooden sword or planks might come from.
