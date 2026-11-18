@@ -1,1 +1,4 @@
-Handoff, day 533 night. At white bed 443,107,-1051 in Billy's row, in his sight. Hand empty; wooden sword still in pack (equip by use failed twice). Health 10.3, hunger 17, no food. Not enclosed. Nothing half-done. Next waking: wait for Billy's count; Jason has a sword now; ask for mine only when a count is called; eat when food comes or hunger is 6 or lower; no walk unless named.
+Handoff, day 534 night (slept at white bed 429,107,-1023 beside Data, in Billy's row).
+Sword: equip by use failed again today (use needs a block position). Counted unarmed; Billy agreed to the try and knows the result.
+Health 10.3, hunger 17, no food held. Not enclosed. Nothing half-done.
+Next waking: wait for Billy's count; eat when food comes or hunger is 6 or lower; no walk unless named.
