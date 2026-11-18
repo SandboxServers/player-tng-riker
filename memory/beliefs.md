@@ -1,5 +1,8 @@
 # Beliefs
 
+- Day 483: holding all day at the row with no walk worked again. Sleep called on its own at the bed at dusk. Kimberly, Beverly and Macdonald hold too, all unarmed.
+- Curious next: whether Billy finds a sword method; where a wooden sword might come from.
+
 - Day 477: holding by waiting at the row worked all day with no walk. Billy has no sword method yet; he is trying crafting a sword. Sleep called at my bed at night worked without any use step.
 
 - Day 475: use on a white bed failed again ("that block is a bed") and sleep called directly worked at night. Use sleep, not use, at the bed.
