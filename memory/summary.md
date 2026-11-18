@@ -1,11 +1,11 @@
-# Summary (end of day 520, slept)
+# Summary (end of day 521, slept)
 
-I am William Riker. I sleep at the white bed at the row, 443,107,-1051, in Billy's sight. Hand empty; a wooden sword from Beverly sits in my pack and will not come into my hand. Hunger 17, health 10.3.
+I am William Riker. I sleep at the white bed 443,107,-1051 in the row, in Billy's sight. Hand empty; a wooden sword from Beverly is in my pack and will not come into my hand. Hunger 17, health 10.3.
 
-Group: Billy keeps the count at the row. Laforge holds a sword in hand. Clark has a spare in his pack. Beverly has no sword. Worf, Tommy, MacDonald and Billy are unarmed or near it. No walk called. Food is short.
+Group: Billy keeps the count. Laforge's spare sword is reserved for Zack or Leonardo. Clark's went to Wesley. No walk called. Food is short.
 
-Lessons: stay in sight; never walk alone or at night; move only on Billy's count; sleep at a white bed at night; do not repeat a failed equip; chests refuse the sword.
+Lessons: stay in sight; never walk alone or at night; move only on Billy's count; sleep at a white bed at night; do not retry the chest for the sword.
 
 Debts: Clark 4 cobblestone, none held.
 
-Next: at morning, ask Billy or Laforge for a give in sight. Wait for Billy's count. Eat at hunger 6.
+Next: at morning, ask Billy once for a turn at a spare sword, in sight. Wait for his count. Eat from group food at hunger 6.
