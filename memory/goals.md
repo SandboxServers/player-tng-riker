@@ -7,4 +7,4 @@
 5. Find cows with the group once Billy calls a walk. Reason: food is needed.
 6. Help find water in a group (shore 466,106,-1086) once the pillager is gone. Reason: water is needed by all.
 
-Curious next: whether Billy finds a sword method; whether Laforge's stone sword gets into hand; where a wooden sword might come from.
+Curious next: whether Billy's sword count reaches four; where a wooden sword might come from.

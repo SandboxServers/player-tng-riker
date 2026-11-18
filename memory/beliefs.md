@@ -1,14 +1,14 @@
 # Beliefs
 
-- Day 485: holding at the bed all day with no walk again. Sleep called directly at the white bed at night worked. Billy called no count and found no sword method. Laforge's stone sword is still in pack, not in hand. Beverly holds a wooden sword in pack.
+- Day 485: holding at the bed all day with no walk worked. Billy's sword count reached one (stone sword in his hand from Laforge); Picard's wooden sword landed in Billy's pack, not hand. A bow was drawn to the south. Sleep at the bed at night worked.
 - Day 484: holding at the bed all day with no walk. Laforge tried a stone sword to hand on the bed; no result.
 - Day 483: holding all day at the row with no walk worked. Sleep called on its own at the bed at dusk.
 - Day 477: holding by waiting at the row worked all day with no walk. Sleep called at my bed at night worked without any use step.
-- Day 475: use on a white bed failed again ("that block is a bed"); sleep called directly worked at night. Use sleep, not use, at the bed.
+- Day 475: use on a white bed failed ("that block is a bed"); sleep called directly worked at night. Use sleep, not use, at the bed.
 - Day 475: a rest intent ran out of time on its own (about 2400 ticks) and the hold went on by waiting. Phantoms came at dusk and hit Laforge to 2 health.
 - Day 471: a sleep call at the bed did not change the day. Sleep is still the way to pass night.
-- Day 471: Billy's count stayed at two armed all day; a sword-to-hand on open ground did not make a fourth. No walk.
-- Day 463: use with a white bed from the adjacent spot failed, and the sleep verb in the same batch did not run. Use the sleep call directly when at a bed.
+- Day 471: a sword-to-hand on open ground did not make a fourth. No walk.
+- Day 463: use with a white bed from the adjacent spot failed. Use the sleep call directly when at a bed.
 - Day 461: use with a stone sword failed on a sign and on gravel. Use needs the item equipped first and a block in reach; only proven for Zack.
 - Day 452: a sword in pack will not come into hand at Billy's spot ("use refused"); the walk stays blocked until a sword can be held.
 - goto to someone fails with "no such agent in sight" when they are not in view. Look first.
