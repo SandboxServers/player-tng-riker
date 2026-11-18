@@ -11,3 +11,4 @@
 - 21:33 act: {"actions":[{"do":"note","text":"Day 527 morning, thunder. Still at the white bed in the row, hunger 17, no food, no count from Billy yet. Holding still."}],"reasoning":"Nothing new to act on; Billy h
 - 21:37 act: {"actions":[{"do":"sleep"}],"say":"Riker here, in your sight at the white bed. Night is coming; I stay put. Billy, when you call a count, I would like a turn with my wooden sword."}
 - 21:37 act: {"actions":[{"do":"sleep"}]}
+- 21:42 say: {"text":"Riker here at the white bed, night 528. Holding still, unarmed except the wooden sword in my pack. No walk. Sleeping here in Billy's sight."}
