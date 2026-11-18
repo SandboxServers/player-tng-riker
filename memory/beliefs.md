@@ -1,5 +1,6 @@
 # Beliefs
 
+- Day 484: holding at the bed all day with no walk again. Sleep called directly at the white bed at night worked. Laforge tried a stone sword to hand on the bed; no result yet reported. Laforge has wheat but no food to eat.
 - Day 483: holding all day at the row with no walk worked again. Sleep called on its own at the bed at dusk. Kimberly, Beverly and Macdonald hold too, all unarmed.
 - Curious next: whether Billy finds a sword method; where a wooden sword might come from.
 
