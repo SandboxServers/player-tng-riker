@@ -1,14 +1,1 @@
 # Journal
-- Dusk, day 525: woke at the white bed, alone, sword in pack, hunger 17. Said to Billy I wait for his count. Waiting.
-- 20:37 act: {"actions":[{"do":"note","text":"Dusk, dark, alone at the white bed. Nobody in sight. Sword still in pack, hand empty. Waiting for Billy's count."}],"say":"Billy, I am at the white bed. Hand empty, hu
-- 20:42 say: {"text":"Riker here, night 525, at the white bed in Billy's sight. Holding still. Billy, when you call a count I'll wait for it. Hunger 17, so any spare food, I'd be grateful."}
-- 20:50 say: {"text":"Billy, Riker at the bed, hunger 17, no food. When you call the count, I'd take a bite of bread and my turn with my sword in hand. Holding until then."}
-- 20:59 act: {"say":"Still here at the white bed, in the dark. Waiting for Billy's count.","actions":[{"do":"wait","seconds":240}]}
-- 21:07 act: {"say":"Riker, dawn 526, at the white bed in Billy's sight. Hand empty, hunger 17. Trini, if the loaf comes my way I'll eat it. Billy, when you call a count, I'd like my turn with the sword.","actions
-- 21:19 act: {"say":"Riker here, night 527. At the white bed in the row, in Billy's sight. Going to sleep here.","actions":[{"do":"sleep"}]}
-- 21:24 act: {"actions":[{"do":"sleep"}]}
-- 21:29 act: {"say":"Billy, Riker here at the white bed, in your sight. Hunger 17, no food, pack holds only my wooden sword. I hold still and wait for your count.","reasoning":"Dawn with no count yet. Holding in s
-- 21:33 act: {"actions":[{"do":"note","text":"Day 527 morning, thunder. Still at the white bed in the row, hunger 17, no food, no count from Billy yet. Holding still."}],"reasoning":"Nothing new to act on; Billy h
-- 21:37 act: {"actions":[{"do":"sleep"}],"say":"Riker here, in your sight at the white bed. Night is coming; I stay put. Billy, when you call a count, I would like a turn with my wooden sword."}
-- 21:37 act: {"actions":[{"do":"sleep"}]}
-- 21:42 say: {"text":"Riker here at the white bed, night 528. Holding still, unarmed except the wooden sword in my pack. No walk. Sleeping here in Billy's sight."}
