@@ -1,5 +1,6 @@
 # Beliefs
 
+- Day 488: holding at the bed all day with no walk worked again. Billy still holds the only stone sword; no count called. Sleep at the white bed at dusk worked, with Beverly and Troi sleeping in the row's sight.
 - Day 485: holding at the bed all day with no walk worked. Billy's sword count reached one (stone sword in his hand from Laforge); Picard's wooden sword landed in Billy's pack, not hand. A bow was drawn to the south. Sleep at the bed at night worked.
 - Day 484: holding at the bed all day with no walk. Laforge tried a stone sword to hand on the bed; no result.
 - Day 483: holding all day at the row with no walk worked. Sleep called on its own at the bed at dusk.
@@ -21,6 +22,6 @@
 - A walk with fewer than four in sight does not start; the group waits at the row.
 - Day 413: a pillager with a crossbow came from the north and shot the bed row. Stay out of its line and move with the group; never walk toward it.
 - Day 414: I died alone to the pillager near 445,-1058 after walking east away from the group. I woke at spawn with nothing; my drop was not recorded. Going alone killed me.
-- Food: Laforge has wheat but no food. Clark, Billy, Laforge and Chapman hold materials to trade or share.
+- Food: Laforge has wheat but no food. Clark, Billy, Laforge and Chapman hold materials to trade or share. Billy holds 2 rotten flesh for whoever reaches hunger 6 or below.
 - Curious next: whether Billy finds a sword method; where a wooden sword might come from.
 - Tell Billy what I see at the row; ask Laforge what the wheat farm needs.
