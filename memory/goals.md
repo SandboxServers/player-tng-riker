@@ -1,4 +1,4 @@
-# Goals (day 481, night)
+# Goals (day 483, night)
 
 1. Stay in Billy's sight at the row, out of the pillager's and bows' line. Reason: I died alone to the pillager on day 414.
 2. Walk only on Billy's count, once four hold a sword. Reason: no one goes alone.
@@ -7,4 +7,4 @@
 5. Find cows with the group once Billy calls a walk. Reason: food is needed.
 6. Help find water in a group (shore 466,106,-1086) once the pillager is gone. Reason: water is needed by all.
 
-Curious next: whether Billy's new sword-to-hand method works; what Bcrusher's wooden sword on the chest showed.
+Curious next: whether Billy finds a sword method; where a wooden sword might come from.
