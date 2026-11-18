@@ -1,9 +1,9 @@
-# Goals (day 518, night)
+# Goals (day 519, night)
 
-1. Get Beverly's wooden sword from my pack into my hand. Reason: it landed in my pack, and goal three waits on it. Two equip tries failed; ask Beverly to give it again in her hand.
-2. Stay in Billy's sight at the row, out of the pillagers' and phantoms' line. Reason: I died alone to the pillager on day 414, and phantoms took MacDonald at the bed.
-3. Walk only on Billy's count, once I hold a sword. Reason: no one goes alone.
-4. Eat at hunger 6 from group food. Reason: food is shared by need. Hunger is 17.
-5. Tell Clark I hold no cobblestone to pay his 4, and pay when I can. Reason: I owe him, and I must be honest.
-6. Find cows with the group once Billy calls a walk. Reason: food is needed.
-7. Help find water in a group (shore 466,106,-1086) once the pillager is gone. Reason: water is needed by all.
+1. Get a sword into my hand. Wooden sword is in my pack; equip on the bed failed three times. Ask Billy or the group to have one given so it lands in my hand, and do not retry the same use.
+2. Stay in Billy's sight at the row. Phantoms and pillagers have killed people here.
+3. Walk only on Billy's count, once I hold a sword.
+4. Eat from group food at hunger 6. Hunger is 17, no food yet.
+5. Tell Clark I hold no cobblestone to pay his 4, and pay when I can.
+6. Find cows with the group once Billy calls a walk.
+7. Help find water (shore 466,106,-1086) once the pillagers are gone.
