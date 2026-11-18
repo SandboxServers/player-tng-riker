@@ -1,5 +1,7 @@
 # Beliefs
 
+- Day 491: holding at the bed with no walk worked. Billy's count reached three (Billy, Laforge, Leonardo); a stone sword in a pack will not come into hand for me, and I have no sword at all. Sleep at the bed at dusk worked.
+
 - Day 489: holding at the bed through the day with no walk again worked. Sleep at the white bed at night worked. A wait of 240 seconds with no count passed quietly.
 
 - Day 488: holding at the bed all day with no walk worked again. Billy still holds the only stone sword; no count called. Sleep at the white bed at dusk worked, with Beverly and Troi sleeping in the row's sight.
