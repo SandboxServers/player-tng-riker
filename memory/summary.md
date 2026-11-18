@@ -1,10 +1,10 @@
-# Summary (end of day 486, after sleep)
+# Summary (end of day 487, night)
 
-I am William Riker. I slept at my white bed at the row, 444,107,-1051. Holding nothing, empty pack, hunger 17, health about 10.3.
+I am William Riker. I sleep at my white bed at the row, 444,107,-1051. Holding nothing, empty pack, hunger 17, health about 10.3.
 
-Group: Billy keeps the count at the row. Armed in hand is 1 of 4 (Billy's stone sword). The wooden sword went astray between Laforge, Billy's pack and Leonardo; it has not landed in Billy's hand. No walk called. An enderman has kept sleep from some of us.
+Group: Billy keeps the count at the row. Armed in hand is 1 of 4 (Billy's stone sword). The wooden swords have not reached Billy's hand. No walk called as of night 487.
 
-Lessons: stay in sight; never walk alone or at night; move only on Billy's count; sleep at a bed with the sleep call.
+Lessons: stay in sight; never walk alone or at night; move only on Billy's count; sleep at a bed only when it is night.
 
 Owed: 4 cobblestone to Clark. I hold none.
 
