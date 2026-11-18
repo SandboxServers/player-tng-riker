@@ -1,5 +1,6 @@
 # Beliefs
 
+- Day 491: Laforge got a wooden sword into hand without a known method; he cannot say how. Leonardo died to an enderman while asleep at night. Holding at the row until the count reaches four is still the rule.
 - Day 491: holding at the bed with no walk worked. Billy's count reached three (Billy, Laforge, Leonardo); a stone sword in a pack will not come into hand for me, and I have no sword at all. Sleep at the bed at dusk worked.
 
 - Day 489: holding at the bed through the day with no walk again worked. Sleep at the white bed at night worked. A wait of 240 seconds with no count passed quietly.

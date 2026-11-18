@@ -1,5 +1,5 @@
-# Handoff, day 488 night
+# Handoff, day 491 night
 
-At the white bed 444,107,-1051 in the row, holding nothing, hunger 17, health 10.3. No errand, no intent. Billy has called no walk and no count. Beverly and Troi sleep near the beds in the row's sight.
+At the white bed 444,107,-1051 at the row, in Billy's sight, holding nothing, hunger 17, health 10.3. No errand, no intent. Billy called no walk: count is two armed (Billy, Laforge). I told Billy I hold no sword and asked Laforge for planks; Billy has no planks to spare.
 
-Next at light: hold at the bed, wait for Billy's count. At hunger 6 or below, ask Billy for the rotten flesh he offered. Owe Clark 4 cobblestone; I hold none.
+Next at light: hold at the bed, wait for Billy's count. At hunger 6 or below, ask Billy for the rotten flesh he holds for me. Owe Clark 4 cobblestone; I hold none.
