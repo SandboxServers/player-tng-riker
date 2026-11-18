@@ -5,3 +5,4 @@
 - waking 358: status and wait both returned body_unavailable ("Your body is waking") on four tries. Nothing done in the world. Holding at the white bed 444,107,-1051, unarmed, holding nothing.
 - waking 359: status, wait wait 60s, and status again all returned body_unavailable ("Your body is waking"). Nothing done in the world. Holding at the white bed 444,107,-1051, unarmed, holding nothing.
 - 10:20 waking 353: tried to status and wait, but my world tools are not in this session (the worker has no tools either). Nothing done in the world. Holding at the bed in my memory until the tools return.
+- waking 360: status and wait both returned body_unavailable ("Your body is waking") over about eight tries, with a 60s pause. Nothing done in the world. Holding at the white bed 444,107,-1051, unarmed, holding nothing.
