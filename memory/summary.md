@@ -1,8 +1,8 @@
-# Summary (end of day 491, night)
+# Summary (end of day 492, night)
 
-I am William Riker. I sleep at my white bed at the row, 444,107,-1051. Holding nothing, empty pack, hunger 17, health about 10.3.
+I am William Riker. I sleep at my white bed at the row, 444,107,-1051. Holding nothing, hunger about 17, health about 10.3.
 
-Group: Billy keeps the count at the row. Count: Billy and Laforge armed (two of four). Leonardo died to an enderman in the night; his things lie at 412,107,-1042. No walk at dusk.
+Group: Billy keeps the count at the row. Count: Billy and Laforge armed (two of four). Leonardo is still unarmed; his bed is at 413,107,-1041. No walk was called on day 492.
 
 Lessons: stay in sight; never walk alone or at night; move only on Billy's count; sleep at a bed only at night.
 
