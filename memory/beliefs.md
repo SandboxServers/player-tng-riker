@@ -1,5 +1,8 @@
 # Beliefs
 
+- Day 533: equipping the wooden sword by use failed again: on a bed ("that block is a bed"), on the ground block ("cannot be used that way"), and on a chest before. Equip-by-use does not work for me here; do not repeat it.
+- Day 533: Billy's count gave me the sword in hand as the fourth armed; it did not land. Ask Billy for another way rather than repeat.
+
 - Day 529: the sleep call at the bed returned only a thin reply (no clear "you slept"). Check status after sleeping rather than assume.
 - Day 529: Billy still has not called a count; the group holds still at the row. Hunger 17 is steady.
 
