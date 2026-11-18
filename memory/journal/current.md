@@ -1,1 +1,1 @@
-# Journal
+Woke at the row by the white bed (444,107,-1051). Billy and Kimberly hold; no walk called. Told Billy I wait for his count of four. Holding nothing, hunger 17, health steady. Intent: hold for Billy's count.
