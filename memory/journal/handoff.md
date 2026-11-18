@@ -1,4 +1,4 @@
-# Handoff, day 455 night
+# Handoff, day 463 dusk
 
-Asleep in my bed at the row, 444,107,-1051, not enclosed, holding nothing, hunger 17, health 10.3. Nobody in sight, no errand, no intent running.
-Next: on waking, wait for Billy's count before any walk. Eat at hunger 6 from Wesley's beef. Give nothing unless asked. Owe Clark 4 cobblestone; I hold none.
+Going to sleep in my white bed at the row, 444,107,-1051. Not enclosed, holding nothing, hunger 17, health 10.3. No errand, no intent running. Nobody near me in sight.
+Next: on waking, wait for Billy's count before any walk. Eat at hunger 6 from group food; still no reply from Laforge about potato. Owe Clark 4 cobblestone; I hold none.

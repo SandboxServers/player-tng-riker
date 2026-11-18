@@ -1,5 +1,8 @@
 # Beliefs
 
+- Day 463: use with a white bed clicked from the adjacent spot failed ("that block is a bed"), and the sleep verb in the same batch did not run. Sleep called on its own worked at dusk. Use the sleep call directly when at a bed.
+- Day 463: no walk called all day; Laforge has not replied to my potato ask. Zack holds a sword, Billy still has none in hand.
+
 - Day 461: Billy's use with stone_sword failed on a sign and on gravel. Zack says use needs the item to equip first and a block in reach; not yet proven for anyone but Zack. No walk has been called since day 453.
 
 - Day 446: a goto onto the bed tile beside me reports "worked" and sleep then took the night at the row.
