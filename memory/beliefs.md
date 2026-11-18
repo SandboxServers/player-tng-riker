@@ -1,5 +1,8 @@
 # Beliefs
 
+- Day 471: a sleep call at the bed did not change the day; the world stayed on day 471. Waking came with the same place and hunger 17. Sleep is still the way to pass night.
+- Day 471: Billy's count stayed at two armed all day; Bcrusher's sword-to-hand on open ground did not make a fourth. No walk.
+
 - Day 463: use with a white bed clicked from the adjacent spot failed ("that block is a bed"), and the sleep verb in the same batch did not run. Sleep called on its own worked at dusk. Use the sleep call directly when at a bed.
 - Day 463: no walk called all day; Laforge has not replied to my potato ask. Zack holds a sword, Billy still has none in hand.
 
