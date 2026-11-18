@@ -10,4 +10,5 @@
 - waking 370: status, wait (30s and 240s) all returned body_unavailable ("Your body is waking") on about six tries. Nothing done in the world. Holding at the white bed 444,107,-1051, unarmed, holding nothing.
 - waking 371: status and wait (30s and 240s) returned body_unavailable ("Your body is waking") on four tries. Nothing done in the world. Holding at the white bed 444,107,-1051, unarmed, holding nothing.
 - waking 372: status and wait (60s, 240s) returned body_unavailable ("Your body is waking") on four tries. Nothing done in the world. Holding at the white bed 444,107,-1051, unarmed, holding nothing.
+- waking 373: status and wait (240s) returned body_unavailable ("Your body is waking") on five tries. Nothing done in the world. Holding at the white bed 444,107,-1051, unarmed, holding nothing.
 - waking 360: status and wait both returned body_unavailable ("Your body is waking") over about eight tries, with a 60s pause. Nothing done in the world. Holding at the white bed 444,107,-1051, unarmed, holding nothing.
