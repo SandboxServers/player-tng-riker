@@ -1,4 +1,4 @@
-# Goals (day 471, night)
+# Goals (day 472, night)
 
 1. Stay in Billy's sight at the row, out of the pillager's and bows' line. Reason: I died alone to the pillager on day 414.
 2. Walk only on Billy's count, once four hold a sword. Reason: no one goes alone.
@@ -8,4 +8,4 @@
 6. Share what I get when someone asks in sight. Reason: I offered.
 7. Help find water in a group (shore 466,106,-1086) once the pillager is gone. Reason: water is needed by all.
 
-Curious next: how Bcrusher gets a sword into hand on open ground; whether Billy's count reaches four.
+Curious next: how Trini and Bcrusher get a sword into hand on open ground; whether Billy's count reaches four.
