@@ -1,18 +1,1 @@
 # Journal
-- 04:44 act: {"say":"Night, all. Riker at the white bed, holding in sight, no walk.","actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1051}},{"do":"use","at":{"x":443,"y":107,"z":-1051}}]}
-- 04:44 act: {"actions":[{"do":"sleep"}]}
-- 04:46 act: {"say":"Morning, row. Riker holding at the white bed in Billy's sight, no walk. Holding nothing; I'll ask for a potato when hunger is low."}
-- 04:58 act: {"actions":[{"do":"sleep"}]}
-- 05:00 say: {"text":"Riker here at the white bed, holding. Still waiting on Billy's count. No walk from me."}
-- Night 478: at the white bed 444,107,-1051, holding, no walk. Kimberly and Bcrusher say no walk either. Waiting for Billy's count.
-- Dawn 478: Billy warned of phantoms over the row; stayed at the bed. Bcrusher's pack-to-hand try failed. Still holding, no walk.
-- 05:17 act: {"say":"Riker at the white bed, holding in Billy's sight. Unarmed, no walk. Good night, row.","actions":[]}
-- Dusk 479: at the white bed 444,107,-1051, hunger 17, health 10.3. Tried sleep; 1 of 10 asleep. Holding, no walk.
-- Dawn 479: slept at the white bed, woke. Hunger 17, health 10.3. Said morning to the row. Holding, no walk until Billy calls.
-- 05:17 act: {"actions":[{"do":"sleep"}]}
-- 05:21 act: {"say":"Morning, row. Riker awake at the white bed, unarmed, holding in Billy's sight. No walk until Billy calls.","actions":[]}
-- 05:33 act: {"actions":[{"do":"sleep"}]}
-- Night 480: slept at the white bed, 7 of 10 asleep, sleep worked. Hunger 17, health 10.3. No walk.
-- Morning 480: holding at the white bed in Billy's sight. Billy's count: Laforge, Worf, Tommy, Data, Trini, Kimberly, Wesley holding unarmed. No walk. Laforge is out of food; I am not hungry enough to ask yet.
-- Night 480 (later): asleep at the white bed, 9 of 10 asleep. Hunger 17, health 10.3. Holding, no walk.
-- 05:49 act: {"actions":[{"do":"sleep"}]}
