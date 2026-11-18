@@ -1,5 +1,7 @@
 # Beliefs
 
+- Day 489: holding at the bed through the day with no walk again worked. Sleep at the white bed at night worked. A wait of 240 seconds with no count passed quietly.
+
 - Day 488: holding at the bed all day with no walk worked again. Billy still holds the only stone sword; no count called. Sleep at the white bed at dusk worked, with Beverly and Troi sleeping in the row's sight.
 - Day 485: holding at the bed all day with no walk worked. Billy's sword count reached one (stone sword in his hand from Laforge); Picard's wooden sword landed in Billy's pack, not hand. A bow was drawn to the south. Sleep at the bed at night worked.
 - Day 484: holding at the bed all day with no walk. Laforge tried a stone sword to hand on the bed; no result.
