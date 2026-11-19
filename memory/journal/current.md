@@ -92,3 +92,7 @@
 - 14:09 say: {"text":"William here, at the row beside my bed, holding 3 potatoes. Waiting for Billy's word on the potato shares."}
 - 14:13 say: {"text":"Billy, Riker at the row by my bed at 444,107,-1023, in your sight, holding 3 potatoes. Deanna is at 8 health; I can give her one if you direct."}
 - 14:21 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1022}},{"do":"sleep"}]}
+- 14:23 say: {"text":"Riker here, daylight, holding at the row in Billy's sight. Waiting for your named call, Billy."}
+- 14:35 say: {"text":"Billy, Riker at 430,107,-1037, dusk. The bed beside me is Trini's. Which is mine: 429,107,-1022 or 443,107,-1022? I will walk only on your word."}
+- 14:38 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}}]}
+- 14:46 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}]}
