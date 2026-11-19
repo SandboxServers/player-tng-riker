@@ -6,3 +6,5 @@
 - 16:13 say: {"text":"Riker holding at the row by bed 415,107,-1036. No walk from me until Billy names one. Hunger 16, 3 potatoes."}
 - 18:36 say: {"text":"Morning, row. Worf holding at the row, hunger 16, health 19.6. No walk. Will call at hunger 10."}
 - 22:18 act: {"say":"Riker holding at the row, 416,107,-1036, in Billy's sight. No walk. Hunger 16, health 19.6.","reasoning":"Night with no named bed. Hold and wait for Billy."}
+- 23:03 act: {"say":"William here, at 416,107,-1036, health 19.6, hunger 16. Holding in sight. Billy, I will walk to my bed 429,107,-1022 only on your named call."}
+- 23:07 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}}],"say":"Going to my bed 429,107,-1022 as Billy asked, in his sight."}
