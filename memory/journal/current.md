@@ -6,3 +6,5 @@
 - 04:38 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}},{"do":"sleep"}]}
 - 04:40 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}}],"say":"Riker, night 549. Hunger 17, health 10.3. Going to my white bed, in Billy's sight."}
 - 04:40 act: {"actions":[{"do":"note","text":"Night 549: at the row beside my white bed, in Billy's sight. Hunger 17, health 10.3, holding wooden sword. Sleeping."}]}
+- 04:45 act: {"actions":[{"do":"note","text":"Day 549 dawn: at row beside white bed, in Billy's sight. Food walk turned back; no food. Holding for Billy's count."}],"say":"Riker, day 549. Holding at the row in Bil
+- 04:53 act: {"actions":[{"do":"note","text":"Dusk 549: at my white bed at the row, in Billy's sight. Hunger 17, health 10.3, no food. Sleeping."}]}
