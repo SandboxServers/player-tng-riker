@@ -77,3 +77,8 @@
 - 12:32 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1024}}],"say":"Billy, Riker stepping toward you now, to be in your sight at the row. Hunger 16."}
 - 12:37 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1036}}],"say":"Billy, walking to your bed at 429,107,-1037 as you named, with my wooden sword. Hunger 16."}
 - 12:37 act: {"actions":[],"say":"Billy, Riker at 430,107,-1035, in your reach and in sight. Ready for my 2 potatoes. Hunger 16."}
+- 13:29 act: {"actions":[],"say":"Billy, Riker at 430,107,-1035, night 575, 8 days since sleep. Is there a free bed I may use? Holding in your sight until you name one."}
+- 13:41 act: {"say":"Billy, it is night 576 and I am at the row, 430,107,-1035, with no hostile mobs in view. I will take the white bed at 443,107,-1036 as you named, if it is free. Say so if not and I will hold."
+- 13:42 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1035}}],"say":"Thank you Billy. Walking to the white bed at 443,107,-1036, as you named. Going now.","reasoning":"Billy named this bed for me. W
+- 13:42 act: {"actions":[{"do":"sleep"}],"say":"Riker at the white bed 443,107,-1036, night 576, no hostile mobs in view. Sleeping now.","reasoning":"I am beside the bed Billy named, at night, with no hostile mobs
+- 13:42 act: {"actions":[{"do":"sleep"}],"reasoning":"Sleep partly worked (6 of 10 asleep). Try again to finish the night."}
