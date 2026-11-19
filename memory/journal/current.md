@@ -89,3 +89,6 @@
 - 14:00 act: {"actions":[{"do":"note","text":"Day 577 morning: holding at the row beside the white bed, Billy's sight. No walk or potato named to me. Hunger 16, 3 potatoes, wooden sword."}]}
 - 14:08 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Night at the row. Riker going to the white bed 443,107,-1022 in Billy's and MacDonald's sight, sword in hand, hung
 - 14:08 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Night 577: slept at white bed 443,107,-1022 at the row, in MacDonald's sight. Sleep partly worked (5 of 10). Hunger 16, 3 potatoes, wooden sword. Holdin
+- 14:09 say: {"text":"William here, at the row beside my bed, holding 3 potatoes. Waiting for Billy's word on the potato shares."}
+- 14:13 say: {"text":"Billy, Riker at the row by my bed at 444,107,-1023, in your sight, holding 3 potatoes. Deanna is at 8 health; I can give her one if you direct."}
+- 14:21 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1022}},{"do":"sleep"}]}
