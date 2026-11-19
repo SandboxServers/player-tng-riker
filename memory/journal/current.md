@@ -1,3 +1,13 @@
 # Journal
 - 05:38 said I hold 7 potatoes, hunger 17, at the row in Billy's sight.
 - Bows drawn to the south all morning; no walk. Holding. Billy gave Lewis 5; Billy keeps 4 for the hungriest. Waiting on his named call.
+- 05:47 act: {"say":"Riker at the row, morning 552. Health 13.6, hunger 17, 7 potatoes and a wooden sword. Holding in Billy's sight for his named call.","intent":{"goal":"hold_at_row_for_billy","program":"rest","a
+- 05:51 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"use","at":{"x":429,"y":107,"z":-1022}}],"say":"Riker going to the white bed for the night, in Billy's sight. No walk from me until
+- 05:51 act: {"actions":[{"do":"sleep"}]}
+- 05:55 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1030}}],"say":"Riker coming to your table, Billy. Hunger 17, 7 potatoes in my pack. Ready for your hand-out.","intent":{"goal":"reach_billys_tab
+- 05:58 act: {"say":"Riker in your sight at the table, Billy. Hunger 17, 7 potatoes. Wesley first; I wait for my name."}
+- 06:02 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Riker going to the bed at the row for the night, in Billy's sight. Hunger 17, 7 potatoes. I wait for my name at fi
+- 06:15 act: {"actions":[{"do":"sleep"}]}
+- 06:19 act: {"say":"Riker in your sight, Billy, at the row. Hunger 17, not yet hungry enough. I hold 7 potatoes and can give some to Wesley or whoever is hungriest, as you direct."}
+- 06:31 act: {"actions":[{"do":"sleep"}],"say":"Riker at the white bed for the night, in the row's sight. Holding 7 potatoes for the hungriest at first light."}
+- 06:43 act: {"actions":[{"do":"sleep"}],"say":"Riker at the white bed for the night, in the row's sight. Holding 7 potatoes for whoever is hungriest at first light."}
