@@ -28,3 +28,6 @@
 - 09:32 act: {"actions":[{"do":"note","text":"Day 563 morning. Back at 430,107,-1062 by the row, Laforge 3 blocks off. Holding for Billy's named call. Hunger 17, wooden sword only."}],"say":"Riker at 430,107,-1062
 - 09:36 act: {"actions":[{"do":"note","text":"Day 564 morning. Still at 430,107,-1062 by the row, Laforge near. No walk or food named to me. Holding still, hunger 17."}]}
 - 09:40 act: {"actions":[{"do":"note","text":"Night 564. Holding at 430,107,-1062 by the row, Laforge near, no walk named. Trying to sleep here; hunger 17, sword only."},{"do":"sleep"}],"say":"Riker holding at the
+- 09:45 say: {"text":"Riker here, 430,107,-1065, hunger 17, holding a wooden sword. Billy, I hold here until you name a spot for me. I will not walk without your word."}
+- 09:49 act: {"intent":{"goal":"reach_row_bed","program":"travel","arguments":{"target":{"x":429,"y":107,"z":-1036}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"lim
+- 09:49 say: {"text":"Riker at the row bed, 430,107,-1036, in Billy's sight with Zack, Picard and Troi. Hunger 17, wooden sword. Holding for Billy's share."}
