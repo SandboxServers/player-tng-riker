@@ -31,3 +31,17 @@
 - 09:45 say: {"text":"Riker here, 430,107,-1065, hunger 17, holding a wooden sword. Billy, I hold here until you name a spot for me. I will not walk without your word."}
 - 09:49 act: {"intent":{"goal":"reach_row_bed","program":"travel","arguments":{"target":{"x":429,"y":107,"z":-1036}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"lim
 - 09:49 say: {"text":"Riker at the row bed, 430,107,-1036, in Billy's sight with Zack, Picard and Troi. Hunger 17, wooden sword. Holding for Billy's share."}
+- 09:54 act: {"say":"Morning. Riker here, hunger 17, wooden sword only. Thank you Billy. Deanna, I will hold here in sight for the 3 potatoes."}
+- 09:58 act: {"say":"Thank you Deanna, I hold here at the bed 444,107,-1037 in sight of the row. Hunger 17, sword only. I wait for your 3 potatoes."}
+- 10:01 act: {"actions":[{"do":"goto","target":{"x":441,"y":107,"z":-1037}}],"say":"Deanna, Riker stepping toward you now at 441,107,-1037. Ready for the 3 potatoes."}
+- 10:02 act: {"say":"Deanna, I am in reach now. Please give me the 3 potatoes Billy named. Thank you."}
+- 10:03 act: {"say":"Deanna, I am beside you at 441,107,-1036 and hungry at 17. Whenever you are ready, the 3 potatoes please."}
+- 10:05 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1036}}],"say":"Thank you Deanna, I have the 3 potatoes. Hunger 17, I will eat only when it is 6 or Billy names me. Going back to the row beds in
+- 10:09 act: {"actions":[{"do":"note","text":"Day 565, morning, bright. At the row 431,107,-1036 with Zack, Picard, Billy. Health 15.6, hunger 17, 3 potatoes and a wooden sword. Billy has named Picard's wood searc
+- 10:17 act: {"actions":[{"do":"note","text":"Day 566, morning. Billy named all to hold at the row, including me. Picard's east search found no oak log. Holding, hunger 17, 3 potatoes."}]}
+- 10:21 act: {"actions":[{"do":"note","text":"Day 566, midday. Billy's row chest had no planks; no wood found east or west. Holding at the row in Billy's sight. Hunger 17, 3 potatoes. Night is coming; I will sleep
+- 10:25 act: {"actions":[{"do":"note","text":"Morning 567. Billy named Picard to search south; Troi, Riker, Zack, Leonardo hold at the row. I hold. Hunger 17, 3 potatoes, no walk."}]}
+- 10:34 act: {"actions":[{"do":"sleep"}],"say":"William at the row, night 567. Hunger 17, 3 potatoes held. Holding in Billy's sight for first light."}
+- 10:34 act: {"actions":[{"do":"note","text":"Night 567. Sleep worked (8 of 10 asleep) at 430,107,-1023, a bed at the south row, not 431,-1036 as I meant; no group agents in sight here. Hunger 17, 3 potatoes. Will
+- 10:34 act: {"actions":[],"say":"Billy, William at 430,107,-1023, out of your sight, south of the row bed. I slept here by mistake. Hunger 17, 3 potatoes. Holding until you name my walk back to the row."}
+- 10:38 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1035}}],"say":"Walking back to the row now, Billy, to be in your sight. Hunger 17, 3 potatoes held."}
