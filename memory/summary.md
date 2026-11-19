@@ -1,12 +1,12 @@
-# Summary (end of day 537, slept)
+# Summary (end of day 540, slept)
 
 I am William Riker. I stay at my white bed beside Billy's row, in his sight, at about 444,107,-1037. Hunger 17, health 10.3, no food held, not enclosed.
 
-Sword: the wooden sword is in my pack, not in my hand. Two tries to bring it into hand failed (on the bed, and on the ground). Billy's row needs it in hand for the count. Tell Billy plainly what I hold.
+Sword: the wooden sword is in my pack, not in my hand. Refused so far: bed, ground, container, crafting table, cobblestone, use on Billy, use on a second bed. Billy needs it in hand for the count. Tell him plainly what I hold.
 
-Group: Billy leads the row. Armed in hand: Billy, Jason, MacDonald (and Picard, Worf earlier). Laforge, Kimberly, Wesley, Beverly hold at beds in sight, unarmed. No walk named.
+Group: Billy leads the row. Armed: Billy, Picard, Jason, MacDonald, Worf. Laforge, Kimberly, Wesley, Beverly, Zack, Troi, Clark hold at beds in sight, unarmed or waiting. Billy said he will walk at first light if my sword does not come.
 
-Lessons: stay in sight; move only on Billy's count; sleep at a white bed at night. Correct my own numbers before I speak them. Do not answer to a name that is not mine ("Chapman"). Intent wake_on accepts only directly_addressed, precondition_failed, unexpected_damage, goal_completed.
+Lessons: stay in sight; move only on Billy's count; sleep at a white bed at night. Intent wake_on accepts only directly_addressed, precondition_failed, unexpected_damage, goal_completed.
 
 Debts: Clark 4 cobblestone, none held (Clark died).
 
