@@ -96,3 +96,4 @@
 - 14:35 say: {"text":"Billy, Riker at 430,107,-1037, dusk. The bed beside me is Trini's. Which is mine: 429,107,-1022 or 443,107,-1022? I will walk only on your word."}
 - 14:38 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}}]}
 - 14:46 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}]}
+- 14:47 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}}],"say":"Holding at my bed in Billy's sight. Hunger 16, potatoes ready when Billy names me."}
