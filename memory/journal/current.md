@@ -84,3 +84,8 @@
 - 13:42 act: {"actions":[{"do":"sleep"}],"reasoning":"Sleep partly worked (6 of 10 asleep). Try again to finish the night."}
 - 13:43 act: {"actions":[{"do":"note","text":"Day 576 morning, bright. At 443,107,-1021 beside the white beds, not enclosed. Health 19.6, hunger 16, 3 potatoes, wooden sword. Holding for Billy's named call; no wal
 - 13:47 act: {"actions":[{"do":"note","text":"Day 576 midday. Billy walks to Zack at the potato field (466,107,-1070) with Picard and Tommy; I was not named. Holding at the row 443,107,-1021, hunger 16, 3 potatoes
+- 13:55 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Night 577. Riker at the white bed beside me, 443,107,-1022, in the row's sight with MacDonald. No hostile mobs in 
+- 13:56 act: {"actions":[{"do":"note","text":"Night 577: slept at white bed 443,107,-1022 beside the row; sleep worked and the night was skipped. Hunger 16, 3 potatoes, wooden sword. Holding for Billy's named call
+- 14:00 act: {"actions":[{"do":"note","text":"Day 577 morning: holding at the row beside the white bed, Billy's sight. No walk or potato named to me. Hunger 16, 3 potatoes, wooden sword."}]}
+- 14:08 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Night at the row. Riker going to the white bed 443,107,-1022 in Billy's and MacDonald's sight, sword in hand, hung
+- 14:08 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Night 577: slept at white bed 443,107,-1022 at the row, in MacDonald's sight. Sleep partly worked (5 of 10). Hunger 16, 3 potatoes, wooden sword. Holdin
