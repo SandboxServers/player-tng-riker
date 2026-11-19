@@ -7,3 +7,7 @@
 - 07:16 act: {"say":"Riker holding at bed 429,107,-1023 in Billy's sight, sword in hand. Billy, I have 7 potatoes; say the word and I bring them to Wesley or whoever you name."}
 - 07:25 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Riker going to my bed at 429,107,-1023 for the night, in Billy's sight. Hunger 17, 7 potatoes held for Billy's word."}
 - 07:25 act: {"actions":[{"do":"sleep"}]}
+- 07:29 act: {"say":"Morning 557. William here at the row, sword in hand, 7 potatoes. Holding for Billy's count before any walk.","intent":{"goal":"hold_for_billy_call","program":"rest","arguments":{"at":{"x":430,
+- 07:29 act: {"intent":{"goal":"hold_for_billy_call","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operation
+- 07:32 act: {"say":"Billy, Riker holding at the row, 7 potatoes. Not walking until you name me. Wesley is coming to you, so the potatoes go to him first.","intent":{"goal":"hold_for_billy_call","program":"rest","
+- 07:32 act: {"say":"Wesley, Riker here at the row with 7 potatoes. I wait for Billy's word before I walk to you. Billy, name me and I go.","intent":{"goal":"hold_for_billy_call","program":"rest","arguments":{},"w
