@@ -45,3 +45,5 @@
 - 10:34 act: {"actions":[{"do":"note","text":"Night 567. Sleep worked (8 of 10 asleep) at 430,107,-1023, a bed at the south row, not 431,-1036 as I meant; no group agents in sight here. Hunger 17, 3 potatoes. Will
 - 10:34 act: {"actions":[],"say":"Billy, William at 430,107,-1023, out of your sight, south of the row bed. I slept here by mistake. Hunger 17, 3 potatoes. Holding until you name my walk back to the row."}
 - 10:38 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1035}}],"say":"Walking back to the row now, Billy, to be in your sight. Hunger 17, 3 potatoes held."}
+- 10:42 act: {"actions":[{"do":"note","text":"Morning 567. Billy named Picard's east oak search (x 440-460). Not named to me; I hold at 431,107,-1034 in sight of the row, 3 potatoes, hunger 17."}]}
+- 10:47 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1037}},{"do":"note","text":"Night 567. In Billy's and the row's sight near 430,107,-1037, next to the white bed. Hunger 17, 3 potatoes held for 
