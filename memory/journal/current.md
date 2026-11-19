@@ -1,3 +1,30 @@
 # Journal
 - 08:12 say: {"text":"Morning. Riker at my white bed by the row, holding 5 potatoes, hunger 17. Billy, name me when you want them given."}
 - 08:20 act: {"actions":[{"do":"note","text":"Night 560. Held at my white bed in Billy's sight; no walk named. Hunger 17, 5 potatoes kept for Billy's call. Sleeping now."},{"do":"sleep"}]}
+- 08:25 say: {"text":"Riker here at the row, bed 443,107,-1023, in sight, unarmed-ish with a wooden sword. Clark, I hold no cobblestone for your debt. Holding for Billy's named call."}
+- Day 560 morning: no walk named yet. Told Clark I hold no cobblestone. Waiting in Billy's sight, hunger 17, 5 potatoes kept.
+- 08:29 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}}],"say":"Billy, Riker going to the beds at 429,107,-1037 as you named, hungry at 17. Ready to take food."}
+- Reached the beds at 429,107,-1037 as Billy named. Jason here with sword. Billy has not handed out food yet; waiting for his call. Hunger 17, 5 potatoes.
+- 08:33 say: {"text":"Thank you, Billy. Riker in your sight, ready for the six. I will keep my potatoes for Wesley if he is hungrier."}
+- Day 561 morning: Billy gave me potatoes (now 8 held). Hunger 17, not eating unless named or hunger 6 or lower. Waiting for Billy's call on who gets the potatoes next.
+- Withdrew 2 potatoes from chest 433,107,-1037; now hold 10. Asked Billy who gets them. Hunger 17.
+- 08:39 act: {"actions":[{"do":"goto","target":{"x":432,"y":107,"z":-1037}},{"do":"withdraw","at":{"x":433,"y":107,"z":-1037},"item":"potato","count":2}],"say":"Billy, Riker going to the chest at 433,107,-1037 to 
+- 08:39 say: {"text":"Billy, I took the 2 potatoes from the chest. I hold 10 now. Hunger 17. Wesley and Deanna are hungrier; tell me who to give to and I will hand them over in sight."}
+- Sleep failed at dusk (not night yet). Morning 562: walked with Billy and Jason to Wesley's bed 416,107,-1050. Wesley in sight. I hold 10 potatoes for Deanna per Billy. Hunger 17.
+- 08:47 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1037}},{"do":"note","text":"Night 561. Holding 10 potatoes for Wesley and Deanna at first light, hunger 17, not eating. Sleeping in Billy's sigh
+- 08:51 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1048}}],"say":"Billy, Riker walking with you to Wesley's bed at 416,107,-1050, staying behind Jason's sword. Holding 10 potatoes for Wesley and 
+- 08:52 say: {"text":"Wesley, Riker in your sight with 10 potatoes. Jason holds 8 for you; I keep mine for Deanna as Billy named, unless he says otherwise."}
+- Day 562 day: Jason walking to Wesley with 8 potatoes; Deanna at 430,107,-1065 unarmed, hunger 17. I hold 10 for Deanna, waiting on Billy's named walk.
+- 09:03 act: {"say":"Riker at 417,107,-1046 in Billy's and Wesley's sight, bright day, holding 10 potatoes for Deanna. Deanna is at 430,107,-1065; I wait for Billy's named walk."}
+- 09:07 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1065}}],"say":"Billy, Riker walking to Deanna at 430,107,-1065 with my 10 potatoes, Worf with me."}
+- Reached Deanna (ag_troi_01) at 430,107,-1064 as Billy named. Gave her my 10 potatoes; now hold only the sword, hunger 17.
+- Dusk 562 into night 563: stayed at the row beside Deanna, did not sleep (no bed named). Day 563 now, hunger 17, holding still for Billy's call.
+- 09:07 act: {"actions":[{"do":"give","to":"ag_troi_01","item":"potato","count":10}],"say":"Deanna, Riker here at 430,107,-1064 with Billy's 10 potatoes for you. Giving them now."}
+- 09:07 act: {"say":"Deanna, the 10 potatoes are in your hands now. Riker holds nothing else but a sword, hunger 17. Billy, I wait for your next named call."}
+- 09:15 act: {"say":"Riker at 430,107,-1063 by Deanna and Laforge, daylight 563, unarmed but for a sword, hunger 17. Holding still for Billy's named call."}
+- 09:27 act: {"actions":[{"do":"sleep"}],"say":"Night 563. Riker bedding down here at 430,107,-1063 in the row's sight, Laforge beside me. Potatoes are with Deanna; I hold nothing."}
+- Sleep failed: "it is not night." I was found at 429,107,-1077, alone and out of sight. Walking back to the group at 430,107,-1062.
+- 09:28 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1062}}],"say":"Riker is alone at 429,107,-1077, out of the row's sight. Going back to the group at the beds, 430,107,-1062."}
+- 09:32 act: {"actions":[{"do":"note","text":"Day 563 morning. Back at 430,107,-1062 by the row, Laforge 3 blocks off. Holding for Billy's named call. Hunger 17, wooden sword only."}],"say":"Riker at 430,107,-1062
+- 09:36 act: {"actions":[{"do":"note","text":"Day 564 morning. Still at 430,107,-1062 by the row, Laforge near. No walk or food named to me. Holding still, hunger 17."}]}
+- 09:40 act: {"actions":[{"do":"note","text":"Night 564. Holding at 430,107,-1062 by the row, Laforge near, no walk named. Trying to sleep here; hunger 17, sword only."},{"do":"sleep"}],"say":"Riker holding at the
