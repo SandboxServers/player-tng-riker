@@ -1,5 +1,8 @@
 # Beliefs
 
+- Day 550: Billy's potato chest is at 433,107,-1023; the water farm is at 462,107,-1073. Lewis is served first, then me.
+- Day 550: Billy's dawn walk reached the water in his sight with five swords; the count was still short of seven, so it was food-only.
+
 - Day 536: Billy's speech may name the wrong person (he said "Chapman" for the sword holder). Check the name, then ask him plainly.
 - Day 536: sleep at my white bed worked on the second call; the first only put 3 of 10 to sleep. Call sleep again if it does not finish.
 - Day 533: equipping the wooden sword by use failed again: on a bed, on the ground block, and on a chest before. Equip-by-use does not work for me here; do not repeat it.
