@@ -82,3 +82,5 @@
 - 13:42 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1035}}],"say":"Thank you Billy. Walking to the white bed at 443,107,-1036, as you named. Going now.","reasoning":"Billy named this bed for me. W
 - 13:42 act: {"actions":[{"do":"sleep"}],"say":"Riker at the white bed 443,107,-1036, night 576, no hostile mobs in view. Sleeping now.","reasoning":"I am beside the bed Billy named, at night, with no hostile mobs
 - 13:42 act: {"actions":[{"do":"sleep"}],"reasoning":"Sleep partly worked (6 of 10 asleep). Try again to finish the night."}
+- 13:43 act: {"actions":[{"do":"note","text":"Day 576 morning, bright. At 443,107,-1021 beside the white beds, not enclosed. Health 19.6, hunger 16, 3 potatoes, wooden sword. Holding for Billy's named call; no wal
+- 13:47 act: {"actions":[{"do":"note","text":"Day 576 midday. Billy walks to Zack at the potato field (466,107,-1070) with Picard and Tommy; I was not named. Holding at the row 443,107,-1021, hunger 16, 3 potatoes
