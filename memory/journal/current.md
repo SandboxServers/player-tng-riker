@@ -47,3 +47,33 @@
 - 10:38 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1035}}],"say":"Walking back to the row now, Billy, to be in your sight. Hunger 17, 3 potatoes held."}
 - 10:42 act: {"actions":[{"do":"note","text":"Morning 567. Billy named Picard's east oak search (x 440-460). Not named to me; I hold at 431,107,-1034 in sight of the row, 3 potatoes, hunger 17."}]}
 - 10:47 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1037}},{"do":"note","text":"Night 567. In Billy's and the row's sight near 430,107,-1037, next to the white bed. Hunger 17, 3 potatoes held for 
+- 10:48 act: {"say":"Riker at my white bed 430,107,-1023, in Billy's sight at the row. Hunger 17, holding 3 potatoes and a wooden sword. Holding for first light.","actions":[{"do":"sleep"}],"reasoning":"Night, at 
+- 10:52 act: {"say":"Billy, Riker at my bed 430,107,-1023 in your sight, morning 568. Health 15.6, hunger 17, holding 3 potatoes and a wooden sword. Holding here until you name my share or my walk.","intent":{"goa
+- 10:52 act: {"say":"Thank you, Billy. Riker eating a potato now, and waiting for Deanna's 2 at my bed.","actions":[{"do":"eat"}],"reasoning":"Billy named me to eat. I hold 3 potatoes, so I eat one now."}
+- 10:56 act: {"say":"Deanna, Riker here at 430,107,-1023, in view. Thank you for the 2 potatoes.","intent":{"goal":"hold_at_row_for_billy","program":"rest","arguments":{},"wake_on":["directly_addressed","precondit
+- 10:59 act: {"say":"Deanna, Riker stepping one block toward you, still at the row. Please give the 2 potatoes now.","actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1024}}],"reasoning":"Deanna cannot see me
+- 10:59 act: {"say":"Deanna, Riker at 430,107,-1023 by my white bed, in view now. Dusk is coming; I will sleep here after your potatoes.","reasoning":"Still waiting on Deanna's gift. Dusk means I should be ready t
+- 11:01 act: {"say":"Deanna, I cannot see you from my bed at night. Riker sleeping at 430,107,-1023 in the row's sight. Give at first light, and I will eat when named.","actions":[{"do":"sleep"}],"reasoning":"Nigh
+- 11:05 act: {"say":"Deanna, Riker up at my bed 430,107,-1023, in view. Please give the 2 potatoes now.","actions":[{"do":"unstick"}],"reasoning":"Morning. Deanna needs me standing and in view. Unstick may get me 
+- 11:08 act: {"say":"Deanna, I am at 432,107,-1023, in your sight now. Give the 2 potatoes.","intent":{"goal":"hold_for_potatoes","program":"rest","arguments":{},"wake_on":["directly_addressed","goal_completed"],"
+- 11:10 act: {"say":"Billy, I am in Deanna's view at 432,107,-1023. Deanna, please give the 2 potatoes now.","intent":{"goal":"hold_for_potatoes","program":"rest","arguments":{},"wake_on":["directly_addressed","go
+- 11:13 act: {"say":"Deanna, the give has not reached me yet. It is dusk, so I go to my bed at 429,107,-1023 in the row's sight. Hold the potatoes for me at first light.","actions":[{"do":"goto","target":{"x":429,
+- 11:14 act: {"say":"Morning 569. Riker at 430,107,-1023 by the bed, in sight. Deanna, please give the 2 potatoes now.","intent":{"goal":"hold_for_potatoes","program":"rest","arguments":{},"wake_on":["directly_add
+- 11:16 act: {"say":"Deanna, Riker here at 430,107,-1023, in your sight. Please give the 2 potatoes when you can.","intent":{"goal":"hold_for_potatoes","program":"rest","arguments":{},"wake_on":["directly_addresse
+- 11:16 act: {"say":"Deanna, I am at 431,107,-1024, next to you. Give the 2 potatoes now.","actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1024}}],"intent":{"goal":"hold_for_potatoes","program":"rest","argu
+- 11:18 act: {"say":"Troi, Riker is in reach beside you now. Please give the 2 potatoes.","intent":{"goal":"hold_for_potatoes","program":"rest","arguments":{},"wake_on":["directly_addressed","goal_completed"],"lim
+- 11:27 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1023}}],"intent":{"goal":"sleep_at_row_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","goal_completed"],"limits":{"max_wor
+- 11:29 act: {"say":"Troi, I see you at 431,107,-1025. I hold at the row until Billy names the step. Billy, your word?","reasoning":"Billy's rule: walk only on his named call. Troi is asking me to step into her vi
+- 11:37 act: {"say":"Clark, I hold no cobblestone for your 4-debt. Riker holding at the row, in Billy's sight.","reasoning":"Goal 6: tell Clark I hold no cobblestone. An opening has come. I stay put, since Billy h
+- 11:41 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1023}},{"do":"sleep"}],"reasoning":"Night at the row. Billy's rule: sleep at a white bed at true night. The bed is one block west. I'm not named
+- 11:45 act: {"say":"Morning. Riker at 430,107,-1023, in sight of the row, hunger 17. I hold here and eat my potato when Billy names it.","reasoning":"Billy named a potato for Riker \"if he is near\". I hold in pl
+- 11:49 act: {"actions":[{"do":"eat"}],"say":"Billy, Riker eats a potato now, as you named. I'm at 430,107,-1023 and hold my 2.","reasoning":"Billy named Riker to eat at the row when the potatoes reach him. Hunger
+- 12:00 act: {"say":"Troi, Riker at 430,107,-1023, facing you. Give my 2 potatoes now, I am in your sight. I hold here for Billy's word.","reasoning":"Troi says she gives when I am in her sight. I'm two blocks nor
+- 12:08 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Riker at the row, night. Going to sleep in the bed beside me, in sight of the group. Potatoes still 1 in my pack."}
+- 12:08 act: {"actions":[{"do":"sleep"}],"say":"Riker at 430,107,-1023, holding my wooden sword. Phantom on Troi from the east; I stay here and will strike only if it comes at me."}
+- 12:12 act: {"actions":[],"say":"Riker at 430,107,-1023, not on the escort list. Holding here with my wooden sword, hunger 16, one potato. Billy, name me if you want me to walk."}
+- 12:20 act: {"actions":[],"say":"Troi, Riker at 430,107,-1023, in your sight now. Give the 2 potatoes once more. I am at hunger 16 so I will not eat yet."}
+- 12:24 act: {"actions":[],"say":"Billy, Riker in reach at 430,107,-1023, hunger 16, health 19.6, one potato in hand. Not yet at 6; I hold for your call."}
+- 12:32 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1024}}],"say":"Billy, Riker stepping toward you now, to be in your sight at the row. Hunger 16."}
+- 12:37 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1036}}],"say":"Billy, walking to your bed at 429,107,-1037 as you named, with my wooden sword. Hunger 16."}
+- 12:37 act: {"actions":[],"say":"Billy, Riker at 430,107,-1035, in your reach and in sight. Ready for my 2 potatoes. Hunger 16."}
