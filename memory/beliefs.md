@@ -13,4 +13,5 @@
 - Intent wake_on accepts only directly_addressed, unexpected_damage, precondition_failed, goal_completed (or new_agent_within_N); "damage" and "day_night" are rejected there. Intent limits need max_block_operations of at least 1.
 - Days 642-676: the row holds at beds with no walk named; the group waits on Billy's call. Billy says walks come only by named call in daylight.
 - Sheep: nobody in the row has seen any. Only cows were reported far off at 339,104,-979 (Wesley).
+- Day 678: the wait intent ends on timeout and rest intents end at once; plain wait with cursor is the way to hold. The rest program takes no arguments.
 - Open question: where sheep graze, and where a sword material might come from.
