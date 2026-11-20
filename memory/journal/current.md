@@ -10,3 +10,8 @@
 - 03:24 act: {"actions":[{"do":"note","text":"Morning, daylight. At my bed 430,107,-1023, unarmed, health 20, hunger 20. Billy has named no walk yet, so I hold."}],"say":"Morning, row. William at my bed, health 20
 - 03:25 act: {"say":"Morning, row. Riker at my bed, health 20, hunger 20, unarmed, no food. Holding here. Billy, I'll wait for your named walk and for Tommy's sword."}
 - 03:33 act: {"say":"Dusk. Riker at my bed 429,107,-1022 in Billy's sight, unarmed, health 20, hunger 20. No walk. Sleeping.","actions":[{"do":"sleep"}]}
+- 03:37 act: {"actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1023}}],"say":"Morning, row. Going east-south to Trini on Billy's named walk, in sight of the row.","reasoning":"Billy named this walk for me al
+- 03:37 act: {"actions":[],"say":"Trini, Riker here in sight of the row. Billy named this walk. I'd take your spare sword, thank you.","reasoning":"Arrived on the named walk. Ask for the sword, then return to my b
+- 03:39 act: {"actions":[],"say":"I have no sword yet. Lewis, please pass one of Trini's to me here. I'll stay put until it comes or Billy calls me back.","reasoning":"Trini's swords went to Lewis by mistake. I ho
+- 03:41 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}}],"say":"Got the sword, thank you Trini and Lewis. Returning to my bed in the row now.","reasoning":"The walk is complete. Return to bed a
+- 03:45 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Riker at my bed 429,107,-1022 in Billy's sight, health 20, hunger 20, wooden sword in hand. No walk. Goodnight.","reasoning":"Night has come and I am at m
