@@ -1,4 +1,5 @@
-# Summary (end of day 665, asleep at night)
+# Summary (end of day 666, asleep at night)
+Day 666: held in the row all day with no walk named. Slept in my bed.
 I am William Riker. I hold in Billy's row, in his sight, at my white bed at 429,107,-1065.
 Health 20, hunger 20, wooden sword. Pack: nothing else.
 Group: Billy leads and holds the row. No walk named on days 664-665.
