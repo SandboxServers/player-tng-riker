@@ -1,4 +1,4 @@
-# Goals (day 610, after sleep)
+# Goals (day 613, after sleep)
 1. Eat when hunger is 6 or lower, or when Billy names me. Reason: hunger 16; I hold 3 potatoes.
 2. Stay at my bed 429,107,-1022 in Billy's sight at the row; sleep there at night. Reason: the group holds there.
 3. Walk only on Billy's named count, to the stated spot. Never west past x 370. Reason: pillagers hold 370-380.
