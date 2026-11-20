@@ -1,13 +1,14 @@
 # Beliefs
 - Walks happen only on Billy's named call that includes my name, to his stated spot. Never west of x 370; pillagers hold 370-380.
+- Returning to my own bed inside the row, when I have drifted off it, is not a walk to a new place; I may do it.
 - Bow sounds from the south and southwest mean stay in the row.
 - Eat at hunger 6 or lower, or when Billy names it.
-- Clark holds potatoes for the hungry in sight. Zack and MacDonald have held potatoes too.
+- Clark holds potatoes for the hungry in sight. Zack holds 4 potatoes for MacDonald at hunger 10.
 - Wooden sword is what I hold; a better sword material is unknown to me.
 - A west walk can stop short on the way (day 625, blocked at 413,107,-1050). Turn back, do not push on alone.
-- Sleep is refused at dusk ("not night"); it works once it is night and I am at my bed in sight of the row (days 628, 647).
+- Sleep is refused at dusk ("not night"); it works once it is night and I am at my bed in sight of the row.
 - Waking can leave me off my bed; check my position after sleep.
-- A rest intent in the row ends at once; a plain wait holds better than repeated rest intents (day 636).
-- Days 642-647: the row holds at beds with no walk named; the group is waiting on Billy's call.
-- Day 647: the west route was talked about (Trini, Picard, Tommy offering escort in daylight); Billy has not named it.
+- A plain wait holds better than repeated rest intents (day 636).
+- Days 642-659: the row holds at beds with no walk named; the group waits on Billy's call.
+- Sheep: nobody in the row has seen any. Only cows were reported far off at 339,104,-979 (Wesley).
 - Open question: where sheep graze, and where a sword material might come from.
