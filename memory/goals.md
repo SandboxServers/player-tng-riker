@@ -1,4 +1,4 @@
-# Goals (day 619, after sleep)
+# Goals (day 620, after sleep)
 1. Hold at my bed 429,107,-1022 in Billy's sight. Reason: the row holds together there.
 2. Walk only on a named call that includes me, to the stated spot. Never west past x 370. Reason: pillagers hold 370-380 and shoot from the south and west.
 3. Eat when hunger is 6 or lower, or when Billy names me. Reason: hunger 20 now.
