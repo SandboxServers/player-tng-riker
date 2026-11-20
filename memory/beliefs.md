@@ -4,4 +4,5 @@
 - Eat at hunger 6 or lower, or when Billy names it.
 - Clark holds potatoes for the hungry in sight.
 - Wooden sword is what I hold; a better sword material is unknown to me.
+- A west walk can stop short on the way (day 625, blocked at 413,107,-1050). Turn back, do not push on alone.
 - Open question: where sheep graze, and where a sword material might come from.
