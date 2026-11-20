@@ -1,1 +1,1 @@
-Handoff, day 637 night. Standing at 444,107,-1051 beside my bed, in Billy's row. Health 20, hunger 20, wooden sword. No errand half-done. No walk named. Never west past x 370. Next morning: hold in the row; eat at hunger 6 or lower or when Billy names it.
+Handoff, day 638 night. Standing at 444,107,-1065 beside my white bed, in Billy's row. Health 20, hunger 20, wooden sword. Slept. No errand half-done. No walk named. Never west past x 370. Next morning: hold in the row; eat at hunger 6 or lower or when Billy names it. Wesley asked for a spare sword; I have none to give.
