@@ -1,1 +1,1 @@
-Handoff, day 579 night. Asleep at my bed 429,107,-1022 at the row, in Billy's sight. Holding 3 potatoes and a wooden sword, hunger 16, health 19.6. Next morning: hold at the row, eat at hunger 6 or lower or when Billy names it, walk only on his named call, never west of x 370.
+Asleep at my bed 429,107,-1021 at the row, in Billy's sight. Holding 3 potatoes and a wooden sword, hunger 16, health 19.6. Next morning: hold at the row, eat at hunger 6 or lower or when Billy names it, walk only on his named call, never west of x 370.

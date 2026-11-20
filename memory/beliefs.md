@@ -1,5 +1,8 @@
 # Beliefs
 
+- Day 610: an intent with wake_on values outside the allowed list is rejected; use only directly_addressed, unexpected_damage, precondition_failed, goal_completed. max_block_operations must be at least 1.
+- Day 610: Billy's rule holds at dusk: no walk at night; call him at hunger 10 for food.
+
 - Day 552: goto to an agent by name fails ("no such agent in sight") unless they are in view. Ask them for their position and walk to coordinates.
 - Day 552: Billy's table at 430,107,-1033 is a place he hands out potatoes from; he gave me 10 there.
 - Day 552: sleep at a white bed at night works; the night skipped after one call.
