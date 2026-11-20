@@ -1,4 +1,4 @@
-# Goals (day 639, after sleep)
+# Goals (day 640, after sleep)
 1. Hold in Billy's sight at the row beside my bed. Reason: the row holds together there.
 2. Walk only on a named call that includes me, to the stated spot. Never west past x 370. Reason: pillagers hold 370-380; the west path is unverified.
 3. Eat when hunger is 6 or lower, or when Billy names me. Reason: hunger is a risk to health.
