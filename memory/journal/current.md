@@ -1,1 +1,10 @@
 # Journal
+- Dusk day 616: pillagers came to the row at my bed. Fought with wooden sword, health fell to 3.6 after reflex retreat walked me north to 411,-1054 and then 411,-1061 (I walked against my walk rule, by reflex).
+- Died to pillager arrows at 413,107,-1061. Dropped wooden_sword, ominous_bottle, white_banner there. Now respawned at my bed 430,107,-1023 with nothing. Health 20, hunger 20.
+- Lesson: at night under fire, stay near the row and Billy's sight; reflex retreats can walk me far off into pillager range.
+- Plan: hold at the row unarmed. Do not go back for my sword unless Billy names it.
+- 03:11 act: {"reasoning":"Morning in the row. I am unarmed at my bed, health 20. Hold, and tell Billy I need a sword before any walk.","say":"Morning. William at my bed, health 20, unarmed. Holding. Billy, I'll t
+- 03:16 act: {"reasoning":"Trini and Clark offer spare swords. Billy has named no walk, so I ask him before I move to Trini's bed.","say":"Thank you Trini, Clark. Billy, may I walk east to Trini's bed at 444,107,-
+- Daylight day 617: Billy has named no walk yet. I hold at my bed, unarmed, health 20, hunger 20.
+- 03:20 act: {"reasoning":"Billy named a walk east to Trini in daylight. It is dusk now, so I wait for light before going.","say":"Thank you Billy. I'll walk to Trini at first light. Clark, I hold no potatoes; I h
+- 03:24 act: {"actions":[{"do":"note","text":"Morning, daylight. At my bed 430,107,-1023, unarmed, health 20, hunger 20. Billy has named no walk yet, so I hold."}],"say":"Morning, row. William at my bed, health 20
