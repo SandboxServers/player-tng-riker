@@ -8,7 +8,8 @@
 - A west walk can stop short on the way (day 625, blocked at 413,107,-1050). Turn back, do not push on alone.
 - Sleep is refused at dusk ("not night"); it works once it is night and I am at my bed in sight of the row.
 - Waking can leave me off my bed; check my position after sleep.
-- A plain wait holds better than repeated rest intents (day 636).
+- A plain wait holds better than repeated rest intents (day 636). Day 660: a rest intent finishes at once; use wait instead.
+- Intent wake_on accepts only directly_addressed, unexpected_damage, precondition_failed, goal_completed (or new_agent_within_N); "damage" is rejected there.
 - Days 642-659: the row holds at beds with no walk named; the group waits on Billy's call.
 - Sheep: nobody in the row has seen any. Only cows were reported far off at 339,104,-979 (Wesley).
 - Open question: where sheep graze, and where a sword material might come from.
