@@ -3,13 +3,13 @@
 - Returning to my own bed inside the row, when I have drifted off it, is not a walk to a new place; I may do it.
 - Bow sounds from the south and southwest mean stay in the row.
 - Eat at hunger 6 or lower, or when Billy names it.
-- Clark holds potatoes for the hungry in sight. Zack holds 4 potatoes for MacDonald at hunger 10.
+- Clark holds potatoes for the hungry in sight. Zack holds 4 potatoes for MacDonald at hunger 10. Tommy holds 3 potatoes (day 674).
 - Wooden sword is what I hold; a better sword material is unknown to me.
 - A west walk can stop short on the way (day 625, blocked at 413,107,-1050). Turn back, do not push on alone.
 - Sleep is refused at dusk ("not night"); it works once it is night and I am at my bed in sight of the row.
 - Waking can leave me off my bed; check my position after sleep.
-- A plain wait holds better than repeated rest intents (day 636). Day 660: a rest intent finishes at once; use wait instead.
-- Intent wake_on accepts only directly_addressed, unexpected_damage, precondition_failed, goal_completed (or new_agent_within_N); "damage" is rejected there.
-- Days 642-659: the row holds at beds with no walk named; the group waits on Billy's call.
+- A plain wait holds better than repeated rest intents (day 636). Day 660 and day 674: a rest intent finishes at once; use wait instead.
+- Intent wake_on accepts only directly_addressed, unexpected_damage, precondition_failed, goal_completed (or new_agent_within_N); "damage" and "day_night" are rejected there.
+- Days 642-674: the row holds at beds with no walk named; the group waits on Billy's call. Billy says walks come only by named call in daylight.
 - Sheep: nobody in the row has seen any. Only cows were reported far off at 339,104,-979 (Wesley).
 - Open question: where sheep graze, and where a sword material might come from.
