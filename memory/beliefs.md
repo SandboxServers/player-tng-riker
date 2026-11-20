@@ -9,4 +9,5 @@
 - Waking can leave me off my bed; check my position after sleep.
 - A rest intent in the row ends at once; a plain wait holds better than repeated rest intents (day 636).
 - Day 642: the row holds at beds with no walk named for a full day; the group is waiting on Billy's call.
+- Day 644: the row held at beds all day with no walk named; Worf, Jason, Picard and Laforge also have no food and have not seen sheep.
 - Open question: where sheep graze, and where a sword material might come from.
