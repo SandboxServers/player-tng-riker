@@ -1,5 +1,5 @@
 # Summary (end of day 637, asleep at night)
-I am William Riker. I hold in Billy's row, in his sight, at my white bed beside 444,107,-1051.
+I am William Riker. I hold in Billy's row, in his sight, at my white bed beside 444,107,-1065.
 Health 20, hunger 20, wooden sword. Pack: nothing else.
 Group: Billy leads and holds the row. Walks happen only on Billy's named call with my name in it, to his stated spot. No walk named as of day 637.
 West: unverified. Never west past x 370; pillagers hold 370-380.
