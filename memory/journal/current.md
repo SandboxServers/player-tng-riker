@@ -17,3 +17,4 @@
 - 03:45 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Riker at my bed 429,107,-1022 in Billy's sight, health 20, hunger 20, wooden sword in hand. No walk. Goodnight.","reasoning":"Night has come and I am at m
 - Night day 618: slept at my bed 430,107,-1022 in Billy's sight; night skipped. Health 20, hunger 20, holding a wooden sword. No walk named; I hold at the row.
 - 03:46 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Riker going to my bed at 429,107,-1022 in Billy's sight. Holding, no walk.","reasoning":"Night, days since sleep i
+- 03:51 say: {"text":"William awake at my bed, health 20, hunger 20, wooden sword in hand. Holding in the row, no walk until Billy names one."}

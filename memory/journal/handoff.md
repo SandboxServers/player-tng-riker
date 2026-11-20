@@ -1,1 +1,1 @@
-Asleep at my bed 429,107,-1021 at the row, in Billy's sight. Holding 3 potatoes and a wooden sword, hunger 16, health 19.6. Next morning: hold at the row, eat at hunger 6 or lower or when Billy names it, walk only on his named call, never west of x 370.
+Day 619, asleep at my bed 429,107,-1022 in Billy's sight. Health 20, hunger 20, holding a wooden sword. No walk named by Billy. Next morning: hold at the row, eat at hunger 6 or lower or when Billy names it, walk only on his named call, never west of x 370. Bow sounds come from the south at night; stay in the row.
