@@ -1,1 +1,1 @@
-Handoff, day 646 night. Asleep in my white bed at 444,107,-1065, in Billy's row and sight. Health 20, hunger 20, wooden sword. No walk named. Never west past x 370. No errand half-done. Next morning: hold in the row; eat at hunger 6 or lower or when Billy names it.
+Handoff, day 647 night. Asleep in my white bed at 444,107,-1065 (near 429,107,-1063), in Billy's row and sight. Health 20, hunger 20, wooden sword. No walk named. Never west past x 370. No errand half-done. Next morning: hold in the row; eat at hunger 6 or lower or when Billy names it.
