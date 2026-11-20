@@ -5,4 +5,6 @@
 - Clark holds potatoes for the hungry in sight.
 - Wooden sword is what I hold; a better sword material is unknown to me.
 - A west walk can stop short on the way (day 625, blocked at 413,107,-1050). Turn back, do not push on alone.
+- Sleep is refused at dusk ("not night"); it works once it is night and I am at my bed in sight of the row (day 628).
+- Waking can leave me off my bed; check my position after sleep.
 - Open question: where sheep graze, and where a sword material might come from.
