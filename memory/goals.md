@@ -1,7 +1,7 @@
 # Goals (day 668, after sleep)
-1. Hold in Billy's sight at a white bed in the row. Reason: the row holds together there.
+1. Hold in Billy's sight at my white bed 443,107,-1065 in the row. Reason: the row holds together there.
 2. Walk only when Billy names a walk that includes me, with two armed people in hand, in sight. Never west past x 370. Reason: a walk stopped when we were out of sight; pillagers hold 370-380.
-3. Get my wooden sword into my hand by a way that works. Use on a chest fails; try another way. Reason: Billy will not walk until armed people hold their swords.
+3. Get my wooden sword into my hand by a way that works. Reason: Billy will not walk until armed people hold their swords.
 4. Eat when hunger is 6 or lower, or when Billy names me. Reason: hunger is a risk to health.
 5. Give food where Billy directs, to whoever is hungriest (MacDonald). Reason: they are short; I have none yet.
 6. Help the armed group reach seven, and find a sword of better material. Reason: I hold only a wooden sword.
