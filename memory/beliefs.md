@@ -7,4 +7,5 @@
 - A west walk can stop short on the way (day 625, blocked at 413,107,-1050). Turn back, do not push on alone.
 - Sleep is refused at dusk ("not night"); it works once it is night and I am at my bed in sight of the row (day 628).
 - Waking can leave me off my bed; check my position after sleep.
+- A rest intent in the row ends at once; a plain wait holds better than repeated rest intents (day 636).
 - Open question: where sheep graze, and where a sword material might come from.
