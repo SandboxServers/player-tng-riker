@@ -1,2 +1,3 @@
 # Tommy
-Holds in the row near me, speaks clearly of his counts (potatoes, sword, bone, arrows), and reports his health and hunger each dusk. Health 15, hunger 16 on day 676; short of food. Trust: 70. Reason: he keeps his count and his place in the row, and he has been steady beside us.
+Holds the row and keeps a clear count of his goods: 3 potatoes, 1 wooden sword, 2 bone, 2 arrows (day 697). Steady, speaks plainly, does not walk without Billy's name. Hunger 16, health 15 on day 697; first to be fed from my food.
+Trust: 80. He tells the truth and waits for the word. Why: his counts have matched every time I have heard them.
