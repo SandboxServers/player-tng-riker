@@ -6,3 +6,4 @@
 - 03:33 act: {"intent":{"goal":"hold_in_row_wait","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":4800,"max_block_operations":8}},"
 - 03:46 act: {"say":"Riker here, holding by the white bed in the row. Laforge, Tommy: has anyone seen sheep grazing, or oak logs, nearby?","reasoning":"Holding in the row as planned. Asking about sheep and oak, an
 - 03:54 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1079}},{"do":"sleep"}],"say":"Night, row. Riker in the bed beside the white bed, holding. Health 20, hunger 20, no food, no walk.","reasoning":"
+- 04:02 say: {"text":"Riker, awake at the row. Health 20, hunger 20, sword in pack. Holding for Billy's word."}
