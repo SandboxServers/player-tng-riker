@@ -1,5 +1,5 @@
-# Goals (day 678, after sleep)
-1. Hold in the row near my bed, in sight of the group. Reason: the row holds together there.
+# Goals (day 679, after sleep)
+1. Hold in the row near a bed, in sight of the group. Reason: the row holds together there.
 2. Walk only when Billy names a walk that includes me, with two armed people in hand, in sight. Never west past x 370. Reason: pillagers hold 370-380.
 3. Get my wooden sword into my hand by a way that works (not by use on a bed). Reason: Billy will not walk until armed people hold their swords.
 4. Eat when hunger is 10 or lower, or when Billy names me. Reason: hunger is a risk to health.
