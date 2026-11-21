@@ -1,9 +1,9 @@
-# Summary (end of day 700, asleep)
+# Summary (end of day 702, asleep)
 
 I am William Riker. Health 20, hunger 20. Wooden sword in pack, not in hand. No food.
 Location: beside the white bed at 416,107,-1079, in the row. East of x 370 always.
 
-Group: Billy leads but has named no walk since day 676. The row (Tommy, Laforge, MacDonald, Zack, John, Picard, Jason, Trini, Wesley) holds still at their beds. Tommy health 15, hunger 16, holds 3 potatoes; he is first to be fed.
+Group: Billy leads but has named no walk since day 676. The row (Tommy, Laforge, MacDonald, Zack, John, Picard, Jason, Trini, Wesley) holds still at their beds. Tommy holds potatoes; he is first to be fed.
 
 Learned: a sword cannot be put in hand by using a bed or chest. A plain wait holds better than repeated rest intents. Sleep works at night at my bed in sight of the row.
 Open: where sheep graze; where oak logs and a sword material come from. Cows reported near 339,104,-979.
