@@ -1,9 +1,9 @@
-# Summary (end of day 713, night, at bed)
+# Summary (end of day 716, night, at bed)
 
 I am William Riker. Health 20, hunger 20. Wooden sword in pack, not in hand. No food.
-Location: white bed at 415,107,-1079, in the row. East of x 370 always.
+Location: white bed at 416,107,-1079, in the row. East of x 370 always.
 
-Group: Billy leads but has named no walk for days. Tommy holds 3 potatoes and gives only on Billy's named call. Laforge holds at bed 429-430,107,-1065 with no food.
+Group: Billy still names no walk. Tommy holds 3 potatoes and gives only on Billy's named call. Laforge holds at bed 430,107,-1065 with no food. Bow heard to the northwest on day 716 morning; I stayed at the bed.
 
 Learned: the "wait" program is not allowed as an intent here; use plain wait. Sleep only at night, at my bed. Sleep returns at once without a new day.
 Open: where sheep graze; where oak logs and a sword material come from. Cows reported near 339,104,-979.
