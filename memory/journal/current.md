@@ -4,3 +4,4 @@
 - Day 741 night: held at bed all day. Tommy has no food without Billy. Slept at the bed; wrote handoff.
 - 20:40 act: {"actions":[],"say":"Holding at my bed, Tommy. I have no food either. I'll wait for Billy's call."}
 - 20:48 act: {"actions":[{"do":"sleep"}]}
+- 20:53 act: {"actions":[{"do":"note","text":"Day 741 morning. Holding at white bed in the row. No walk named by Billy, nothing near. Waiting."}],"say":"Riker holding at the bed. Still waiting on Billy's named wal
