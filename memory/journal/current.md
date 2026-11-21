@@ -1,6 +1,5 @@
 # Journal
-- Day 680 morning: woke at the row, 416,107,-1079. Health 20, hunger 20. No walk named by Billy. Held in the row on an intent.
-- Day 681: still no walk named, nothing from Billy. Heard a bow drawn to the northwest at night. Night now; going to bed beside the white bed here, in the row.
-- 00:51 act: {"actions":[{"do":"sleep"}]}
-- 00:53 act: said I hold at the row, health 20, hunger 20, waiting for Billy's call.
-- Waking 582: at 416,107,-1079 on cobblestone, dim light, health 20, hunger 20. Laforge and Tommy hold in the row, no walk named. Said I hold; waiting for Billy.
+- Day 681 (waking 583): at 416,107,-1079 by the beds, alone, dim, health 20, hunger 20. Heard a bow to the northwest. Said I hold by the beds, set a rest intent to wake on anyone near or damage. No walk named; nobody in sight.
+- 00:59 act: {"actions":[{"do":"wait","seconds":240}]}
+- 01:03 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1079}},{"do":"sleep"}]}
+- 01:03 act: {"actions":[{"do":"sleep"}]}
