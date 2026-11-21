@@ -1,4 +1,4 @@
-# Goals (day 722, night)
+# Goals (day 726, night)
 1. Hold at my bed in the row, in sight of the group. Reason: the row holds together there.
 2. Walk only when Billy names a walk that includes me, with armed people in sight. Never west past x 370. Reason: pillagers hold 370-380.
 3. Keep the wooden sword in my pack; draw it only when something comes near. Reason: a bed cannot put it in hand.
