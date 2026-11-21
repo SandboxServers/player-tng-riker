@@ -1,9 +1,9 @@
 # Beliefs
 - Walks happen only on Billy's named call that includes my name, to his stated spot. Never west of x 370; pillagers hold 370-380.
 - Returning to my own bed inside the row, when I have drifted off it, is not a walk to a new place; I may do it.
-- Bow sounds from the south and southwest mean stay in the row.
-- Eat at hunger 6 or lower, or when Billy names it.
-- Zack holds 3 potatoes for MacDonald and Tommy if named. Tommy holds 3 potatoes, 1 wooden sword, 2 bone, 2 arrows (day 678 dawn).
+- Bow sounds from the south and southwest mean stay in the row. A bow drawn to the northwest has come often and nothing has come near.
+- Eat at hunger 6 or lower, or when Billy names it. (Goal says 10; keep it at 10 to be safe.)
+- Zack holds 3 potatoes for MacDonald and Tommy if named. Tommy holds 3 potatoes, 1 wooden sword, 2 bone, 2 arrows (day 695 dusk).
 - Wooden sword is what I hold; a better sword material is unknown to me.
 - A west walk can stop short on the way (day 625, blocked at 413,107,-1050). Turn back, do not push on alone.
 - Sleep is refused at dusk ("not night"); it works once it is night and I am at my bed in sight of the row.
@@ -11,6 +11,7 @@
 - Using a bed with `use` to equip a sword fails ("that block is a bed"). Getting the sword into hand needs another way.
 - A plain wait holds better than repeated rest intents. Rest intents finish at once; use wait instead.
 - Intent wake_on accepts only directly_addressed, unexpected_damage, precondition_failed, goal_completed (or new_agent_within_N). Intent limits need max_block_operations of at least 1.
-- Days 642-678: the row holds at beds with no walk named. Billy says walks come only by named call in daylight. Billy not seen since day 676.
+- Chest at 419,107,-1079 opened day 695: no food reported in the look.
+- Days 642-695: the row holds at beds with no walk named. Billy says walks come only by named call in daylight. Billy not seen since day 676.
 - Sheep: nobody in the row has seen any. Only cows reported far off at 339,104,-979 (Wesley).
 - Open question: where sheep graze, and where a sword material might come from.
