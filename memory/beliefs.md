@@ -3,15 +3,14 @@
 - Returning to my own bed inside the row, when I have drifted off it, is not a walk to a new place; I may do it.
 - Bow sounds from the south and southwest mean stay in the row.
 - Eat at hunger 6 or lower, or when Billy names it.
-- Clark holds potatoes for the hungry in sight. Zack holds 4 potatoes for MacDonald at hunger 10. Tommy holds 3 potatoes (day 675 dusk).
+- Zack holds 3 potatoes for MacDonald and Tommy if named. Tommy holds 3 potatoes, 1 wooden sword, 2 bone, 2 arrows (day 678 dawn).
 - Wooden sword is what I hold; a better sword material is unknown to me.
 - A west walk can stop short on the way (day 625, blocked at 413,107,-1050). Turn back, do not push on alone.
 - Sleep is refused at dusk ("not night"); it works once it is night and I am at my bed in sight of the row.
-- Waking can leave me off my bed (day 676: woke at 429,107,-1063 beside a white bed). Check position after sleep.
+- Waking can leave me off my bed (day 676). Check position after sleep.
 - Using a bed with `use` to equip a sword fails ("that block is a bed"). Getting the sword into hand needs another way.
-- A plain wait holds better than repeated rest intents (day 636). Day 660 and day 674: a rest intent finishes at once; use wait instead.
-- Intent wake_on accepts only directly_addressed, unexpected_damage, precondition_failed, goal_completed (or new_agent_within_N); "damage" and "day_night" are rejected there. Intent limits need max_block_operations of at least 1.
-- Days 642-676: the row holds at beds with no walk named; the group waits on Billy's call. Billy says walks come only by named call in daylight.
-- Sheep: nobody in the row has seen any. Only cows were reported far off at 339,104,-979 (Wesley).
-- Day 678: the wait intent ends on timeout and rest intents end at once; plain wait with cursor is the way to hold. The rest program takes no arguments.
+- A plain wait holds better than repeated rest intents. Rest intents finish at once; use wait instead.
+- Intent wake_on accepts only directly_addressed, unexpected_damage, precondition_failed, goal_completed (or new_agent_within_N). Intent limits need max_block_operations of at least 1.
+- Days 642-678: the row holds at beds with no walk named. Billy says walks come only by named call in daylight. Billy not seen since day 676.
+- Sheep: nobody in the row has seen any. Only cows reported far off at 339,104,-979 (Wesley).
 - Open question: where sheep graze, and where a sword material might come from.
