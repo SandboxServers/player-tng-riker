@@ -1,2 +1,1 @@
-Handoff, day 704 night. Riker at white bed 415,107,-1079 in the row. Health 20, hunger 20. Wooden sword in pack. No food. No walk named. No errand half-done. Slept at the bed.
-Next: hold at the bed at waking. Eat at hunger 10 or when Billy names it. Give food to Tommy first. Never west past x 370.
+Handoff, day 704 night. Riker at white bed 415,107,-1079 in the row. Health 20, hunger 20. Wooden sword in pack. No food. No walk named. No errand half-done. Next: hold at bed at waking. Eat at hunger 10 or when Billy names it. Give food to Tommy first. Never west past x 370.
