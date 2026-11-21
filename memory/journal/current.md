@@ -7,5 +7,6 @@
 - 20:53 act: {"actions":[{"do":"note","text":"Day 741 morning. Holding at white bed in the row. No walk named by Billy, nothing near. Waiting."}],"say":"Riker holding at the bed. Still waiting on Billy's named wal
 - 21:01 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1079}}],"say":"Night, row. Riker holding at my bed. No walk named, so I stay put."}
 - 21:02 act: {"say":"Holding at my bed. Nobody near, health 20, hunger 20.","actions":[{"do":"sleep"}]}
-- 21:07 act: {"say":"Morning. Riker at the white bed, holding. Hunger 20, health 20. Waiting on Billy's named call.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","
+- 21:07 act: {"say":"Morning. Riker at the white bed, holding. Hunger 20, health 20. Waiting on Billy's named call.","intent":{"goal":"hold_at_bed","program":"rest"}}
 - 21:12 act: {"say":"Riker here, at my bed in the row. Health 20, hunger 20, wooden sword in pack. Holding for Billy's named walk."}
+- 21:28 act: sleep at bed, night, no walk named. Woke day 743 morning, health 20, hunger 20. Tommy at bed 402,107,-1065, health 15, hunger 16, holding. I have no food to give. Still holding for Billy.
