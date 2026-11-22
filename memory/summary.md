@@ -1,4 +1,4 @@
-# Summary (end of day 760, night, in bed at 416,107,-1079)
+# Summary (end of day 761, night, in bed at 416,107,-1079)
 
 I am William Riker. Health 20, hunger 20. Wooden sword in pack, nothing else.
 Location: white bed in the row, x 416, y 107, z -1079. East of x 370 always.
