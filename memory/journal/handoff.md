@@ -1,9 +1,9 @@
-# Handoff, day 772, night
+# Handoff, day 774, morning
 
-Riker standing at 431,107,-1053, beside Billy's beds in the row, in sight of Billy and Laforge. Health 4.3, hunger 17. No food, no weapon, nothing in hand.
+Riker standing at 444,107,-1051, beside Billy's beds in the row, in sight of Billy, Lewis, Laforge. Health 6.3, hunger 16 after eating Lewis's potato. No food, no weapon, nothing in hand.
 
-No walk named. Nobody walks. Never west past x 370.
+No walk named by Billy. Nobody walks. Never west past x 370.
 
-Zack has a potato for me but has not reached my sight yet. Lewis holds 4 potatoes at the row. Tommy holds potatoes at 402,107,-1065; give to him first if I get food spare.
+Chapman (health 11, hunger 17) asked for any spare potato after mine. Zack and Kimberly have none. Tommy and Worf were earlier listed as hungry; give food to them first if I get any.
 
-Next: stay beside Billy, out of arrow lines. Take the potato when Zack or Lewis comes into sight. Eat at hunger 10 or when Billy names it. Sleep in a bed in the row when Billy names one.
+Next: hold by the beds, out of arrow lines. Eat at hunger 10 or when Billy names it. Sleep in a bed in the row at dusk. Wait for Billy's named walk.

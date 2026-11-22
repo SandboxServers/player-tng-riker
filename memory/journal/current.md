@@ -53,3 +53,21 @@
 - 07:04 act: {"say":"Thank you, Zack. I am standing still at 431,107,-1053, in your sight."}
 - 07:04 act: {"say":"Zack, I am at 431,107,-1053, beside Laforge, in your sight now. Please hand the potato over."}
 - Day 772 afternoon: still at 431,107,-1053 beside Billy, health 4.3, hunger 17, no food. Zack says he is coming; no potato yet. Holding still, no walk.
+- 07:17 act: {"say":"Riker here beside Billy at 431,107,-1053, health 4.3, hunger 17, no food. Zack, Lewis: one potato in my sight, please. Holding, no walk."}
+- 07:21 act: {"say":"Zack, I'm at 431,107,-1053, two blocks south of you, beside Billy. I can see you now. Hand me the potato. Standing still.
+- Night 773: phantom hit me from above at 432,-1053, health 2.3. Went to Billy's bed (443,107,-1051 area, beds at 443,-1050/-1051), slept, 7 of 10 asleep. Zack's potato still not in my hand. No weapon, no food."}
+- 07:23 act: {"actions":[{"do":"goto","target":{"x":432,"y":107,"z":-1052}}],"say":"Zack, I stepped one block north-east to 432,107,-1052. Look for me now, potato please."}
+- 07:23 act: {"say":"Riker at 432,107,-1053, beside Billy, health 4.3, hunger 17. Zack, I see no one in my view yet. Holding still for the potato."}
+- 07:27 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Riker hit from above by a phantom, health 2.3, no weapon, night. Going to Billy's bed to sleep in the row. Zack, t
+- 07:29 act: {"say":"Riker at the beds, 444,107,-1051, health 2.3, hunger 17, no food. Lewis, Zack: I'm in your sight now. Please hand me one potato. Holding still, no walk."}
+- 07:31 act: {"actions":[{"do":"goto","target":{"x":433,"y":107,"z":-1044}}],"say":"Zack, I'm walking the few blocks in the row toward you, to 433,107,-1044. Hold the potato for me; I'll stop when I see you."}
+- 07:31 act: {"say":"Riker at 434,107,-1044, midday, health 2.3, hunger 17. No one in my sight yet. Zack, Lewis, I'm standing still here. Please come into view with the potato."}
+- 07:34 act: {"say":"Thank you, Zack. I ate the potato. Health 4.3 and rising. Riker at 434,107,-1044, holding still, no walk. Tommy and Billy first for any food I find."}
+- 07:39 act: {"actions":[{"do":"goto","target":{"x":442,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Dusk. Riker going to the bed at 443,107,-1050 in the row, in Zack's and Billy's sight, to sleep."}
+- 07:39 act: {"actions":[{"do":"sleep"}]}
+- Day 773 midday: Zack gave me a potato at 434,-1044; I ate it. Health 4.3, hunger 17. Dusk 773: at bed 443,107,-1050 in the row, sleeping. No weapon, no food. Tommy and Billy first for any food.
+- 07:39 act: {"say":"Slept at the row bed. Thanks Zack for the potato. I'm holding here until Billy names a walk."}
+- 07:43 act: {"say":"Riker here, morning. Health 4.3, hunger 17, no food, no weapon. Holding by the beds, no walk. Lewis, if a potato is spare after Tommy and Worf, I'd take it."}
+- 07:47 act: {"say":"Lewis, Riker at 444,107,-1051 by the beds, standing still, in your sight. Please hand me one potato. Thank you."}
+- 07:53 act: {"say":"Lewis, you're right beside me, but no potato has reached my pack yet. Please give it now. Riker, standing still."}
+- 07:55 act: {"say":"Thank you, Lewis. I ate the potato; health 6.3 and rising. Holding by the beds, no walk. Billy, I'm at 444,-1051."}
