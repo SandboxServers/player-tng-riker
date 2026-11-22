@@ -8,3 +8,4 @@
 - 21:08 say: {"text":"Lewis, Riker coming to you now for the rotten flesh."}
 - 21:21 act: {"say":"Riker here at the white bed, hunger 17, holding. Lewis, I will take the flesh when Billy names it or when I reach 10."}
 - day 814: woke at 445,107,-1065, health 6.3, hunger 17, pack empty. Clark adjacent. Lewis and Zack say they hold food for me and Worf. Holding at the row; eating at hunger 10 or when Billy names it.
+- 21:25 act: {"say":"Riker holding at the white bed. Pack empty, hunger 17. Waiting for Billy's call; Lewis still holds my rotten flesh.","actions":[]}
