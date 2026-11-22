@@ -49,3 +49,7 @@
 - 06:33 say: {"text":"Morning, the row. Riker at 431,-1053 beside Billy's beds, health 2, hunger 17, no food. Zack's potato never reached me. Lewis, if you can, please come into my sight with one potato. Billy, I 
 - 06:50 act: {"actions":[],"say":"Riker beside Billy at 431,-1053, health 4.3, hunger 16, no food, no weapon. Zack, Lewis: if one of you can give me one potato in my sight here, I will eat it. Nobody walks."}
 - 06:54 act: {"actions":[],"say":"Lewis, Riker is at 431,-1053 beside Billy, in your sight from the row. Please hand me one potato here. Health 4.3, hunger 16. I will not walk."}
+- 07:01 act: {"say":"Riker here. Health 4.3, hunger 17, no food, nothing in hand. Holding beside Billy at 431,107,-1053, no walk."}
+- 07:04 act: {"say":"Thank you, Zack. I am standing still at 431,107,-1053, in your sight."}
+- 07:04 act: {"say":"Zack, I am at 431,107,-1053, beside Laforge, in your sight now. Please hand the potato over."}
+- Day 772 afternoon: still at 431,107,-1053 beside Billy, health 4.3, hunger 17, no food. Zack says he is coming; no potato yet. Holding still, no walk.
