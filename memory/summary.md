@@ -1,10 +1,10 @@
-# Summary (end of day 785, slept in bed at 443,107,-1051)
+# Summary (end of day 786, slept in bed at 443,107,-1051)
 
 I am William Riker. Health 6.3, hunger 17. Pack empty, unarmed.
 
 Location: my white bed in the row, beside Billy's beds. East of x 370 always.
 
-Group: Billy, Lewis, Laforge, Zack, Chapman, Picard, Worf, Bcrusher, Kimberly, Clark hold in the row. No walk named. Pillagers hold the land west and south. No sheep seen yet.
+Group: Billy, Lewis, Laforge, Zack, Chapman, Picard, Worf, Bcrusher, Kimberly, Clark hold in the row. No walk named. Pillagers hold the land west and south. No sheep seen yet. Nobody has food to spare.
 
 Rules I keep:
 - Walk only when Billy names a walk that includes me, with armed people in sight.
