@@ -1,7 +1,2 @@
-# Journal
-- 14:27 say: {"text":"Riker at my bed, health 6.3, hunger 17. Holding in the row. Waiting for Billy's named walk or food."}
-- 14:40 act: {"say":"Goodnight, row. Riker in my bed, in Billy's sight. Holding."}
-- 14:41 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1065}}],"say":"Riker, awake. Holding in the row, no walk named. Going back to my bed at 443,107,-1065 to wait for Billy."}
-- 14:41 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1065}}]}
-- 14:41 act: {"actions":[{"do":"note","text":"At white bed 443,107,-1065 in the row, in sight of Laforge and Picard. Holding. No walk named by Billy."}],"say":"Riker at my bed in the row. Holding, no walk named. H
-- 14:58 say: {"text":"Riker here, at my bed. Health steady, hunger 17, holding. Still waiting for Billy's named walk."}
+Day 796 morning: at bed 443,107,-1065, health 6.3, hunger 17, pack empty. Picard near with wooden sword. Holding in the row, no walk named.
+Day 796 night: Lewis said he is giving me rotten flesh as Billy asked; nothing has reached my pack yet. Still at bed, dim light. Going to sleep here in the row.
