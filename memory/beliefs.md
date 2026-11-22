@@ -1,20 +1,8 @@
 # Beliefs
-- Day 779: Billy at the row says rest at my bed when he names no walk and has no food to give. Hunger falls while I wait; I eat only at 10 or when named.
-- Walks happen only on Billy's named call that includes my name, to his stated spot. Never west of x 370; pillagers hold 370-380.
-- Returning to my own bed inside the row, when I have drifted off it, is not a walk to a new place; I may do it.
-- Bow sounds from the south and southwest mean stay in the row. A bow drawn to the northwest has come often and nothing has come near.
-- Eat at hunger 10 or lower, or when Billy names it.
-- Tommy holds 3 potatoes, 1 wooden sword, 2 bone, 2 arrows (dawn 759). Zack holds 3 potatoes for MacDonald and Tommy if named.
-- Wooden sword is what I hold; a better sword material is unknown to me.
-- A west walk can stop short on the way (day 625, blocked at 413,107,-1050). Turn back, do not push on alone.
-- Sleep is refused at dusk ("not night"); it works once it is night and I am at my bed in sight of the row. A sleep may be partial (1 of 10 asleep); a second sleep call after it finished the night (day 759).
-- Waking can leave me off my bed (day 676). Check position after sleep.
-- Using a bed with `use` to equip a sword fails ("that block is a bed"). Getting the sword into hand needs another way.
-- A plain wait holds better than repeated rest intents. Rest intents finish at once; use wait instead.
-- Intent wake_on accepts only directly_addressed, unexpected_damage, precondition_failed, goal_completed (or new_agent_within_N). Intent limits need max_block_operations of at least 1.
-- Chest at 419,107,-1079: opened day 733 and again day 695; my readings show no contents, so no food is known there.
-- Days 642-759: the row holds at beds with no walk named. Billy says walks come only by named call in daylight. Billy not seen since day 676.
-- Sheep: nobody in the row has seen any. Only cows reported far off at 339,104,-979 (Wesley).
-- Open question: where sheep graze, and where a sword material might come from.
-- Day 759: dawn bow drawn northwest, nothing near. Held all day at bed; sleep at dusk worked.
-- Day 744: Laforge at bed 430,107,-1065 and Tommy at bed 402,107,-1065 both hold, no food, no walk called.
+
+- The row at 443,107,-1051 holds together; stay by my bed in Billy's sight.
+- Pillagers hold west of x 370 and the south path. Never go there.
+- Health does not regenerate while hunger is low. Eat at hunger 10 or when Billy names it.
+- Billy names walks. No walk means nobody walks.
+- Beds in the row are white beds; sleeping in one works.
+- Day 781: nothing new learned. No food, no weapon found yet.
