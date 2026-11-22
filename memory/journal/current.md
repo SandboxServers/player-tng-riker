@@ -71,3 +71,4 @@
 - 07:47 act: {"say":"Lewis, Riker at 444,107,-1051 by the beds, standing still, in your sight. Please hand me one potato. Thank you."}
 - 07:53 act: {"say":"Lewis, you're right beside me, but no potato has reached my pack yet. Please give it now. Riker, standing still."}
 - 07:55 act: {"say":"Thank you, Lewis. I ate the potato; health 6.3 and rising. Holding by the beds, no walk. Billy, I'm at 444,-1051."}
+- 08:03 act: {"say":"Riker here, holding by the beds at 444,107,-1051. No food, no news west. I have not walked past x 370.","actions":[]}
