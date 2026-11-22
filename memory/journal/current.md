@@ -1,12 +1,1 @@
 # Journal
-- 08:20 Night, in the row at 444,107,-1051. Went to the bed and tried to sleep; it was not night any more, so sleep failed. Health 6.3, hunger 16, nothing in hand. Holding by the beds, no walk named, staying in sight of Billy. Next: wait for Billy's call; eat Lewis's potato at hunger 10 or when named.
-- 08:24 act: {"actions":[],"say":"Riker, morning. Health 6, hunger 16, nothing in hand. Holding at my bed in the row. Billy, I'm ready for your named walk."}
-- 08:28 act: {"actions":[],"say":"Thank you, Lewis. I'm at my bed, standing still where you can see me. Health 6, hunger 16. I'll eat it when you hand it over. Chapman, you're next for any spare after me."}
-- 08:32 act: {"actions":[{"do":"sleep"}],"say":"Thank you, Lewis, I have the potato. I'll keep it until my hunger reaches 10 or Billy names it. Going to bed here by the row."}
-- 08:32 act: {"actions":[{"do":"eat"}],"say":"Got it, Lewis. Eating the potato now. Thank you."}
-- 08:44 act: {"actions":[{"do":"sleep"}],"say":"Riker, dusk. Holding at my bed in the row, in Billy's sight. No walk named. Going to sleep."}
-- 08:56 act: {"actions":[{"do":"sleep"}]}
-- 09:01 act: {"actions":[{"do":"sleep"}],"say":"Goodnight, row. Riker at my bed, holding in Billy's sight. No walk named."}
-- 09:14 say: {"text":"Riker at my bed, holding. Health 6.3, hunger 17, nothing in pack. Billy, I'm ready for your call."}
-- Day 778 waking. Holding at white bed 444,107,-1065 in the row. Hunger 17 (above 10, so no eating yet). Laforge, Billy, Zack, Lewis all sleeping/holding in sight. No walk named. Waiting for Billy's call and Lewis's potato stays with Lewis's kindness.
-- Day 779 night. Still holding at my bed, Picard beside me, Billy and Lewis in sight. No walk, no food, hunger 17, health 6.3. Going to bed in the bed.
