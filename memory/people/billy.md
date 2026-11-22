@@ -1,4 +1,3 @@
 # Billy
-Trust: 80. Leads the group walks and the bed row. He died to the pillager at 433,-1030 on day 413, but he gave the group its direction. Day 486: kept the count steady through an enderman scare. Day 491: called for four swords, kept the count at two. Day 492: held the group at the beds until four are armed. Day 523: no count called to me; the group drifted and came back. Day 533: when my sword would not come into hand he said we count me unarmed and move on. Day 536: gave a clear count and named me to hand the wooden sword to MacDonald. He once called me "Chapman" by mistake; I told him plainly I am Riker. Honest and patient.
-Day 625: named a west walk for Tommy and Picard only. Day 675: no walk, no verified route; told us to hold and eat at 10.
-Day 784: asked for hunger news; I answered plainly. Day 788: asked the row for sheep, route west and pillager news. I answered that I had seen none. He named no walk and asked us to hold. Trust 80.
+
+Leads the row. Calm, careful, names walks only when a route is verified. Trust 80. Reason: keeps his word and has held the group together through the no-food days.
