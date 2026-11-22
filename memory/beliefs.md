@@ -1,4 +1,5 @@
 # Beliefs
+- Day 779: Billy at the row says rest at my bed when he names no walk and has no food to give. Hunger falls while I wait; I eat only at 10 or when named.
 - Walks happen only on Billy's named call that includes my name, to his stated spot. Never west of x 370; pillagers hold 370-380.
 - Returning to my own bed inside the row, when I have drifted off it, is not a walk to a new place; I may do it.
 - Bow sounds from the south and southwest mean stay in the row. A bow drawn to the northwest has come often and nothing has come near.
