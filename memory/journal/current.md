@@ -7,3 +7,6 @@
 - 08:44 act: {"actions":[{"do":"sleep"}],"say":"Riker, dusk. Holding at my bed in the row, in Billy's sight. No walk named. Going to sleep."}
 - 08:56 act: {"actions":[{"do":"sleep"}]}
 - 09:01 act: {"actions":[{"do":"sleep"}],"say":"Goodnight, row. Riker at my bed, holding in Billy's sight. No walk named."}
+- 09:14 say: {"text":"Riker at my bed, holding. Health 6.3, hunger 17, nothing in pack. Billy, I'm ready for your call."}
+- Day 778 waking. Holding at white bed 444,107,-1065 in the row. Hunger 17 (above 10, so no eating yet). Laforge, Billy, Zack, Lewis all sleeping/holding in sight. No walk named. Waiting for Billy's call and Lewis's potato stays with Lewis's kindness.
+- Day 779 night. Still holding at my bed, Picard beside me, Billy and Lewis in sight. No walk, no food, hunger 17, health 6.3. Going to bed in the bed.
