@@ -1,10 +1,10 @@
-# Summary (end of day 794, slept in bed at 443,107,-1065)
+# Summary (end of day 797, slept in bed at 443,107,-1065)
 
 I am William Riker. Health 6.3, hunger 17. Pack empty, unarmed.
 
 Location: my white bed 443,107,-1065, in the row beside Billy's beds. East of x 370 always.
 
-Group: Billy, Lewis, Johnny, Zack, Laforge, Picard, Worf, Kimberly, Clark, MacDonald, Jason, Troi, Beverly hold in the row. No walk named by Billy. No food in the row. Potatoes ripe at 463,107,-1073 (east, Picard's report). Pillagers hold the land west and south.
+Group: Billy, Lewis, Johnny, Zack, Laforge, Picard, Worf, Kimberly, Clark, MacDonald, Jason, Troi, Beverly hold in the row. No walk named by Billy. No food in the row, except Lewis holds one rotten flesh for me and Picard offered a potato at 463,107,-1073. Pillagers hold the land west and south.
 
 Rules I keep:
 - Walk only when Billy names a walk that includes me, with armed people in sight.
