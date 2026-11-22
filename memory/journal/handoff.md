@@ -1,6 +1,6 @@
-# Handoff, day 781 night
+# Handoff, day 783 night
 
-Riker asleep in my white bed 443,107,-1051 in the row, beside Billy's beds. Health 6.3, hunger 17. Nothing in pack, nothing in hand. Not enclosed, but in the row's sight.
+Riker asleep in my white bed 443,107,-1051 in the row. Health 6.3, hunger 17. Nothing in pack, nothing in hand. Not enclosed, but in the row's sight.
 
 No walk named by Billy. Nobody walks. Never west past x 370.
 
