@@ -1,4 +1,4 @@
-# Goals (day 805, after sleep)
+# Goals (day 806, after sleep)
 
 1. Hold at my white bed 443,107,-1065 in the row, in Billy's sight. Reason: the row holds together there.
 2. Walk only when Billy names a walk that includes me, with armed people in sight. Never west past x 370. Reason: pillagers hold 370-380.
