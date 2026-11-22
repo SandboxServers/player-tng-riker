@@ -1,3 +1,51 @@
 # Journal
-- 04:27 say: {"text":"Riker awake at my white bed. Health 20, hunger 20, wooden sword in pack. Holding for Billy's named walk. Tommy, I have no food yet."}
-- Woke day 764 at bed 416,107,-1079. No walk named by Billy. Held still, said where I stand.
+- 04:27 say: Riker awake at my white bed. Health 20, hunger 20, wooden sword in pack. Holding for Billy's named walk.
+- Woke day 764 at bed 416,107,-1079. No walk named by Billy.
+- 04:35 Four pillagers with crossbows came from the south and shot me. Ran north-east to 431,107,-1085.
+- 04:39 Night. Walked in to 440,107,-1068 near Picard. Health 17, hunger 17. No food.
+- Day 765 midday: quiet, holding at 440,107,-1068 for Billy's call.
+- Dusk 765: walked to my white bed 416,107,-1079. Pillagers shot me on the way. Bed use failed ("that block is a bed"), sleep was interrupted.
+- DIED at dusk day 765 at 425,107,-1076, shot by pillagers. Dropped my wooden sword at 425,107,-1076. Woke at spawn at bed 416,107,-1079 with nothing.
+- Lesson: do not walk alone at dusk through the pillager line south of the row. Get in with the armed group before night. Do not go back for the sword while pillagers are near it.
+- 04:52 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1050}}],"say":"Worf, I'm at the row without a sword now. Coming to you at your bed."}
+- 04:52 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"use","at":{"x":413,"y":107,"z":-1042}}],"say":"Going to the white bed at 413,107,-1042 to sleep, away from the pillager to the nor
+- 04:52 act: {"actions":[{"do":"sleep"}],"say":"Trying to sleep in this bed now."}
+- Night 765 (new life, woke at spawn with nothing): at 416,107,-1037 by white bed, health 20, hunger 19, no items. Zack beside me. Sword lost at 425,107,-1076 near pillagers; not going back. Holding for Billy's named walk.
+- 04:57 say: {"text":"Riker here at the row, health 20, no items, sword lost by the south path. Holding at my bed in Billy's sight. Waiting for his named walk.
+- Day 765 morning: woke in the row at 416,107,-1037, health 20, hunger 19. Billy holds at 430,107,-1037, no walk named for me. Holding at bed, in sight of Billy."}
+- 05:09 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Riker at my bed 416,107,-1037, in Billy's sight, holding still. Sleeping now."}
+- 05:21 act: {"actions":[{"do":"sleep"}],"say":"Night. Riker sleeping at my bed 416,107,-1037, in the row, holding still."}
+- Day 767 morning: awake at bed 416,107,-1037, health 20, hunger 19, no items. Billy and Zack hold, no walk named. Holding, waiting for Billy's call.
+- 05:30 act: {"say":"Riker at my bed 416,107,-1037, health 20, hunger 19, no items. Holding. Billy, I will walk when you name a route with me in it."}
+- Dusk day 767: first sleep failed (not night yet). Night: slept at bed 416,107,-1037 in the row, sleep worked (2 of 10). Health 20, hunger 19, no items. Holding in the row.
+- Day 768: dusk, then night passed while I waited; woke at bed 416,107,-1037, health 20, hunger 19, no items. Billy: no walk yet. Jason saw cows far east and north (434,106,-1113 and 339,104,-979), no sheep. Holding.
+- 05:34 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Riker at my bed 416,107,-1037, in the row, holding still. Sleeping now."}
+- 05:36 act: {"actions":[{"do":"sleep"}],"say":"Night. Riker sleeping at my bed 416,107,-1037, in the row, holding still."}
+- Night 768: at bed 416,107,-1037, health 20, hunger 19, no items. Billy's group holds in the row. Handoff rewritten. Sleeping again.
+- Day 769 morning: slept, then a pillager 6 blocks south shot me, health 13. Moved to 413,107,-1040 by the beds, unstuck from a pit. Hunger 17, no food, no weapon. Holding in the row near the beds. Billy at 411,107,-1066 health 4, no food.
+- 06:03 act: {"actions":[{"do":"sleep"}],"say":"Riker at my bed 416,107,-1037, in the row, holding still. Sleeping now."}
+- 06:05 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}}],"say":"Pillager south of me, 6 blocks, shooting. I have no weapon. Moving north-west into the bed line at 413,107,-1041, out of its line
+- 06:05 act: {"actions":[{"do":"unstick"}],"say":"Riker, health 13, no food, I'm stuck in a pit at 413,107,-1040. Climbing out now. Billy, I have nothing to give."}
+- 06:06 act: {"actions":[{"do":"goto","target":{"x":411,"y":107,"z":-1036}}],"say":"Pillager north-east of me at 421,-1046, shooting. Health 9. Moving west out of its line to 411,107,-1036."}
+- Day 769: at 411,107,-1037, health 5, hunger 17, no food, no weapon. Pillager 12 blocks north-east shooting. Staying still, low on health.
+- DIED day 769 at 411,107,-1037, shot by a pillager (arrows from the north-east). Nothing dropped (empty pack). Woke at spawn bed 416,107,-1037 with health 19, hunger 20. Jason has a sword at 418,107,-1047; Billy at row bed 430,-1051 with no weapon.
+- Lesson: no weapon, I walked out of the bed row into the pillager line. Stay at the beds, out of arrow lines, and do not leave the beds without a sword.
+- Woke at spawn, pillager came 3 blocks south of the beds and shot me. Moved east to 427,107,-1048, health 13, hunger 17, pillager now 13 blocks away. No food, no weapon. Holding here.
+- 06:07 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1037}}],"say":"Riker died at 411,-1037 and woke at my bed 416,107,-1037 with nothing. Health 19. I stay at the bed now, out of the arrow line."}
+- 06:07 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1048}}],"say":"Pillager 3 blocks south of me, shooting. No weapon. Going east toward Billy's bed at 428,107,-1048 to get out of its line."}
+- 06:08 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1037}}],"say":"Riker at my bed 416,107,-1037, health 20, hunger 20, no items. Holding at the bed, out of the arrow line. Billy, tell me when a w
+- 06:08 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1050}}],"say":"Riker going to Billy's bed at 430,-1051 as he named, out of the pillager's line. No weapon, no food."}
+- 06:08 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1051}}],"say":"Pillager closing from the south, shooting. Going on to Billy's bed at 430,-1051 now."}
+- 06:08 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1050}}],"say":"Pillager on me at 417,-1030, I am running north-east to Billy's bed at 430,-1051. No weapon."}
+- 06:08 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1050}}],"say":"No pillager in sight now. Going on to Billy's bed at 430,-1051, no weapon, health 12, hunger 19."}
+- 06:08 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1051}}],"say":"Riker at Billy's bed, health 9, no food, no weapon. Billy, I am beside you."}
+- 06:09 act: {"actions":[{"do":"goto","target":{"x":440,"y":107,"z":-1062}}],"say":"Health 2, shot from unseen. Running north-east away from the arrows. No weapon, no food."}
+- 06:12 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1053}}],"say":"Billy, coming to your bed as you named. Health 2, hunger 17, no food, no weapon. If you have food, I need it."}
+- 06:16 say: {"text":"Riker beside Billy at 431,-1053, health 2, hunger 17, no items. Zack, I'd take a potato when you reach Billy's bed. Holding still."}
+- 06:19 act: {"actions":[{"do":"eat"}],"say":"Thank you Zack, Billy. Eating the potato if I have it. Holding still beside Billy."}
+- 06:19 say: {"text":"Zack, the potato did not reach me, my pack is empty. Please give it to me now, I am at Billy's side at 431,-1053."}
+- 06:21 say: {"text":"Riker, health 2, hunger 17, no potato yet. Zack, you said 2 potatoes near Billy's bed; I'm at 431,-1053 in sight of Billy. Lewis, if you need me in sight, say so. Holding."}
+- 06:24 say: {"text":"Zack, Riker here at 431,-1053, health 2, hunger 17. I'm in your sight. Please hand me the potato."}
+- 06:33 say: {"text":"Morning, the row. Riker at 431,-1053 beside Billy's beds, health 2, hunger 17, no food. Zack's potato never reached me. Lewis, if you can, please come into my sight with one potato. Billy, I 
+- 06:50 act: {"actions":[],"say":"Riker beside Billy at 431,-1053, health 4.3, hunger 16, no food, no weapon. Zack, Lewis: if one of you can give me one potato in my sight here, I will eat it. Nobody walks."}
+- 06:54 act: {"actions":[],"say":"Lewis, Riker is at 431,-1053 beside Billy, in your sight from the row. Please hand me one potato here. Health 4.3, hunger 16. I will not walk."}
