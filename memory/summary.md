@@ -1,10 +1,10 @@
-# Summary (end of day 821, slept at the row, bed 430,107,-1065)
+# Summary (end of day 821, slept at my bed 430,107,-1065)
 
 I am William Riker. Health 6.3, hunger 17. Pack empty, unarmed.
 
 Location: the white beds in the row, 429-443,107,-1065. East of x 370 always.
 
-Group: Billy leads the row and hands out potatoes. Laforge, Clark, Lewis, Picard, MacDonald, Worf, Troi, Leonardo, Beverly are near. Beverly was weakest and has eaten; Leonardo has the last potato from Troi. Lewis holds rotten flesh at 443,107,-1051 for me. Worf holds a potato for whoever is weakest.
+Group: Billy leads the row and hands out potatoes. Laforge, Clark, Lewis, Picard, MacDonald, Worf, Troi, Leonardo, Beverly are near. Beverly has eaten. Lewis holds rotten flesh at 443,107,-1051 for me. Worf and Zack each hold a potato for whoever is weakest in their sight.
 
 Rules I keep:
 - Walk only when Billy names a walk that includes me, with armed people in sight.
