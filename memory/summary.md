@@ -1,4 +1,4 @@
-# Summary (end of day 783, slept in bed at 443,107,-1051)
+# Summary (end of day 784, slept in bed at 443,107,-1051)
 
 I am William Riker. Health 6.3, hunger 17. Pack empty, nothing in hand, unarmed.
 

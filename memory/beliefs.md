@@ -8,6 +8,7 @@
 - Day 782: no sheep or oak seen by anyone in the row yet. No food or weapon in the row. Lewis holds a potato for Chapman.
 - Day 783: still no verified route west and no sheep seen past the row (Picard, Laforge, Lewis). Billy still names no walk.
 - Day 783: Billy's group count is ten in the row; Zack reported hunger 19 and no food.
+- Day 784: still no walk named and no food found. Billy tells hungry people to rest still at the beds.
 
 ## Curious next
 - Where sheep graze, and where a sword material might come from.
