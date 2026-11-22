@@ -10,6 +10,8 @@
 - Day 786: still no walk, no route, no sheep, no pillager news. Picard has no food to give.
 - Day 788: same. No walk named, no sheep, no route west, no pillager news from anyone. Nobody at hunger 10 or below yet. Dusk is a sign to sleep in bed.
 
+- Day 790: still no walk, sheep, route west or pillager news. Johnny has no sword either. Billy says food is thin and will name a walk with escorts once a sheep or cow is seen.
+
 ## Curious next
 - Where sheep graze, and where a sword material might come from.
 
