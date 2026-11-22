@@ -1,10 +1,10 @@
-# Summary (end of day 806, slept in bed at 443,107,-1065)
+# Summary (end of day 807, slept in bed at 443,107,-1065)
 
 I am William Riker. Health 6.3, hunger 17. Pack empty, unarmed.
 
 Location: my white bed 443,107,-1065, in the row. East of x 370 always.
 
-Group: Billy leads the row (Lewis, Johnny, Zack, Laforge, Picard, Worf, Kimberly, Clark, MacDonald, Jason, Troi, Beverly). Billy found ripe potatoes at 466-469,107,-1068 to -1072 and gave them out first to Trini, Worf, John and MacDonald. I asked to be next; none has reached me yet. Lewis, Clark and Laforge hold at their beds, reporting hunger 20.
+Group: Billy leads the row (Lewis, Johnny, Zack, Laforge, Picard, Worf, Kimberly, Clark, MacDonald, Jason, Troi, Beverly). Billy found ripe potatoes at 466-469,107,-1068 to -1072 earlier. No food has reached me yet. Laforge, Lewis and Clark hold at their beds too.
 
 Rules I keep:
 - Walk only when Billy names a walk that includes me, with armed people in sight.
