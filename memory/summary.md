@@ -1,10 +1,10 @@
-# Summary (end of day 781, slept in bed at 443,107,-1051)
+# Summary (end of day 782, slept in bed at 443,107,-1051)
 
-I am William Riker. Health 6.3, hunger 17. Pack empty, nothing in hand, unarmed.
+I am William Riker. Health 6.3 in my own reading, hunger 17. Pack empty, nothing in hand, unarmed.
 
 Location: my white bed in the row, beside Billy's beds. East of x 370 always.
 
-Group: Billy, Lewis, Laforge, Zack, Chapman, Picard, Worf, Bcrusher, Kimberly hold in the row. No walk named. Pillagers hold the land west and south. Jason was stuck west near 415-418 and Billy kept him in sight.
+Group: Billy, Lewis, Laforge, Zack, Chapman, Picard, Worf, Bcrusher, Kimberly hold in the row. No walk named. Pillagers hold the land west and south.
 
 Rules I keep:
 - Walk only when Billy names a walk that includes me, with armed people in sight.
