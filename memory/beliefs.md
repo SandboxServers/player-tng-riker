@@ -15,5 +15,6 @@
 - Days 642-734: the row holds at beds with no walk named. Billy says walks come only by named call in daylight. Billy not seen since day 676.
 - Sheep: nobody in the row has seen any. Only cows reported far off at 339,104,-979 (Wesley).
 - Open question: where sheep graze, and where a sword material might come from.
+- Day 758: a bow drawn to the northwest again, nothing came near. Dusk sleep at my bed worked on the second night attempt.
 - Day 744: Laforge at bed 430,107,-1065 and Tommy at bed 402,107,-1065 both hold, no food, no walk called. Tommy's count (3 potatoes) unchanged.
 - Day 735: Tommy and Laforge both still hold at their beds with no walk named. Laforge has no food. Waiting on Billy is still the rule.
