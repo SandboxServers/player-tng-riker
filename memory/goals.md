@@ -1,6 +1,6 @@
-# Goals (day 790, night, after sleep)
+# Goals (day 792, night, after sleep)
 
-1. Hold at my white bed 443,107,-1051 in the row, in sight of Billy. Reason: the row holds together there.
+1. Hold at my white bed 443,107,-1065 in the row, in sight of Billy. Reason: the row holds together there.
 2. Walk only when Billy names a walk that includes me, with armed people in sight. Never west past x 370. Reason: pillagers hold 370-380.
 3. Eat when hunger reaches 10 or when Billy names me. Reason: I have no food; hunger 17.
 4. Give food to whoever is hungriest when I have spare. Reason: they are short.
