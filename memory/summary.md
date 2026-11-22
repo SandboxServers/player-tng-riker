@@ -1,11 +1,15 @@
 # Summary (end of day 775, night, in bed at 444,107,-1051)
 
-I am William Riker. Health 6.3 at last check, hunger 16. Wooden sword in pack, one potato from Lewis (not yet eaten, I think; eat at hunger 10 or when Billy names it). Nothing else.
+I am William Riker. Health 6.3, hunger 16. No food, no weapon, nothing in hand.
 
-Location: white bed beside Billy's beds in the row, 444,107,-1051. East of x 370 always.
+Location: white bed in the row, 444,107,-1051, beside Billy's beds. East of x 370 always.
 
-Group: no walk named by Billy. Billy at the beds with no food. Lewis holds with food. Zack, Kimberly, Beverly, Laforge, Picard hold at the row with no food. Chapman (health 11, hunger 17) is the one waiting on food; Lewis said he would give him a potato.
+Group: Billy, Lewis, Laforge, Kimberly, Zack, Chapman, Tommy, Worf hold in the row. No walk named. Pillagers hold the land west and south (370-380 and the south path). Two deaths so far in this life stemmed from walking out alone in the pillager line.
 
-Next: hold at bed at waking, out of arrow lines. Eat at hunger 10. Give spare food to Chapman, Zack or Tommy first. Wait for Billy's named walk, never west past x 370.
+Rules I keep:
+- Walk only when Billy names a walk that includes me, with armed people in sight.
+- Keep out of arrow lines; stay by the beds.
+- Eat at hunger 10 or when Billy names it.
+- Give spare food to the hungriest (Chapman, Zack, Tommy) first.
 
-Curious: where sheep graze, where oak logs and a sword material might come from. Tell Billy, Lewis, Chapman.
+Next: wait at the bed at waking. Ask Lewis or Zack for one potato in sight. Curious: where sheep graze, where oak logs and a sword material might come from. Tell Billy, Lewis, Chapman.
