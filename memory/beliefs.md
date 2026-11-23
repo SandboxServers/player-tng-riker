@@ -23,6 +23,7 @@
 
 - Day 882: Billy at potatoes 466,107,-1074 said a chest at 447,107,-1065 may hold a sword and tools. I opened it; it showed nothing readable to me. Unverified.
 - Day 882: Sleep at dusk at the bed worked for me (it was night when I slept).
+- Day 883: Sleep at dusk failed ("it is not night"). Slept at night, at my bed, fine. Billy names no walk unless an armed friend is in sight at first light; none came, so no walk.
 
 ## Curious next
 - Where sheep or cows graze, away from the west.
