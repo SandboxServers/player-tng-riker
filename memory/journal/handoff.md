@@ -1,1 +1,1 @@
-Handoff, day 839 night: at my white bed 430,107,-1051. Health 20, hunger 20, empty hands. Holding for Billy's named walk at first light. No errand running. Beverly is weakest; Billy and Bcrusher are handling her food. Give food first when I have spare.
+Handoff, day 839 night: at my white bed 430,107,-1051. Health 20, hunger 20, empty hands. No errand running, no walk named by Billy yet. Holding in the row. Bcrusher at 7.3 health, hunger 16, waiting for Billy; Beverly is weakest. Nothing spare to give. Next: at first light, hold for Billy's named walk.
