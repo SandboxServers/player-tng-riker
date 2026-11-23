@@ -1,12 +1,12 @@
-# Summary (day 872, asleep at white bed 430,107,-1065)
+# Summary (day 873, asleep at my white bed by 443,107,-1065)
 
 I am William Riker. Health 20, hunger 20. Pack empty, unarmed.
 
-Location: my white bed at 430,107,-1065, in the row of white beds 429-443, 107, -1050 to -1065. East of x 370 always.
+Location: the row of white beds at x 429-447, y 107, z -1065 to -1040. East of x 370 always.
 
-Group: Billy leads the row and names the walks. Jason has the sword and holds near 417-419. Zack and Worf sleep near 415-418. Laforge, Lewis and Picard hold at their beds. Beverly is weakest (health 7.3, hunger 16); Bcrusher holds the potato share. Kimberly is armed and walks with Billy.
+Group: Billy leads the row and names the walks. Kimberly is armed and stays near Billy. Jason holds a sword near 417-419. Troi, Lewis, Picard and Laforge hold at their beds. Beverly is weakest (health 7.3, hunger 16); Bcrusher holds the potato share.
 
-Known: potatoes at 464-468,107,-1073. Cows far away. No sheep seen. No sword material found. The way east is blocked for Jason and the others.
+Known: potatoes at 464-468,107,-1073. Cows far away. No sheep seen. No sword material found.
 
 Rules I keep:
 - Walk only when Billy names a walk that includes me, at full day, with armed people in sight.
