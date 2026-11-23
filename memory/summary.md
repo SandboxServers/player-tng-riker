@@ -4,7 +4,7 @@ I am William Riker. Health 20, hunger 20. Pack empty, unarmed.
 
 Location: the white beds in the row, 429-443, 107, -1050 to -1065. East of x 370 always.
 
-Group: Billy leads the row and names the walks. Jason, Worf, Zack, Laforge, Lewis and Picard hold at their beds. Beverly (health 7) is first in line for food. Billy and Bcrusher hold potatoes for the row.
+Group: Billy leads the row and names the walks. Jason, Worf, Zack, Laforge, Lewis and Picard hold at their beds. Beverly (health about 7) is first in line for food. Billy and Bcrusher hold potatoes for the row.
 
 Known: cows near 434,106,-1113 and 339,104,-979. No sheep seen. No sword material found.
 

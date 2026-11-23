@@ -13,16 +13,14 @@
 - Day 812: Jason and Worf carry swords in the row.
 - Day 823-832: nights in bed passed with no danger in the row.
 - Day 825-826: phantoms hit Billy at dawn and night; Billy goes to spawn at 416,-1037 with Troi.
-- Day 840: no walk was named by Billy all day; holding at the bed was safe. Zack (no bed) may use the white bed at 429,107,-1050 next to mine.
-- Day 833: sleeping in my white bed at night worked; the row was quiet through the night and the morning waking held at the bed.
-- Day 856 night: Jason, Worf and Zack hold at their beds in sight of each other; Jason asked Billy to call him at first light. Sleeping at the white bed at night worked again.
-- Day 832: I died while fleeing alone from unseen shooters east of my bed. Nothing I dropped (I carried nothing). Lesson: flee toward the group, not away from it.
-
-- Day 861-862: the row shared potatoes in the morning with Billy in sight. Nobody named a walk for me; holding at the bed was safe through the night and the morning.
+- Day 840: no walk was named by Billy all day; holding at the bed was safe.
+- Day 833 and 856: sleeping in my white bed at night worked; the row was quiet.
+- Day 832: I died while fleeing alone from unseen shooters east of my bed. Lesson: flee toward the group, not away from it.
+- Day 862: Billy named walks for Worf, Zack and Jason, not for me. Holding at the bed all day was safe. Beverly low at about 7 health.
 
 ## Curious next
 - Where sheep or cows graze, away from the west.
 - Where a sword material might come from.
 
 ## Who to tell
-- Billy, Lewis, Troi, Beverly.
+- Billy, Lewis, Picard, Beverly.
