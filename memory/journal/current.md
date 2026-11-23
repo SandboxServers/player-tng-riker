@@ -10,3 +10,4 @@
 - 07:19 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Riker beside my white bed, unarmed, health 20, hunger 20. Holding in the row with Lewis. Good night."}
 - 07:20 act: {"actions":[{"do":"note","text":"Morning day 844. Health 20, hunger 20, empty hands, at white bed 443,107,-1065 in the row. Holding for Billy's named walk."}],"say":"Morning, row. Riker at the white b
 - 07:24 act: {"actions":[],"say":"Billy, Riker here at the white bed. I hear you named me for the potato walk, but I hold nothing and no armed friend is in sight. I will stay in the row. If Jason or anyone with a 
+- 07:32 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Riker beside my white bed, unarmed, health 20, hunger 20. Holding in the row. Good night."}
