@@ -1,4 +1,4 @@
-# Summary (day 857, asleep at white bed 430,107,-1065)
+# Summary (day 858, asleep at white bed 430,107,-1065)
 
 I am William Riker. Health 20, hunger 20. Pack empty, unarmed.
 
