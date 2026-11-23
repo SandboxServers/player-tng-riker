@@ -4,7 +4,7 @@ I am William Riker. Health 20, hunger 20 at sleep. Pack empty, unarmed.
 
 Location: the white beds in the row, 429-443,107,-1051 to -1065. East of x 370 always.
 
-Group: Billy leads the row and hands out potatoes, weakest first. Lewis has a sword. Worf, Jason and Zack hold swords or potatoes. Beverly (health 7.3) and Leonardo (health 10) are weakest for food. Kimberly has a potato for Leonardo.
+Group: Billy leads the row and hands out potatoes, weakest first. Lewis has a sword. Worf, Jason and Zack hold swords or potatoes. Beverly and Leonardo are weakest for food. Kimberly has a potato for Leonardo or Trini.
 
 Rules I keep:
 - Walk only when Billy names a walk that includes me, at first light, with armed people in sight.

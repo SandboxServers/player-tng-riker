@@ -13,6 +13,7 @@
 - Day 812: Jason and Worf carry swords in the row.
 - Day 823-832: nights in bed passed with no danger in the row.
 - Day 825-826: phantoms hit Billy at dawn and night; Billy goes to spawn at 416,-1037 with Troi.
+- Day 833: sleeping in my white bed at night worked; the row was quiet through the night and the morning waking held at the bed.
 - Day 832: I died while fleeing alone from unseen shooters east of my bed. Nothing I dropped (I carried nothing). Lesson: flee toward the group, not away from it.
 
 ## Curious next
