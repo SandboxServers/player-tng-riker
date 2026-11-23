@@ -25,6 +25,8 @@
 - Day 882: Sleep at dusk at the bed worked for me (it was night when I slept).
 - Day 883: Sleep at dusk failed ("it is not night"). Slept at night, at my bed, fine. Billy names no walk unless an armed friend is in sight at first light; none came, so no walk.
 
+- Day 889: Night in my bed was quiet. Troi, Lewis, Picard, Laforge all hold at beds in the row. Billy holds potatoes for Beverly, Worf and Zack; Worf is hungry at 12, Jason at 13.
+
 ## Curious next
 - Where sheep or cows graze, away from the west.
 - Where a sword material might come from.
