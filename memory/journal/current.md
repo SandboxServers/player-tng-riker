@@ -14,3 +14,11 @@
 - 09:22 act: {"say":"Good morning, row. Riker here at the white bed, health 20, hunger 20, unarmed. Holding for Billy's named walk."}
 - day 850 morning: woke at white bed 444,107,-1065 area, health 20, hunger 20, unarmed. Billy holds 10 potatoes for Leonardo and Trini, names no walk yet. Said good morning and holding.
 - day 851 morning: still no walk named. Billy wants an armed friend in sight first. Laforge also holds unarmed. Still at bed, health 20, hunger 20.
+- day 851 dusk: at bed 444,107,-1065, health 20, hunger 20, unarmed. Billy names no walk; Beverly still 7.3. Holding.
+- 09:32 act: {"say":"Holding at my bed, Billy. No walk from me until you name one. Beverly, I have nothing to give yet, but I will share when I have food."}
+- day 851 dim: sleep failed (not night). I had drifted to 429,-1077; walked back to bed 430,107,-1064. Billy says stay with him, no walk until an armed friend is found. Health 20, hunger 20.
+- 09:36 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Riker beside the white bed, health 20, hunger 20, unarmed. Holding, not walking. Billy, name the walk at first light."}
+- 09:36 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1065}}],"say":"Morning, row. I drifted south to 429,-1077; going back to my bed at 429,-1065. Still unarmed, holding for Billy's walk."}
+- day 852 dim: at bed 430,107,-1064, health 20, hunger 20, unarmed. Billy will name the potato-patch walk at full day, not before. Holding.
+- 09:40 act: {"actions":[],"say":"Riker here at my bed, health 20, hunger 20, unarmed. Worf and Jason, with swords in sight, I will walk when Billy names it."}
+- 09:48 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Riker beside the white bed, health 20, hunger 20, unarmed. Holding, not walking. Billy, name the walk at full day."}
