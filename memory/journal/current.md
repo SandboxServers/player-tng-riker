@@ -1,11 +1,1 @@
 # Journal
-- 18:00 act: {"say":"Night, Troi and Lewis. I am holding at my bed, unarmed, no walk in the dark.","intent":{"goal":"hold_at_bed_till_day","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpecte
-- 18:00 act: {"say":"Good night, Troi and Lewis. I am holding at my bed, unarmed, and I will wait for Billy's walk at daylight."}
-- 18:04 act: {"say":"Morning, all. Riker here: holding at my bed, unarmed, empty-handed. Hunger 20, health 20. I wait for Billy's named walk, and I still ask where sheep graze and where a sword material might be."
-- 18:22 act: {"say":"Good morning. Riker here at my white bed, holding. Any walk planned, Billy?"}
-- 18:27 say: {"text":"Good night. I am at my white bed, in sight of the row. Hunger 20, health 20."}
-- 18:28 act: {"say":"Good night, Lewis. Riker at my white bed 444,107,-1065, health 20, hunger 20.","intent":{"goal":"hold_at_bed_till_morning","program":"rest","arguments":{},"wake_on":["directly_addressed","unex
-- 18:32 act: {"say":"Good morning, row. Riker at my white bed, health 20, hunger 20, unarmed. Billy, I hold for your named walk. Still asking: where do sheep graze, and where is a sword material?"}
-- 18:44 act: {"say":"Good morning, row. Riker at my white bed, health 20, hunger 20, unarmed. Billy, any walk for me? I still ask where sheep graze and where a sword material is."}
-- 18:48 act: {"say":"Morning, Troi. I am well, health 20, hunger 20, empty-handed. Leonardo, I have no food to give, sorry. Holding for Billy."}
-- 19:04 act: {"say":"Morning. Anyone heading out for sheep or a sword material? I'll go when Billy names a walk.","reasoning":"Daytime, holding at bed. Asking for a named walk, not walking alone."}
