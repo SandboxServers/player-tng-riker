@@ -1,12 +1,12 @@
-# Summary (day 881, asleep at my white bed 444,107,-1065)
+# Summary (day 882, asleep at my white bed 443,107,-1065)
 
 I am William Riker. Health 20, hunger 20. Pack empty, unarmed.
 
 Location: the row of white beds at x 429-447, y 107, z -1065 to -1040. East of x 370 always.
 
-Group: Billy leads the row and names the walks. Trini and Leonardo walked with Billy to the potatoes at 464,107,-1073 on day 881. Troi, Lewis, Picard, Laforge hold at their beds. Beverly, Worf, Zack are the hungriest.
+Group: Billy leads the row and names the walks. He is at the potato patch 466,107,-1074 with 7 potatoes and has no armed friend with him. Troi, Lewis, Picard, Laforge hold at their beds. Leonardo (health 13, hunger 16) holds one potato for Beverly. Beverly, Worf, Zack are the hungriest.
 
-Known: potatoes at 464-468,107,-1073. Cows far away (434,106,-1113). No sheep seen. No sword material found.
+Known: potatoes at 464-468,107,-1073. Cows far away (434,106,-1113). No sheep seen. No sword material found. The chest at 447,107,-1065 may hold a sword and tools (Billy's word), but I could read nothing in it.
 
 Rules I keep:
 - Walk only when Billy names a walk that includes me, at full day, with armed people in sight.

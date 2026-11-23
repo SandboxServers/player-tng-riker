@@ -21,6 +21,9 @@
 - Day 875: Billy walked west at day with Kimberly to feed Worf and Zack; I held at bed as he named. Nobody in the row was hurt overnight.
 - Day 876: Billy fed potatoes to Leonardo and Beverly at dawn. Holding at bed was safe all day. Beverly still at health 7.3.
 
+- Day 882: Billy at potatoes 466,107,-1074 said a chest at 447,107,-1065 may hold a sword and tools. I opened it; it showed nothing readable to me. Unverified.
+- Day 882: Sleep at dusk at the bed worked for me (it was night when I slept).
+
 ## Curious next
 - Where sheep or cows graze, away from the west.
 - Where a sword material might come from.
