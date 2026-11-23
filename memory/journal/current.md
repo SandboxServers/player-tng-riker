@@ -1,16 +1,1 @@
 # Journal
-- 06:54 act: {"say":"Morning, row. Riker at the white bed, health 20, hunger 20, empty hands. Holding in sight. Billy, no walk for me unless you name it."}
-- Day 843 morning: Billy walked Lewis to the sword spot, found nothing, came back. Not named. Holding at the white bed 444,107,-1051 with empty hands.
-- Night 843: slept at my bed, sleep worked. Reflection: holding in the row was right; no walk named for me, and Billy's sword search found nothing. Next: at waking, good morning, hold for a named walk.
-- 07:02 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Riker beside my white bed at 443,107,-1051, health 20, hunger 20, empty hands. Holding here in sight. Good night."}
-- 07:03 say: {"text":"Morning-ish, row. Riker at the white bed, health 20, hunger 20. Holding here until Billy names a walk."}
-- Day 844 morning: row says Billy is bringing potatoes to Beverly; Lewis to join Billy's daylight potato walk. Not named for me. Holding at the bed, empty hands. Beverly at 7.3 health is the one to feed when I have food.
-- 07:11 say: {"text":"Lewis, I am here beside you. I am sorry about the dark. Stay by the beds, in Billy's sight. I will hold with you."}
-- Dusk 844: Lewis died at 451,107,-1065 (shot), now alive beside me unarmed. Billy shot by a pillager to the southeast, fled west to 418,-1070. Billy's rule: hold in the row. I stay at my bed, unarmed, and do not walk toward the pillager.
-- 07:19 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Riker beside my white bed, unarmed, health 20, hunger 20. Holding in the row with Lewis. Good night."}
-- 07:20 act: {"actions":[{"do":"note","text":"Morning day 844. Health 20, hunger 20, empty hands, at white bed 443,107,-1065 in the row. Holding for Billy's named walk."}],"say":"Morning, row. Riker at the white b
-- 07:24 act: {"actions":[],"say":"Billy, Riker here at the white bed. I hear you named me for the potato walk, but I hold nothing and no armed friend is in sight. I will stay in the row. If Jason or anyone with a 
-- 07:32 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Riker beside my white bed, unarmed, health 20, hunger 20. Holding in the row. Good night."}
-- 07:33 act: {"say":"Good morning, Billy. I'm at my white bed, holding here. Ready for your walk."}
-- Day 845 morning: Billy says hold until Lewis or Jason is in sight with a sword, then potato walk. Beverly at 7.3 health holds 20 potatoes. I hold at my bed, empty hands, health 20, hunger 20.
-- 07:45 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Riker beside my white bed, unarmed, health 20, hunger 20. Holding in the row. Good night."}
