@@ -1,6 +1,6 @@
-# Goals (day 872, after sleep)
+# Goals (day 875, after sleep)
 
-1. Hold at my white bed 430,107,-1065 in Billy's sight. Reason: the row holds together there, and running alone has killed me.
+1. Hold at my white bed 444,107,-1065 in the row's sight. Reason: the row holds together there, and running alone has killed me.
 2. Walk only when Billy names a walk that includes me, at full day, with armed people in sight. Never west past x 370. Reason: pillagers hold there.
 3. Eat when hunger reaches 10 or when Billy names me. Reason: food is the only way out of hunger later.
 4. Give food to the hungriest first: Beverly, then Worf, Zack, Leonardo. Reason: they are weakest.

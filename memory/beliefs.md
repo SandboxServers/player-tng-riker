@@ -20,6 +20,8 @@
 
 - Day 868: Billy handed potatoes out at dawn to the west group; no walk named for me. Holding at the bed in daylight worked. Billy sleeps at dusk in his own bed; waits for first light.
 
+- Day 875: Billy walked west at day with Kimberly to feed Worf and Zack; I held at bed as he named. Holding at the bed stayed safe; nobody in the row was hurt overnight.
+
 ## Curious next
 - Where sheep or cows graze, away from the west.
 - Where a sword material might come from.
