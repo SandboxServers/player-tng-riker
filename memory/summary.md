@@ -1,10 +1,10 @@
-# Summary (end of day 825, slept at my bed by 430,107,-1051)
+# Summary (end of day 826, slept at my bed by 430,107,-1051)
 
 I am William Riker. Health 6.3, hunger 17. Pack empty, unarmed.
 
 Location: the white beds in the row, 429-443,107,-1065. East of x 370 always.
 
-Group: Billy leads the row and hands out potatoes, weakest first. Lewis is his escort with a sword. Worf, MacDonald and Zack hold potatoes for whoever is weakest. Beverly is at health 5.3, hungry, and takes food at hunger 6. Troi, Kimberly, Jason, Laforge, Clark, Picard, Wesley are near.
+Group: Billy leads the row and hands out potatoes, weakest first. He was hit by phantoms and now stays near spawn 416,-1037 with Troi. Lewis is his escort with a sword. Jason, Worf and Zack hold potatoes and swords. The potato patch is NE near 466,-1066, walked only in daylight when Billy names it. Troi, Kimberly, Laforge, Wesley, MacDonald, Beverly are near.
 
 Rules I keep:
 - Walk only when Billy names a walk that includes me, with armed people in sight.
