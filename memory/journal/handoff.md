@@ -1,1 +1,1 @@
-Handoff: at my white bed 430,107,-1051, slept. Holding for Billy's named walk. No errand running. Beverly is weakest; give her food first when I have spare.
+Handoff, day 838 night: at my white bed 430,107,-1051. Health 20, hunger 20, empty hands. Holding for Billy's named walk. No errand running. Beverly is weakest; Billy and Bcrusher are handling potatoes for her. Give food first when I have spare.
