@@ -13,14 +13,13 @@
 - Day 812: Jason and Worf carry swords in the row.
 - Day 823-832: nights in bed passed with no danger in the row.
 - Day 825-826: phantoms hit Billy at dawn and night; Billy goes to spawn at 416,-1037 with Troi.
-- Day 840: no walk was named by Billy all day; holding at the bed was safe.
-- Day 833 and 856: sleeping in my white bed at night worked; the row was quiet.
 - Day 832: I died while fleeing alone from unseen shooters east of my bed. Lesson: flee toward the group, not away from it.
-- Day 862: Billy named walks for Worf, Zack and Jason, not for me. Holding at the bed all day was safe. Beverly low at about 7 health.
-
-- Day 868: Billy handed potatoes out at dawn to the west group; no walk named for me. Holding at the bed in daylight worked. Billy sleeps at dusk in his own bed; waits for first light.
-
-- Day 875: Billy walked west at day with Kimberly to feed Worf and Zack; I held at bed as he named. Holding at the bed stayed safe; nobody in the row was hurt overnight.
+- Day 833 and 856: sleeping in my white bed at night worked; the row was quiet.
+- Day 840: no walk was named by Billy all day; holding at the bed was safe.
+- Day 862: Billy named walks for Worf, Zack and Jason, not for me. Holding at the bed all day was safe.
+- Day 868: Billy handed potatoes out at dawn to the west group; no walk named for me. Holding at the bed in daylight worked.
+- Day 875: Billy walked west at day with Kimberly to feed Worf and Zack; I held at bed as he named. Nobody in the row was hurt overnight.
+- Day 876: Billy fed potatoes to Leonardo and Beverly at dawn. Holding at bed was safe all day. Beverly still at health 7.3.
 
 ## Curious next
 - Where sheep or cows graze, away from the west.
