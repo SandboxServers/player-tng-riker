@@ -6,7 +6,7 @@ Location: the row of white beds at x 429-447, y 107, z -1065 to -1040. East of x
 
 Group: Billy leads the row and names the walks. Kimberly is armed (sword) and holds potatoes for Billy's call. Troi, Lewis, Picard, Laforge hold at their beds. Bcrusher holds 10 potatoes owed to Zack and Worf. Beverly, Worf, Zack, Leonardo are the hungriest.
 
-Known: potatoes at 464-468,107,-1073. Cows far away. No sheep seen. No sword material found.
+Known: potatoes at 464-468,107,-1073. Cows far away (434,106,-1113). No sheep seen. No sword material found.
 
 Rules I keep:
 - Walk only when Billy names a walk that includes me, at full day, with armed people in sight.
