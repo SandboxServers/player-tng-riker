@@ -1,1 +1,1 @@
-Handoff, day 848 night. At white bed 430,107,-1065 beside 429,107,-1065. Health 20, hunger 20, unarmed, no errand running. No walk named for me. Next at waking: say good morning, hold for Billy's named walk, eat at hunger 10.
+Handoff, day 850 night. At white bed 430,107,-1065 beside 429,107,-1065. Health 20, hunger 20, unarmed, no errand running, not walking. Billy has named no walk; the row holds at beds until daylight and an armed friend is in sight. Zack needs a bed. Next at waking: say good morning, hold for Billy's named walk, eat at hunger 10.
