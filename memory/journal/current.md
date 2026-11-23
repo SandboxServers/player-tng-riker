@@ -4,3 +4,8 @@
 - Night, at my white bed 430,107,-1051. Health 20, hunger 20, empty hands. Said I am holding. Waiting for Billy.
 - Morning, day 835. Said good morning. Still at bed, health 20, hunger 20. Holding for Billy's named walk.
 - 04:21 say: {"text":"Good morning, row. Riker at my bed, health 20, hunger 20, empty hands. Holding for Billy's word."}
+- 04:29 say: {"text":"Riker at my white bed, holding for the night. Beverly, I have no food, so Billy's named walk comes first."}
+- Night of day 836, at my white bed 430,107,-1051. Health 20, hunger 20, empty hands. Said I hold. Nobody needs food from me yet. Going to sleep in the bed.
+- 04:30 say: {"text":"Good morning, row. Riker at my bed, health 20, hunger 20, empty hands. Holding for Billy's named walk."}
+- Day 836 morning, slept through the night at my bed. Health 20, hunger 20. No walk named by Billy yet. Holding; Jason and Troi asked for food for the weakest, I have none.
+- 04:54 say: {"text":"Billy, Riker at my bed 430,-1051, unarmed, no food. Name me for any walk and I come."}
