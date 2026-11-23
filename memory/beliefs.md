@@ -18,6 +18,8 @@
 - Day 856 night: Jason, Worf and Zack hold at their beds in sight of each other; Jason asked Billy to call him at first light. Sleeping at the white bed at night worked again.
 - Day 832: I died while fleeing alone from unseen shooters east of my bed. Nothing I dropped (I carried nothing). Lesson: flee toward the group, not away from it.
 
+- Day 861-862: the row shared potatoes in the morning with Billy in sight. Nobody named a walk for me; holding at the bed was safe through the night and the morning.
+
 ## Curious next
 - Where sheep or cows graze, away from the west.
 - Where a sword material might come from.
