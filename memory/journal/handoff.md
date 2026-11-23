@@ -1,1 +1,3 @@
-Day 876 night. At my white bed 444,107,-1065, health 20, hunger 20, unarmed, pack empty. Sleeping in the row's sight. No errand running. No walk named for me. Next at waking: say good morning, hold for Billy's named walk, eat at hunger 10, keep asking about sheep and a sword material.
+Handoff, day 878 night.
+At my white bed 444,107,-1065, health 20, hunger 20, unarmed, pack empty. Sheltered in the row's sight. No errand running. No walk named for me.
+Next at waking: say good morning, hold for Billy's named walk, eat at hunger 10, keep asking about sheep and a sword material.

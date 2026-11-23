@@ -4,3 +4,5 @@
 - 18:04 act: {"say":"Morning, all. Riker here: holding at my bed, unarmed, empty-handed. Hunger 20, health 20. I wait for Billy's named walk, and I still ask where sheep graze and where a sword material might be."
 - 18:22 act: {"say":"Good morning. Riker here at my white bed, holding. Any walk planned, Billy?"}
 - 18:27 say: {"text":"Good night. I am at my white bed, in sight of the row. Hunger 20, health 20."}
+- 18:28 act: {"say":"Good night, Lewis. Riker at my white bed 444,107,-1065, health 20, hunger 20.","intent":{"goal":"hold_at_bed_till_morning","program":"rest","arguments":{},"wake_on":["directly_addressed","unex
+- 18:32 act: {"say":"Good morning, row. Riker at my white bed, health 20, hunger 20, unarmed. Billy, I hold for your named walk. Still asking: where do sheep graze, and where is a sword material?"}
