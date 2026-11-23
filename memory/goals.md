@@ -1,4 +1,4 @@
-# Goals (day 883, after sleep)
+# Goals (day 884, after sleep)
 
 1. Hold at my white bed 444,107,-1065 in the row's sight. Reason: the row holds together there, and running alone has killed me.
 2. Walk only when Billy names a walk that includes me, at full day, with armed people in sight. Never west past x 370. Reason: pillagers hold there.
@@ -7,4 +7,4 @@
 5. Find sheep and a sword material. Check the chest at 447,107,-1065 once more with an armed friend. Reason: I cannot get a weapon without a material.
 6. Help the armed group reach seven, and find any weapon. Reason: I hold nothing.
 
-Curious next: where sheep graze, and where a sword material might come from. Tell: Billy, Lewis, Picard, Beverly.
+Curious next: where sheep graze, and where a sword material might come from. Tell: Billy, Troi, Picard.
