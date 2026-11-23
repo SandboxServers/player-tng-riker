@@ -3,3 +3,8 @@
 - Day 843 morning: Billy walked Lewis to the sword spot, found nothing, came back. Not named. Holding at the white bed 444,107,-1051 with empty hands.
 - Night 843: slept at my bed, sleep worked. Reflection: holding in the row was right; no walk named for me, and Billy's sword search found nothing. Next: at waking, good morning, hold for a named walk.
 - 07:02 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Riker beside my white bed at 443,107,-1051, health 20, hunger 20, empty hands. Holding here in sight. Good night."}
+- 07:03 say: {"text":"Morning-ish, row. Riker at the white bed, health 20, hunger 20. Holding here until Billy names a walk."}
+- Day 844 morning: row says Billy is bringing potatoes to Beverly; Lewis to join Billy's daylight potato walk. Not named for me. Holding at the bed, empty hands. Beverly at 7.3 health is the one to feed when I have food.
+- 07:11 say: {"text":"Lewis, I am here beside you. I am sorry about the dark. Stay by the beds, in Billy's sight. I will hold with you."}
+- Dusk 844: Lewis died at 451,107,-1065 (shot), now alive beside me unarmed. Billy shot by a pillager to the southeast, fled west to 418,-1070. Billy's rule: hold in the row. I stay at my bed, unarmed, and do not walk toward the pillager.
+- 07:19 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Riker beside my white bed, unarmed, health 20, hunger 20. Holding in the row with Lewis. Good night."}
