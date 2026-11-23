@@ -4,7 +4,7 @@ I am William Riker. Health 20, hunger 20. Pack empty, unarmed.
 
 Location: the white beds in the row, 429-443, 107, -1050 to -1065. East of x 370 always.
 
-Group: Billy leads the row and names the walks. Jason, Worf and Zack hold at their beds in sight of each other. Beverly is near 7.3 health and first in line for food.
+Group: Billy leads the row and names the walks. Jason, Worf, Zack, Laforge, Lewis and Picard hold at their beds. Beverly is near 7.3 health and first in line for food. Billy and Bcrusher are sorting out who holds the 10 potatoes.
 
 Rules I keep:
 - Walk only when Billy names a walk that includes me, at full day, with armed people in sight.
