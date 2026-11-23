@@ -1,1 +1,1 @@
-Riker at my white bed 430,107,-1051 in the row. Health 20, hunger 20. Unarmed, pack empty. No walk named by Billy yet. Nobody near in danger, no errand running. Beverly and Leonardo are weakest for food; give to them first when I have spare. Last said: holding for Billy's named walk.
+Handoff: at my white bed 430,107,-1051, slept. Holding for Billy's named walk. No errand running. Beverly is weakest; give her food first when I have spare.
