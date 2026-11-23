@@ -15,6 +15,7 @@
 - Day 825-826: phantoms hit Billy at dawn and night; Billy goes to spawn at 416,-1037 with Troi.
 - Day 840: no walk was named by Billy all day; holding at the bed was safe. Zack (no bed) may use the white bed at 429,107,-1050 next to mine.
 - Day 833: sleeping in my white bed at night worked; the row was quiet through the night and the morning waking held at the bed.
+- Day 856 night: Jason, Worf and Zack hold at their beds in sight of each other; Jason asked Billy to call him at first light. Sleeping at the white bed at night worked again.
 - Day 832: I died while fleeing alone from unseen shooters east of my bed. Nothing I dropped (I carried nothing). Lesson: flee toward the group, not away from it.
 
 ## Curious next
