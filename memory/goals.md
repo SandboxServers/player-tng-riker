@@ -1,4 +1,4 @@
-# Goals (day 824, after sleep)
+# Goals (day 825, after sleep)
 
 1. Hold at my white bed in the row, in Billy's sight. Reason: the row holds together there.
 2. Walk only when Billy names a walk that includes me, with armed people in sight. Never west past x 370. Reason: pillagers hold 370-380.
@@ -7,4 +7,4 @@
 5. Give food to whoever is hungriest when I have spare. Beverly is at health 5.3. Reason: she is short.
 6. Help the armed group reach seven, and find a sword or any weapon. Reason: I hold nothing.
 
-Curious next: where sheep graze, where a sword material might come from. Tell: Billy, Lewis, Beverly.
+Curious next: where sheep or cows graze, where a sword material might come from. Tell: Billy, Lewis, Beverly.
