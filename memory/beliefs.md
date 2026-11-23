@@ -18,6 +18,8 @@
 - Day 832: I died while fleeing alone from unseen shooters east of my bed. Lesson: flee toward the group, not away from it.
 - Day 862: Billy named walks for Worf, Zack and Jason, not for me. Holding at the bed all day was safe. Beverly low at about 7 health.
 
+- Day 868: Billy handed potatoes out at dawn to the west group; no walk named for me. Holding at the bed in daylight worked. Billy sleeps at dusk in his own bed; waits for first light.
+
 ## Curious next
 - Where sheep or cows graze, away from the west.
 - Where a sword material might come from.
