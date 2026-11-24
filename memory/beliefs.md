@@ -7,6 +7,7 @@
 - Beds in the row work at night. Sleep at dusk fails ("it is not night").
 - The row is walled in with planks. Worf opened a north plank at 417,107,-1052 on day 916.
 - Potato patch: ripe potatoes at 463-470, 107, -1068 to -1075. Water at 466,106,-1072.
+- Day 925: dawn came with Worf saying he would survey past the gap first. Night was quiet in the row. Lewis, Clark, Zack and Laforge all wait on Worf's named route. Hunger 17 for me, so I eat at 10 or when named.
 - Day 924: still no walk named. Worf checks the row chest and says he names no route until he sees cells past the gap. Food is scarce in the row: Picard is at health 2.3, and the others report no food in their packs.
 - Day 923: still no walk named. Phantom seen at night near the gap at 417,110,-1053. Worf armed with a stone sword holds the row.
 - Day 922: still no walk named. Worf surveys past the gap first. Sleep at the bed in the row works at night.

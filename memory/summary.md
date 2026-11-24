@@ -4,7 +4,7 @@ I am William Riker. Health 11.3, hunger 17 at sleep. Pack empty, unarmed.
 
 Location: the row of white beds, x 429-447, z -1065 to -1040. I sleep at white bed 430,107,-1065.
 
-Group: Worf holds the row, has no food, and names no walk until he sees cells past the gap. Picard is weakest (health 2.3 at dawn). Zack, Jason, Billy, Clark, Lewis, Laforge hold in the row, none with food to spare.
+Group: Worf holds the row with a stone sword and names no walk until he has surveyed cells past the gap. Picard is weakest. Zack, Jason, Billy, Clark, Lewis, Laforge hold in the row, none with food to spare.
 
 Known: ripe potatoes at 463-470, 107, -1068 to -1075, east of x 370. Water at 466,106,-1072. No sheep seen. No sword material found. Chest at 447,107,-1065 unread.
 
