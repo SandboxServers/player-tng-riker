@@ -1,4 +1,4 @@
-# Goals (day 952, after sleep)
+# Goals (day 954, after sleep)
 
 1. Stay in the row's sight and sleep beside a white bed at night. Reason: phantoms killed Billy on the open ground.
 2. Walk only when Worf or Billy names a walk that includes me, at full day, with armed people in sight. Never west past x 370. Reason: pillagers and phantoms hold there.
