@@ -1,0 +1,1 @@
+Day 912 night: asleep at white bed 430,107,-1065 in the row. Health 11.3, hunger 17, unarmed, pack empty. No errand running. Next: at waking, eat at hunger 10 or when named, hold for a daylight walk east of x 370 with armed people in sight, ask about sheep and a sword material.
