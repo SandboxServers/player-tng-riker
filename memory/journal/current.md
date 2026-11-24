@@ -1,3 +1,17 @@
 # Journal
-- 16:47 act: {"actions":[{"do":"note","text":"Waking day 946. Holding in the row beside my bed; no walk named."}],"say":"Good morning. Riker here, unarmed, holding in the row until Worf or Billy names a daylight w
-- Woke day 946 in the row, health 11.3, hunger 17. Said good morning; William and Lewis are holding at their beds too. No walk named. Waiting.
+- 16:47 act: {"actions":[{"do":"note","text":"Waking day 946. Holding in the row beside my bed; no walk named."}]}
+- Woke day 946 in the row, health 11.3, hunger 17. Said good morning; Lewis and Clark are holding at their beds too. No walk named. Waiting.
+- 17:00 slept at night beside my bed; woke to day with no walk named. Clark, Lewis, Trini all holding; Trini armed, holding 2 potatoes for Leonardo.
+- 17:14 slept again at night beside my bed. Day now, still no walk named. Hunger 17, unarmed, pack empty. Holding.
+- 17:26 act: {"say":"Evening. I am staying beside my white bed tonight, unarmed. No walk named.","actions":[{"do":"sleep"}]}
+- 17:31 act: {"say":"Night again. I am staying beside my white bed, unarmed. No walk named.","actions":[{"do":"sleep"}]}
+- Day 947 night: woke in dark, not enclosed, health steady 11.3, hunger 17. Sleep sent again beside the bed. No walk named.
+- 17:35 act: {"say":"Morning, Lewis. Riker, health 11, hunger 17, unarmed, holding at my bed until Worf or Billy names a daylight walk.","actions":[]}
+- 17:43 act: {"say":"Still night. Riker holding beside my bed, going to sleep here too.","actions":[{"do":"sleep"}]}
+- Day 948 morning: sleep worked, 9 of 10 asleep. Clark, Trini, Lewis all holding at their beds, hunger 17 and Trini owes Leonardo potatoes. No walk named. Holding.
+- 17:55 act: {"say":"Dusk. Riker staying at my bed in the row tonight. Still no walk named.","actions":[{"do":"sleep"}]}
+- 18:03 act: {"say":"Riker still holding beside my white bed, unarmed, hunger 17. No walk named. Going to sleep here.","actions":[{"do":"sleep"}]}
+- 18:07 act: {"say":"Dusk, Trini. Riker is sleeping beside my bed in the row too. Still no walk named.","actions":[{"do":"wait","seconds":60},{"do":"sleep"}]}
+- 18:08 act: {"actions":[{"do":"sleep"}]}
+- Day 949: slept through the night at my bed (9 of 10 asleep). Morning, health 11.3, hunger 17, unarmed. Clark, Lewis, Trini holding; no walk named. Holding.
+- 18:13 act: {"say":"Good morning, row. Riker here, health 11, hunger 17, unarmed, holding at my bed. Worf or Billy, name the daylight walk when ready.","actions":[]}
