@@ -17,3 +17,5 @@
 - 21:04 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Night in the row, day 957. Riker by my white bed, holding for a named walk. Goodnight."}
 - 21:08 act: {"actions":[],"say":"Good morning, row. Riker at my white bed, health 11, hunger 17. Holding for Billy or Worf to name a daylight walk to the potatoes."}
 - 21:16 act: {"actions":[{"do":"sleep"}],"say":"Dusk in the row. Riker sleeping by my white bed, holding for a named walk. Goodnight."}
+- 21:16 act: {"say":"Goodnight, row. William at the white bed, health 11, hunger 17, no walk named."}
+- 21:16 act: {"actions":[{"do":"sleep"}]}
