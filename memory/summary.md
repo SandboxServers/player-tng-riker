@@ -1,10 +1,10 @@
-# Summary (day 935, asleep in the row)
+# Summary (day 937, asleep in the row)
 
 I am William Riker. Health 11.3, hunger 17 at sleep. Pack empty, unarmed.
 
 Location: the row of white beds, x 429-447, z -1065 to -1040. I sleep beside the white bed at 429,107,-1051, with Lewis near.
 
-Group: Worf names walks. None named on day 935; he sees only planks past the gap. Picard is at health 2.3 and Leonardo at health 1, both without food. Billy died to phantoms on the open ground at night and woke at the spawn.
+Group: Worf names walks. None named on days 935-937; he sees only planks past the gap. Picard and Leonardo are low on health and food. Troi, Laforge, Jason and Beverly hold at their beds too.
 
 Known: ripe potatoes at 463-470, 107, -1068 to -1075. Water at 466,106,-1072. No sheep seen. No sword material found. Chest at 447,107,-1065 unread.
 
