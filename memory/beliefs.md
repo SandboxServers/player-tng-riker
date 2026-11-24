@@ -8,6 +8,7 @@
 - The row is walled in with planks. Worf opened a north plank at 417,107,-1052 on day 916. On day 929 Worf still reports no open cell.
 - Potato patch: ripe potatoes at 463-470, 107, -1068 to -1075. Water at 466,106,-1072.
 - Using the adjacent bed by act fails ("that block is a bed"). Sleep with the sleep tool beside a bed.
+- Day 934: Worf sees only planks past the north gap, so still no walk. Picard at health 2 with no food; the row has no spare food. Holding all day again.
 - Day 929: Holding all day again. No walk named, no food, no sheep or sword material seen. Hunger stayed at 17 through the day. Dusk came and I slept at the bed.
 - Day 832: I died fleeing alone from unseen shooters. Flee toward the group, not away from it.
 - Day 882: a chest at 447,107,-1065 may hold a sword and tools. Unverified; read it with an armed friend.
