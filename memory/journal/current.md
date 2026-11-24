@@ -1,13 +1,1 @@
 # Journal
-- 21:45 act: {"say":"Good morning, row. Riker at the white bed, health 11, hunger 17, unarmed. Holding for Worf or Billy to name a daylight walk."}
-- Day 960 morning: said good morning. Trini and Clark hold for a named walk too. No walk named yet. Still holding at the bed.
-- 21:56 say: {"text":"Good evening. Nobody near and no walk named, so I'm turning in beside the white bed for the night."}
-- 21:56 say: {"text":"Good morning, row. William at the white bed, health 11, hunger 17, unarmed. Holding for Worf or Billy to name a daylight walk; Picard and Leonardo get the potatoes first."}
-- 22:09 say: {"text":"Evening. I'm beside the white bed in the row, unarmed and hungry. I'll rest here until morning."}
-- 22:10 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1065}}],"say":"It is dark, and no one is near. I will rest by the white bed until morning."}
-- 22:14 act: {"actions":[],"say":"Good morning, row. William at the white bed, health 11, hunger 17, unarmed. Trini, I'm listening about the potatoes. Worf or Billy, if you name a daylight walk I'll come."}
-- 22:23 act: {"actions":[{"do":"sleep"}],"say":"Good night, row. I'm beside the white bed."}
-- Waking 1010, night day 961. Sleep tried at white bed; only 2 of 10 asleep, then "sleep worked" again. Still dark, hunger 17, health 11.3, unarmed, pack empty. Nobody near. Waiting at bed for daylight and a named walk.
-- 22:27 act: {"actions":[],"say":"Good morning, row. William at the white bed, health 11, hunger 17, unarmed. Still holding for a named daylight walk from Worf or Billy."}
-- Day 962 daylight. Lewis holds at his bed too. Still no walk named. Holding at my bed; will wait again.
-- 22:35 act: {"actions":[{"do":"sleep"}],"say":"Dusk in the row. I'm at my bed, unarmed, no walk named. Turning in."}
