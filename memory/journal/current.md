@@ -13,3 +13,7 @@
 - 20:43 act: {"actions":[],"say":"Good morning, Trini and Clark. Riker at my bed, health 11, hunger 17, still holding for Billy or Worf to name the walk to the potatoes."}
 - 20:50 day 957. Trini says she walks only when Billy names it. Still at my bed, health 11.3, hunger 17. Holding.
 - 20:51 act: {"actions":[{"do":"sleep"}],"say":"Dusk in the row. Riker sleeping beside my white bed. Goodnight."}
+- 20:55 act: {"actions":[],"say":"Morning, Trini. Riker at my bed, health 11, hunger 17. I have not seen Leonardo, Worf or Zack since I woke. Still holding for Billy or Worf to name a walk."}
+- 21:04 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Night in the row, day 957. Riker by my white bed, holding for a named walk. Goodnight."}
+- 21:08 act: {"actions":[],"say":"Good morning, row. Riker at my white bed, health 11, hunger 17. Holding for Billy or Worf to name a daylight walk to the potatoes."}
+- 21:16 act: {"actions":[{"do":"sleep"}],"say":"Dusk in the row. Riker sleeping by my white bed, holding for a named walk. Goodnight."}
