@@ -5,3 +5,4 @@
 - Night passed, bright again now. No walk named by Worf; he sleeps in the row. Clark and Laforge hold too. I still hold, hunger 17.
 - Morning again. Said good morning; still no walk named. Holding at the bed.
 - 13:57 say: {"text":"Good morning, row. William, health 11, hunger 17, unarmed. Holding at my bed. Ready to join any daylight walk Worf names."}
+- 14:06 act: {"say":"Good morning, Lewis. Still dark here. I'll hold by the bed until Worf names a walk."}
