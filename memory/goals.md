@@ -1,4 +1,4 @@
-# Goals (day 927, after sleep)
+# Goals (day 928, after sleep)
 
 1. Stay in the row's sight, sleeping at a white bed in the row (429,107,-1051 or 430,107,-1065). Reason: running alone has killed me, and phantoms roam at night.
 2. Walk only when Worf or Billy names a walk that includes me, at full day, with armed people in sight. Never west past x 370. Reason: pillagers hold there.
