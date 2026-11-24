@@ -1,10 +1,10 @@
-# Summary (day 922, asleep at white bed 430,107,-1065)
+# Summary (day 923, asleep at white bed 430,107,-1065)
 
 I am William Riker. Health 11.3, hunger 17 at sleep. Pack empty, unarmed.
 
 Location: the row of white beds, x 429-447, z -1065 to -1040. I sleep at white bed 430,107,-1065.
 
-Group: Worf (armed) is surveying past the north gap and has named no walk yet. Zack, Jason, Billy, Clark, Lewis, Picard, Laforge hold in the row. Nobody has food to spare.
+Group: Worf (armed with a stone sword) holds the row and has named no walk. Zack, Jason, Billy, Clark, Picard, Laforge hold in the row. Nobody has food to spare.
 
 Known: ripe potatoes at 463-470, 107, -1068 to -1075, east of x 370. Water at 466,106,-1072. No sheep seen. No sword material found. Chest at 447,107,-1065 unread.
 
