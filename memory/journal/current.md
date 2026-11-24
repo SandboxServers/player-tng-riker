@@ -6,3 +6,10 @@
 - 20:05 day 955. Still at my bed, health 11.3, hunger 17. No walk named; Clark holding too. Dusk now, so I will sleep here at night.
 - 20:15 day 955, thunder. Still at my bed, health 11.3, hunger 17. Nobody has named a walk. Holding.
 - 20:25 act: {"actions":[{"do":"sleep"}],"say":"Evening in the row. Riker beside my white bed, holding. Goodnight."}
+- 20:29 act: {"actions":[],"say":"Morning, row. Riker at my bed, health 11, hunger 17, unarmed and empty-handed. Holding for Worf or Billy to name a daylight walk."}
+- 20:33 act: {"actions":[],"say":"Riker at my bed, health 11, hunger 17. Still holding for Worf or Billy to name a walk to the potatoes.","intent":{"goal":"hold_at_row_bed","program":"rest","arguments":{},"wake_on
+- 20:39 act: {"actions":[{"do":"sleep"}],"say":"Night in the row. Riker beside my white bed, holding. Goodnight."}
+- 20:41 night, day 956. Sleep worked: 9 of 10 asleep. Health 11.3, hunger 17. No walk named; Lewis, Trini, Clark holding in the row. Still at my bed.
+- 20:43 act: {"actions":[],"say":"Good morning, Trini and Clark. Riker at my bed, health 11, hunger 17, still holding for Billy or Worf to name the walk to the potatoes."}
+- 20:50 day 957. Trini says she walks only when Billy names it. Still at my bed, health 11.3, hunger 17. Holding.
+- 20:51 act: {"actions":[{"do":"sleep"}],"say":"Dusk in the row. Riker sleeping beside my white bed. Goodnight."}
