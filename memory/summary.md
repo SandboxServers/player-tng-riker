@@ -1,17 +1,17 @@
-# Summary (day 927, asleep at white bed 430,107,-1065)
+# Summary (day 927, asleep in the row)
 
 I am William Riker. Health 11.3, hunger 17 at sleep. Pack empty, unarmed.
 
-Location: the row of white beds, x 429-447, z -1065 to -1040. I sleep at white bed 430,107,-1065.
+Location: the row of white beds, x 429-447, z -1065 to -1040. I sleep at a white bed in the row, 429,107,-1051 or 430,107,-1065.
 
-Group: Worf holds the row and names no walk until he sees open ground past the gap. Picard is weakest and sleeps beside me. Zack, Jason, Billy, Clark, Lewis, Laforge hold in the row, none with food to spare.
+Group: Worf holds the row and names no walk until he sees open ground past the gap. Picard is weakest at health 2.3. Billy, Zack, Jason, Clark, Trini, Beverly, Troi, Laforge hold in the row, none with food to spare.
 
 Known: ripe potatoes at 463-470, 107, -1068 to -1075, east of x 370. Water at 466,106,-1072. No sheep seen. No sword material found. Chest at 447,107,-1065 unread.
 
 Rules I keep:
 - Walk only when Worf or Billy names a walk that includes me, at full day, with armed people in sight.
 - Never walk alone in the dark. Never west past x 370.
-- Sleep at night in my white bed, in the row's sight.
+- Sleep at night in a white bed, in the row's sight.
 - Eat at hunger 10 or when named.
 - Give spare food to the hungriest first.
 
