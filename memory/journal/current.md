@@ -1,7 +1,5 @@
 # Journal
-- Morning day 914. Worf, Zack, Jason walked armed NE to 425,107,-1090. I was not named and am unarmed, so I held in the row.
-- I queued a goto toward Worf by mistake, then sent myself back to bed 430,107,-1065. Worf was out of sight. Back at bed, holding.
-- Hunger 17, health 11.3. Holding for a walk Worf or Billy names that includes me.
-- Dusk day 914 waking. Nobody near, hunger 17, health 11.3. Said I hold at bed and will walk when named. Holding on a rest intent.
-- 06:35 act: {"actions":[],"say":"Riker holding at bed 430,107,-1065, unarmed. Worf, the walk is blocked and bows are near, so I stay in the row until you clear a lane and name me."}
-- 06:40 act: {"say":"Riker holding at bed 430,107,-1065, unarmed. Billy, Worf, I am here and will walk when you name me.","intent":{"goal":"hold_in_row","program":"rest","arguments":{},"wake_on":["directly_address
+- Night day 914. At bed 430,107,-1065, sheltered, health 11.3, hunger 17. No walk named for me.
+- Morning day 915. Worf named an east walk to the potatoes that included me. I set a follow on Worf. The follow failed (Worf out of sight or walk blocked). I did not move on my own.
+- Day 915 later: east hop blocked. Zack and Laforge hold in the row. Billy knows no sheep or sword stone.
+- Dusk day 915. Holding at bed 430,107,-1065, unarmed, hunger 17, health 11.3. Going to sleep here.
