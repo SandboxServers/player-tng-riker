@@ -27,6 +27,8 @@
 
 - Day 889: Night in my bed was quiet. Troi, Lewis, Picard, Laforge all hold at beds in the row. Billy holds potatoes for Beverly, Worf and Zack; Worf is hungry at 12, Jason at 13.
 
+- Day 911: Dusk walks were not named; Worf, Laforge and Clark held in the row. Sleep at night in my bed at 430,107,-1065 worked.
+
 ## Curious next
 - Where sheep or cows graze, away from the west.
 - Where a sword material might come from.
