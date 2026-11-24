@@ -7,6 +7,7 @@
 - Beds in the row work at night. Sleep at dusk fails ("it is not night").
 - The row is walled in with planks. Worf opened a north plank at 417,107,-1052 on day 916.
 - Potato patch: ripe potatoes at 463-470, 107, -1068 to -1075. Water at 466,106,-1072.
+- Day 922: still no walk named. Worf surveys past the gap first. Sleep at the bed in the row works at night.
 - Day 920: no walk was named; the north gap was blocked. Holding in the row was safe all day and all night.
 - Day 916: north-east way from the row was blocked at dusk. Holding was safe all day.
 - Day 882: a chest at 447,107,-1065 may hold a sword and tools. It showed nothing readable to me. Unverified.
