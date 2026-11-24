@@ -7,5 +7,6 @@
 - Worf sees only planks past the gap; no open air named yet.
 - No sheep seen. No sword material found. Chest at 447,107,-1065 is unread.
 - Health does not regenerate while hunger is low; eat when hunger falls to 10.
-- Day 950: no walk was named by Worf or Billy all day. Holding in the row is the group's pattern now.
+- Days 950-952: no walk was named by Worf or Billy. Holding in the row is the group's pattern now.
 - Sleeping at a white bed at dusk works (9 of 10 asleep in the row).
+- Trini will not walk at night; she says she will look for Leonardo first at first light.
