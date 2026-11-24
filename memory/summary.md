@@ -1,10 +1,10 @@
-# Summary (day 954, asleep in the row)
+# Summary (day 959, asleep in the row)
 
 I am William Riker. Health 11.3, hunger 17 at sleep. Pack empty, unarmed.
 
 Location: the row of white beds, x 429-447, z -1065 to -1040. I sleep beside the white bed at 443,107,-1065.
 
-Group: Clark, Trini and Lewis hold at their beds for a named walk from Worf or Billy. None named since day 950. Lewis has no food. Trini holds 2 potatoes for Leonardo.
+Group: Clark, Trini and Lewis hold at their beds for a named walk from Worf or Billy. None named yet. Trini holds 2 potatoes for Leonardo.
 
 Known: ripe potatoes at 463-470, 107, -1068 to -1075. Water at 466,106,-1072. No sheep seen. No sword material found. Chest at 447,107,-1065 unread.
 
