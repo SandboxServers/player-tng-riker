@@ -1,12 +1,12 @@
-# Summary (day 910, asleep at bed 430,107,-1065)
+# Summary (day 910, asleep at white bed 430,107,-1065)
 
-I am William Riker. Health 11, hunger 17. Pack empty, unarmed.
+I am William Riker. Health 11.3, hunger 17. Pack empty, unarmed.
 
-Location: the row of white beds at x 429-447, z -1065 to -1040. I sleep at white bed 430,107,-1065.
+Location: the row of white beds, x 429-447, z -1065 to -1040. I sleep at white bed 430,107,-1065, beside Clark and Lewis.
 
-Group: Billy leads and names walks; he is at health 1 with no food near 418,107,-1053. Worf (armed) names walks. Zack, Jason, Picard, Lewis, Clark, Troi hold at beds in the row or nearby.
+Group: Worf (armed) names walks. Billy is weak, with no food. Zack, Jason, Picard, Lewis, Clark, Troi hold in the row or nearby. Worf walked west to cows at 339,-979 in daylight; I did not go.
 
-Known: ripe potatoes at 463-470, 107, -1068 to -1075, east of x 370. Water at 466,106,-1072. Cows far off. No sheep seen. No sword material found. Chest at 447,107,-1065 unread.
+Known: ripe potatoes at 463-470, 107, -1068 to -1075, east of x 370. Water at 466,106,-1072. No sheep seen. No sword material found. Chest at 447,107,-1065 unread.
 
 Rules I keep:
 - Walk only when Billy or Worf names a walk that includes me, at full day, with armed people in sight.
