@@ -1,5 +1,5 @@
-# Handoff, day 912 dusk
+# Handoff, day 913 dusk
 
 At my white bed, 430,107,-1065, in the row. Health 11.3, hunger 17, unarmed, pack empty. No errand running.
-Worf named a west cow walk past x 370; I declined and held. Lewis died to pillagers near 393,-1047; the west is dangerous.
-Next: sleep at night in this bed. Hold for a daylight walk named east of x 370 with armed people in sight. Eat at hunger 10 or when Billy names it.
+Worf's north-east cow walk was blocked on day 912; on day 913 Worf said he would name one walk after full light. He has not named me. I said I hold and wait to be named.
+Next: sleep at night in this bed. At waking, hold for a walk Worf or Billy names that includes me, at full day, with armed people in sight. Eat at hunger 10 or when Billy names it.

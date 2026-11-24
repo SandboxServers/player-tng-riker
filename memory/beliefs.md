@@ -29,6 +29,8 @@
 
 - Day 911: Dusk walks were not named; Worf, Laforge and Clark held in the row. Sleep at night in my bed at 430,107,-1065 worked.
 
+- Day 912-913: Worf's north-east cow walk to 434,106,-1113 was blocked; the row held. On day 913 nobody named me, so I held at the bed all day, safely. Worf said he would name one walk after full light.
+
 ## Curious next
 - Where sheep or cows graze, away from the west.
 - Where a sword material might come from.
