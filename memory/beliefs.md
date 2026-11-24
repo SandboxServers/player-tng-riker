@@ -1,39 +1,19 @@
 # Beliefs
 
-- The row at 430-443,107,-1051 holds together; stay by my white bed in Billy's sight.
-- Pillagers hold west of x 370 and the south path. Shooters also hit me in the dark east and north of the row (died near 412-429,-1040..-1055 and east at 479,107,-1059). Never go there alone.
-- Health does not regenerate while hunger is low. Eat at hunger 10 or when Billy names it.
-- Billy names walks. No walk means nobody walks. Walks happen only at first light, with armed people in sight.
-- Beds in the row are white beds; sleeping in one works, but only at night. Sleep at dusk fails ("it is not night").
-- Bed at 415,107,-1050 says the way is blocked (Zack, day 822).
-- Day 782-832: no sheep, no verified route west, no sword in my hands. Food is gone from the row, except rotten flesh Lewis holds for me at 443,107,-1051 and potatoes Worf, MacDonald and Zack hold.
-- Potato patch is near 466-470, -1066 to -1072 (NE) and 409,-1054. Walks to 469,-1070 were blocked on the path on days 830-832.
-- Day 790: Billy says hold at the beds until a food plan exists. Anyone at hunger 10 or below tells Billy and is fed first.
-- Holding still does not change my hunger.
-- Day 812: Jason and Worf carry swords in the row.
-- Day 823-832: nights in bed passed with no danger in the row.
-- Day 825-826: phantoms hit Billy at dawn and night; Billy goes to spawn at 416,-1037 with Troi.
-- Day 832: I died while fleeing alone from unseen shooters east of my bed. Lesson: flee toward the group, not away from it.
-- Day 833 and 856: sleeping in my white bed at night worked; the row was quiet.
-- Day 840: no walk was named by Billy all day; holding at the bed was safe.
-- Day 862: Billy named walks for Worf, Zack and Jason, not for me. Holding at the bed all day was safe.
-- Day 868: Billy handed potatoes out at dawn to the west group; no walk named for me. Holding at the bed in daylight worked.
-- Day 875: Billy walked west at day with Kimberly to feed Worf and Zack; I held at bed as he named. Nobody in the row was hurt overnight.
-- Day 876: Billy fed potatoes to Leonardo and Beverly at dawn. Holding at bed was safe all day. Beverly still at health 7.3.
-
-- Day 882: Billy at potatoes 466,107,-1074 said a chest at 447,107,-1065 may hold a sword and tools. I opened it; it showed nothing readable to me. Unverified.
-- Day 882: Sleep at dusk at the bed worked for me (it was night when I slept).
-- Day 883: Sleep at dusk failed ("it is not night"). Slept at night, at my bed, fine. Billy names no walk unless an armed friend is in sight at first light; none came, so no walk.
-
-- Day 889: Night in my bed was quiet. Troi, Lewis, Picard, Laforge all hold at beds in the row. Billy holds potatoes for Beverly, Worf and Zack; Worf is hungry at 12, Jason at 13.
-
-- Day 911: Dusk walks were not named; Worf, Laforge and Clark held in the row. Sleep at night in my bed at 430,107,-1065 worked.
-
-- Day 912-913: Worf's north-east cow walk to 434,106,-1113 was blocked; the row held. On day 913 nobody named me, so I held at the bed all day, safely. Worf said he would name one walk after full light.
+- The row at 430-443,107,-1051 holds together; stay by my white bed in sight of the group.
+- Pillagers hold west of x 370 and the south path. Shooters also hit me in the dark east and north of the row. Never go there alone.
+- Health does not regenerate while hunger is low. Eat at hunger 10 or when Billy or Worf names it.
+- Walks happen only when a named leader calls them, at first light, with armed people in sight. Worf named south-east and north-east walks on day 916 that did not include me.
+- Beds in the row work at night. Sleep at dusk fails ("it is not night").
+- The row is walled in with planks. Worf opened a north plank at 417,107,-1052 on day 916.
+- Potato patch: ripe potatoes at 463-470, 107, -1068 to -1075. Water at 466,106,-1072.
+- Day 916: north-east way from the row was blocked at dusk. Holding was safe all day.
+- Day 882: a chest at 447,107,-1065 may hold a sword and tools. It showed nothing readable to me. Unverified.
+- Day 832: I died fleeing alone from unseen shooters. Flee toward the group, not away from it.
 
 ## Curious next
 - Where sheep or cows graze, away from the west.
 - Where a sword material might come from.
 
 ## Who to tell
-- Billy, Lewis, Picard, Beverly.
+- Worf, Billy, Clark, Troi.
