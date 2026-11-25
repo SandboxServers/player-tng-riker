@@ -1,2 +1,2 @@
 # Journal
-- 08:14 act: {"say":"Holding here at my bed with you, Worf. I'll wait for daylight and a named route.","intent":{"goal":"hold_night_in_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpect
+- Waking 1071, night, day 991. At my white bed 430,107,-1065 in the row. Said I would hold for daylight with Worf. Hunger 17, health 11.3, unarmed. Holding.
