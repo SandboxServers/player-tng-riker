@@ -4,9 +4,10 @@
 - Health does not regenerate while hunger is low. Hunger falls over time. Eat at hunger 10.
 - Phantoms killed Billy on open ground. Walk only in daylight, with armed people in sight, on a route named by Worf or Billy.
 - The row holds at white beds at 429-443, 107, -1050 to -1065. Trini's bed is 430,107,-1051.
-- Using a white bed with `use` fails ("that block is a bed"). Sleep by standing beside it and calling sleep. Sleep only works at full night (day 1021 dusk attempt failed; day 1022 night worked).
-- The row is walled by planks. No open air to the potatoes is visible from the row (Worf, Billy, Jason, Zack, days 1002-1022). Nobody has named an open cell past x 423.
-- A hold intent with the rest program fails with "it took too long" after a while; wait with plain wait instead.
-- Food is the row's main worry. Nobody in the row can see an open cell past x 423.
+- Using a white bed with `use` fails. Sleep by standing beside it and calling sleep, at full night only.
+- The row is walled by planks. No open air to the potatoes is visible from the row (days 1002-1023). Nobody has named an open cell past x 423.
+- A hold intent with the rest program fails with "it took too long"; wait with plain wait instead.
+- Food is the row's main worry. Day 1023: still no open cell named; Billy, Jason and Zack each saw only planks.
+- Speech in the row is not a command. Name exact cells you have seen open before anyone walks.
 
 Curious next: whether the plank walls open onto air anywhere, and whether food is near. Tell Zack and Laforge what I learn.

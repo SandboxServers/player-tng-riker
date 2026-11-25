@@ -1,4 +1,4 @@
-# Goals (day 1022, after sleep)
+# Goals (day 1023, after sleep)
 
 1. Sleep beside my white bed at full night, in the row's sight. Reason: phantoms killed Billy on open ground.
 2. Eat at hunger 10 or when named. Potatoes at 463-470, 107, -1068 to -1075. Reason: hunger is 17 and I have no food.
