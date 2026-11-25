@@ -17,3 +17,7 @@
 - 22:26 act: {"actions":[{"do":"sleep"}],"say":"Riker, dusk 1034, at my bed. Hunger 17, no food. No walk in the dark. Trini, the potatoes go to Worf and Leonardo first."}
 - 22:38 act: {"actions":[{"do":"sleep"}],"say":"Riker, dusk 1034, at my bed. Holding, unarmed, hunger 17. No walk until light and an open cell is named."}
 - Night 1034: sleep worked partly (4 of 10 asleep). Morning 1034: Trini holds 2 potatoes for Worf and Leonardo and asks for their cells. No open cell named. Hunger 17, health 11.3. Still holding, no walk.
+- 22:43 say: {"text":"William here, holding at my bed 430,107,-1065. Unarmed, no food. Worf or Billy, name a daylight route with open cells and I will follow."}
+- Day 1035 morning to dusk: said I hold at bed. Billy, Laforge, Worf, Zack all see no open cell past 423; nobody named a route. Health 11.3, hunger 17. Clark sleeping at his bed. Going to my bed to sleep at dusk.
+- 22:51 act: {"actions":[{"do":"sleep"}],"say":"Riker, dusk 1035, at my bed. Holding, unarmed, hunger 17. No walk until someone names an open cell."}
+- 22:51 act: {"actions":[{"do":"sleep"}]}

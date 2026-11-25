@@ -10,5 +10,6 @@
 - A hold intent with the rest program fails with "it took too long"; wait with plain wait instead.
 - Food is the row's main worry. Day 1027: still no open cell named; the whole row held all day.
 - Speech in the row is not a command. Name exact cells you have seen open before anyone walks.
+- Day 1035: sleep took three tries at dusk (2 of 10, then worked). Keep trying sleep at the bed.
 
 Curious next: whether the plank walls open onto air anywhere, and whether food is near. Tell Zack and Laforge what I learn.
