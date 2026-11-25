@@ -4,6 +4,7 @@
 - Health does not regenerate while hunger is low. Hunger falls over time. Eat at hunger 10.
 - Phantoms killed Billy on open ground. Walk only in daylight, with armed people in sight, on a route named by Worf or Billy.
 - The row holds at white beds at 429-443, 107, -1050 to -1065.
+- The row is walled by planks; Worf and Jason agree to open one plank only in daylight with everyone in sight.
 
-New today: nothing new found; the row is waiting for a named walk.
-Curious next: whether Worf finds an open cell and food. Tell Zack and Laforge what I learn.
+New today: nothing new found; the row still waits for a named walk.
+Curious next: whether the plank opens onto open air, and whether food is near. Tell Zack and Laforge what I learn.

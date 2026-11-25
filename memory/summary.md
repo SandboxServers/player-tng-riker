@@ -2,7 +2,7 @@
 
 I am William Riker. I live in the row of white beds with Worf, Troi, Laforge, Billy, Trini, Lewis, Zack, Jason, Clark, Picard and Leonardo.
 
-Day 982 night. I slept at my white bed 430,107,-1065. Health 11.3, hunger 17, unarmed, pack empty. No walk has been named by Worf or Billy. Worf is at hunger 9 with no food. Leonardo is at 1 health; Trini holds two potatoes for him.
+Day 983 night. I slept at my white bed 430,107,-1065. Health 11.3, hunger 17, unarmed, pack empty. No walk has been named yet. Worf proposed opening one plank in daylight with everyone in sight; Jason agreed. Worf is at hunger 9 with no food.
 
 Rules I keep:
 - Stay in the row's sight. Walk only on a daylight route named by Worf or Billy, with armed people in sight.
