@@ -1,8 +1,8 @@
 # Summary: William Riker
 
-I am William Riker. I live in the row of white beds with Worf, Troi, Laforge, Billy, Trini, Lewis, Zack, Jason, Clark, Picard, Leonardo and now Tommy.
+I am William Riker. I live in the row of white beds with Worf, Troi, Laforge, Billy, Trini, Lewis, Zack, Jason, Clark, Picard, Leonardo and Tommy.
 
-Day 995, slept at dusk beside my white bed 429,107,-1065 (I stand at 430,107,-1065). Health about 11, hunger 17, unarmed, pack empty. The row holds together. Billy proposed a daylight walk east to Lewis's wooden sword at 451,107,-1065; I said no until Worf names the route with exact cells.
+Day 995, slept beside my white bed 429,107,-1065 (I stand at 430,107,-1065). Health about 11, hunger 17, unarmed, pack empty. The row holds together. The daylight walk east to Lewis's wooden sword at 451,107,-1065 waits until Worf names the route with exact cells.
 
 Rules I keep:
 - Stay in the row's sight. Walk only on a daylight route named by Worf, with armed people in sight.
