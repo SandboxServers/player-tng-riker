@@ -2,7 +2,7 @@
 
 I am William Riker. I live in the row of white beds with Worf, Troi, Laforge, Billy, Trini, Lewis, Zack, Jason, Clark, Picard and Leonardo.
 
-Day 993, slept at dusk at my white bed 429,107,-1065 beside 430,107,-1065. Health about 11, hunger 17, unarmed, pack empty. No daylight route named yet. The row is holding together.
+Day 994, slept at night at my white bed 429,107,-1065 beside 430,107,-1065. Health about 11, hunger 17, unarmed, pack empty. No daylight route named yet. The row is holding together.
 
 Rules I keep:
 - Stay in the row's sight. Walk only on a daylight route named by Worf or Billy, with armed people in sight.
