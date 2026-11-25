@@ -7,6 +7,6 @@
 - Using a white bed with `use` fails ("that block is a bed"). Sleep by standing beside it and calling sleep.
 - The row is walled by planks. No open air to the potatoes is visible from the row (Worf, Billy, day 1002).
 - A hold intent with the rest program fails with "it took too long" after a while; wait with plain wait instead.
-- Day 1002: still no route named. Worf and Zack are hungry; Trini holds 2 potatoes for Leonardo, then Worf, then Zack.
+- Day 1005: still no route named by Billy or Worf. Nobody has walked to the potatoes. Food is the row's main worry.
 
 Curious next: whether the plank walls open onto air, and whether food is near. Tell Zack and Laforge what I learn.
