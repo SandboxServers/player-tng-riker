@@ -1,1 +1,1 @@
-Handoff, day 973. Slept at my bed 430,107,-1065 beside 429,107,-1065, in the row. Health 11.3, hunger 17, unarmed, pack empty. Waiting for a named daylight walk from Worf or Billy. Potatoes at 463-470, 107, -1068 to -1075; give to Leonardo and Picard first.
+Handoff, day 973 dusk. At my bed 430,107,-1065 beside 429,107,-1065, in the row. Health 11.3, hunger 17, unarmed, pack empty. No walk named by Worf or Billy. No errand out. Next: at daylight, hold for a named walk; eat at hunger 10 or when named. Potatoes at 463-470, 107, -1068 to -1075; give to Leonardo and Picard first.
