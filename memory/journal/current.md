@@ -4,3 +4,6 @@
 - 16:33 act: {"actions":[],"say":"Morning, row. Riker here, hunger 17, pack empty. Laforge, Lewis, Jason, Billy: who knows a clear open route east to the potatoes at 463-470, 107, -1068 to -1075? Name the cells an
 - 16:45 act: {"actions":[{"do":"sleep"}],"say":"Dusk, Riker at my bed, hunger 17, no route named. Sleeping here in the row."}
 - 16:57 act: {"actions":[{"do":"sleep"}],"say":"Riker, dusk, at my bed 430,107,-1065. Trini, Zack, Worf first for the potatoes; I'll take one only after them. I walk nowhere until a route is named. Sleeping here."
+- 17:01 act: {"say":"Riker, at my bed 430,107,-1065, hunger 17, pack empty. Trini's line holds: Zack and Worf first, then Picard and Leonardo. I still walk nowhere until someone names exact open cells.","intent":{
+- 17:11 act: {"say":"Riker, night, at my bed 430,107,-1065. Still no open cell named past 423, so I walk nowhere. Sleeping here.","actions":[{"do":"sleep"}]}
+- 17:11 act: {"actions":[{"do":"sleep"}]}
