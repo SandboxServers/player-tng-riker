@@ -1,4 +1,4 @@
-# Summary (day 966, asleep in the row)
+# Summary (day 967, asleep in the row)
 
 I am William Riker. Health 11.3, hunger 17 at sleep. Pack empty, unarmed.
 
