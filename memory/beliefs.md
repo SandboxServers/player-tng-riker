@@ -8,5 +8,7 @@
 - Worf sees walls on every side on day 988; no open air found yet.
 - Day 992: the north-west gap is still walled past the row, with only our own people in it. Nobody has named a route.
 
+- Day 993: still no route east named by Worf. Billy, Jason, Trini, Lewis, Clark and Laforge all hold for his word.
+
 New today: nothing new found; the row still waits for a named walk.
 Curious next: whether the plank opens onto open air, and whether food is near. Tell Zack and Laforge what I learn.
