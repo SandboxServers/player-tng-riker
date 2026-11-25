@@ -1,1 +1,19 @@
 # Journal
+- Waking 1147, night, at my white bed 430,107,-1065. Health 11.3, hunger 17, pack empty. Clark holding at his bed. Told him I hold until light; sent sleep to rest at the bed.
+- Morning came. Slept at bed, woke fine. Trini holds potatoes for Worf behind planks 424. Said I hold at bed, unarmed, until someone armed names an open cell.
+- Morning talk: everyone in the row is holding, no open cell named. I hold at bed too, waiting.
+- Night again (day 1032). Still no food, hunger 17, no open cell named. Sent sleep at my bed; nobody near is walking.
+- Day 1032 morning: whole row says no open cell seen past the planks; Billy, Worf, Trini all hold. I hold at my bed, unarmed, hunger 17. Waiting for a named open cell.
+- Day 1032 dusk to morning: slept at bed. Row still holding; Trini has 2 potatoes for Worf. No open cell named by anyone. I still hold, no walk.
+- Day 1033 morning: said I hold at bed, unarmed, hunger 17. Billy, Lewis, Trini all still holding; no open cell named. Health 11.3 steady. Waiting.
+- Day 1033 day: sleep failed (not night yet). Row still holding; Worf, Jason, Laforge see no open cell past 423. Still no walk, hunger 17.
+- Night 1034: slept at bed (7 of 10 asleep). Morning 1034: Trini still holds 2 potatoes for Worf and Leonardo; Billy and Jason see no open cell past 423. Still holding, no walk.
+- 21:33 act: {"actions":[{"do":"sleep"}],"say":"Morning is not yet. I am at my white bed too, Clark. We hold until light."}
+- 21:37 act: {"actions":[],"say":"Morning. Riker at my white bed, unarmed, no food. I will not walk the planks until someone armed names an open cell past 424."}
+- 21:45 act: {"actions":[{"do":"sleep"}]}
+- 21:57 act: {"actions":[{"do":"sleep"}],"say":"Laforge, Riker at my bed, dusk. Holding, unarmed, no walk until a cell is named open."}
+- 22:05 act: {"say":"Riker, morning 1033, at my bed. Still unarmed, no food, no open cell seen. I hold until someone names one."}
+- 22:13 act: {"actions":[{"do":"sleep"}],"say":"Riker, night 1033, at my bed. Holding until light, no walk in the dark."}
+- 22:26 act: {"actions":[{"do":"sleep"}],"say":"Riker, dusk 1034, at my bed. Hunger 17, no food. No walk in the dark. Trini, the potatoes go to Worf and Leonardo first."}
+- 22:38 act: {"actions":[{"do":"sleep"}],"say":"Riker, dusk 1034, at my bed. Holding, unarmed, hunger 17. No walk until light and an open cell is named."}
+- Night 1034: sleep worked partly (4 of 10 asleep). Morning 1034: Trini holds 2 potatoes for Worf and Leonardo and asks for their cells. No open cell named. Hunger 17, health 11.3. Still holding, no walk.
