@@ -7,3 +7,5 @@
 - 17:01 act: {"say":"Riker, at my bed 430,107,-1065, hunger 17, pack empty. Trini's line holds: Zack and Worf first, then Picard and Leonardo. I still walk nowhere until someone names exact open cells.","intent":{
 - 17:11 act: {"say":"Riker, night, at my bed 430,107,-1065. Still no open cell named past 423, so I walk nowhere. Sleeping here.","actions":[{"do":"sleep"}]}
 - 17:11 act: {"actions":[{"do":"sleep"}]}
+- 17:20 act: {"say":"Riker, day 1018, at my bed 430,107,-1065. I checked my view west: planks on every side, no open cell. I agree with Jason looking first at 428,107,-1051, and I break nothing until someone has s
+- 17:24 act: {"say":"Riker, dusk, at my bed 430,107,-1065. Still no open cell confirmed; I break nothing on a name alone. Sleeping here.","actions":[{"do":"sleep"}]}
