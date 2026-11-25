@@ -1,4 +1,4 @@
-# Goals (day 984, after sleep)
+# Goals (day 986, after sleep)
 
 1. Stay in the row's sight and sleep beside my white bed at night. Reason: phantoms killed Billy on open ground.
 2. Join the daylight plank-opening only when Worf or Billy names a route, with everyone in sight. Never walk west past x 370. Reason: pillagers and phantoms hold there.
