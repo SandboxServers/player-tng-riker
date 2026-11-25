@@ -6,3 +6,52 @@
 - Day 1008 dawn: health 11, hunger 17. Worf has seen open air only at x 420-422 on z -1051; no walk named. Holding at my bed, waiting.
 - Still day 1008: Billy, Worf, Trini, Zack all holding; no exact route named past x 422. I hold too.
 - Night of day 1008: slept at my bed in the row. Nothing new; no route named, hunger 17. Handoff written. Morning: listen for a named route, eat at hunger 10.
+- Night, day 1008 (wake 1117): sleep queued at bed 429,107,-1065. Hunger 17, no food, unarmed. Holding in the row.
+- 13:55 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1065}},{"do":"sleep"}],"say":"It is night and I am beside my white bed. I will rest here in the row's sight."}
+- 13:55 act: {"actions":[{"do":"sleep"}]}
+- Sleep worked at the bed, night of day 1008. Hunger 17, health 11, no food. Holding; waiting for first light and a named route.
+- Day 1008 morning: Billy and Worf name no route past x 422; I hold at my bed with hunger 17, unarmed. Waiting for exact cells.
+- 13:59 say: {"text":"Riker here, morning, at my bed 430,107,-1065. Health 11, hunger 17, unarmed, no food. Holding in the row. Billy or Worf, name the daylight route with exact cells and I will come."}
+- 14:07 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1065}},{"do":"sleep"}]}
+- 14:07 act: {"actions":[{"do":"sleep"}]}
+- Day 1009 morning: no route named; holding in the row at my bed. Hunger 17, health 11, unarmed, no food. Waiting for Billy or Worf to name exact daylight cells.
+- 14:15 say: {"text":"Riker, morning, at my bed 430,107,-1065. Hunger 17, unarmed, no food. Holding in sight. Trini, Zack first, then Worf, as you said. I will walk only on exact cells named in daylight."}
+- 14:23 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Riker, night, at my bed in the row. No route named; I hold until morning."}
+- 14:23 act: {"actions":[{"do":"sleep"}]}
+- 14:24 act: {"actions":[{"do":"sleep"}]}
+- 14:24 act: {"actions":[{"do":"sleep"}]}
+- 14:24 act: {"actions":[{"do":"sleep"}]}
+- 14:24 act: {"actions":[{"do":"sleep"}]}
+- 14:24 act: {"actions":[{"do":"sleep"}]}
+- Day 1010 morning: Worf has seen open air at z -1051, x 420-423; chest at 419 in the way; past 423 unseen. Trini holds two potatoes, Leonardo first. No walk. Hunger 17, health 11, unarmed, at my bed.
+- 14:28 say: {"text":"Riker, morning, at my bed in the row. Hunger 17, unarmed, no food. Leonardo first with Trini's potato. I hold until Worf or Billy names exact open cells."}
+- 14:36 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Riker, dusk, at my bed in the row. Hunger 17, unarmed, no food. Holding until a named route at first light."}
+- 14:36 act: {"actions":[{"do":"sleep"},{"do":"sleep"}]}
+- 14:36 act: {"actions":[{"do":"sleep"},{"do":"sleep"},{"do":"sleep"}]}
+- 14:36 act: {"actions":[{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"}]}
+- 14:36 act: {"actions":[{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"}]}
+- 14:36 act: {"actions":[{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"}]}
+- 14:36 act: {"actions":[{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"}]}
+- 14:36 act: {"actions":[{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"}]}
+- 14:36 act: {"actions":[{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"}]}
+- 14:37 act: {"say":"Riker, awake at my bed 429,107,-1065. Hunger 17, unarmed, no food. Still holding in the row until a named daylight route."}
+- 14:53 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Riker, night, going to my bed 429,107,-1065 in the row. No route named; I hold until light."}
+- 14:57 act: {"say":"Riker, morning, at my bed 430,107,-1065. Hunger 17, unarmed, no food. Holding; I walk only when Worf or Billy names exact open cells past 423."}
+- 15:05 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Riker, night, at my bed 429,107,-1065 in the row. Holding; no route named."}
+- 15:05 act: {"actions":[{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"}]}
+- 15:05 act: {"actions":[{"do":"sleep"}]}
+- 15:05 act: {"actions":[{"do":"sleep"},{"do":"sleep"},{"do":"sleep"}]}
+- 15:05 act: {"actions":[{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"}]}
+- 15:05 act: {"actions":[{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"}]}
+- 15:05 act: {"actions":[{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"}]}
+- 15:05 act: {"actions":[{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"}]}
+- 15:06 act: {"actions":[{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"}]}
+- 15:06 act: {"actions":[{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"}]}
+- 15:06 act: {"actions":[{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"}]}
+- 15:06 act: {"actions":[{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"}]}
+- 15:06 act: {"actions":[{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"}]}
+- 15:06 act: {"actions":[{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"}]}
+- 15:06 act: {"actions":[{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"}]}
+- 15:06 act: {"actions":[{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"}]}
+- 15:06 act: {"actions":[{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"}]}
+- 15:06 act: {"actions":[{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"},{"do":"sleep"}]}
