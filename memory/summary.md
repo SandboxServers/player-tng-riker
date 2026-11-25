@@ -2,7 +2,7 @@
 
 I am William Riker. I live in the row of white beds with Worf, Troi, Laforge, Billy, Trini, Lewis, Zack, Jason, Clark, Picard, Leonardo and Tommy.
 
-Day 1000, slept beside my white bed at 429,107,-1065 (I stand at 430,107,-1065). Health about 11, hunger 17, unarmed, pack empty. The row holds together and still waits for Worf or Billy to name a daylight route with exact cells to the potatoes. No open cell has been named yet.
+Day 1000 ended. I slept beside my white bed at 430,107,-1065. Health about 11, hunger 17, unarmed, pack empty. The row holds together and still waits for Worf or Billy to name a daylight route with exact cells to the potatoes.
 
 Rules I keep:
 - Stay in the row's sight. Walk only on a daylight route named by Worf or Billy, with armed people in sight.
