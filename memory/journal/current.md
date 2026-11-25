@@ -1,4 +1,5 @@
 # Journal
+- Day 1019 morning: at white bed 430,107,-1065, hunger 17, no food. Row holds: no open cell east named (Jason saw only planks). Said so aloud. Waiting for a named open route; walking nowhere.
 - 16:29 act: {"actions":[{"do":"sleep"}],"say":"Night, I'm at my white bed in the row. Hunger 17, no food yet. I'll sleep here and go for the potatoes at light."}
 - Night, dim, at white bed 430,107,-1065. Health 11.3, hunger 17, no food. Sent sleep; only 1 of 10 asleep so far. Plan at light: named route to potatoes 463-470,107,-1068..-1075.
 - 16:33 act: {"actions":[],"say":"Morning, row. Riker here, hunger 17, pack empty. Laforge, Lewis, Jason, Billy: who knows a clear open route east to the potatoes at 463-470, 107, -1068 to -1075? Name the cells an
@@ -9,3 +10,9 @@
 - 17:11 act: {"actions":[{"do":"sleep"}]}
 - 17:20 act: {"say":"Riker, day 1018, at my bed 430,107,-1065. I checked my view west: planks on every side, no open cell. I agree with Jason looking first at 428,107,-1051, and I break nothing until someone has s
 - 17:24 act: {"say":"Riker, dusk, at my bed 430,107,-1065. Still no open cell confirmed; I break nothing on a name alone. Sleeping here.","actions":[{"do":"sleep"}]}
+- 17:28 act: {"say":"Riker, day 1019, at my white bed 430,107,-1065, hunger 17, unarmed, pack empty. I hold in the row. No walk until someone names an open cell east of the potatoes. Trini, Zack, Worf first for fo
+- 17:37 act: {"say":"Riker, dusk, at my bed 430,107,-1065, hunger 17, no route named. Sleeping here in the row. Light, I look east with Jason first.","actions":[{"do":"sleep"}]}
+- Day 1020 morning: viewed west from my bed: planks all round, no opening. Nobody names an open cell east (Jason, Billy, Worf, Laforge all see none). Still holding in the row, hunger 17, no food.
+- 17:41 act: {"say":"Riker, morning light, at my bed 430,107,-1065, health 11, hunger 17, unarmed. Jason, Lewis, Trini: I walk east only once a cell is named open. Holding in the row."}
+- 17:53 act: {"say":"Riker, night, at my bed 430,107,-1065. No route named, so I hold in the row. Sleeping here; no walk until light.","actions":[{"do":"sleep"}]}
+- 17:57 act: {"actions":[],"say":"Riker, awake at my bed 430,107,-1065, hunger 17, unarmed, no food. Still no open cell named east. Holding in the row. Anyone who sees a clear route to the potatoes at 463-470, 107
