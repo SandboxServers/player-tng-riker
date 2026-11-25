@@ -1,4 +1,4 @@
-# Goals (day 996, after sleep)
+# Goals (day 997, after sleep)
 
 1. Stay in the row's sight and sleep beside my white bed at night. Reason: phantoms killed Billy on open ground.
 2. Walk east to the potatoes only when Worf or Billy names a daylight route with exact cells, with armed people in sight. Never walk west past x 370. Reason: pillagers and phantoms hold there.
