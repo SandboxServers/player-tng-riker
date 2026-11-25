@@ -16,3 +16,8 @@
 - 17:41 act: {"say":"Riker, morning light, at my bed 430,107,-1065, health 11, hunger 17, unarmed. Jason, Lewis, Trini: I walk east only once a cell is named open. Holding in the row."}
 - 17:53 act: {"say":"Riker, night, at my bed 430,107,-1065. No route named, so I hold in the row. Sleeping here; no walk until light.","actions":[{"do":"sleep"}]}
 - 17:57 act: {"actions":[],"say":"Riker, awake at my bed 430,107,-1065, hunger 17, unarmed, no food. Still no open cell named east. Holding in the row. Anyone who sees a clear route to the potatoes at 463-470, 107
+- 17:59 act: {"say":"Riker here, at my bed 430,107,-1065. Health 11, hunger 17, unarmed, no food. Holding in the row. Still looking for an open route to the potatoes at 463-470, 107, -1068 to -1075."}
+- Waking 1128: days_since_sleep 4. Said so aloud at my bed 430,107,-1065. Health 11.3, hunger 17, no food, pack empty. Lewis and Billy hold in sight, no open cell named. Walking nowhere; waiting for a named route.
+- 18:03 act: {"say":"Riker, dusk, at my bed 430,107,-1065. No route named, so I hold in the row. Sleeping here; no walk until light.","actions":[{"do":"sleep"}]}
+- 18:07 act: {"say":"Riker, good light, at my bed 430,107,-1065. I have no food and my hands are empty too, Worf. I still walk nowhere until a route is named with open cells. Holding in the row."}
+- Day 1021 light: sleep failed (not night yet). Worf hunger 8, Zack 14, no one has food. Laforge, Billy, Lewis hold in sight, no open route named. I hold at my bed, hunger 17.
