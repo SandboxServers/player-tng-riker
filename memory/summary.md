@@ -2,13 +2,13 @@
 
 I am William Riker. I live in the row of white beds with Worf, Troi, Laforge, Billy, Trini, Lewis, Zack, Jason, Clark, Picard and Leonardo.
 
-Day 983 night. I slept at my white bed 430,107,-1065. Health 11.3, hunger 17, unarmed, pack empty. No walk has been named yet. Worf proposed opening one plank in daylight with everyone in sight; Jason agreed. Worf is at hunger 9 with no food.
+Day 983 night, after sleep. I slept at my white bed 430,107,-1065. Health 11.3, hunger 17, unarmed, pack empty. No walk has been named. Worf opened one plank in the row; beyond it is glass.
 
 Rules I keep:
 - Stay in the row's sight. Walk only on a daylight route named by Worf or Billy, with armed people in sight.
-- Do not walk alone into the gap.
-- Eat at hunger 10, or when named. Potatoes are at 463-470, 107, -1068 to -1075.
+- Never walk west past x 370. Pillagers and phantoms hold there.
+- Eat at hunger 10, or when named. Potatoes at 463-470, 107, -1068 to -1075.
 - Give food to Picard and Leonardo first; Laforge and Zack when named.
-- At night, sleep beside a white bed. Before sleep, be sheltered and write the handoff.
+- At night, sleep beside a white bed.
 
 Goals, ranked: see goals.md.
