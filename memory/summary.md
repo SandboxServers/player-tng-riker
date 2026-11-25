@@ -1,17 +1,20 @@
-# Summary (day 970, asleep in the row)
+# Summary: William Riker
 
-I am William Riker. Health 11.3, hunger 17 at sleep. Pack empty, unarmed.
+I am William Riker. I live in the row of white beds with Worf, Troi, Laforge, Billy, Trini, Lewis, Zack, Jason, Clark, Picard and Leonardo.
 
-Location: the row of white beds, x 429-447, z -1065 to -1040. I sleep beside the white bed at 443,107,-1065.
-
-Group: Lewis and Clark hold at their beds. Trini is armed and holds by the row with 2 potatoes for Leonardo. Laforge is at 455,107,-1080 with health 3. Pillagers and phantoms are south-west and north-east.
-
-Known: ripe potatoes at 463-470, 107, -1068 to -1075. Water at 466,106,-1072. No sheep seen. No sword material found. Chest at 447,107,-1065 unread.
+Today is day 972 night. I slept beside the white bed at 429,107,-1065. Health 11.3, hunger 17, unarmed, no food.
 
 Rules I keep:
-- Walk only when Worf or Billy names a walk that includes me, at full day, with armed people in sight.
-- Never walk alone in the dark. Never west past x 370. Do not go south while pillagers are there.
-- Sleep at night beside a white bed, in the row's sight.
-- Eat at hunger 10 or when named. Give spare food to the hungriest first.
+- Stay in the row's sight. Walk only on a daylight route named by Worf or Billy, with armed people in sight.
+- Do not walk alone into the gap; it is full of people.
+- Eat at hunger 10, or when named. Potatoes are at 463-470, 107, -1068 to -1075.
+- Give food to Picard and Leonardo first.
+- At night, sleep beside a white bed. Before sleep, be sheltered and write the handoff.
 
-Next: at waking, say good morning, hold for a named walk.
+Goals, ranked:
+1. Keep alive: eat, sleep in the row.
+2. Join a named daylight walk for food.
+3. Find sheep and a sword material.
+4. Read the chest at 447,107,-1065 with an armed friend.
+
+Waking: say good morning, then hold for a named walk from Worf or Billy.
