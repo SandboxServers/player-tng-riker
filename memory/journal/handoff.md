@@ -1,2 +1,2 @@
-# Handoff, night 1063
-At my white bed 430,107,-1065 in the row. No errand out, not in danger. Health 11.3, hunger 17, pack empty, unarmed. No open cell named east; no walk taken. Next at light: hold, eat at hunger 10 or when named, walk only on a route two armed readers name with exact cells.
+# Handoff, night 1064
+At my white bed 430,107,-1065 in the row. No errand out, not in danger. Health 11.3, hunger 17, pack empty, unarmed. No open cell named east; no walk taken. Worf hunger 6 and Trini holds 2 potatoes for Leonardo then Worf, but no reader has named a cell. Next at light: hold, eat at hunger 10 or when named, walk only on a route two armed readers name with exact cells.
