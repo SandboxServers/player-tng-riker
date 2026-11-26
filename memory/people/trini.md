@@ -1,3 +1,3 @@
 # Trini
 
-Trust 60. Keeps her word on food order; holds 2 potatoes for Leonardo, Worf and Zack. Speaks clearly about the row's order. Last heard morning 1071 at bed 430,107,-1051, saying she will not walk until two readers name an open cell.
+Trust 65. Keeps her word on food; she held her two potatoes for Worf and Zack today rather than give them to me, and said so plainly. She walks nowhere without a named cell. Last heard day 1108 at 423, holding the potatoes.
