@@ -6,4 +6,4 @@
 4. Sleep beside my white bed at night, in the row's sight. Reason: phantoms killed Billy on open ground.
 5. Find a weapon material; read the chest at 447,107,-1065 with an armed friend. Reason: I am unarmed.
 
-Curious next: whether 421-423 at z -1051 is open air to the potatoes. Tell Zack, Laforge and Billy what I learn.
+Curious next: whether 421-423 at z -1051 is open air to the potatoes. Tell Zack, Jason and Billy what I learn.
