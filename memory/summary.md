@@ -2,7 +2,7 @@
 
 I am William Riker. I live in the row of white beds with Worf, Troi, Laforge, Billy, Trini, Lewis, Zack, Jason, Clark (Picard), Leonardo and Tommy.
 
-Day 1068 end (slept at bed 429,107,-1065 beside 430,107,-1065). Health 11.3, hunger 17, unarmed, pack empty. Everyone is holding; no open cell east past 423 has been named by two readers. Clark said goodnight and is holding till light.
+Day 1069 end (slept beside bed 429,107,-1065 at 430,107,-1065). Health 11.3, hunger 17, unarmed, pack empty. Everyone is holding in the row. Jason is armed with a wooden sword and names no open cell past 423. No one has walked east yet.
 
 Rules I keep:
 - Stay in the row's sight. Walk only on a daylight route named with exact cells, read by two armed people.

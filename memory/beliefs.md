@@ -12,4 +12,6 @@
 - Using a bed with the use verb fails ("that block is a bed" on day 1068); call sleep while standing beside the bed.
 - Worf's sleep at the bed was blocked on day 1054; he holds at 418,107,-1047 with Wesley and Zack.
 
+- Day 1069: the row held all morning with no route named. Jason is armed with a wooden sword. The sleep verb worked again at bed 430,107,-1065.
+
 Curious next: whether 421-423 at z -1051 is open air to the potatoes. Tell Zack, Laforge, Billy and Jason what I learn.
