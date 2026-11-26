@@ -2,7 +2,7 @@
 
 I am William Riker. I live in the row of white beds with Worf, Troi, Laforge, Billy, Trini, Lewis, Zack, Jason, Clark (Picard), Leonardo and Tommy.
 
-Day 1084 end, slept at 430,107,-1065 beside bed 429,107,-1065, in the row's sight. Health 11.3, hunger 17, unarmed, pack empty. No food has reached me yet.
+Day 1085: held in the row all day at bed 430,107,-1065. Health 11, hunger 17, unarmed, pack empty. No open route east was named. Tried sleep at night beside 429,107,-1065; not sure it took.
 
 Rules I keep:
 - Stay in the row's sight. Walk only on a daylight route named with exact cells, read by two armed people.
