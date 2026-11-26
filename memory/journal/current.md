@@ -8,3 +8,5 @@
 - Waking 1038 (day). Read the row's speech: Billy reads 420 open at z -1051, Laforge reads planks. Worf has not said yes. Still holding at bed.
 - 00:08 say: {"text":"Riker, morning, at my bed 430,107,-1065. Health 11, hunger 17, unarmed, pack empty. I am holding still until an armed person names a daylight route. I will not walk or dig."}
 - Day 1039 morning. Worf has not confirmed 420,107,-1051; Billy reads open, Laforge reads planks. Nobody walks. Hunger 17. Said so to the row and holding at bed.
+- 00:13 say: {"text":"Riker at my bed 430,107,-1065, holding for the night. Hunger 17, no food in hand. At light I wait for Worf's yes on 420 and an armed route."}
+- Night 1039. At bed 430,107,-1065, health 11.3, hunger 17, unarmed. Holding still, no walk, no dig. Going to sleep.
