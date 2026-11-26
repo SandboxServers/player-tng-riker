@@ -1,4 +1,4 @@
-# Goals (day 1069, after sleep)
+# Goals (day 1071, after sleep)
 
 1. Eat at hunger 10, or when named. Potatoes at 463-470, 107, -1068 to -1075. Reason: hunger 17, pack empty.
 2. Find an open daylight route east, named with exact cells by two armed readers. Reason: no one has seen open cells past 423.
