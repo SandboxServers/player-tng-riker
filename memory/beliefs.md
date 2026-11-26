@@ -10,6 +10,7 @@
 - A hold intent with the rest program fails with "it took too long"; wait with plain wait instead. (Day 1085: a rest intent did run out of time after one wait, so use wait.)
 - Speech in the row is not a command. Name exact cells you have seen open before anyone walks.
 - Food is the row's main worry. Nobody has eaten the potatoes yet; Trini holds 2 for Leonardo, Worf, Zack.
+- Day 1087: Worf (armed) and I both saw only planks east and west of the row; no open route past 423 yet. Sleep at 429,107,-1065 worked again.
 - Days 1080 and 1085: the row held all day with no route named and no food reached me. Hunger 17.
 
 Curious next: whether 421-425 at z -1051 is open air to the potatoes, read by two armed people. Tell Trini, Zack, Laforge, Jason and Worf what I learn.
