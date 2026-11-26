@@ -1,3 +1,5 @@
-# Handoff, day 1097 dusk
+# Handoff, day 1098 night
 
-At bed 430,107,-1065 in the row's sight, going to sleep. Health 11.3, hunger 17, pack empty, unarmed. No errand, no walk, not in danger. No open route past the planks at 423 has been named by anyone, so the potatoes at 463-470, 107, -1068 to -1075 are still out of reach. At light: hold, ask Billy or Worf for an armed daylight route with exact cells, and walk only if two armed readers agree. Trini holds 2 potatoes for Worf, Zack and Leonardo first.
+Slept at bed 430,107,-1065 in the row's sight. Health about 11.3, hunger 17, pack empty, unarmed. No errand, not in danger.
+No armed daylight route past the planks at 423 has been named. At light: ask Billy or Worf for an exact armed route; walk only if two armed readers agree.
+Food first to Worf, then Leonardo and Zack. Trini holds 2 potatoes for them.
