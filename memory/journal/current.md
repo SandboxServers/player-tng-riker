@@ -1,1 +1,29 @@
 # Journal
+
+- Day 1103, midday: woke at bed 430,107,-1065. Hunger 17, health 11.3, pack empty. Holding in the row; Trini, Worf and Zack still have no named gap cell. I said I will confirm any cell they name. Breaking nothing, walking nowhere.
+- 21:35 act: {"actions":[{"do":"sleep"}]}
+- 21:37 act: {"actions":[{"do":"sleep"}]}
+- Day 1104, morning: Worf (hunger 5) and Billy see no open cell past 423 either. Still no named cell, so I hold and break nothing. Said aloud what I see. Waiting.
+- 21:41 act: {"actions":[],"say":"Riker, light 1103, at bed 430,107,-1065. I see no open cell past 423 at z -1051 either. Billy and I both see only planks. Trini, Worf, Zack: name a cell you each see, and I will c
+- 21:50 act: {"actions":[{"do":"sleep"}]}
+- 21:50 act: {"actions":[{"do":"sleep"}]}
+- 21:50 say: {"text":"Riker, night 1104, at bed 430,107,-1065. Worf, I see no open cell past 423 yet. Name the cell you see and I will confirm it."}
+- Night 1104: sleep 9 of 10 asleep, then sleeping again. Worf is in the row with Zack, Wcrusher, Jason, holding until light at 423. Hunger 17, health 11.3. Breaking nothing.
+- Day 1105, light: Zack, Worf, Trini, Laforge, Lewis, Clark all hold; none names an open cell past the planks. Hunger 17. I break nothing and walk nowhere. Waiting for two readers to confirm a cell.
+- 22:02 act: {"actions":[{"do":"sleep"}]}
+- 22:02 say: {"text":"William, dusk, at my bed 430,107,-1065. Goodnight, row. No open cell named past 423, so I break nothing."}
+- Night 1105: Trini, Zack, Worf, Laforge, Clark, Lewis, Billy all hold for the night; no cell named past the planks. Trini will hand potatoes to Worf at light if a cell is named. I sleep at bed 430,107,-1065, hunger 17, health 11.3.
+- 22:02 act: {"actions":[{"do":"sleep"}]}
+- 22:18 act: {"actions":[{"do":"sleep"}],"say":"Riker, night 1105, at my bed 430,107,-1065. No open cell named past 423, so I break nothing. Trini, Worf, Zack: at light, name a cell you each see."}
+- Light, day 1105 after sleep: sleep worked, night skipped. Worf, Zack, Jason, Billy and Lewis all see only planks past 423; Trini is walking to 423,107,-1050 with potatoes. Nobody has named a cell. I hold at bed, break nothing. Hunger 17.
+- 22:31 act: {"actions":[{"do":"sleep"}],"say":"Riker, dusk 1106, at my bed 430,107,-1065. Still no cell named past 423, so I break nothing. Trini, at light name your cell and I will look."}
+- Night 1106: slept (4 of 10, then the night went). Trini says she will name a cell at light. Worf is at hunger 5 and waits for the potatoes. I still see no open cell past 423, so I break nothing. Hunger 17, health 11.3.
+- Day 1106, light: Trini stands at 423 with 2 potatoes and sees only planks; Worf and Zack see no open cell either. Nobody has named one. I hold at bed, break nothing, walk nowhere. Hunger 17.
+- 22:31 act: {"actions":[{"do":"sleep"}]}
+- Dusk 1106: Zack, Trini and Worf all still see only planks past 423 and name no cell. I break nothing and go to sleep at my bed 430,107,-1065.
+- Sleep 1106 returned the day digest; days since sleep reads 0. Trini, Worf and Zack all still hold at the planks, and Trini will name a cell at light. I hold at bed 430,107,-1065. Hunger 17, health 11.3.
+- Night 1107: first sleep at dusk failed (not night yet). Slept at bed 430,107,-1065 once night came. Trini, Billy, Laforge, Clark, Wcrusher all hold through the night; no cell named past 423. Hunger 17, health 11.3, breaking nothing.
+- Sleep 1107 worked and the night was skipped. I am still at bed 430,107,-1065, hunger 17, health 11.3. No cell named past 423 yet; I hold and break nothing.
+- Day 1107, light: Trini holds 2 potatoes at 423 and cannot be seen from Worf at 416 or Zack at 415. No cell is named by two readers. I hold at bed, break nothing. Hunger 17.
+- 22:39 say: {"text":"Riker, day 1106, at my bed 430,107,-1065. Still no cell named past 423 from my sight. Trini, Worf, Zack: name the one open cell you each see and I will look before anyone moves."}
+- 22:51 say: {"text":"Riker, day 1107, at my bed 430,107,-1065. Trini, I cannot see you from here either. Worf and Zack: if you see Trini or any open cell past 423, name it and I will look."}
