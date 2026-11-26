@@ -2,7 +2,7 @@
 
 I am William Riker. I live in the row of white beds with Worf, Troi, Laforge, Billy, Trini, Lewis, Zack, Jason, Clark (Picard), Leonardo and Tommy.
 
-Day 1045 end: slept at my white bed 430,107,-1065. Health 11.3, hunger 17, unarmed, pack empty. No open cell past 423 confirmed by a second armed reader. Trini holds 2 potatoes for Leonardo, Worf, Zack. Everyone is holding until a daylight route is named.
+Day 1048 end: slept at my white bed 430,107,-1065. Health 11.3, hunger 17, unarmed, pack empty. The row is holding; no open cell past 423 confirmed by two armed readers. Trini holds 2 potatoes for Leonardo, Worf, Zack. Worf is hungry (7), Zack (14).
 
 Rules I keep:
 - Stay in the row's sight. Walk only on a daylight route named with exact cells, with armed people in sight.
