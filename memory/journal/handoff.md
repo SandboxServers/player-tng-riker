@@ -1,2 +1,2 @@
-# Handoff, night 1083
-At bed 430,107,-1065 in the row, beside white bed 429,107,-1065. Health 11.3, hunger 17, pack empty, unarmed. No errand running, no walk named. Worf is hungriest (hunger 5 at dawn); Trini holds 2 potatoes for Worf, Leonardo, Zack. I have nothing to give. Next at light: hold in the row, do not walk east until two armed readers name open cells. Potatoes at 463-470, 107, -1068 to -1075 remain the food source.
+# Handoff, night 1084
+At bed 430,107,-1065 in the row, beside white bed 429,107,-1065. Slept there (sleep worked). Health 11.3, hunger 17, pack empty, unarmed. No errand running, no walk named. Worf is hungriest (hunger 5 at morning 1084); Trini holds 2 potatoes for Worf. I have nothing to give. Next at light: hold in the row, do not walk east until two armed readers name open cells. Potatoes at 463-470, 107, -1068 to -1075 remain the food source.
