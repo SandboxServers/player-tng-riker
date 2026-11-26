@@ -13,4 +13,6 @@
 - Worf's sleep at the bed was blocked on day 1054; he held at 418,107,-1047 with Wesley and Zack.
 - Day 1071: the row held all day with no route named. Worf reached hunger 6. Jason has a wooden sword and no food.
 
+- Day 1071 (day): Jason, Billy, Zack, Clark and Laforge all held in place; no armed reader named an open cell. Sleep at dusk 1072 worked beside bed 430,107,-1065.
+
 Curious next: whether 421-423 at z -1051 is open air to the potatoes. Tell Zack, Laforge, Billy and Jason what I learn.
