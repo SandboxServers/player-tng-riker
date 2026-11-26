@@ -1,4 +1,4 @@
-# Goals (day 1075, after sleep)
+# Goals (day 1076, after sleep)
 
 1. Eat at hunger 10, or when named. Potatoes at 463-470, 107, -1068 to -1075. Reason: hunger 17, pack empty.
 2. Give food to Worf first when I have any. Reason: hunger 5, no food, the row's order.
