@@ -13,4 +13,7 @@
 - Billy made a wooden sword on day 1091 from planks and a stick given by Worf and Zack. Jason keeps his wooden sword in hand.
 - Hunger stayed at 17 across days 1091-1093 while I held still. Not sure why; watch it.
 
+- Day 1093 night: sleep at bed 430,107,-1065 worked again. Wesley (wcrusher) asked Billy to sleep at 415,107,-1051; Billy said yes.
+- Hunger was still 17 after the night skip; no change seen in the morning.
+
 Curious next: whether any cell past 423 at z -1051 is open air to the potatoes, read by two armed people. Tell Trini, Zack, Laforge, Jason, Billy and Worf what I learn.
