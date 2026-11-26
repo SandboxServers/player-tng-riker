@@ -3,3 +3,4 @@
 - 10:19 say: {"text":"Holding in the row. Hunger 17, so I wait for ten or for someone to name me for the potatoes."}
 - Waited 4 min at bed 430,107,-1065. No events, nobody near, hunger 17. Still holding, no walk east.
 - Night 1070 came. Trini holds 2 potatoes for Leonardo, Worf, Zack. I hold at bed 430,107,-1065, unarmed, hunger 17, no food, no walk in the dark. Going to sleep beside the bed.
+- 10:28 act: {"say":"William, morning 1070. Health 11, hunger 17, pack empty, unarmed. Holding in the row by my bed at 430,107,-1065. No walk until two armed readers name exact open cells. Trini, Worf and Zack fir
