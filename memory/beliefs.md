@@ -9,6 +9,7 @@
 - A hold intent with the rest program fails with "it took too long"; wait with plain wait instead.
 - Speech in the row is not a command. Name exact cells you have seen open before anyone walks.
 - Food is the row's main worry. Nobody has eaten the potatoes yet; Trini holds 2 for Leonardo, Worf, Zack.
+- Using a bed with the use verb fails ("that block is a bed" on day 1068); call sleep while standing beside the bed.
 - Worf's sleep at the bed was blocked on day 1054; he holds at 418,107,-1047 with Wesley and Zack.
 
 Curious next: whether 421-423 at z -1051 is open air to the potatoes. Tell Zack, Laforge, Billy and Jason what I learn.

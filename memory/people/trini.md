@@ -1,3 +1,3 @@
 # Trini
 
-Holds two potatoes for Leonardo, Worf and Zack, and eats only at hunger 10. Careful and fair. Trust 80.
+Trust 60. Keeps her word on food order; holds 2 potatoes for Leonardo, Worf and Zack. Speaks clearly about the row's order. Last seen morning 1067 at bed 430,107,-1051.

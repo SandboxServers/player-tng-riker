@@ -1,4 +1,4 @@
-# Goals (day 1064, after third sleep)
+# Goals (day 1068, after first sleep this life)
 
 1. Eat at hunger 10, or when named. Potatoes at 463-470, 107, -1068 to -1075. Reason: hunger 17, pack empty.
 2. Give food in the order Trini set: Leonardo, Worf, Zack, then Picard. Trini holds 2 potatoes. Reason: already agreed.
