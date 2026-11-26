@@ -1,4 +1,4 @@
-# Goals (day 1045, after sleep)
+# Goals (day 1048, after sleep)
 
 1. Eat at hunger 10, or when named. Potatoes at 463-470, 107, -1068 to -1075. Reason: hunger is 17, pack empty.
 2. Give food first to Worf and Zack when named, then Leonardo and Picard. Reason: Worf and Zack are hungry.
