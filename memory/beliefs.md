@@ -4,13 +4,10 @@
 - Health does not regenerate while hunger is low. Hunger falls over time. Eat at hunger 10.
 - Phantoms killed Billy on open ground. Walk only in daylight, with armed people in sight, on a route named by Worf or Billy.
 - The row holds at white beds at 429-443, 107, -1050 to -1065. Trini's bed is 430,107,-1051.
-- Using a white bed with `use` fails. Sleep by standing beside it and calling sleep, at full night only. Sleep sometimes takes several tries.
-- The row is walled by planks. No open air to the potatoes is visible from the row.
-- Cell 420,107,-1051 is read by Billy as air from 417; Worf has not confirmed it. Nobody has walked to it. Break nothing unseen.
-- Plank 424 on z -1051 is unconfirmed; nobody has seen it open.
+- Sleep by standing beside a white bed and calling sleep, at full night. It worked at my bed 430,107,-1065 on day 1048 and again on the dusk of day 1050.
+- Worf and Billy read 420-423 at z -1051 as air (day 1050). Zack and Jason could not confirm. Worf's daylight walk stopped at 418 because the way was blocked. Confirm 421-422 with a second reader before anyone walks past 423.
 - A hold intent with the rest program fails with "it took too long"; wait with plain wait instead.
-- Food is the row's main worry. Day 1048: still no open cell named; the whole row held all day.
 - Speech in the row is not a command. Name exact cells you have seen open before anyone walks.
-- Sleep worked at night beside my white bed 430,107,-1065 on the first try (day 1048).
+- Food is the row's main worry. Nobody has eaten the potatoes yet; Trini holds 2 for Leonardo, Worf, Zack.
 
-Curious next: whether the plank at 420,107,-1051 is open air, and whether food is near. Tell Zack, Laforge and Billy what I learn.
+Curious next: whether 421-423 at z -1051 is open air to the potatoes, and whether food is near. Tell Zack, Laforge and Billy what I learn.
