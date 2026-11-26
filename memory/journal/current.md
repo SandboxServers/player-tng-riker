@@ -4,3 +4,4 @@
 - Day 1072 morning: woke beside bed 429,107,-1065. Hunger 17, health 11.3, pack empty. Said I am holding; set rest intent to wait for hunger 10 or a call. Lewis is holding nearby.
 - 11:14 act: {"say":"Riker at my bed, hunger 17, still holding. I name no cells past 423 either, so no walk yet. Worf and Zack first for food.
 - Dusk 1072: still hunger 17, holding at bed. Jason's survey past 423 was refused; no walk. Next: sleep beside bed when night comes."}
+- 11:26 act: {"say":"Riker at my bed, day 1073 morning. Hunger 17, health steady, no food. Still holding in the row; no walk until two armed readers name the cells.","intent":{"goal":"hold_beside_bed","program":"r
