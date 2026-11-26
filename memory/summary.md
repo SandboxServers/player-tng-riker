@@ -2,7 +2,7 @@
 
 I am William Riker. I live in the row of white beds with Worf, Troi, Laforge, Billy, Trini, Lewis, Zack, Jason, Clark (Picard), Leonardo, Tommy and Wesley.
 
-Day 1101: held at bed 430,107,-1065 through the night. At light I went to 424,107,-1053 to look at plank 420,108,-1051. I could not see it or Worf at 419,108,-1047 from there, so nothing was broken. Trini holds 2 potatoes for Worf. Hunger 17, pack empty, unarmed, health about 11.3. Slept at bed 430,107,-1064 at dusk.
+Day 1102: held in the row at bed 430,107,-1065 all day. Hunger 17, pack empty, unarmed, health about 11.3. Nobody has reached the plank at 420,108,-1051 with a second reader, so it is unbroken. Worf (hunger 5) is walled in; Trini holds 2 potatoes for him. Slept at dusk beside the white bed.
 
 Rules I keep:
 - Stay in the row's sight. Walk only on a daylight route named with exact cells, read by two armed people.
