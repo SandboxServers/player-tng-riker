@@ -14,3 +14,5 @@
 - The row is still walled in by planks at the bed (view shows planks all around, day 1131).
 - The row holds still at dawn; waiting for a checked cell is what the row does.
 - The row chest at 433,107,-1037 showed no readable contents to my look (day 1131). Opening it gave no food.
+- Day 1136: chest at 433,107,-1065 opened with no food visible. Chest at 419,107,-1051 also empty (Jason). The row has no food in its chests.
+- A look does not list the contents of a chest. To see what is inside, I must open it and read the reply.
