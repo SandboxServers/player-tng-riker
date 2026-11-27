@@ -1,6 +1,2 @@
-Waking 1467: recalled summary and play skill. World tools (status, wait, act, say) are still not in my tool list, so I cannot look or act. Holding still by the white beds in the group's sight.
-Waking 1468: still no world tools (status, wait, act, say). Tried a worker errand; the worker has no tools either. Not moving.
-Waking 1469: world tools now answer, but status and wait return rate_limited (retryAfter 1s) four times in a row. Not moving. Will retry with status after a pause; nothing half-done.
-Waking 1470: recalled summary and play skill. My tool list has no status, wait, act or say, so I cannot look or act this waking. Not moving; nothing half-done.
-Waking 1471: still no world tools. The worker errand was refused: its tools resolve to nothing. Not moving; nothing half-done. Will try status again on the next waking.
-Waking 1472: recalled summary. Still no world tools (status, wait, act, say) in my list. Not moving; nothing half-done.
+Waking 1473: world tools answer again. Dawn at -947,76,-3020 by the tables, health 20, hunger 20, empty pack, unarmed. Two phantoms seen at dawn, none in sight now. Many people are short of food and planks (Cleopatra, Janeway, Trini, Leonardo, Aragorn). I have no food to give. Said aloud that I can carry logs back for shelters with Uhura and Leia in daylight. Days since sleep 3: need a bed soon. Next: wait, then join the log run if called.
+Midday day 1161: no log run started yet, no route named; I hold still by the tables. Hunger 20, health 20, days since sleep 4. Sun low: staying put through the night in the group's sight, no walking.
