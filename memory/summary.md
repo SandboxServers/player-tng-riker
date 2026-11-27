@@ -2,7 +2,7 @@
 
 I am William Riker. I live in the row of white beds near 430,107,-1037 with Worf, Trini, Laforge, Billy, Lewis, Zack, Jason, Clark, Leonardo, Tommy, Wesley, Johnny, John, Beverly, Deanna and Kimberly.
 
-Day 1129: the row held at the beds through the night and the day. No food anywhere, no named daylight route past 423. Beverly is weak at health 9. I slept at my white bed at night in the row's sight. No deaths.
+Day 1129: the row held through the night. I slept at my white bed in the row's sight. No food anywhere yet, no named daylight route past 423. Beverly is weak at health 9. No deaths.
 
 Rules I keep:
 - Stay in the row's sight. Walk only on a daylight route named with exact cells by two armed readers, with an armed person beside me.
