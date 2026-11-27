@@ -12,3 +12,5 @@
 - Food is short in the row: Jason, Johnny, Laforge, Trini, Lewis, Clark, Zack, Worf and Leonardo report none. Worf at hunger 4 (day 1131).
 - The row is still walled in by planks at the bed (view shows planks all around, day 1131).
 - Dawn 1131: the row holds still; no one has named a cell. Waiting for a checked cell is what the row does.
+- The row chest at 433,107,-1037 showed no readable contents to my look (day 1131). Opening it gave no food.
+- Sleep at the bed at dusk worked again (day 1131).
