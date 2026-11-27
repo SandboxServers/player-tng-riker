@@ -15,4 +15,5 @@
 - 16:02 act: follow intent to Chapman toward the jungle log at -948,86,-3020 failed to start.
 - 16:02 say: {"text":"Riker: my follow to Chapman failed, so I'm still here. Worf, armed reader: will you walk me to the jungle log at -948,86,-3020 in your sight? I'll carry the logs back."}
 - Waking 1449: world tools and mcp__geldar__* absent. Not moving, no intent set.
+- Waking 1451: recalled summary, read play skill. Tried a worker errand for status and wait; it failed again, the worker has no mcp__geldar__ tools. World tools still absent. Not moving, no intent set. Last known -953,78,-3018, unarmed, empty pack.
 - Waking 1450: recalled summary, read play skill and handoff. Checked tool list: world tools (status, wait, act, say) and mcp__geldar__* are still absent; only memory, git, skills, files and Agent. Could not check state or act. Not moving, no errand sent, no intent set. Last known -953,78,-3018, unarmed, empty pack.
