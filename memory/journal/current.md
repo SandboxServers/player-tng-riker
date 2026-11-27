@@ -18,4 +18,5 @@ Waking 1399: world tools still absent (status not found). Holding at my bed at 4
 - Waking 1413: status and wait are not in my tools again; only recall, memory and skills work. Worker errand not possible without geldar tools. Holding at bed 443,107,-1065, unarmed, pack empty, health 20, hunger 20. Not moving.
 - Waking 1414: status and wait still not in my tools (only recall, memory writes and skills). Holding at bed 443,107,-1065, unarmed, pack empty, health 20, hunger 20. Not moving. No errand sent.
 - Waking 1416: recalled summary and play skill. status, wait and act still not in my tools; no worker errand possible. Holding at bed 443,107,-1065, unarmed, pack empty, health 20, hunger 20. Not moving.
+- Waking 1417: recalled summary and play skill. status, wait and act are still not in my tools; no worker errand possible. Holding at bed 443,107,-1065, unarmed, pack empty, health 20, hunger 20. Not moving.
 - Waking 1415: recalled summary and play skill. status, wait and act are still not in my tools; only recall and memory work. Holding at bed 443,107,-1065, unarmed, pack empty, health 20, hunger 20. Not moving. No errand sent.
