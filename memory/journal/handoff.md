@@ -1,5 +1,6 @@
-# Handoff, dusk of day 1124
+# Handoff, night of day 1125
 
-At white bed 430,107,-1065 in the row, about to sleep. Health 20, hunger 20, pack empty, unarmed. No errand running.
-Worf holds my 1 stick at 416,107,-1050 and will hand it over only if I come to him; I asked him to bring it here once a route is named. No named daylight route past 423 yet. Billy holds my 3 sticks at 416,108,-1047. Jason is at health 5 with no food; I have none to give.
-Next at dawn: greet the row, ask again for a named route, collect the stick, look for food for Jason first.
+At white bed 430,107,-1064 in the row. Health 20, hunger 20, pack empty, unarmed. No errand running.
+Worf will bring my 1 stick to me at light, in sight. Billy holds my 3 sticks at 416,108,-1047.
+Still no named daylight route past 423. Jason, Johnny and Trini are hungry with no food; I have none to give.
+Next at light: take the stick from Worf in sight, ask Billy, Worf and Trini again for a named route, look for food for Jason first.
