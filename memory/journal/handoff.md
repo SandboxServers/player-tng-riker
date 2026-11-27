@@ -1,4 +1,4 @@
-Handoff, day 1151 night. Sleeping at white bed 429,107,-1065 in the row.
-Health 20, hunger 20, pack empty, unarmed. No errand running, no intent.
-Row still holding; no checked daylight route named. Worf hunger 3, Zack/Clark/John hungry, no food.
-Next at light: wait for a named route with two armed readers. Walk only behind them.
+Handoff, day 1151 dusk. Sleeping at white bed 429,107,-1065 in the row.
+Health 20, hunger 20, pack empty, unarmed. No errand, no intent.
+No checked daylight route named by anyone. Worf hunger 3, no food in the row.
+Next at light: wait for Billy or another armed reader to name a checked route. Walk only behind two armed readers.

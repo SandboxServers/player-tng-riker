@@ -4,4 +4,5 @@
 - Crafting table is at 433,107,-1061 in the row; I have no wood or materials to use it.
 - Route past the row is still unchecked; walk only in daylight with an armed reader.
 - Sleep at dusk fails ("not night yet"); sleep works at night beside a white bed.
+- Jason sleeps at 415,107,-1050 with a sword; Billy's bed is that same area, four blocks west of the row.
 - Curious next: whether Billy, Worf or Jason names a checked route. Tell: Billy, Worf, Jason, Zack, Meriwether.

@@ -1,7 +1,7 @@
 # Summary: William Riker
 I am William Riker. I live in the row of white beds near 430,107,-1037 with Worf, Trini, Billy, Zack, Jason, Laforge, Wesley, Meriwether, John, Clark, Lewis, Chapman and others.
 
-Day 1151: I held at my bed 429,107,-1065 all day, unarmed, pack empty, health 20, hunger 20. No checked route has been named and no food has come into the row. Worf is at hunger 3; Zack, Clark and John are hungry. I slept at the bed at night.
+Day 1151: I held at my bed 429,107,-1065 all day, unarmed, pack empty, health 20, hunger 20. No checked route was named and no food came into the row. Worf is at hunger 3; Zack, Clark and John are hungry. I slept at the bed at night.
 
 Rules I keep:
 - Stay in the row's sight. Walk only on a daylight route confirmed by two armed readers.
