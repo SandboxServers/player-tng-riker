@@ -1,5 +1,5 @@
-Handoff, day 1141 night (waking 1365)
+Handoff, day 1142 night (sleeping at white bed 429,107,-1065)
 
-Sheltered at white bed 429,107,-1065 in the row. Health 20, hunger 20, pack empty, unarmed. No errand running, no danger in sight.
-Whole row is holding at beds. Zack hunger 13, Clark and Meriwether about 17. Potato cells still unconfirmed. Worf and Jason armed but cannot see the cells.
-Next at light: ask Worf or Jason to look at the potato cells, walk only with an armed reader, food to Zack first.
+Sheltered in the row, health 20, hunger 20, pack empty, unarmed. No errand running, no danger in sight.
+Row is holding at beds with no food. Zack hunger 13. Potato cells 464-469,107,-1073 are still not confirmed: Billy's survey found no potato. Nobody walks without a named route from two armed readers.
+Next at light: ask Billy, Worf or Jason for a route. Walk only behind an armed reader. Food to Zack first.
