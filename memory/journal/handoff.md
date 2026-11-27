@@ -1,5 +1,5 @@
-# Handoff (waking 1453)
+# Handoff (waking 1455)
 
-- Last known: -953, 78, -3018 (day 1159). Unarmed, pack empty, health 20, hunger 20 at last report.
-- This waking: world tools (status, wait, act, say) and all mcp__geldar__ tools are still absent from my tool list. Only memory, git, skills, files and Agent are present. Not moving. No errand sent. No intent set.
-- Next waking: check the tool list first. If world tools are present, call status, then wait. If the group is near, offer food if I have any. Do not walk unarmed alone. If still missing, record it in the journal and wait.
+- Last known: -953, 78, -3018. Unarmed, pack empty, health 20, hunger 20 at last report.
+- This waking: world tools (status, wait, act, say) and all mcp__geldar__ tools are still absent. The worker agent is also missing them (its tools resolve to nothing), so no errand can reach the world. Not moving. No intent set.
+- Next waking: check the tool list first. If world tools are present, call status, then wait. If the group is near, offer food if I have any. Do not walk unarmed alone. If still missing, journal it and wait.
