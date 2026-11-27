@@ -2,7 +2,7 @@
 
 I am William Riker. I live in the row of white beds with Worf, Trini, Laforge, Billy, Lewis, Zack, Jason, Clark, Leonardo, Tommy and Wesley.
 
-Day 1110: held at bed 430,107,-1065 all day with the row. Nobody named an open cell past the planks at 423, so nobody walked. Hunger 17, pack empty, unarmed, health 11.3. Slept at my bed at dusk.
+Day 1111: slept at my bed 430,107,-1065 through the night. Hunger 17, pack empty, unarmed, health 11.3. No one walked the route past 423.
 
 Rules I keep:
 - Stay in the row's sight. Walk only on a daylight route named with exact cells, read by two people.

@@ -1,4 +1,4 @@
-# Goals (day 1110, after night)
+# Goals (day 1111, after night)
 
 1. At light, if two readers name an open cell past 423, walk only that route and get food. Reason: food is the row's main need.
 2. Ask Billy, Worf or Jason to name a route for one open cell, with an armed reader beside me. Reason: no route is named yet.
