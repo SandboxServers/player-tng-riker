@@ -4,3 +4,5 @@
 - 00:04 wait: Trini holds at 423 with potatoes, names no open cell past the planks. I hold at bed 430 and walk nowhere.
 - 00:08 say: {"text":"Morning, row. Riker here, hunger 17, pack empty. Holding at my bed until two of you name a route to the potatoes east at 463-470. Who is reading the route?"}
 - 00:21 say: {"text":"Riker going to bed at 430, unarmed, holding in the row. Pillagers are to the south; stay near the beds. Light first, then a named route."}
+- 00:21 say: {"text":"Night. I'm at my white bed in the row, going to sleep. Light first, then a named route to the potatoes."}
+- night: at bed 430, hunger 17, pack empty, no route named. Called sleep; it returned events, no new route. Holding in the row until light.
