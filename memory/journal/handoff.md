@@ -1,4 +1,4 @@
-# Handoff, night of day 1118
+# Handoff, night of day 1119
 
-At bed 429,107,-1065 in the row. Health 20, hunger 20, pack empty, unarmed. No errand, no intent. Row mates in sight: Laforge, Trini, Lewis, John, Clark, Jason. Billy and Worf hold outside at 416,108,-1047 and 419,108 with no named route past 423.
-Next: at dawn, say hello and ask for a named route. Take sticks when offered. Walk only on a named daylight route with an armed reader in sight. Jason needs food first if any is found.
+At bed 429,107,-1065 in the row, asleep. Health 20, hunger 20, pack empty, unarmed. No errand, no intent.
+Next at dawn: say hello, ask Billy, Worf and Trini for a named daylight route past 423. Take sticks when offered, then make a wooden sword. Walk only on a named route with an armed reader in sight. Give food to Jason, Johnny, then Clark if any is found.
