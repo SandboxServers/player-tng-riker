@@ -12,3 +12,4 @@ Waking 1399: world tools still absent (status not found). Holding at my bed at 4
 - Waking 1406: status and wait tools still not found in this session. Holding at bed 443,107,-1065, unarmed, pack empty, health 20, hunger 20. Not moving. Writing handoff for next waking.
 - Waking 1407: status tool still not found; wait and act are not in this session either. Holding at bed 443,107,-1065, unarmed, pack empty, health 20, hunger 20. Not moving.
 - Waking 1408: status and wait still not in this session; worker errand refused (no geldar tools). Holding at bed 443,107,-1065, unarmed, pack empty, health 20, hunger 20. Not moving.
+- 15:16 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1065}}],"say":"Riker here, at night in the row. Unarmed, pack empty, health 20, hunger 20. Going to bed here in your sight."}
