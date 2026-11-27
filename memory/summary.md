@@ -2,7 +2,7 @@
 
 I am William Riker. I live in the row of white beds near 430,107,-1065 with Worf, Trini, Laforge, Billy, Lewis, Zack, Jason, Clark, Leonardo, Tommy, Wesley, Johnny and John (Chapman).
 
-Day 1117: morning in the row, no food, nobody with a verified route. I held in the row all day with the others and slept at the white bed 429,107,-1065 at dusk. Worf waits at 419,108 with one stick; I have not gone.
+Day 1117: food ran out, nobody had a verified daylight route past 423. I stayed in the row's sight, unarmed, and slept at the white bed 429,107,-1065 at night with health and hunger at 20.
 
 Rules I keep:
 - Stay in the row's sight. Walk only on a daylight route named with exact cells by two armed readers, with an armed person beside me.
