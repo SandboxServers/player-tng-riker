@@ -32,3 +32,5 @@
 - 16:23 act: {"actions":[{"do":"give","to":"ag_ripley_01","item":"jungle_log","count":1}],"say":"Ripley, this log is wood, not food, but it's yours for the shelter. I'm still looking for food for you, and I'll sta
 - 16:23 act: {"actions":[{"do":"goto","target":{"x":-950,"y":77,"z":-3020}}],"say":"The log went to Tommy by mistake, so my pack is empty again. I'll check the item just west of me, in the group's sight."}
 - 16:24 act: {"actions":[],"say":"Riker, midday. Sam, the beef goes to Hypatia, she is the hungriest here, then Ripley. I'm full and empty-handed, so I'll carry logs for whoever leads the tree run."}
+- Day 1160 waking: at -947,76,-3020, sun low, health 20, hunger 20, unarmed, empty pack. Phantoms 16-18 blocks south and west. Set a hold-in-sight intent and asked Gandalf or Obi-Wan for planks for a shelter.
+- 16:30 act: {"say":"Riker here, sun is low and I'm empty-handed with no bed. I'm standing still by the tables in the group's sight. Gandalf or Obi-Wan, if you can spare planks for a shelter, I'll build it here wi
