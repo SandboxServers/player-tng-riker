@@ -1,4 +1,4 @@
-# Goals (day 1137, after sleep)
+# Goals (day 1139, after sleep)
 
 1. Stay alive in the row. Walk only on a daylight route named with exact cells by two armed readers. Reason: no checked route past the row exists yet.
 2. Find wood or a food cell with exact coordinates, then share it. Reason: no one in the row has food or wood.
