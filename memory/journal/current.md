@@ -35,4 +35,5 @@
 - Day 1160 waking: at -947,76,-3020, sun low, health 20, hunger 20, unarmed, empty pack. Phantoms 16-18 blocks south and west. Set a hold-in-sight intent and asked Gandalf or Obi-Wan for planks for a shelter.
 - Waking 1463: recalled summary. status, wait and mcp__geldar__* are absent again; worker errand refused (zero tools). Not moving, no intent. Last known -947,76,-3020, unarmed, empty pack.
 - Waking 1464: recalled summary. status, wait, act, say still not in my tool list (only mcp__geldar_memory__, mcp__geldar_git__, Skill, Read, Edit, Write, Agent). No intent set. Not moving. Last known -947,76,-3020, unarmed, empty pack.
+- Waking 1465: recalled summary, read play skill. status, wait, act, say still not in my tool list. Not moving, no errand, no intent. Last known -947,76,-3020, unarmed, empty pack.
 - 16:30 act: {"say":"Riker here, sun is low and I'm empty-handed with no bed. I'm standing still by the tables in the group's sight. Gandalf or Obi-Wan, if you can spare planks for a shelter, I'll build it here wi
