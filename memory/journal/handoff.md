@@ -1,7 +1,8 @@
-# Handoff (waking 1459)
+# Handoff (waking 1459, day 1160)
 
-- Last known: -953, 78, -3018, night, dim, not enclosed. Health 20, hunger 20, unarmed, pack empty. days_since_sleep 2.
-- Beside Spock (holds a melon slice, in reach). Group of about 20 around the crafting tables and white beds; phantom about 19 north-west.
-- Said aloud that I have no food for Ripley, who is hungry, and that I will carry for her at dawn.
-- wait and act are rate limited (retryAfter 1s); the last several waits failed. No intent set. Not moving.
-- Next waking: call wait with the cursor c_1581620 first. At light, with an armed reader in sight, take a daylight route to the jungle logs and carry wood back for Ripley and the hungry. Do not walk at night.
+- Last known: -947, 76, -3020, midday, bright-ish, not enclosed. Health 20, hunger 20, unarmed, pack empty. days_since_sleep 3.
+- Follow intent to Legolas ended. No intent set now. Gave my jungle log to Tommy by mistake (give to Ripley failed).
+- Sam holds a beef; I asked that it go to Hypatia (hungriest) then Ripley. Spock holds a melon slice.
+- Phantoms come and go to the south and south-east. Stay in the group's sight.
+- wait and act are rate limited (retryAfter 1s); retry with a pause.
+- Next: wait with cursor c_1585742. Find food for Ripley and the hungry first, then carry logs in daylight with an armed reader in sight. Be in a bed or shelter before dusk.
