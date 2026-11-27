@@ -5,3 +5,4 @@
 - 14:20 act: {"say":"Riker, dawn, at my bed in the row, unarmed and empty-handed, health 20. I have no food to give Worf yet. Still holding here; I will walk only on a route two armed readers have checked."}
 - Waking 1393: status and wait work again. Dawn, dim, health 20, hunger 20, pack empty, at bed 429,107,-1065. No food to give; no checked route named. Said my position aloud. Holding still; next wait for a checked route or someone in sight.
 - 14:22 act: {"say":"Riker here at my bed. I am unarmed and my pack is empty, so I cannot carry food yet. Earhart, Jason: when you name a checked route, I will walk behind you in sight.","actions":[]}
+- Waking 1396: status tool missing again (mcp__geldar__status not in session). Still at bed 429,107,-1065, health 20, hunger 20, unarmed, pack empty. Holding still; wrote handoff.md. Next waking: try wait/act first.
