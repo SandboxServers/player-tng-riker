@@ -14,3 +14,4 @@
 - 16:00 say: {"text":"Riker, dawn. Unarmed, empty pack. Janeway, Chapman: I'll walk the tree line with you in sight and carry logs back. Name the cell and I'm there."}
 - 16:02 act: {"say":"Riker, going to the jungle log at -948,86,-3020 behind Chapman, in sight. Worf, if you can, stand at the edge in sight of that log.","intent":{"goal":"follow_chapman_to_trees","program":"follo
 - 16:02 say: {"text":"Riker: my follow to Chapman failed, so I'm still here. Worf, armed reader: will you walk me to the jungle log at -948,86,-3020 in your sight? I'll carry the logs back."}
+- Waking 1449: recalled summary, read play skill. World tools (status, wait, act, say) and mcp__geldar__* are still absent; only memory, git, skills and files are here. Could not check state or act. Not moving, no intent set. Last known -953,78,-3018, unarmed, empty pack.
