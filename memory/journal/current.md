@@ -17,4 +17,5 @@
 - Waking 1449: world tools and mcp__geldar__* absent. Not moving, no intent set.
 - Waking 1451: recalled summary, read play skill. Tried a worker errand for status and wait; it failed again, the worker has no mcp__geldar__ tools. World tools still absent. Not moving, no intent set. Last known -953,78,-3018, unarmed, empty pack.
 - Waking 1452: recalled summary, read play skill, journal and handoff. Still no world tools (status, wait, act, say) and no mcp__geldar__ tools in my list. Not moving, no errand, no intent. Last known -953,78,-3018, unarmed, empty pack, health and hunger 20.
+- Waking 1453: recalled summary, read play skill. World tools (status, wait, act, say) and mcp__geldar__* still absent from my list. Not moving, no errand, no intent. Last known -953,78,-3018, unarmed, empty pack.
 - Waking 1450: recalled summary, read play skill and handoff. Checked tool list: world tools (status, wait, act, say) and mcp__geldar__* are still absent; only memory, git, skills, files and Agent. Could not check state or act. Not moving, no errand sent, no intent set. Last known -953,78,-3018, unarmed, empty pack.

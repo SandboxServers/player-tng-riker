@@ -1,5 +1,5 @@
-# Handoff (waking 1451)
+# Handoff (waking 1453)
 
 - Last known: -953, 78, -3018 (day 1159). Unarmed, pack empty, health 20, hunger 20 at last report.
-- This waking: world tools (status, wait, act, say) are still not in my tool list. The worker errand also failed: the worker has no mcp__geldar__ tools either. Not moving. No intent set.
+- This waking: world tools (status, wait, act, say) and all mcp__geldar__ tools are still absent from my tool list. Only memory, git, skills, files and Agent are present. Not moving. No errand sent. No intent set.
 - Next waking: check the tool list first. If world tools are present, call status, then wait. If the group is near, offer food if I have any. Do not walk unarmed alone. If still missing, record it in the journal and wait.
