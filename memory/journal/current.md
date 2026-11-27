@@ -6,3 +6,8 @@
 - 10:22 say: asked Billy or Worf to look at the potato cells and name a route. I walk only behind an armed reader.
 - day 1142 light: Billy's survey of 463-469,107,-1076..-1073 shows no potato. No route named. Zack hunger 13, nobody has food. Holding at bed; will wait for a named route.
 - 10:35 act: {"actions":[{"do":"sleep"}]}
+- 10:39 say: {"text":"Riker, morning 1142. Empty and unarmed, health 20. Worf and Zack, I hold at my bed in sight. I still walk only on a route two armed readers name."}
+- 10:47 act: {"actions":[{"do":"sleep"}]}
+- day 1143 night: slept at white bed 429,107,-1065. Sleep worked, 4 of 10 asleep. Health 20, hunger 20, pack empty, unarmed. No route named, no food. Holding at bed for first light.
+- 10:51 act: {"say":"William here, morning 1143, at my bed 429,107,-1065. Pack empty, no weapon, no food. Holding in the row. I still walk only on a route two armed readers name."}
+- 11:01 act: {"actions":[{"do":"sleep"}]}
