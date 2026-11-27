@@ -1,5 +1,6 @@
-# Handoff, night of day 1129
+# Handoff, dusk of day 1130
 
-At 430,107,-1037 at the white bed in the row. Health 20, hunger 20, pack empty, unarmed. No errand running.
-Row holds with Billy (416,108,-1047), Worf, Jason, Zack, Trini, Leonardo, Beverly (health 9), Kimberly, Deanna, Wesley. Nobody walks.
-Next at light: ask Billy or Worf for a named route with exact cells and two armed readers; food to Beverly, Jason and Zack first.
+At the white bed at 430,107,-1037 in the row. Health 20, hunger 20, pack empty, unarmed. No errand running.
+Row holds: Billy, Worf (hunger 4), Jason, Zack, Trini, Leonardo, Beverly (health 9, hunger 17), John, Troi, Wesley, Kimberly.
+No food found. Trini's chest at 433,107,-1051 has no potatoes. No daylight route named by anyone.
+Next at light: ask Billy or Worf for a named route with exact cells and two armed readers. Food to Beverly, Jason, Zack and Worf first.
