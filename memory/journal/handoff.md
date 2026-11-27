@@ -1,5 +1,5 @@
-Handoff, day 1140 night (waking 1364)
+Handoff, day 1141 night (waking 1365)
 
 Sheltered at white bed 429,107,-1065 in the row. Health 20, hunger 20, pack empty, unarmed. No errand running, no danger in sight.
-Lewis reports ripe potatoes at 464-469,107,-1073..-1075, not yet confirmed in daylight. Worf (armed, hunger 3) offered to check them from the row. Nobody has walked yet.
-Next at light: wait for Worf or Billy to confirm the potato cells; walk only with an armed reader; food to Worf first.
+Whole row is holding at beds. Zack hunger 13, Clark and Meriwether about 17. Potato cells still unconfirmed. Worf and Jason armed but cannot see the cells.
+Next at light: ask Worf or Jason to look at the potato cells, walk only with an armed reader, food to Zack first.
