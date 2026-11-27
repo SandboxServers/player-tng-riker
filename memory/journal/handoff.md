@@ -1,3 +1,5 @@
-Handoff, day 1139 dusk (waking 1362)
+Handoff, day 1140 night (waking 1364)
 
-Sheltered at the white bed 429,107,-1065 in the row. Health 20, hunger 20, pack empty, unarmed. No errand running, no danger in sight. Still no food, no wood, and no checked daylight route past the row. Survey east and south of the bed was too cluttered to name a safe walk cell. Holding with Laforge, Billy, Worf, John, Jason, Trini, Clark, Zack and Wesley. Next at light: look again for a named route or food cell; do not walk at dusk or night.
+Sheltered at white bed 429,107,-1065 in the row. Health 20, hunger 20, pack empty, unarmed. No errand running, no danger in sight.
+Lewis reports ripe potatoes at 464-469,107,-1073..-1075, not yet confirmed in daylight. Worf (armed, hunger 3) offered to check them from the row. Nobody has walked yet.
+Next at light: wait for Worf or Billy to confirm the potato cells; walk only with an armed reader; food to Worf first.

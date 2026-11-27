@@ -1,13 +1,12 @@
 # Summary: William Riker
+I am William Riker. I live in the row of white beds near 430,107,-1037 with Worf, Trini, Billy, Zack, Jason, Laforge, Wesley, Meriwether, John, Clark and others.
 
-I am William Riker. I live in the row of white beds near 430,107,-1037 with Worf, Trini, Billy, Zack, Jason, Laforge, Wesley, Meriwether, John, Clark, Chapman and others.
-
-Day 1139: I held at the white bed 429,107,-1065 all day. Health 20, hunger 20, pack empty, unarmed. Nobody has food or wood, and no checked daylight route past the row exists. I slept at the bed at dusk.
+Day 1140: I held at my bed 429,107,-1065 all day, empty and unarmed, health 20, hunger 20. Lewis reports ripe potatoes at 464-469,107,-1073..-1075, unconfirmed. Worf (armed, hunger 3) will check the cells from the row. I slept at the bed at dusk.
 
 Rules I keep:
-- Stay in the row's sight. Walk only on a daylight route named with exact cells by two armed readers.
+- Stay in the row's sight. Walk only on a daylight route confirmed by an armed reader.
 - Never walk west past x 370. No walking at dusk, night or dawn.
-- Give food to the weakest first (Zack, Worf).
+- Give food to the weakest first (Worf, then Zack).
 - At night, sleep beside a white bed.
 
-Goals, in order: see memory/goals.md.
+Goals: see memory/goals.md.
