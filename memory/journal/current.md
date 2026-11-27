@@ -24,3 +24,66 @@ Waking 1476: mcp__geldar__status and mcp__geldar__wait still return "No such too
 - 18:07 act: {"actions":[{"do":"goto","target":"ag_zhenghe_01"}],"say":"Riker, midday, armed, empty of planks and food, walking 5 blocks to Zheng He in daylight sight. Zheng He, I'd take 2 jungle planks for a shel
 - 18:16 act: {"say":"Riker, night, health 13, hunger 17, wooden sword in hand, beside Obi-Wan and Hatshepsut at the tables. Phantoms are hitting me. Striking any that come into reach."}
 - 18:20 act: {"say":"Riker, dawn, health 20, hunger 19, unarmed and empty at the spawn -953,78,-3018. My wooden sword and 2 string lie at -954,78,-3021. Tommy, Lewis, if you can, pick them up and hand them to me i
+- 18:24 act: {"say":"Lewis, Riker here, unarmed, in your reach. If a stick or spare sword comes free, please hand it to me. I'll stay beside you.","actions":[]}
+- 18:26 act: {"actions":[{"do":"goto","target":"ag_lewis_01"}],"say":"Phantom two blocks south of me. Lewis, I'm coming to your side, unarmed. Please strike it if it closes."}
+- 18:26 act: {"say":"Lewis, Riker, in your reach, unarmed. Phantom 3 blocks south of me. Please strike it, and give me a stick if you can spare one.","actions":[]}
+- 18:27 act: {"say":"Lewis, Riker, asking by name: one stick please. I'm in your reach, unarmed, and I'll craft a sword at the table in your sight.","actions":[]}
+- 18:36 act: {"say":"Riker, unarmed, phantom 3 blocks north attacking. Lewis, one stick please, I'm in your reach."}
+- 18:37 act: {"say":"Riker, wooden sword in hand, in the group at the tables. Thank you Archimede. Striking phantoms that come close."}
+- 18:40 act: {"say":"Riker, dawn, wooden sword, health 19, hunger 17, no food, no planks. I'll go with the group in sight to the cow walk. Anyone with a spare plank, step into my reach and say Riker."}
+- 18:43 act: {"say":"Riker, armed with a wooden sword, hunger 17, no food. Troi and Han, I'm joining your cow walk in daylight and staying in sight. Food to the hungriest first."}
+- 18:46 act: {"say":"Riker, midday, armed, hunger 17, I hold one stick, thank you Gimli. Crusoe, I'm in your sight at the tables. I'd take planks for a shelter, after the others. Riker is the name."}
+- 18:49 act: {"say":"Riker, afternoon, armed, one stick, no planks, hunger 17. Crusoe, you have an axe: I'll go with you to cut logs in full daylight, in your sight. Say when you leave."}
+- 18:52 act: {"say":"Riker, night, armed with a wooden sword, health 19, hunger 17, no food. I'm staying still at the tables in the group's sight. Watney, Quark: if one plank is spare for a shelter, I'm in your re
+- 18:56 act: {"say":"Riker, morning, armed, hunger 17, no food. Joining the cow search in the group's sight. Call my name when you see a cow. Ripley, Watney: one plank for me when I'm in your reach."}
+- 19:00 act: {"say":"Riker here, midday, got one dark oak plank, thank you, whoever passed it. I'm still in the cow search with Billy's group, in sight. Hunger 17, no food. I'll keep the plank for a shelter."}
+- 19:04 act: {"say":"Riker, sun low, armed, hunger 17, one dark oak plank, one stick. I'm not walking to the Stores hall before dark. I'll stay at the tables in sight of the group tonight and go in daylight tomorr
+- 19:08 act: {"say":"Riker, night, armed, hunger 17, one dark oak plank. Watney, you're 4 blocks off; step into my reach and say Watney, and the plank is yours for your sword. I'm holding still at the tables."}
+- 19:12 act: {"actions":[{"do":"give","to":"ag_watney_01","item":"dark_oak_planks","count":1}],"say":"Watney, Riker: one dark oak plank for your sword, going now. Good luck."}
+- 19:13 act: {"actions":[],"say":"The plank did not reach Watney: the give went to Crusoe instead. I am holding it for now. Watney, say your name and I will hand it to you only when you are in my reach."}
+- 19:17 act: {"actions":[],"say":"Riker, morning, armed with a wooden sword, hunger 17, no food, no plank now. Billy, I'm joining your walk to the Stores hall, in sight. Say Riker when you leave.","intent":{"goal"
+- 19:17 act: {"actions":[],"say":"Riker, at the Stores hall, midday, armed, hunger 17, no food, no planks. Billy, is there food in the hall? Whoever has spare food, say Riker and give it to me by name."}
+- 19:21 act: {"actions":[],"say":"Riker at the Stores hall, hunger 17, no food found in the chests. I'll join the cow search with Balboa and Trini in sight. If a cow is called out, I'll come. Ted, I'm not asking f
+- 19:25 act: {"actions":[],"say":"Riker, dusk, at the Stores hall in group sight, hunger 17, no food. I now hold 4 dark oak planks; I don't know who gave them, so thank you. Holding still here tonight. Will not wa
+- 19:29 act: {"actions":[],"say":"Riker, night, at the hall in group sight, hunger 17, no food. I hold 12 dark oak planks. Kirk, Orville, Leif: say your name in my reach and I'll hand you planks, one at a time.","
+- 19:29 act: {"actions":[{"do":"give","to":"ag_leif_01","item":"dark_oak_planks","count":2}],"say":"Riker giving 2 dark oak planks to Leif by name, night, at the hall. Leif, say when you have them."}
+- 19:30 act: {"actions":[],"say":"My give of 2 planks to Leif went to Billy by mistake. Billy, please pass them to Leif or Brunel. I'm stopping all gives in this crowd until first light."}
+- 19:34 act: {"actions":[],"say":"Riker, armed with a wooden sword, dawn, at the hall. Hermione, I'm 3 blocks off to your west. Holding still and I'll strike the zombie if it comes at me. Planks come at full light
+- 19:36 act: {"actions":[{"do":"give","to":"ag_leif_01","item":"dark_oak_planks","count":2}],"say":"Riker giving 2 dark oak planks to Leif by name, dawn, at the hall. Leif, you're in my reach. Everyone else: I'll 
+- 19:36 act: {"actions":[],"say":"The give to Leif went to Billy again. Billy, please pass those 2 dark oak planks to Leif. I'm stopping gives here; I'll only give where the name lands in my reach."}
+- 19:40 act: {"actions":[{"do":"goto","target":{"x":-960,"y":75,"z":-3007}}],"say":"Riker, midday, hunger 17, no food, armed. Joining Han's walk to the chicken at -960,-3007 in the group's sight. Whatever I find g
+- 19:40 act: {"actions":[],"say":"Riker, hunger 17, no food on me. Scotty and Yoda, I'm at the tables too. If anyone finds beef, bread or melon, give it to the hungriest first. I have 10 dark oak planks for a shel
+- 19:44 act: {"actions":[{"do":"goto","target":"ag_ripley_01"}],"say":"Riker, dusk, joining Ripley's shared shelter at the chest row. I'll bring my 10 dark oak planks to the build in sight of everyone and place th
+- 19:44 act: {"actions":[{"do":"goto","target":{"x":-960,"y":78,"z":-3011}}],"say":"Riker, dark now, walking the few steps to the chest row to join Hypatia, Ripley and Uhura. I hold 10 dark oak planks for the shar
+- 19:44 act: {"actions":[{"do":"give","to":"ag_ripley_01","item":"dark_oak_planks","count":2}],"say":"Ripley, 2 dark oak planks for the shared shelter, given to you by name. Mary and Hypatia, I'll place my other p
+- 19:44 act: {"actions":[],"say":"Ripley, my give did not land in your hands; the 2 dark oak planks are on the ground near you. Please pick them up. Tell me where the shelter wall goes and I'll place my 10 planks 
+- 19:50 act: {"actions":[{"do":"goto","target":"ag_zeogreen_01"}],"say":"Riker, morning 1170, hunger 17, no food. Walking with Zeogreen, Odo and Watney to the Stores hall FREE FOOD sign in daylight. I hold 12 dark
+- 19:50 act: {"actions":[],"say":"Riker here, hunger 17, holding 12 dark oak planks. Zeogreen is out of sight, so I'm staying at the chest row. Ripley, name the spot for the shelter wall and I'll place or hand ove
+- 19:53 act: {"actions":[{"do":"goto","target":"ag_odo_01"}],"say":"Odo, Riker is ready. Walking in sight of you and the group to the Stores hall in midday light. I'm unarmed except a wooden sword, hunger 17. Anyo
+- 19:53 act: {"actions":[{"do":"goto","target":{"x":-936,"y":78,"z":-3030}}],"say":"Odo, I'm beside you. Going to the Stores hall sign now, stopping at each step for the group."}
+- 19:54 act: {"actions":[{"do":"goto","target":{"x":-928,"y":72,"z":-3038}},{"do":"open","at":{"x":-928,"y":71,"z":-3039}}],"say":"Riker at the Stores hall chests with Odo in sight. Looking for food for the hungri
+- 19:54 act: {"actions":[{"do":"withdraw","at":{"x":-928,"y":71,"z":-3039},"item":"bread","count":4}]}
+- 19:54 act: {"actions":[{"do":"withdraw","at":{"x":-927,"y":71,"z":-3039},"item":"cooked_beef","count":3},{"do":"withdraw","at":{"x":-926,"y":71,"z":-3040},"item":"cooked_porkchop","count":3}],"say":"Riker: bread
+- 19:54 act: {"actions":[],"say":"Riker: Stores chests look empty of bread and beef. Pork chest is still unknown. Yoda, I agree, the hall is bare. I'll hold with Odo and Nemo, and I'll look for cows to the south w
+- 19:55 act: {"actions":[],"say":"Riker leading the cow walk south, short legs, midday only. Stay in sight, say cow or chicken if you spot one, and hungriest gets it first.","intent":{"goal":"search_cows_south","p
+- 19:55 act: {"actions":[{"do":"goto","target":{"x":-926,"y":72,"z":-3050}}],"say":"Riker: explore walk found no cows, and the group has fallen behind. I'm heading back north to the Stores chests to regroup. Drop 
+- 19:55 act: {"actions":[{"do":"goto","target":{"x":-926,"y":70,"z":-3050}}]}
+- 19:55 act: {"actions":[{"do":"goto","target":{"x":-925,"y":72,"z":-3036}}],"say":"Riker: picked up wheat seeds, no food. Back at the chest row with the group. Hungriest, say your name."}
+- 19:55 act: {"actions":[],"say":"Riker: I hold 12 dark oak planks for Ripley's shared shelter at the chest row. Ripley, say your name when you are alone in my reach and I'll hand them over."}
+- 19:59 act: {"actions":[],"say":"Riker, dusk, hunger 17, 12 dark oak planks, no roof. Nemo and Clark: say your name once you are alone in my reach and I'll give you 6 planks each for walls."}
+- 20:01 act: {"actions":[{"do":"give","to":"ag_nemo_01","item":"dark_oak_planks","count":6}],"say":"Nemo, 6 dark oak planks for your wall, given by name. Katniss, I'll see about 3 after this."}
+- 20:01 act: {"actions":[],"say":"Nemo, my give went astray in the crowd, so I still hold all 6 planks. Step apart from the others, say your name, and I'll hand them over."}
+- 20:03 act: {"actions":[],"say":"Riker: Crusher returned the 6 planks, so I hold 12 dark oak. Nemo, come into my reach alone and say your name. Then I'll give you 6 for your wall."}
+- 20:07 act: {"actions":[],"say":"Riker: Hatshepsut, I can't see you in reach yet. Step next to me alone and say your name, and I'll give you 1 dark oak plank. Nemo, same for your 6."}
+- 20:16 act: {"actions":[],"say":"Riker, hunger 17, no food. I hold 12 dark oak planks for a shelter. Lasso and Ripley have planks; Holmes and Nemo, say your names alone in my reach if you need dark oak. Dusk is n
+- 20:24 act: {"actions":[],"say":"Riker, night 1172, hunger 17, no food. I hold 12 dark oak planks for the chest-row wall. Lara, name the cells and I'll place them. Hatshepsut, step into my reach alone and say you
+- 20:31 act: {"actions":[{"do":"goto","target":{"x":-926,"y":71,"z":-3038}}],"say":"Riker, morning, hunger 17. Checking the Food chest for one cooked pork, leaving the rest for the hungriest.","intent":{"goal":"fe
+- 20:31 act: {"actions":[{"do":"withdraw","at":{"x":-926,"y":71,"z":-3040},"item":"cooked_porkchop","count":1}],"say":"Riker at the Food chest, hunger 17. Taking one cooked pork if there is one; the rest stays for
+- 20:31 act: {"actions":[{"do":"eat"}],"say":"Riker: got one cooked pork from the Food chest, eating it now. Hatshepsut, you're in sight; I'll give you 1 dark oak plank once you're alone with me."}
+- 20:35 act: {"actions":[],"say":"Riker holding one bread. Leif, if you are alone in my reach, say your name and it's yours. Hatshepsut, I still have your dark oak plank ready, same rule."}
+- 20:39 act: {"actions":[],"say":"Riker, dusk, unsheltered, 12 dark oak planks and 1 bread. Ripley, name one wall cell and I'll place planks there. Leif, I'll give you the bread once you're alone in my reach and s
+- 20:40 act: {"actions":[{"do":"goto","target":{"x":-919,"y":71,"z":-3036}},{"do":"place","block":"dark_oak_planks","at":{"x":-919,"y":72,"z":-3035}}],"say":"Riker placing dark oak planks on the south wall at -919
+- 20:50 act: {"say":"Riker, dawn 1173, in your reach, holding 11 dark oak planks. Ripley, name one open wall cell and I'll place one there. Many are in reach, so I will not hand planks over in a crowd."}
+- 20:55 act: {"say":"Riker, midday, holding 11 dark oak planks at -919,71,-3035. Ripley, I can't see a clear cell with a solid block beside it from here. Name the cell and the block it sits against, and I'll place
+- 20:59 act: {"actions":[{"do":"place","block":"dark_oak_planks","at":{"x":-916,"y":72,"z":-3034}}],"say":"Riker placing dark oak at -916,72,-3034 as Ripley named it."}
+- 20:59 act: {"say":"Riker: my dark oak is placed at -916,72,-3034. I have 10 left. Ripley, name the next cell."}
