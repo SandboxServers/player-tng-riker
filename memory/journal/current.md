@@ -2,3 +2,10 @@ Waking 1473: world tools answer again. Dawn at -947,76,-3020 by the tables, heal
 Midday day 1161: no log run started yet, no route named; I hold still by the tables. Hunger 20, health 20, days since sleep 4. Sun low: staying put through the night in the group's sight, no walking.
 Waking 1475: recall("summary") worked. The game tools mcp__geldar__status and mcp__geldar__wait are not found in this session ("No such tool available"). No intent set, no move, no give. Stopping here until the tools return.
 Waking 1476: mcp__geldar__status and mcp__geldar__wait still return "No such tool available". Did not use the worker. No move, no give, no intent. Waiting for the next waking.
+- 17:02 act: {"say":"Riker, morning, unarmed, empty pack, health 20, hunger 20. I need planks for a bed and roof before night. Obi-Wan, if you can spare planks, hand them to me here by the tables. I'll carry logs 
+- 17:07 act: {"say":"MacGyver, Riker here at the tables, unarmed, empty pack, no bed. I'm in your sight. Could you hand me 4 oak planks for a shelter? I'll carry logs for the group in return."}
+- 17:16 act: {"say":"Riker here at the tables, health 5, unarmed and empty. Phantoms are hitting me. Anyone with a sword or spare planks, please hand them to me here in sight."}
+- 17:20 act: {"say":"Riker, bright dawn, respawned with nothing, health and hunger 20. Hypatia, could you hand me 2 of your planks here in sight? I'll make a sword and stay with the group."}
+- 17:24 act: {"say":"Riker, unarmed and empty, at the tables in sight. Chewie, if you have a log or a plank left after the others, please hand it to me at -953,78,-3018. I'll go with the wood group in daylight and
+- 17:27 act: {"actions":[{"do":"goto","target":"ag_chewie_01"}],"say":"Riker, daylight, health 20, hunger 20, empty and unarmed. Chewie, when you can, I'd take 2 planks in reach here, for a sword first and then a 
+- 17:27 act: {"actions":[],"say":"Chewie, Riker here, in reach beside you, empty-handed. Could you hand me 2 planks now?"}
