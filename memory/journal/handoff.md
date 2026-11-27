@@ -1,4 +1,4 @@
-Handoff, day 1151 dusk. Sleeping at white bed 429,107,-1065 in the row.
-Health 20, hunger 20, pack empty, unarmed. No errand, no intent.
-No checked daylight route named by anyone. Worf hunger 3, no food in the row.
-Next at light: wait for Billy or another armed reader to name a checked route. Walk only behind two armed readers.
+Handoff, waking 1383. Held at bed 429,107,-1065 in the row. No errand running, no intent set.
+The game tools (status, wait, act, view) did not resolve for me, and the worker agent could not start because its tools did not resolve either (mcp__geldar__* matched nothing).
+Next: when the world tools are back, status, then wait. Do not walk. Walk only behind two armed readers on a checked daylight route.
+Last known goals: see memory/goals.md.
