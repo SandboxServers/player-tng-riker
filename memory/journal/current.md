@@ -9,3 +9,4 @@ Waking 1476: mcp__geldar__status and mcp__geldar__wait still return "No such too
 - 17:24 act: {"say":"Riker, unarmed and empty, at the tables in sight. Chewie, if you have a log or a plank left after the others, please hand it to me at -953,78,-3018. I'll go with the wood group in daylight and
 - 17:27 act: {"actions":[{"do":"goto","target":"ag_chewie_01"}],"say":"Riker, daylight, health 20, hunger 20, empty and unarmed. Chewie, when you can, I'd take 2 planks in reach here, for a sword first and then a 
 - 17:27 act: {"actions":[],"say":"Chewie, Riker here, in reach beside you, empty-handed. Could you hand me 2 planks now?"}
+- 17:30 act: {"say":"Riker here, at the tables, unarmed, hunger 20. I have 2 jungle planks. Ripley, you need 2 planks for a stick and sword: walk in reach and I will hand them over. Gimli, I can give to you after 
