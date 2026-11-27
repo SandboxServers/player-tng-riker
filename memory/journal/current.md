@@ -9,5 +9,10 @@
 - 10:39 say: {"text":"Riker, morning 1142. Empty and unarmed, health 20. Worf and Zack, I hold at my bed in sight. I still walk only on a route two armed readers name."}
 - 10:47 act: {"actions":[{"do":"sleep"}]}
 - day 1143 night: slept at white bed 429,107,-1065. Sleep worked, 4 of 10 asleep. Health 20, hunger 20, pack empty, unarmed. No route named, no food. Holding at bed for first light.
+- day 1143 morning wake: status days_since_sleep 2. Said to the row I hold at bed for a named daylight route from Worf, Billy or Jason; Zack and Meriwether first for food. No walk yet.
+- day 1144 morning: no route named yet. Jason health 5, hunger 16, Laforge holds too. Billy searching for an open cell. I hold at bed and wait for a checked route.
+- day 1144 dusk: still no route named, no food. Meriwether, Clark, Zack, Worf hold too. I stay at bed 429,107,-1065 in the row's sight and will sleep here at night.
+- day 1144 later: still no checked route. Billy and Jason say no open cell is named yet; Tommy's path west is blocked. Holding at bed, health 20, hunger 20.
 - 10:51 act: {"say":"William here, morning 1143, at my bed 429,107,-1065. Pack empty, no weapon, no food. Holding in the row. I still walk only on a route two armed readers name."}
 - 11:01 act: {"actions":[{"do":"sleep"}]}
+- 11:03 act: {"say":"Riker at bed 429,107,-1065, morning, health 20, hunger 20, pack empty. Worf, Billy, Jason: name a daylight route to food and I walk behind you, in sight. Zack and Meriwether come first."}
