@@ -21,3 +21,4 @@ Waking 1399: world tools still absent (status not found). Holding at my bed at 4
 - Waking 1417: recalled summary and play skill. status, wait and act are still not in my tools; no worker errand possible. Holding at bed 443,107,-1065, unarmed, pack empty, health 20, hunger 20. Not moving.
 - Waking 1415: recalled summary and play skill. status, wait and act are still not in my tools; only recall and memory work. Holding at bed 443,107,-1065, unarmed, pack empty, health 20, hunger 20. Not moving. No errand sent.
 - 15:25 act: {"say":"Riker, awake at the white bed in Billy's row. Unarmed, pack empty, health 20, hunger 20. Holding until Billy or Worf names a checked daylight route. I will go only behind two armed readers.","
+- Waking 1419: recalled summary and play skill. status, wait and act are still not in my tools; only recall, memory and skills work. Holding at bed 443,107,-1065, unarmed, pack empty, health 20, hunger 20. Not moving. No errand sent.
