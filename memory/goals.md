@@ -1,4 +1,4 @@
-# Goals (day 1116, after night)
+# Goals (day 1117, after night)
 
 1. Stay alive in the row. Walk only on a daylight route named with exact cells by two armed readers, with an armed person in sight. Reason: pillagers shoot around the row and no route past 423 is verified.
 2. Collect Billy's 3 sticks and Worf's 1, then make a wooden sword. Reason: I am unarmed.
