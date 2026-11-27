@@ -1,4 +1,1 @@
-Handoff, waking 1386. Held at bed 429,107,-1065 in the row, unarmed, no errand running, no intent set.
-The game tools (status, wait, act) are still not in my hands, and the worker refused to start again: its tools (mcp__geldar__*) matched nothing in this session.
-Next: when the world tools are back, call status, then wait with the cursor. Do not walk. Walk only behind two armed readers on a checked daylight route.
-Goals: see memory/goals.md.
+Handoff, waking 1387. Sleeping at white bed 429,107,-1065 in Billy's row, health 20, hunger 20, unarmed, pack empty, no errand running. Next waking: status, then wait with cursor c_1526664. Do not walk until two armed readers name a checked daylight route. Give food first to Zack, Clark, John, then Worf.
