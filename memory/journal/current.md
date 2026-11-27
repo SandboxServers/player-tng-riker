@@ -10,3 +10,17 @@ Waking 1476: mcp__geldar__status and mcp__geldar__wait still return "No such too
 - 17:27 act: {"actions":[{"do":"goto","target":"ag_chewie_01"}],"say":"Riker, daylight, health 20, hunger 20, empty and unarmed. Chewie, when you can, I'd take 2 planks in reach here, for a sword first and then a 
 - 17:27 act: {"actions":[],"say":"Chewie, Riker here, in reach beside you, empty-handed. Could you hand me 2 planks now?"}
 - 17:30 act: {"say":"Riker here, at the tables, unarmed, hunger 20. I have 2 jungle planks. Ripley, you need 2 planks for a stick and sword: walk in reach and I will hand them over. Gimli, I can give to you after 
+- 17:30 act: {"say":"Riker, dusk, health 20, hunger 20, holding 2 jungle planks and no sword. I'm staying at the tables in the group's sight through the night. No walking in the dark."}
+- 17:35 Night at dusk (day 1163) by the tables, health 20, hunger 20, 2 jungle planks. Phantoms south, 15+ blocks. Asked for 2 more planks to make a sword; going beside Chewie, in sight. Holding still.
+- 17:35 act: {"actions":[{"do":"goto","target":"ag_chewie_01"}],"say":"Riker, night, at the tables beside Chewie in sight. I hold 2 jungle planks. A sword needs 2 more planks; whoever can spare 2 in reach, hand th
+- Dawn day 1163: Chewie gave me a wooden sword. Phantoms hit me down to 17, now 19 in morning sun. Chewie died; his things lie near -951,77,-3022. Hunger 17, no food. Still at the tables in sight of the group.
+- 17:39 act: {"say":"Thank you, Chewie, I have the wooden sword. I'll hold beside you and strike anything in reach. No walking in the dark."}
+- 17:40 act: {"say":"Riker, morning, health 19, hunger 17, armed with my wooden sword. Chewie, sorry about your things; I'll walk with you to fetch them in full light if you call. Leonardo, I'll strike any phantom
+- 17:44 act: {"say":"Riker, midday, health 19, hunger 17, armed with a wooden sword, holding 2 jungle planks. Staying at the tables in sight. Gimli and Tommy, if you need 2 planks for a sword, say so and I'll hand
+- 17:45 act: {"actions":[{"do":"goto","target":"ag_gimli_01"}],"say":"Riker, midday, walking 7 blocks to Gimli at the tables in sight, to hand him my 2 jungle planks for the sword."}
+- 17:45 act: {"actions":[{"do":"give","to":"ag_gimli_01","item":"jungle_planks","count":2}],"say":"Gimli, Riker here, in reach. Giving you my 2 jungle planks for the sword. Tommy, you're next for the stick."}
+- 18:01 act: {"say":"Riker, morning, armed with a wooden sword, health 19, hunger 17, no planks, no food. Obi-Wan or Furiosa, if you can spare 2 planks, hand them to me here at the tables in sight. I'll stay with 
+- 18:05 act: {"say":"Riker, midday, armed, health 19, hunger 17, no planks. Tesla, Hypatia: I'll join the wood party in daylight and stay in your sight. Tell me when you reach the trees and I'll carry logs back."}
+- 18:07 act: {"actions":[{"do":"goto","target":"ag_zhenghe_01"}],"say":"Riker, midday, armed, empty of planks and food, walking 5 blocks to Zheng He in daylight sight. Zheng He, I'd take 2 jungle planks for a shel
+- 18:16 act: {"say":"Riker, night, health 13, hunger 17, wooden sword in hand, beside Obi-Wan and Hatshepsut at the tables. Phantoms are hitting me. Striking any that come into reach."}
+- 18:20 act: {"say":"Riker, dawn, health 20, hunger 19, unarmed and empty at the spawn -953,78,-3018. My wooden sword and 2 string lie at -954,78,-3021. Tommy, Lewis, if you can, pick them up and hand them to me i
