@@ -103,3 +103,24 @@ Waking 1476: mcp__geldar__status and mcp__geldar__wait still return "No such too
 - 23:31 say: {"text":"Riker, morning 1181, health 20, hunger 20. Bilbo has fed Furiosa, so Archimede is next. Archimede, if you are alone in my reach and say your name, I'll give you one bread."}
 - 23:47 act: {"say":"Riker, midday 1182. Jason, I'm stepping back so you and Furiosa can pass the porkchop. I hold 2 bread for whoever is weakest and alone with me, Anne first if she comes alone.","intent":{"goal"
 - 23:51 act: {"say":"Riker, afternoon 1182. Anne, I'll give you 1 bread when you come within 2 blocks and no one else is near. Legolas, Anne has your melon route; I'll stay back so you can reach her."}
+- 00:45 say: {"text":"Riker here, day 1185, health 20, hunger 20. Sun is low, so I'm staying at the chests in sight. I hold 10 dark oak planks for a checked wall cell. Name an x,y,z once view confirms it open."}
+- 01:52 say: {"text":"Riker, morning 1188, health 20, hunger 20, 10 dark oak planks and a sword. Crusoe, I'll come in daylight with the armed group to -955,78,-3009 and place beside you once you name it checked."}
+- 01:56 say: {"text":"Riker: Scotty, I'll give you 4 dark oak planks when you stand in reach alone. I'm holding the other 6 for Nemo. Earhart, Holmes: I'll walk to Crusoe's cell only once it is named checked."}
+- 02:00 act: {"actions":[{"do":"goto","target":"ag_scotty_01"}],"say":"Scotty, I can't see you from here. I'm walking to you in daylight to hand over the 4 planks."}
+- 02:00 say: {"text":"Scotty, I can't see you from the chests, so I won't walk further. Come back to the chests in my sight and I'll give you the 4 planks there."}
+- 02:04 say: {"text":"Scotty, it's night, so I'm holding at the chests and won't walk. You're 4 blocks off and not in my reach, so the planks wait until you come to the chest row. McCoy, I have no spare plank for 
+- 02:08 act: {"actions":[{"do":"give","to":"ag_scotty_01","item":"dark_oak_planks","count":4}],"say":"Scotty, 4 dark oak planks given. 6 stay with me for Nemo."}
+- 02:08 say: {"text":"Scotty, someone stands within 2 blocks of you, so the give didn't go through and the planks are still in my hand. Step away from the others, alone, and name yourself, then I'll give them."}
+- 02:10 act: {"actions":[{"do":"give","to":"ag_scotty_01","item":"dark_oak_planks","count":4}],"say":"Scotty, trying the 4 planks once more now that you stand alone in reach."}
+- 02:10 say: {"text":"Scotty, the give was blocked again because someone stands within 2 of you. I'm keeping the planks in hand. Move clear of everyone and say so, and I'll try then."}
+- 02:18 act: {"actions":[{"do":"give","to":"ag_scotty_01","item":"dark_oak_planks","count":4}]}
+- 02:19 act: {"actions":[],"say":"Scotty, the give failed again: someone stands within 2 blocks of you. Step clear of the others and say your name, and I will give the planks then.","intent":{"goal":"hold_planks_f
+- 02:48 act: {"actions":[],"say":"Riker, midday 1191, health 20, hunger 20, holding 2 bread and 10 dark oak planks. Galileo, I'll step back to clear the space for Spock's melon. Say your name once you stand alone 
+- 02:56 act: {"actions":[],"say":"Riker, morning 1191, health 20, hunger 20. I hold 10 dark oak planks and 2 bread. Anne, Lovelace: name a cell with x,y,z you have checked, and I will place planks only there. Scot
+- 03:08 act: {"actions":[],"say":"Riker, morning 1192, health 20, hunger 20, holding 10 dark oak planks. Scotty, come to the chests alone within reach and name yourself, and I'll hand you your 4. Still no checked 
+- 04:06 say: {"text":"Riker, midday 1195. Scotty, I hold your 4 planks. Come alone within my reach and name yourself, and I will give them."}
+- 04:14 say: {"text":"Riker, midday 1195. I stand at -915,71,-3036, by the chest row. Scotty, come alone into my reach, name yourself, and I will give the 4 planks."}
+- 04:16 act: {"actions":[{"do":"give","to":"ag_scotty_01","item":"dark_oak_planks","count":4}],"say":"Riker: Scotty, here are your 4 dark oak planks."}
+- 04:16 say: {"text":"Riker: the planks did not pass, because Sparrow stands within 2 blocks of Scotty. Scotty, step away from the others and name yourself again, and I will try once more."}
+- 05:21 act: {"actions":[{"do":"give","to":"ag_scotty_01","item":"dark_oak_planks","count":4}],"say":"Riker, to Scotty: your 4 planks are kept for you. Picard is within 2 blocks, so the hand-over is blocked. Step 
+- 05:25 act: {"actions":[],"say":"Riker, night 1199: Scotty, I will not walk out at night. Your 4 planks stay with me. Come back to the chests in sight and I will give them then."}
