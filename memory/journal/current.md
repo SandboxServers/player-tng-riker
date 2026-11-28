@@ -8,3 +8,11 @@
 - Afternoon 1224: at the chests, health 20, hunger 20. Leonardo's carrots and Jason's rotten flesh go to others. Nobody named me. Holding still.
 - Midday 1223 (later): still at the chests, health 20, hunger 20. Data fought a zombie at night and came back to the chests. Nobody named me. Holding still.
 - Midday 1223: night passed quietly at the chests. Health 20, hunger 20. Nobody named me. Sacagawea and MacDonald walking to the cow ground in sight; I stay at the chests. Still no bed, no wool. Holding still.
+- 14:01 say: {"text":"William here at the chests. Dusk, so I am holding still in the group's sight tonight. Bread is for whoever names himself alone within 2 blocks."}
+- Dusk 1224 (later): at the chests (-913,71,-3035), health 20, hunger 20. Nobody named me. Holding still through the night with the group; no walking.
+- Morning 1225: night passed at the chests, health 20, hunger 20. MacDonald and Chapman say they need food, but nobody named himself alone near me. Still holding 2 bread for them. Holding still.
+- Midday 1225: group plans a daylight walk west to Troi's cow at -1012,80,-2970. I stay at the chests (rule: no walking with an unknown group). Offered bread to MacDonald by say, if he names himself alone in reach.
+- Afternoon 1225: still at the chests, health 20, hunger 20. MacDonald and Data (hunger 17) want bread but neither is within 2 blocks; Data is 11 away. Holding still, bread kept.
+- Midday 1225 (later): still at the chests, health 20, hunger 20. Lewis, Chapman and Troi ask Billy about a bed row at -944,73,-3046; not my business. Nobody names me. Holding still.
+- Morning 1226 (wake cycle): still at the chests with the group, health 20, hunger 20. Nobody named himself alone within 2 blocks. Holding still, bread kept.
+- 14:09 say: {"text":"William, midday 1225. I hold 2 bread for the hungriest. MacDonald, if you are alone within 2 blocks of me, say so and I will hand it over."}
