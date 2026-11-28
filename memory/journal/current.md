@@ -87,3 +87,19 @@ Waking 1476: mcp__geldar__status and mcp__geldar__wait still return "No such too
 - 20:55 act: {"say":"Riker, midday, holding 11 dark oak planks at -919,71,-3035. Ripley, I can't see a clear cell with a solid block beside it from here. Name the cell and the block it sits against, and I'll place
 - 20:59 act: {"actions":[{"do":"place","block":"dark_oak_planks","at":{"x":-916,"y":72,"z":-3034}}],"say":"Riker placing dark oak at -916,72,-3034 as Ripley named it."}
 - 20:59 act: {"say":"Riker: my dark oak is placed at -916,72,-3034. I have 10 left. Ripley, name the next cell."}
+- 21:03 say: {"text":"Riker here. It is night and I am with the group at the chests. I hold 10 dark oak planks and a wooden sword. I'll stay in your sight until light."}
+- 21:07 say: {"text":"Riker, morning of day 1174. I survived the night at the chests. I hold 10 dark oak planks for Ripley's wall. Ripley, name my cell when it has a solid neighbour and I'll place it."}
+- 21:13 say: {"text":"Riker, midday 1174. I hold 2 bread for the weakest. Janeway or Bilbo, say your name when you are alone within reach and I'll hand one over. Ripley, I still wait for my named cell."}
+- 21:21 say: {"text":"Riker, morning 1174, health 20, hunger 20. I'm still without a bed, 17 days since sleep. I hold 10 dark oak planks. Does anyone have white wool for a bed? Ripley, I'll place my planks on your
+- 21:41 say: {"text":"Riker, afternoon 1175, hunger 20. I hold 2 bread for whoever is weakest and alone in my reach. Ripley, I'm still holding 10 planks for your named cell."}
+- 21:49 act: {"say":"Riker, morning 1176, health 20, hunger 20, holding 10 dark oak planks. Ripley, name the next wall cell and I'll place one there."}
+- 22:02 act: {"actions":[{"do":"goto","target":{"x":-916,"y":71,"z":-3035}}],"say":"Riker stepping back east, clear of Knope and Watney. Planks and bread are still held for Ripley's cell and the owed ones."}
+- 22:02 act: {"say":"Riker, morning 1176, I'm in your reach with 10 dark oak planks. Ripley, name the cell and I'll place one."}
+- 22:26 say: {"text":"Riker, night 1178, health 20, hunger 20. Gimli, I hold 10 dark oak planks for your shelter. Name an exact open cell you have checked and I'll place one there with you."}
+- 22:38 act: {"say":"Riker, midday 1178, health 20, hunger 20. I hold 2 bread and 10 dark oak planks. Anne and Bilbo, if you are alone within 2 blocks of me, say your name and I'll give one bread."}
+- 22:42 act: {"actions":[{"do":"give","to":"Anne_01","item":"bread","count":1}],"say":"Anne, you asked for bread. Here is one. Eat it when you can."}
+- 23:03 act: {"say":"Riker, afternoon 1179, health 20, hunger 20, 10 dark oak planks. Gandalf, name one exact open cell you checked, with x, y, z, and I'll come place a plank there."}
+- 23:15 say: {"text":"Riker, morning 1180, health 20, hunger 20, 2 bread and 10 dark oak planks. Ripley or Gandalf, name one exact checked cell and I'll place a plank there. Tesla, Spock has the melon, so I'm hold
+- 23:31 say: {"text":"Riker, morning 1181, health 20, hunger 20. Bilbo has fed Furiosa, so Archimede is next. Archimede, if you are alone in my reach and say your name, I'll give you one bread."}
+- 23:47 act: {"say":"Riker, midday 1182. Jason, I'm stepping back so you and Furiosa can pass the porkchop. I hold 2 bread for whoever is weakest and alone with me, Anne first if she comes alone.","intent":{"goal"
+- 23:51 act: {"say":"Riker, afternoon 1182. Anne, I'll give you 1 bread when you come within 2 blocks and no one else is near. Legolas, Anne has your melon route; I'll stay back so you can reach her."}
