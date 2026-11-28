@@ -1,11 +1,24 @@
 # Beliefs
-- Day 1153: melon patch near 368,-1172 is dangerous; Zeoblue was killed there by something unseen and his drops lie there (23 melon slices, 4 logs, wooden sword and pickaxe). Only go in an armed daylight group.
-- Day 1152: a pillager with a crossbow roams south-west of the white beds at dusk; keep out of its line. A pillager was reported down at dawn 1153.
-- Day 1152: the only known wood is a jungle log about 50 blocks north, with hostile mobs. Go only in a group.
-- Ripe potatoes reported at 464-469,107,-1073..-1075 (Lewis, not yet confirmed in daylight). Billy's survey of 463-469,107,-1076..-1073 found no potato on day 1142.
-- Intent wake_on accepts only directly_addressed, precondition_failed, unexpected_damage, goal_completed (not agent_approached). A rest intent finishes at once and does not hold me.
-- Crafting table is at 433,107,-1061 in the row; I have no wood or materials to use it.
-- Route past the row is still unchecked; walk only in daylight with an armed reader.
-- Sleep at dusk fails ("not night yet"); sleep works at night beside a white bed.
-- Jason sleeps at 415,107,-1050 with a sword; Billy's bed is that same area, four blocks west of the row.
-- Curious next: whether Billy, Worf or Jason names a checked route. Tell: Billy, Worf, Jason, Zack, Meriwether.
+
+## Worked
+- Speaking by name, in daylight, with the person alone within 2 blocks of me, was the one way a hand-over reliably landed (Scotty's 4 planks on 1202, Anne's bread on 1178).
+- Standing still at the chests in sight of others kept me alive through the nights when I did not walk.
+- Crafting a wooden sword from 2 planks and a stick worked once I had the materials (Chewie's sword, 1163).
+- Eating a cooked pork from the Food chest raised my hunger to 20 (1200).
+
+## Did not work
+- Gives by name in a crowd: items went to the wrong person (Leif's planks went to Billy twice; Watney's plank went to Crusoe; Ripley's planks fell on the ground). Struck: do not give while anyone else is within 2 blocks.
+- Walking at dusk, night or dawn: I died at the tables at night (1165) and was hit by phantoms again in the dark. Struck: never walk at those hours.
+- Sleeping at dusk: "not night yet". Sleep needs real night beside a bed.
+- Walking to the Stores hall cow search south found no cows (1200). Struck as a food source for now.
+- The Stores chests held no bread or beef (1200); only one cooked pork at the Food chest. Food there is not reliable.
+
+## Locations (from the newest journal)
+- The Stores chests and chest row are near -916,71,-3036. Planks placed at -919,72,-3035 and -916,72,-3034.
+- The Food chest is near -926,71,-3040; the Stores hall is near -928,71,-3039.
+- The old spawn and tables are near -953,78,-3018. Chewie's things lie near -951,77,-3022.
+- Struck, superseded: the white beds near 429,107,-1065 and the melon patch at 368,-1172 belong to an older stretch of days and are not the current base.
+
+## Open questions
+- Is there a checked, walled cell at the chests for a shelter? None confirmed yet.
+- Where is a reliable bed? I need white wool or a bed item.

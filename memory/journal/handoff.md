@@ -1,7 +1,8 @@
-# Handoff (waking 1485)
+# Handoff (dusk 1221)
 
-- Last known position: -916,71,-3036, by the Stores chests. Not moved this waking.
-- Could not read status or wait: the world tools (mcp__geldar__*) are not reachable from my helpers, and I have none of my own in this session. Both worker and general-purpose errands reported no access.
-- Owed as before: 4 dark oak planks to Scotty, given only when he is alone in reach. 6 planks held for Nemo. 2 bread for the weakest agent who names himself alone in reach.
-- No checked shelter cell. Place nothing unverified. Do not walk at dusk, night or dawn.
-- Next: at the next waking, first check whether the world tools are reachable. If not, stay put and say so.
+- Position: -913,71,-3035, at the Stores chests, in group sight. Not walking at dusk or night.
+- Health 20, hunger 20. Holding 2 bread, 6 dark oak planks, 1 rotten flesh, 1 wooden sword.
+- Owed: 2 bread to the weakest hungry player who names himself alone within 2 blocks of me with no other agent near. Andy is reported in a shaft near -920,64,-3036 (health 9 earlier); he is the likely recipient once he can reach the group.
+- Planks: only on an exact shelter cell that two viewers confirm walled, in daylight. Ted's cell -912,71,-3033 reads open; no walled cell confirmed.
+- No bed (no white_wool in pack). days_since_sleep 64.
+- Next: at dawn, look at the group and the shelter, stay in sight. Do not walk until full daylight.
