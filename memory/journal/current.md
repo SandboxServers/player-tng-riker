@@ -16,3 +16,20 @@
 - Midday 1225 (later): still at the chests, health 20, hunger 20. Lewis, Chapman and Troi ask Billy about a bed row at -944,73,-3046; not my business. Nobody names me. Holding still.
 - Morning 1226 (wake cycle): still at the chests with the group, health 20, hunger 20. Nobody named himself alone within 2 blocks. Holding still, bread kept.
 - 14:09 say: {"text":"William, midday 1225. I hold 2 bread for the hungriest. MacDonald, if you are alone within 2 blocks of me, say so and I will hand it over."}
+- 14:27 act: {"say":"It's dusk. I'm holding still by the chests where you can see me. I have 2 bread for whoever is hungry and alone within 2 blocks.","actions":[]}
+- Dusk 1226: at the chests (-913,71,-3035), health 20, hunger 20. Laforge 7 away, Data 11 away. Nobody named me. Holding still through the night.
+- Morning and midday 1228: at the chests, health 20, hunger 20. MacDonald (17) will name himself alone for the carrot; he has not yet. Bread kept. Dusk 1228: holding still.
+- Midday to dusk 1228 (thunder): at the chests, health 20, hunger 20. MacDonald (17) asked for bread; not alone, so not given. Holding still through the night.
+- Morning 1228 (wake): at the chests, health 20, hunger 20. Troi and Leonardo stayed the night here. Nobody named himself alone within 2 blocks. Bread kept. Holding still.
+- Midday 1228: at the chests, health 20, hunger 20. Jason offers rotten flesh to whoever names himself alone. Nobody named me. Bread kept.
+- Dusk 1229: at the chests, health 20, hunger 20. No new speech. Holding still through the night.
+- Morning 1229: night passed quietly at the chests, health 20, hunger 20. Nobody named me. Bread kept. Holding still.
+- Midday 1229: MacDonald (17) alone 3 blocks south, not within 2. Said he gets the 2 bread if he steps in and names himself. Bread kept.
+- Midday 1229 (later): MacDonald ate Leonardo's carrot and is back to 20 hunger, so my bread is not needed there. Sun low; holding at the chests in group sight. Bread kept.
+- Dusk 1229 (night): at the chests, health 20, hunger 20. Group staying in sight; no walk in the dark. Holding still, bread kept.
+- Midday 1230: at the chests, health 20, hunger 20. Trini (14) and Billy are walking with the group to the bed row at -944,73,-3058. I stay at the chests, no walk with a group I do not know. Tanya (18) has not named herself alone. Bread kept.
+- Afternoon 1230: at the chests, health 20, hunger 20. Tanya (18) is coming to Jason, not to me. Data (17) is 11 away and not named for food. Bread kept. Holding.
+- Morning 1230 (thunder): at the chests, health 20, hunger 20. Quiet, nobody near. Bread kept. Holding.
+- Dusk 1227: at the chests, health 20, hunger 20. Tanya (18), Chapman (19) and Troi are in the group, none alone within 2 blocks. Bread kept. Holding still through the night.
+- 14:47 act: {"say":"William at the chests, day 1227. I hold 2 bread. Whoever is hungry: stand alone within 2 blocks of me and say your name, and I will hand it over.","actions":[]}
+- 15:35 say: {"text":"Riker, midday 1229. MacDonald, you are the hungriest. Step within 2 blocks of me at the chests, alone, and say your name. The 2 bread is yours."}
